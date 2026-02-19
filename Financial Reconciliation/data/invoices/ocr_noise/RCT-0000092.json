@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000092",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000092",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.342,
+        0.496,
+        0.141,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "rceeipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.853,
+        0.005,
+        0.553,
+        0.341
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.349,
+        0.587,
+        0.367,
+        0.142
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jennifer Morrison",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.388,
+        0.02,
+        0.58,
+        0.784
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.334,
+        0.491,
+        0.538,
+        0.407
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.206,
+        0.202,
+        0.91,
+        0.073
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.637,
+        0.338,
+        0.189,
+        0.588
+      ],
+      "page": 1
+    },
+    {
+      "text": "42.97",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.536,
+        0.617,
+        0.68,
+        0.998
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-993251",
+      "field_hint": "po_number",
+      "bbox": [
+        0.441,
+        0.965,
+        0.736,
+        0.801
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET5",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.099,
+        0.278,
+        0.24,
+        0.872
+      ],
+      "page": 1
+    }
+  ]
+}

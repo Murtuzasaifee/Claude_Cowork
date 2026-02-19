@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000111",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000111",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.75,
+        0.496,
+        0.262,
+        0.616
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.873,
+        0.697,
+        0.274,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.47,
+        0.74,
+        0.897,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Madden",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.7,
+        0.595,
+        0.573,
+        0.547
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.003,
+        0.401,
+        0.833,
+        0.145
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.414,
+        0.848,
+        0.105,
+        0.226
+      ],
+      "page": 1
+    },
+    {
+      "text": "53.6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.947,
+        0.546,
+        0.616,
+        0.538
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-489244",
+      "field_hint": "po_number",
+      "bbox": [
+        0.975,
+        0.396,
+        0.619,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.312,
+        0.893,
+        0.09,
+        0.34
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized zero-defect budgetary management 5 x 4.44 = 22.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.66,
+        0.111,
+        0.614,
+        0.722
+      ],
+      "page": 2
+    },
+    {
+      "text": "Managed exuding utilization 1 x 13.78 = 12.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.781,
+        0.995,
+        0.246,
+        0.929
+      ],
+      "page": 2
+    }
+  ]
+}

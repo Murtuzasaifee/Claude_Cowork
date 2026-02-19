@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000165",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000165",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.959,
+        0.057,
+        0.532,
+        0.892
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.895,
+        0.08,
+        0.751,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.572,
+        0.729,
+        0.577,
+        0.421
+      ],
+      "page": 1
+    },
+    {
+      "text": "Natalie Kirk",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.998,
+        0.132,
+        0.407,
+        0.248
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.923,
+        0.363,
+        0.976,
+        0.138
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.301,
+        0.13,
+        0.486,
+        0.556
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.388,
+        0.401,
+        0.331,
+        0.813
+      ],
+      "page": 1
+    },
+    {
+      "text": "12.89",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.434,
+        0.008,
+        0.044,
+        0.731
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-356r622",
+      "field_hint": "po_number",
+      "bbox": [
+        0.837,
+        0.624,
+        0.588,
+        0.011
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.059,
+        0.741,
+        0.639,
+        0.143
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative didactic process improvement 1 x 23.07 = 23.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.339,
+        0.689,
+        0.767,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering attitude-oriented concept 1 x 5.87 = 5.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.367,
+        0.857,
+        0.574,
+        0.824
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse reciprocal open system 1 x 8.54 = 8.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.043,
+        0.863,
+        0.463,
+        0.917
+      ],
+      "page": 1
+    }
+  ]
+}

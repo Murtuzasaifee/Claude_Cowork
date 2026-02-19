@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000072",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000072",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.865,
+        0.137,
+        0.25,
+        0.083
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.528,
+        0.671,
+        0.657,
+        0.804
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.235,
+        0.317,
+        0.852,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jaime Rivers",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.989,
+        0.912,
+        0.833,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.899,
+        0.411,
+        0.995,
+        0.186
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.717,
+        0.779,
+        0.129,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.92,
+        0.744,
+        0.505,
+        0.971
+      ],
+      "page": 1
+    },
+    {
+      "text": "116.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.038,
+        0.151,
+        0.603,
+        0.529
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-414777",
+      "field_hint": "po_number",
+      "bbox": [
+        0.654,
+        0.833,
+        0.295,
+        0.832
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.021,
+        0.847,
+        0.473,
+        0.703
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized executive help-desk 1 x 4.19 = 3.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.096,
+        0.113,
+        0.29,
+        0.317
+      ],
+      "page": 2
+    },
+    {
+      "text": "Business-focused zero-defect middleware  1x 12.46 = 10.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.484,
+        0.732,
+        0.742,
+        0.366
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key multimedia knowledge user 1 x 10.67 = 9.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.153,
+        0.889,
+        0.14,
+        0.401
+      ],
+      "page": 2
+    },
+    {
+      "text": "Total transitional policy 6 x 4.14 = 22.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.936,
+        0.823,
+        0.11,
+        0.998
+      ],
+      "page": 1
+    },
+    {
+      "text": "Future-proofed ohesive paradigm 1 x 48.83 = 41.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.083,
+        0.126,
+        0.282,
+        0.8
+      ],
+      "page": 1
+    }
+  ]
+}

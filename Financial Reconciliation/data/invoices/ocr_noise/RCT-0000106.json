@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000106",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RT-0000106",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.264,
+        0.702,
+        0.548,
+        0.141
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.381,
+        0.605,
+        0.637,
+        0.965
+      ],
+      "page": 1
+    },
+    {
+      "text": "Christina Castaneda",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.032,
+        0.062,
+        0.067,
+        0.085
+      ],
+      "page": 1
+    },
+    {
+      "text": "026-02-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.642,
+        0.223,
+        0.488,
+        0.247
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.068,
+        0.98,
+        0.579,
+        0.17
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.74,
+        0.709,
+        0.6,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "164.17",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.437,
+        0.895,
+        0.898,
+        0.702
+      ],
+      "page": 1
+    },
+    {
+      "text": "OP-408467",
+      "field_hint": "po_number",
+      "bbox": [
+        0.34,
+        0.499,
+        0.575,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.832,
+        0.39,
+        0.435,
+        0.469
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly methodical circuit 1 x .2 = 7.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.218,
+        0.273,
+        0.673,
+        0.103
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented reciprocal system engine 2 x 3.93 = 6.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.23,
+        0.056,
+        0.236,
+        0.973
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fundamental 24/7 help-desk 2 x 2.93 = 4.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.531,
+        0.767,
+        0.633,
+        0.619
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable global hierarnchy 5 x 8.71 = 37.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.357,
+        0.677,
+        0.907,
+        0.393
+      ],
+      "page": 1
+    },
+    {
+      "text": "Self-neabling systematic architecture 1 x 3.52 = 2.99",
+      "field_hint": "line_item",
+      "bbox": [
+        0.057,
+        0.5,
+        0.13,
+        0.165
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded static data-warehouse 1 x 7.51 = 7.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.286,
+        0.104,
+        0.023,
+        0.785
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary cohesive alliance 1 x 12.22 = 11.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.502,
+        0.983,
+        0.607,
+        0.234
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral mobile array 5 x 14.53 = 65.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.801,
+        0.641,
+        0.471,
+        0.453
+      ],
+      "page": 2
+    }
+  ]
+}

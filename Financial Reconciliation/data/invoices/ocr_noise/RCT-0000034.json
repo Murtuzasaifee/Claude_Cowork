@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000034",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000034",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.118,
+        0.544,
+        0.067,
+        0.889
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.131,
+        0.609,
+        0.893,
+        0.368
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.768,
+        0.661,
+        0.364,
+        0.879
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.407,
+        0.321,
+        0.496,
+        0.607
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-011-9",
+      "field_hint": "due_date",
+      "bbox": [
+        0.989,
+        0.797,
+        0.223,
+        0.709
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.972,
+        0.442,
+        0.25,
+        0.767
+      ],
+      "page": 1
+    },
+    {
+      "text": "80.35",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.549,
+        0.979,
+        0.849,
+        0.968
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-884417",
+      "field_hint": "po_number",
+      "bbox": [
+        0.039,
+        0.757,
+        0.878,
+        0.659
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUEO_N_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.379,
+        0.522,
+        0.777,
+        0.061
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded 24hour adapter 4 x14.67 = 52.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.681,
+        0.07,
+        0.672,
+        0.636
+      ],
+      "page": 2
+    },
+    {
+      "text": "Fundamental upward-trending conglomeration 4 x 42.03 = 168.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.007,
+        0.988,
+        0.496,
+        0.39
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable scalable installation 1 x 9.46 = 8.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.731,
+        0.572,
+        0.755,
+        0.479
+      ],
+      "page": 2
+    },
+    {
+      "text": "Switchable heuristic contingency 3 x 14.82 =44.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.394,
+        0.049,
+        0.783,
+        0.849
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized methodical initiative 1 x 11.16 = 11.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.541,
+        0.519,
+        0.353,
+        0.829
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enterprise-wide object-oriented function 7 x 5.36 = 37.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.943,
+        0.861,
+        0.512,
+        0.513
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered zero tolerance hub 1 x 14.57 = 14.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.776,
+        0.969,
+        0.467,
+        0.697
+      ],
+      "page": 1
+    }
+  ]
+}

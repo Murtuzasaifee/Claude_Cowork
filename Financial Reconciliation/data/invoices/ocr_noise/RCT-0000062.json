@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000062",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000062",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.31,
+        0.472,
+        0.859,
+        0.256
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.385,
+        0.86,
+        0.982,
+        0.353
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andre Gray",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.962,
+        0.139,
+        0.855,
+        0.55
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.181,
+        0.687,
+        0.539,
+        0.121
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.856,
+        0.415,
+        0.958,
+        0.165
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.44,
+        0.427,
+        0.708,
+        0.215
+      ],
+      "page": 1
+    },
+    {
+      "text": "22.81",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.906,
+        0.722,
+        0.36,
+        0.586
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-121215",
+      "field_hint": "po_number",
+      "bbox": [
+        0.662,
+        0.037,
+        0.402,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.543,
+        0.989,
+        0.095,
+        0.202
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic value-added middleware 1 x 19.05 = 16.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.998,
+        0.521,
+        0.727,
+        0.578
+      ],
+      "page": 2
+    }
+  ]
+}

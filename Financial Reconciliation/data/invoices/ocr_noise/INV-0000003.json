@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000003",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-000000",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.367,
+        0.013,
+        0.674,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.677,
+        0.119,
+        0.395,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.892,
+        0.169,
+        0.364,
+        0.199
+      ],
+      "page": 1
+    },
+    {
+      "text": "Anthony Cox",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.404,
+        0.233,
+        0.425,
+        0.499
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.594,
+        0.756,
+        0.801,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.95,
+        0.988,
+        0.511,
+        0.147
+      ],
+      "page": 1
+    },
+    {
+      "text": "ER",
+      "field_hint": "currency",
+      "bbox": [
+        0.231,
+        0.942,
+        0.03,
+        0.738
+      ],
+      "page": 1
+    },
+    {
+      "text": "105.37",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.027,
+        0.179,
+        0.605,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-500156",
+      "field_hint": "po_number",
+      "bbox": [
+        0.76,
+        0.661,
+        0.52,
+        0.492
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.498,
+        0.505,
+        0.542,
+        0.809
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable fault-tolerant dfeinition 1 x 23.69 = 23.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.88,
+        0.119,
+        0.45,
+        0.853
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic value-added moratorium 1 x 9.03 = 39.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.779,
+        0.885,
+        0.164,
+        0.431
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered background budgetary management 1 x 7.25 = 7.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.109,
+        0.675,
+        0.66,
+        0.685
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-contextualized bandwidth-monitored projection 1 x 7.84 = 7.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.156,
+        0.056,
+        0.263,
+        0.591
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile well-modulated emulation 1 x 18.51 = 15.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.978,
+        0.32,
+        0.028,
+        0.045
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic optimizing matrices 1 x 13.27 = 13.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.027,
+        0.891,
+        0.341,
+        0.097
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated incremental toolset 1 x 8.49 = 7.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.056,
+        0.244,
+        0.235,
+        0.312
+      ],
+      "page": 1
+    },
+    {
+      "text": "Custome-focused scalable data-warehouse 1 x 8.0 = 7.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.338,
+        0.02,
+        0.326,
+        0.461
+      ],
+      "page": 1
+    }
+  ]
+}

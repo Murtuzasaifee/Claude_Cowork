@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000064",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000064",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.025,
+        0.543,
+        0.095,
+        0.975
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.873,
+        0.307,
+        0.436,
+        0.984
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.505,
+        0.398,
+        0.941,
+        0.999
+      ],
+      "page": 1
+    },
+    {
+      "text": "Katherine Thomas",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.222,
+        0.017,
+        0.733,
+        0.354
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-d23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.8,
+        0.363,
+        0.23,
+        0.947
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.1,
+        0.166,
+        0.634,
+        0.618
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.152,
+        0.942,
+        0.61,
+        0.858
+      ],
+      "page": 1
+    },
+    {
+      "text": "37.13",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.949,
+        0.296,
+        0.901,
+        0.972
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-960408",
+      "field_hint": "po_number",
+      "bbox": [
+        0.136,
+        0.938,
+        0.0,
+        0.251
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.923,
+        0.613,
+        0.959,
+        0.059
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced contexutally-based array 1 x 8.84 = 8.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.391,
+        0.159,
+        0.419,
+        0.591
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergisic regional toolset 1 x 7.86 = 7.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.893,
+        0.123,
+        0.74,
+        0.944
+      ],
+      "page": 1
+    }
+  ]
+}

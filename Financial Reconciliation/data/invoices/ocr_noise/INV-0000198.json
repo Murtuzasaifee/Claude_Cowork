@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000198",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000198",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.26,
+        0.363,
+        0.606,
+        0.142
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.823,
+        0.6,
+        0.454,
+        0.499
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.684,
+        0.116,
+        0.755,
+        0.501
+      ],
+      "page": 1
+    },
+    {
+      "text": "Katlyn Simmons",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.585,
+        0.401,
+        0.134,
+        0.402
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.441,
+        0.219,
+        0.025,
+        0.363
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-E19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.747,
+        0.823,
+        0.047,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.717,
+        0.955,
+        0.667,
+        0.961
+      ],
+      "page": 1
+    },
+    {
+      "text": "159.01",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.886,
+        0.176,
+        0.424,
+        0.728
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET0",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.779,
+        0.684,
+        0.174,
+        0.671
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent 5thgeneration framework 4 x 5.19 = 17.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.227,
+        0.601,
+        0.99,
+        0.737
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused upward-trending matrices 2 x 13.23 = 26.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.479,
+        0.842,
+        0.388,
+        0.377
+      ],
+      "page": 2
+    },
+    {
+      "text": "Versatile motivating instruction set 3 x 21.84 = 58.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.483,
+        0.022,
+        0.377,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable dedicated moratorium 1 x 8.31 = 7.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.683,
+        0.921,
+        0.228,
+        0.729
+      ],
+      "page": 2
+    }
+  ]
+}

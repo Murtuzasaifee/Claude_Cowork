@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000053",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000053",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.9,
+        0.898,
+        0.169,
+        0.986
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.014,
+        0.664,
+        0.416,
+        0.668
+      ],
+      "page": 1
+    },
+    {
+      "text": "TaylUor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.267,
+        0.173,
+        0.045,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "Timothy Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.635,
+        0.842,
+        0.941,
+        0.311
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-1",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.836,
+        0.086,
+        0.93,
+        0.088
+      ],
+      "page": 1
+    },
+    {
+      "text": "2062-04-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.318,
+        0.627,
+        0.02,
+        0.169
+      ],
+      "page": 1
+    },
+    {
+      "text": "114.19",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.877,
+        0.943,
+        0.308,
+        0.681
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-420214",
+      "field_hint": "po_number",
+      "bbox": [
+        0.747,
+        0.738,
+        0.31,
+        0.379
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.565,
+        0.414,
+        0.835,
+        0.273
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergized neutral hub 1 x 24.99 = 22.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.259,
+        0.44,
+        0.092,
+        0.355
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering disintermediate interface 1 x 13.68 = 13.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.45,
+        0.631,
+        0.832,
+        0.037
+      ],
+      "page": 2
+    },
+    {
+      "text": "Programmable needs-based encoding 1 x 34.55 = 32.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.211,
+        0.702,
+        0.347,
+        0.811
+      ],
+      "page": 1
+    },
+    {
+      "text": "Total modular approach 1 x 22.52 = 21.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.504,
+        0.83,
+        0.794,
+        0.091
+      ],
+      "page": 1
+    }
+  ]
+}

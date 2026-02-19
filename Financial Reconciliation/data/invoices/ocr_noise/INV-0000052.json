@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000052",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000052",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.284,
+        0.912,
+        0.426,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.934,
+        0.561,
+        0.642,
+        0.203
+      ],
+      "page": 1
+    },
+    {
+      "text": "BeckM-orton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.178,
+        0.564,
+        0.127,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paula Robinson DVM",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.576,
+        0.853,
+        0.605,
+        0.967
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.909,
+        0.209,
+        0.003,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.615,
+        0.143,
+        0.475,
+        0.0
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.137,
+        0.807,
+        0.425,
+        0.472
+      ],
+      "page": 1
+    },
+    {
+      "text": "221.44",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.241,
+        0.393,
+        0.774,
+        0.706
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-950544",
+      "field_hint": "po_number",
+      "bbox": [
+        0.317,
+        0.078,
+        0.605,
+        0.214
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.278,
+        0.143,
+        0.437,
+        0.442
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced multimedia product 3 x 9.79 = 29.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.12,
+        0.9,
+        0.652,
+        0.178
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized mobile methodology 1 x 3.98 = 3.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.346,
+        0.424,
+        0.617,
+        0.876
+      ],
+      "page": 1
+    },
+    {
+      "text": "mDevolved client-server instruction set 6 x 4.67 = 26.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.442,
+        0.526,
+        0.006,
+        0.31
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergized 3rdgeneration portal 2 x 17.72 = 33.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.503,
+        0.013,
+        0.273,
+        0.647
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized 3rdgeneration time-frame 1 x 6.82 = q6.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.274,
+        0.057,
+        0.572,
+        0.03
+      ],
+      "page": 2
+    },
+    {
+      "text": "Horizontal impactful process improvement 2 x 9.85 = 17.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.632,
+        0.49,
+        0.473,
+        0.875
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized dynamic algorithm 1 x 13.2 = 1.122",
+      "field_hint": "line_item",
+      "bbox": [
+        0.894,
+        0.153,
+        0.736,
+        0.871
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused regional encoding 3 x 36.09 = 92.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.119,
+        0.443,
+        0.711,
+        0.314
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000125",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000125",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.366,
+        0.483,
+        0.761,
+        0.587
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.363,
+        0.866,
+        0.201,
+        0.877
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.067,
+        0.979,
+        0.454,
+        0.198
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michele Hall",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.868,
+        0.53,
+        0.02,
+        0.066
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.16,
+        0.197,
+        0.269,
+        0.763
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.077,
+        0.149,
+        0.7,
+        0.916
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.812,
+        0.128,
+        0.675,
+        0.262
+      ],
+      "page": 1
+    },
+    {
+      "text": "149.81",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.741,
+        0.51,
+        0.98,
+        0.002
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-893988",
+      "field_hint": "po_number",
+      "bbox": [
+        0.168,
+        0.721,
+        0.072,
+        0.558
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.556,
+        0.88,
+        0.658,
+        0.246
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused static product 2 x 14.19 = 25.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.554,
+        0.764,
+        0.865,
+        0.727
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reactive intermediate open system 1 x 21.09 = 18.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.894,
+        0.515,
+        0.488,
+        0.926
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed web-enabled hierarchy 2 x 5.2 = 10.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.542,
+        0.593,
+        0.873,
+        0.33
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-centric interactive superstructure 1 x 7.84 = 7.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.547,
+        0.268,
+        0.193,
+        0.283
+      ],
+      "page": 1
+    },
+    {
+      "text": "Total fSresh-thinking standardization 1 x 6.02 = 6.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.722,
+        0.048,
+        0.377,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable content-based knowledge user 1 x 22.1 = 18.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.721,
+        0.657,
+        0.81,
+        0.591
+      ],
+      "page": 1
+    }
+  ]
+}

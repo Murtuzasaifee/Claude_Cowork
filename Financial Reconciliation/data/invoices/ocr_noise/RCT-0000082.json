@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000082",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000082",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.01,
+        0.854,
+        0.734,
+        0.252
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.922,
+        0.142,
+        0.237,
+        0.134
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.502,
+        0.81,
+        0.868,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Chrisntina Castaneda",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.633,
+        0.545,
+        0.14,
+        0.08
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.526,
+        0.622,
+        0.725,
+        0.75
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.675,
+        0.742,
+        0.852,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.071,
+        0.161,
+        0.749,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "32.08",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.498,
+        0.817,
+        0.07,
+        0.306
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-498724",
+      "field_hint": "po_number",
+      "bbox": [
+        0.991,
+        0.105,
+        0.016,
+        0.535
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.054,
+        0.432,
+        0.767,
+        0.781
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined solution-oriented standardization 1 x 25.98 = 22.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.831,
+        0.027,
+        0.814,
+        0.533
+      ],
+      "page": 2
+    }
+  ]
+}

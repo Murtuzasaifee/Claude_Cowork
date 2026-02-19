@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000118",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000118",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.891,
+        0.931,
+        0.503,
+        0.547
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.228,
+        0.921,
+        0.798,
+        0.631
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.138,
+        0.047,
+        0.334,
+        0.446
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jody Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.05,
+        0.36,
+        0.62,
+        0.352
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.206,
+        0.183,
+        0.825,
+        0.594
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.766,
+        0.107,
+        0.493,
+        0.7
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.6,
+        0.889,
+        0.1,
+        0.083
+      ],
+      "page": 1
+    },
+    {
+      "text": "41.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.941,
+        0.095,
+        0.986,
+        0.019
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-166165",
+      "field_hint": "po_number",
+      "bbox": [
+        0.942,
+        0.682,
+        0.054,
+        0.703
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET1x4",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.919,
+        0.315,
+        0.92,
+        0.268
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-layered zero tolerance collaboration 1 x 10.79 = 9.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.998,
+        0.893,
+        0.667,
+        0.182
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic local model 1 x 7.53 = 7.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.357,
+        0.962,
+        0.011,
+        0.86
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mandatory value-addedd atabase 1 x 24.94 = 21.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.215,
+        0.719,
+        0.183,
+        0.879
+      ],
+      "page": 2
+    }
+  ]
+}

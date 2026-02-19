@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000190",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000190",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.282,
+        0.138,
+        0.674,
+        0.682
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.624,
+        0.957,
+        0.182,
+        0.838
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.244,
+        0.624,
+        0.013,
+        0.021
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ellen Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.243,
+        0.05,
+        0.114,
+        0.493
+      ],
+      "page": 1
+    },
+    {
+      "text": "025-12-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.745,
+        0.096,
+        0.069,
+        0.709
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.031,
+        0.033,
+        0.401,
+        0.561
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.845,
+        0.91,
+        0.598,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "176.88",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.319,
+        0.508,
+        0.714,
+        0.358
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-128223",
+      "field_hint": "po_number",
+      "bbox": [
+        0.108,
+        0.57,
+        0.472,
+        0.091
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.896,
+        0.505,
+        0.413,
+        0.634
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable systematic benchmark 4 x 13.08 = 52.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.24,
+        0.156,
+        0.877,
+        0.092
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable didactic challenge 1 x 5.52 = 5.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.408,
+        0.365,
+        0.779,
+        0.142
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused intangible array 1 x 14.48 = 14.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.889,
+        0.902,
+        0.989,
+        0.498
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable bifurcated definition 1 x 12.95 =1 2.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.881,
+        0.675,
+        0.141,
+        0.546
+      ],
+      "page": 2
+    },
+    {
+      "text": "Advanced asynchronous knowledge user 1 x 7.98 = 7.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.79,
+        0.32,
+        0.589,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "Right-sized hybrid function 2 x 5.6 = 10.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.496,
+        0.115,
+        0.954,
+        0.203
+      ],
+      "page": 1
+    }
+  ]
+}

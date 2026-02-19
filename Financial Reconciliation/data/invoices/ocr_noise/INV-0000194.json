@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000194",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-00001s94",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.244,
+        0.773,
+        0.65,
+        0.771
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.829,
+        0.252,
+        0.244,
+        0.975
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.337,
+        0.536,
+        0.356,
+        0.763
+      ],
+      "page": 1
+    },
+    {
+      "text": "Amanda Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.06,
+        0.995,
+        0.032,
+        0.175
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.733,
+        0.008,
+        0.458,
+        0.28
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.758,
+        0.567,
+        0.697,
+        0.447
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.142,
+        0.972,
+        0.315,
+        0.635
+      ],
+      "page": 1
+    },
+    {
+      "text": "132.98",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.969,
+        0.005,
+        0.562,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-427040",
+      "field_hint": "po_number",
+      "bbox": [
+        0.993,
+        0.11,
+        0.038,
+        0.133
+      ],
+      "page": 1
+    },
+    {
+      "text": "ET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.658,
+        0.959,
+        0.094,
+        0.21
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced composite forecast 3 x 7.74 =23.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.265,
+        0.684,
+        0.672,
+        0.233
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic value-added strategy 3 x 11.69 = 33.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.832,
+        0.331,
+        0.079,
+        0.722
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary well-modulated pricing structure 1 x 7.42 = 7.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.353,
+        0.029,
+        0.994,
+        0.167
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic intangible conglomeration 1 x 8.52 = 8.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.264,
+        0.551,
+        0.84,
+        0.38
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized needs-based encoding 2 x 4.43 = 8.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.692,
+        0.524,
+        0.496,
+        0.529
+      ],
+      "page": 2
+    },
+    {
+      "text": "Ergonomic local portal 4 x 13.02 = 52.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.293,
+        0.955,
+        0.26,
+        0.757
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000154",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000154",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.426,
+        0.449,
+        0.766,
+        0.026
+      ],
+      "page": 1
+    },
+    {
+      "text": "invouice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.875,
+        0.27,
+        0.191,
+        0.705
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.86,
+        0.355,
+        0.318,
+        0.271
+      ],
+      "page": 1
+    },
+    {
+      "text": "Frank Reedg",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.3,
+        0.666,
+        0.049,
+        0.851
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.638,
+        0.261,
+        0.605,
+        0.127
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.131,
+        0.971,
+        0.502,
+        0.236
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.675,
+        0.7,
+        0.54,
+        0.109
+      ],
+      "page": 1
+    },
+    {
+      "text": "229.79",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.007,
+        0.772,
+        0.483,
+        0.041
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-443856",
+      "field_hint": "po_number",
+      "bbox": [
+        0.575,
+        0.962,
+        0.881,
+        0.758
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.43,
+        0.095,
+        0.873,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source composite ability 1 x 9.83 = 8.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.543,
+        0.29,
+        0.433,
+        0.057
+      ],
+      "page": 2
+    },
+    {
+      "text": "Streamlined multi-state concept 2 x 8.38 = 14.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.784,
+        0.735,
+        0.53,
+        0.83
+      ],
+      "page": 2
+    },
+    {
+      "text": "Stand-alone holistic interface 1 x 4.55 = 4.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.699,
+        0.711,
+        0.478,
+        0.405
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused upward-trending Graphic Interface 3 x 21.03 = 56.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.125,
+        0.585,
+        0.168,
+        0.305
+      ],
+      "page": 1
+    }
+  ]
+}

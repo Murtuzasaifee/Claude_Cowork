@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000129",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000129",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.379,
+        0.831,
+        0.292,
+        0.96
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.679,
+        0.57,
+        0.708,
+        0.554
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.794,
+        0.02,
+        0.55,
+        0.645
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.596,
+        0.395,
+        0.32,
+        0.322
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.253,
+        0.583,
+        0.755,
+        0.043
+      ],
+      "page": 1
+    },
+    {
+      "text": "151.58",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.632,
+        0.785,
+        0.991,
+        0.014
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-32791",
+      "field_hint": "po_number",
+      "bbox": [
+        0.515,
+        0.484,
+        0.183,
+        0.157
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.9,
+        0.293,
+        0.976,
+        0.692
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable tertiary toolset 1 x 17.19 = 16.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.704,
+        0.129,
+        0.297,
+        0.516
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated intermediate data-warehouse 1 x 5.13 = 5.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.457,
+        0.586,
+        0.155,
+        0.332
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual incremental website 4 x 27.53 = 110.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.256,
+        0.759,
+        0.235,
+        0.232
+      ],
+      "page": 1
+    }
+  ]
+}

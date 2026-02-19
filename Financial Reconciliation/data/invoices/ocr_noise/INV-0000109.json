@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000109",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000109",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.172,
+        0.089,
+        0.055,
+        0.158
+      ],
+      "page": 1
+    },
+    {
+      "text": "invogice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.85,
+        0.902,
+        0.546,
+        0.973
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.702,
+        0.615,
+        0.513,
+        0.504
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jacob Hardy",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.901,
+        0.897,
+        0.084,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.588,
+        0.29,
+        0.661,
+        0.031
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR5",
+      "field_hint": "currency",
+      "bbox": [
+        0.26,
+        0.535,
+        0.161,
+        0.12
+      ],
+      "page": 1
+    },
+    {
+      "text": "78.99",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.522,
+        0.737,
+        0.233,
+        0.983
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-530816",
+      "field_hint": "po_number",
+      "bbox": [
+        0.933,
+        0.539,
+        0.062,
+        0.026
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.32,
+        0.667,
+        0.829,
+        0.18
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced heuristic info-mediaries 1 x 21.59 = 21.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.3,
+        0.403,
+        0.765,
+        0.668
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive multi-tasking encryption 7 x 4.29 = 25.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.817,
+        0.27,
+        0.165,
+        0.67
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized zero-defect circLuit 1 x 20.64 = 18.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.943,
+        0.67,
+        0.848,
+        0.665
+      ],
+      "page": 1
+    }
+  ]
+}

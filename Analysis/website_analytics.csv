@@ -1,0 +1,31 @@
+Date,Traffic_Source,Campaign_Name,Visitors,Unique_Visitors,Page_Views,Avg_Session_Duration_Min,Bounce_Rate_Percent,New_Visitors_Percent,Returning_Visitors_Percent,Sign_Ups,Trial_Starts,Conversions,Revenue,Cost_Per_Click,Ad_Spend,ROI_Percent,Device_Type,Country,Landing_Page
+2024-01-01,Organic Search,N/A,4523,3842,18945,4.2,42.3,68,32,145,89,34,51000,0,0,0,Desktop,USA,/home
+2024-01-01,Paid Search,Google Ads Q1,2341,2156,9845,3.8,48.5,82,18,98,67,28,42000,2.45,5734,632,Mobile,USA,/pricing
+2024-01-01,Social Media,Facebook Campaign,1876,1654,7234,2.9,55.2,75,25,67,45,18,27000,1.85,3471,678,Mobile,USA,/features
+2024-01-01,Direct,N/A,3421,2987,15234,5.1,35.6,45,55,178,124,56,84000,0,0,0,Desktop,USA,/home
+2024-01-01,Email,Newsletter Jan,987,945,4523,6.2,28.4,15,85,89,76,38,57000,0,0,0,Desktop,USA,/dashboard
+2024-01-02,Organic Search,N/A,4687,3976,19456,4.3,41.8,67,33,152,94,36,54000,0,0,0,Desktop,USA,/home
+2024-01-02,Paid Search,Google Ads Q1,2456,2267,10234,3.9,47.9,83,17,104,71,30,45000,2.48,6093,639,Mobile,USA,/pricing
+2024-01-02,Social Media,LinkedIn Campaign,1234,1098,5234,3.4,52.1,78,22,56,38,16,24000,3.12,3851,523,Desktop,USA,/enterprise
+2024-01-02,Referral,Partner Sites,876,798,3876,4.8,38.9,70,30,45,32,15,22500,0,0,0,Desktop,Canada,/home
+2024-01-02,Display Ads,Banner Campaign,1567,1423,6789,2.6,58.3,88,12,43,28,11,16500,1.95,3056,440,Mobile,UK,/features
+2024-01-03,Organic Search,N/A,4812,4089,20123,4.4,41.2,66,34,158,98,38,57000,0,0,0,Desktop,USA,/home
+2024-01-03,Paid Search,Google Ads Q1,2578,2384,10876,4.0,47.2,81,19,109,75,32,48000,2.51,6471,642,Mobile,USA,/pricing
+2024-01-03,Social Media,Twitter Campaign,1456,1287,6123,3.1,54.6,76,24,62,42,19,28500,2.34,3407,736,Mobile,USA,/features
+2024-01-03,Direct,N/A,3567,3123,15876,5.2,35.1,44,56,186,130,59,88500,0,0,0,Desktop,USA,/home
+2024-01-03,Email,Product Update,1123,1076,5234,6.4,27.8,12,88,98,84,42,63000,0,0,0,Desktop,USA,/features
+2024-01-04,Organic Search,N/A,4923,4187,20567,4.5,40.9,65,35,162,101,39,58500,0,0,0,Desktop,USA,/home
+2024-01-04,Paid Search,Bing Ads Q1,1876,1723,8234,3.7,49.1,84,16,78,54,23,34500,2.67,5008,589,Mobile,USA,/pricing
+2024-01-04,Social Media,Instagram Campaign,1987,1756,8456,2.8,56.3,79,21,71,48,20,30000,2.12,4212,612,Mobile,USA,/features
+2024-01-04,Referral,Tech Blogs,1234,1123,5456,5.3,36.7,72,28,67,48,22,33000,0,0,0,Desktop,UK,/blog
+2024-01-04,Video Ads,YouTube Campaign,2134,1945,9234,3.2,53.8,85,15,89,62,26,39000,2.89,6167,532,Mobile,USA,/demo
+2024-01-05,Organic Search,N/A,5012,4256,20987,4.6,40.5,64,36,167,104,41,61500,0,0,0,Desktop,USA,/home
+2024-01-05,Paid Search,Google Ads Q1,2687,2489,11234,4.1,46.8,82,18,114,78,33,49500,2.53,6799,628,Mobile,USA,/pricing
+2024-01-05,Social Media,Facebook Campaign,2123,1876,8987,2.9,55.8,77,23,76,51,21,31500,1.88,3993,689,Mobile,USA,/features
+2024-01-05,Direct,N/A,3689,3234,16234,5.3,34.8,43,57,192,135,61,91500,0,0,0,Desktop,USA,/home
+2024-01-05,Email,Feature Announcement,1289,1234,6012,6.5,27.2,10,90,106,91,45,67500,0,0,0,Desktop,USA,/features
+2024-01-06,Organic Search,N/A,3876,3287,16234,4.1,43.2,69,31,132,81,29,43500,0,0,0,Desktop,USA,/home
+2024-01-06,Paid Search,Weekend Special,1567,1445,6987,3.6,50.3,86,14,67,46,19,28500,2.71,4247,571,Mobile,USA,/pricing
+2024-01-06,Social Media,LinkedIn Campaign,987,876,4234,3.3,53.7,80,20,42,29,12,18000,3.15,3109,479,Desktop,USA,/enterprise
+2024-01-06,Direct,N/A,2987,2612,12876,5.0,36.4,46,54,156,109,49,73500,0,0,0,Desktop,USA,/home
+2024-01-06,Affiliate,Partner Network,678,623,2987,4.7,39.8,73,27,34,24,11,16500,0,0,0,Desktop,Germany,/home

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000086",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000086",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.154,
+        0.473,
+        0.031,
+        0.938
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.879,
+        0.492,
+        0.958,
+        0.588
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.286,
+        0.611,
+        0.165,
+        0.159
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sergio Griffin",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.083,
+        0.082,
+        0.796,
+        0.008
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.092,
+        0.97,
+        0.808,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "0226-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.133,
+        0.984,
+        0.367,
+        0.686
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.572,
+        0.04,
+        0.893,
+        0.33
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-437758",
+      "field_hint": "po_number",
+      "bbox": [
+        0.614,
+        0.821,
+        0.192,
+        0.17
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.108,
+        0.593,
+        0.615,
+        0.526
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key bifurcated hierarchy 1 x 10.38 = 9.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.065,
+        0.606,
+        0.26,
+        0.643
+      ],
+      "page": 2
+    },
+    {
+      "text": "Customizable context-sensitive matrices 2 x 14.36 = 24.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.224,
+        0.284,
+        0.393,
+        0.339
+      ],
+      "page": 1
+    }
+  ]
+}

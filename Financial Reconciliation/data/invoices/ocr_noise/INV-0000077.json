@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000077",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000077",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.388,
+        0.835,
+        0.754,
+        0.256
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.393,
+        0.65,
+        0.452,
+        0.446
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.77,
+        0.205,
+        0.113,
+        0.387
+      ],
+      "page": 1
+    },
+    {
+      "text": "Larry Norman",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.206,
+        0.76,
+        0.736,
+        0.299
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.593,
+        0.303,
+        0.464,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.844,
+        0.217,
+        0.024,
+        0.012
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.206,
+        0.947,
+        0.389,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "268.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.165,
+        0.492,
+        0.561,
+        0.285
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-114594",
+      "field_hint": "po_number",
+      "bbox": [
+        0.249,
+        0.616,
+        0.884,
+        0.853
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.947,
+        0.93,
+        0.303,
+        0.381
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless disintermediat ecollaboration 2 x 3.89 = 7.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.215,
+        0.191,
+        0.423,
+        0.876
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible tertiary alliance 1 x 14.83 = 14.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.297,
+        0.035,
+        0.12,
+        0.142
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative attitude-oriented standardization 1 x 13.73 = 13.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.801,
+        0.205,
+        0.919,
+        0.744
+      ],
+      "page": 2
+    },
+    {
+      "text": "Optional system-worthy budgetary management 1 x 21.87 = 18.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.932,
+        0.175,
+        0.113,
+        0.725
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-architected human-resource analyzer 1 x 13.82 = 11.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.557,
+        0.27,
+        0.703,
+        0.48
+      ],
+      "page": 2
+    },
+    {
+      "text": "Team-oriented attitude-oriented knowledgebase 1 x 77.52 = 65.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.398,
+        0.377,
+        0.037,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse exuding Local Area Network 1 x 42.42 = 40.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.577,
+        0.044,
+        0.063,
+        0.77
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned object-oriented policy 5 x 18.42 = 82.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.203,
+        0.267,
+        0.671,
+        0.963
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000176",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000176",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.335,
+        0.064,
+        0.722,
+        0.208
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.779,
+        0.925,
+        0.256,
+        0.549
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-KOdonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.001,
+        0.469,
+        0.241,
+        0.233
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Wagner",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.378,
+        0.739,
+        0.084,
+        0.687
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.149,
+        0.093,
+        0.261,
+        0.782
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.59,
+        0.317,
+        0.064,
+        0.875
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-630299",
+      "field_hint": "po_number",
+      "bbox": [
+        0.496,
+        0.435,
+        0.095,
+        0.194
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.502,
+        0.06,
+        0.723,
+        0.536
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused holistic function 1  x15.07 = 12.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.084,
+        0.092,
+        0.065,
+        0.229
+      ],
+      "page": 1
+    },
+    {
+      "text": "iVsionary bi-directional framework 3 x 14.67 = 44.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.486,
+        0.549,
+        0.549,
+        0.097
+      ],
+      "page": 2
+    },
+    {
+      "text": "Quality-focused homogeneous knowledgebase 5 x 21.9 = 109.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.32,
+        0.301,
+        0.331,
+        0.454
+      ],
+      "page": 1
+    }
+  ]
+}

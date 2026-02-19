@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000084",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000084",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.246,
+        0.175,
+        0.11,
+        0.248
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.067,
+        0.377,
+        0.001,
+        0.461
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.395,
+        0.541,
+        0.404,
+        0.525
+      ],
+      "page": 1
+    },
+    {
+      "text": "Barry Kirby",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.354,
+        0.606,
+        0.718,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.408,
+        0.503,
+        0.5,
+        0.805
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.368,
+        0.298,
+        0.604,
+        0.412
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.315,
+        0.199,
+        0.016,
+        0.436
+      ],
+      "page": 1
+    },
+    {
+      "text": "34.56i",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.649,
+        0.302,
+        0.244,
+        0.016
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-877747",
+      "field_hint": "po_number",
+      "bbox": [
+        0.487,
+        0.466,
+        0.465,
+        0.882
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.051,
+        0.948,
+        0.897,
+        0.923
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused system-worthy sytem engine 3 x 10.97 = 32.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.887,
+        0.872,
+        0.078,
+        0.294
+      ],
+      "page": 2
+    }
+  ]
+}

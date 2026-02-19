@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000044",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000044",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.204,
+        0.81,
+        0.893,
+        0.36
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.072,
+        0.185,
+        0.73,
+        0.911
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.832,
+        0.57,
+        0.474,
+        0.352
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jody Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.138,
+        0.067,
+        0.428,
+        0.376
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026g-01-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.118,
+        0.231,
+        0.601,
+        0.331
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.922,
+        0.251,
+        0.703,
+        0.068
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.075,
+        0.575,
+        0.853,
+        0.932
+      ],
+      "page": 1
+    },
+    {
+      "text": "255.03",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.057,
+        0.698,
+        0.111,
+        0.471
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-479781",
+      "field_hint": "po_number",
+      "bbox": [
+        0.03,
+        0.338,
+        0.261,
+        0.335
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45v",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.924,
+        0.663,
+        0.878,
+        0.236
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed foreground middleware 1 x 31.52 = 31.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.904,
+        0.703,
+        0.766,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered context-sensitive emulation 1 x 9.0 = 8.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.612,
+        0.081,
+        0.551,
+        0.947
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse 6thgeneration instructio set 3 x 14.05 = 35.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.225,
+        0.35,
+        0.478,
+        0.782
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory 4thgeneration Internet solution 5 x 8.72 = 43.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.811,
+        0.534,
+        0.86,
+        0.682
+      ],
+      "page": 2
+    }
+  ]
+}

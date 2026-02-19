@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000035",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000035",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.67,
+        0.259,
+        0.831,
+        0.092
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.753,
+        0.165,
+        0.349,
+        0.419
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.161,
+        0.697,
+        0.355,
+        0.693
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fraenk Reed",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.723,
+        0.578,
+        0.145,
+        0.664
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.825,
+        0.733,
+        0.014,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.316,
+        0.792,
+        0.674,
+        0.263
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.943,
+        0.857,
+        0.634,
+        0.639
+      ],
+      "page": 1
+    },
+    {
+      "text": "3A21.85",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.696,
+        0.774,
+        0.601,
+        0.216
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-1673489",
+      "field_hint": "po_number",
+      "bbox": [
+        0.014,
+        0.814,
+        0.016,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.699,
+        0.649,
+        0.456,
+        0.41
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled reciprocal groupware 1 x 12.69 = 12.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.523,
+        0.765,
+        0.113,
+        0.176
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral bandwidth-monitored flexibility 3 x 63.03 = 170.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.163,
+        0.436,
+        0.285,
+        0.66
+      ],
+      "page": 2
+    },
+    {
+      "text": "Virtual 6thgeneration portal 2 x 10.57 = 21.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.62,
+        0.925,
+        0.857,
+        0.995
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secure upward-trending emulation 1 x 12.71 = 12.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.496,
+        0.752,
+        0.927,
+        0.1
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered systemic instruction set 5 x 3.23 = 16.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.668,
+        0.852,
+        0.212,
+        0.777
+      ],
+      "page": 2
+    },
+    {
+      "text": "Team-orented fresh-thinking archive 2 x 29.86 = 59.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.351,
+        0.794,
+        0.464,
+        0.908
+      ],
+      "page": 2
+    }
+  ]
+}

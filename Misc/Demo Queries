@@ -1,0 +1,55 @@
+- What are the top 5 products by revenue in Q1 2024?
+
+- Analyze customer satisfaction across all products and identify which ones need improvement
+
+- Compare our support ticket patterns with customer satisfaction scores to identify problem products
+
+
+
+Most Complex:
+
+Conduct a comprehensive operational analysis to identify efficiency improvements and optimize resource allocation across our customer-facing teams. Provide:
+
+Support Operations Analysis:
+
+Calculate key support metrics (first response time, resolution time, CSAT) by product, priority, and agent
+Identify bottlenecks causing delays and escalations
+Analyze correlation between ticket volume and product issues reported in surveys
+Determine if support capacity matches product adoption patterns from sales data
+Calculate cost per ticket and identify opportunities for self-service
+
+
+Product-Market Fit Assessment:
+
+Map support ticket categories to feature ratings and pain points in survey data
+Identify products with low satisfaction but high support burden
+Analyze if marketing promises (from web analytics) align with product reality (from support tickets)
+Determine which products need improvement vs. better customer education
+Calculate the "friction index" - ratio of support burden to revenue generated
+
+
+Team Performance & Workload Optimization:
+
+Analyze employee performance ratings against their workload and product assignments
+Identify if high-performing support agents handle easier or harder tickets
+Assess if team satisfaction scores correlate with product quality issues
+Determine optimal team size and skill distribution based on ticket patterns
+Identify training needs based on common unresolved issues
+
+
+Customer Journey Optimization:
+
+Trace customer path from website acquisition to support interaction
+Identify where customers face friction (high bounce rates, many support tickets, low satisfaction)
+Analyze if trial-to-paid conversion issues relate to specific product problems
+Map the relationship between marketing expectations and actual product experience
+
+
+Resource Reallocation Plan:
+
+Recommend engineering resources to fix high-impact issues
+Suggest support team restructuring based on product and skill gaps
+Propose customer success initiatives to reduce support burden
+Recommend documentation and self-service improvements
+Calculate expected efficiency gains and cost savings
+Provide implementation priorities based on impact vs. effort

@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000024",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-000024",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.806,
+        0.003,
+        0.871,
+        0.402
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.026,
+        0.123,
+        0.531,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.452,
+        0.686,
+        0.87,
+        0.515
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Wagneur",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.017,
+        0.36,
+        0.046,
+        0.808
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.607,
+        0.4,
+        0.613,
+        0.081
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09",
+      "field_hint": "due_date",
+      "bbox": [
+        0.931,
+        0.987,
+        0.857,
+        0.905
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.195,
+        0.143,
+        0.52,
+        0.572
+      ],
+      "page": 1
+    },
+    {
+      "text": "129.17",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.128,
+        0.797,
+        0.301,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-309267",
+      "field_hint": "po_number",
+      "bbox": [
+        0.168,
+        0.446,
+        0.116,
+        0.663
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.753,
+        0.66,
+        0.089,
+        0.435
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized explicit emulaion 1 x 20.88 = 17.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.766,
+        0.22,
+        0.258,
+        0.476
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mandatory neutral forecast 3 x 29.6 = 88U.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.492,
+        0.796,
+        0.333,
+        0.224
+      ],
+      "page": 2
+    },
+    {
+      "text": "Pre-emptive regional protocol 2 x 6.64 = 12.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.644,
+        0.377,
+        0.717,
+        0.736
+      ],
+      "page": 1
+    }
+  ]
+}

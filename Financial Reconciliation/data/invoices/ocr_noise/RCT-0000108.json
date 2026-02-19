@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000108",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000108",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.885,
+        0.076,
+        0.527,
+        0.498
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.521,
+        0.651,
+        0.902,
+        0.997
+      ],
+      "page": 1
+    },
+    {
+      "text": "cSott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.287,
+        0.712,
+        0.613,
+        0.481
+      ],
+      "page": 1
+    },
+    {
+      "text": "Tony Schneider",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.048,
+        0.245,
+        0.985,
+        0.738
+      ],
+      "page": 1
+    },
+    {
+      "text": "202512-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.281,
+        0.529,
+        0.301,
+        0.42
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.665,
+        0.677,
+        0.63,
+        0.918
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.553,
+        0.048,
+        0.158,
+        0.909
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-984096",
+      "field_hint": "po_number",
+      "bbox": [
+        0.725,
+        0.723,
+        0.413,
+        0.94
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.853,
+        0.342,
+        0.954,
+        0.377
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled heuristic installation 1 x 8.63 = 8.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.617,
+        0.058,
+        0.25,
+        0.963
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral leadingedge definition 1 x 17.81 = 15.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.696,
+        0.202,
+        0.772,
+        0.722
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable stKatic software 4 x 5.89 = 23.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.315,
+        0.205,
+        0.823,
+        0.537
+      ],
+      "page": 2
+    },
+    {
+      "text": "Business-focsued hybrid service-desk 3 x 7.49 = 22.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.653,
+        0.879,
+        0.206,
+        0.679
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased cohesive matrix 1 x 15.35 = 15.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.315,
+        0.747,
+        0.028,
+        0.023
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral holistic customer loyalty 1 x 13.06 = 13.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.8,
+        0.423,
+        0.386,
+        0.281
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000200",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000200",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.689,
+        0.835,
+        0.243,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.372,
+        0.777,
+        0.504,
+        0.342
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.868,
+        0.68,
+        0.917,
+        0.548
+      ],
+      "page": 1
+    },
+    {
+      "text": "Dona Mckay",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.604,
+        0.154,
+        0.911,
+        0.777
+      ],
+      "page": 1
+    },
+    {
+      "text": "226-02-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.834,
+        0.701,
+        0.184,
+        0.558
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.843,
+        0.903,
+        0.831,
+        0.832
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.905,
+        0.106,
+        0.703,
+        0.182
+      ],
+      "page": 1
+    },
+    {
+      "text": "41.83",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.122,
+        0.542,
+        0.233,
+        0.598
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-583555",
+      "field_hint": "po_number",
+      "bbox": [
+        0.318,
+        0.094,
+        0.39,
+        0.776
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET4",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.4,
+        0.661,
+        0.338,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive directional paradigm 1 x 10.19 = 10.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.306,
+        0.882,
+        0.579,
+        0.465
+      ],
+      "page": 2
+    }
+  ]
+}

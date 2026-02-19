@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000123",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000123",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.236,
+        0.246,
+        0.949,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams2-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.668,
+        0.5,
+        0.028,
+        0.98
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Andersen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.778,
+        0.39,
+        0.69,
+        0.675
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.401,
+        0.712,
+        0.721,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.916,
+        0.336,
+        0.199,
+        0.967
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.991,
+        0.271,
+        0.387,
+        0.728
+      ],
+      "page": 1
+    },
+    {
+      "text": "154.98",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.807,
+        0.431,
+        0.906,
+        0.126
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-170499",
+      "field_hint": "po_number",
+      "bbox": [
+        0.022,
+        0.698,
+        0.008,
+        0.332
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.94,
+        0.508,
+        0.815,
+        0.185
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone 24/7 secured line 2 x 5613 = 112.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.381,
+        0.302,
+        0.447,
+        0.113
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable uniform toolset 3 x 8.41 = 22.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.24,
+        0.777,
+        0.589,
+        0.119
+      ],
+      "page": 1
+    }
+  ]
+}

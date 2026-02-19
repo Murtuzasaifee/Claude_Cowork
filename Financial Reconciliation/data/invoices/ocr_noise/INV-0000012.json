@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000012",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000012",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.785,
+        0.715,
+        0.672,
+        0.714
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.328,
+        0.582,
+        0.823,
+        0.361
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.828,
+        0.082,
+        0.062,
+        0.889
+      ],
+      "page": 1
+    },
+    {
+      "text": "Timothy Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.369,
+        0.526,
+        0.588,
+        0.519
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.499,
+        0.423,
+        0.44,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.824,
+        0.144,
+        0.127,
+        0.711
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.863,
+        0.118,
+        0.213,
+        0.473
+      ],
+      "page": 1
+    },
+    {
+      "text": "16.4",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.369,
+        0.952,
+        0.602,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-890170",
+      "field_hint": "po_number",
+      "bbox": [
+        0.04,
+        0.153,
+        0.371,
+        0.991
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.791,
+        0.142,
+        0.59,
+        0.049
+      ],
+      "page": 1
+    },
+    {
+      "text": "Future-proofed full-range frame 1 x 9.42 = 9.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.216,
+        0.819,
+        0.489,
+        0.122
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic methodical project 3 x 1.9 =4.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.31,
+        0.452,
+        0.338,
+        0.377
+      ],
+      "page": 2
+    }
+  ]
+}

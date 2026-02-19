@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000093",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000093",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.661,
+        0.216,
+        0.449,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.316,
+        0.606,
+        0.926,
+        0.798
+      ],
+      "page": 1
+    },
+    {
+      "text": "AshleyLLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.773,
+        0.465,
+        0.091,
+        0.581
+      ],
+      "page": 1
+    },
+    {
+      "text": "Anderw Gonzalez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.737,
+        0.534,
+        0.857,
+        0.56
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.712,
+        0.817,
+        0.053,
+        0.18
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.24,
+        0.051,
+        0.858,
+        0.544
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.084,
+        0.525,
+        0.094,
+        0.261
+      ],
+      "page": 1
+    },
+    {
+      "text": "4.11",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.044,
+        0.491,
+        0.838,
+        0.14
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-540226",
+      "field_hint": "po_number",
+      "bbox": [
+        0.089,
+        0.148,
+        0.442,
+        0.422
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET5",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.165,
+        0.276,
+        0.847,
+        0.03
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered foreground forecast 1 x 3.57 = 3.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.775,
+        0.691,
+        0.863,
+        0.723
+      ],
+      "page": 1
+    }
+  ]
+}

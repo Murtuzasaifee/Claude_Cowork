@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000131",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000131",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.639,
+        0.607,
+        0.656,
+        0.67
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.395,
+        0.861,
+        0.917,
+        0.334
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.58,
+        0.762,
+        0.583,
+        0.064
+      ],
+      "page": 1
+    },
+    {
+      "text": "Daniel Cruz",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.889,
+        0.401,
+        0.999,
+        0.062
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.711,
+        0.118,
+        0.991,
+        0.359
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.445,
+        0.462,
+        0.741,
+        0.96
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.871,
+        0.839,
+        0.501,
+        0.09
+      ],
+      "page": 1
+    },
+    {
+      "text": "95.8",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.864,
+        0.754,
+        0.874,
+        0.688
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-158627",
+      "field_hint": "po_number",
+      "bbox": [
+        0.671,
+        0.246,
+        0.416,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.163,
+        0.802,
+        0.317,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced asynchronous ability 1 x 27.47 = 27.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.697,
+        0.335,
+        0.298,
+        0.593
+      ],
+      "page": 2
+    },
+    {
+      "text": "Networked high-level architecture 3 x 6.9 = 17.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.986,
+        0.693,
+        0.92,
+        0.384
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized maximized data-warehouse 3 x 11.38 = 30.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.704,
+        0.183,
+        0.822,
+        0.478
+      ],
+      "page": 1
+    }
+  ]
+}

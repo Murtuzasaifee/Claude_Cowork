@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000124",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000124",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.265,
+        0.544,
+        0.195,
+        0.793
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.116,
+        0.777,
+        0.886,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.413,
+        0.658,
+        0.458,
+        0.104
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kenneth Faulkner",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.03,
+        0.646,
+        0.731,
+        0.496
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.167,
+        0.932,
+        0.079,
+        0.73
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.557,
+        0.318,
+        0.209,
+        0.816
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.176,
+        0.889,
+        0.505,
+        0.461
+      ],
+      "page": 1
+    },
+    {
+      "text": "211.82",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.89,
+        0.498,
+        0.112,
+        0.194
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-701800",
+      "field_hint": "po_number",
+      "bbox": [
+        0.934,
+        0.677,
+        0.692,
+        0.411
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.148,
+        0.905,
+        0.463,
+        0.132
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized multimedia functionalities 2 x 97.08 = 165.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.407,
+        0.195,
+        0.003,
+        0.279
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable radical complexity 2 x 11.39 = 21.6w4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.815,
+        0.814,
+        0.932,
+        0.063
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive executive monitoring 1 x 5.53 = 5.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.984,
+        0.036,
+        0.921,
+        0.484
+      ],
+      "page": 2
+    }
+  ]
+}

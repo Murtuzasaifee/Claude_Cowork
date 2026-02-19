@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000044",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-00000v44",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.352,
+        0.465,
+        0.689,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.162,
+        0.677,
+        0.262,
+        0.313
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.279,
+        0.16,
+        0.275,
+        0.488
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.059,
+        0.129,
+        0.718,
+        0.225
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.029,
+        0.117,
+        0.721,
+        0.505
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.144,
+        0.224,
+        0.356,
+        0.55
+      ],
+      "page": 1
+    },
+    {
+      "text": "44.42",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.548,
+        0.998,
+        0.038,
+        0.674
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-254887",
+      "field_hint": "po_number",
+      "bbox": [
+        0.218,
+        0.457,
+        0.838,
+        0.198
+      ],
+      "page": 1
+    },
+    {
+      "text": "NETF7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.166,
+        0.767,
+        0.071,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized 3rdgeneration forecast 1 x 18.98 = 18.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.66,
+        0.368,
+        0.697,
+        0.581
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered directional complexity 1 x 12.87 = 10.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.568,
+        0.612,
+        0.371,
+        0.368
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust neutral algorithm 1 x 12.38 = 12.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.688,
+        0.387,
+        0.563,
+        0.632
+      ],
+      "page": 1
+    }
+  ]
+}

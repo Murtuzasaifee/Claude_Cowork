@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000057",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000057",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.462,
+        0.79,
+        0.635,
+        0.097
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.221,
+        0.611,
+        0.728,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.595,
+        0.541,
+        0.476,
+        0.558
+      ],
+      "page": 1
+    },
+    {
+      "text": "Christopher Bauer",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.823,
+        0.152,
+        0.854,
+        0.499
+      ],
+      "page": 1
+    },
+    {
+      "text": "202601-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.403,
+        0.661,
+        0.571,
+        0.079
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.083,
+        0.748,
+        0.53,
+        0.304
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.467,
+        0.156,
+        0.585,
+        0.624
+      ],
+      "page": 1
+    },
+    {
+      "text": "347.23",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.765,
+        0.751,
+        0.284,
+        0.744
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-184349",
+      "field_hint": "po_number",
+      "bbox": [
+        0.538,
+        0.378,
+        0.949,
+        0.123
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.111,
+        0.289,
+        0.865,
+        0.767
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused exuding benchmark 1 x 12.13 = 12.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.55,
+        0.352,
+        0.218,
+        0.9
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source asymmetric contingency 1 x 16.15 = 15.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.106,
+        0.885,
+        0.96,
+        0.762
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered foreground interface 2 x 11.18 = 19.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.225,
+        0.404,
+        0.757,
+        0.286
+      ],
+      "page": 1
+    },
+    {
+      "text": "Implemented heuristic project 1 x 11.56 = 11.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.4,
+        0.003,
+        0.83,
+        0.763
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-centric optimal protocol 1 x 5.64 = 4.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.383,
+        0.653,
+        0.974,
+        0.41
+      ],
+      "page": 2
+    },
+    {
+      "text": "Ergonomic motivating instruction set 4 x 51.34 = 205.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.503,
+        0.081,
+        0.571,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line bottom-line data-warehouse 1 x 9.74 = 8.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.472,
+        0.091,
+        0.37
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Response_ID,Date,Age_Group,Gender,Country,Industry,Company_Size,Product_Used,Satisfaction_Score,Net_Promoter_Score,Ease_of_Use,Feature_Rating,Support_Rating,Value_for_Money,Likelihood_to_Renew,Primary_Use_Case,Pain_Points,Feature_Requests,Monthly_Budget
+R001,2024-01-10,35-44,Female,USA,Technology,1000-5000,Analytics Suite,8,9,9,8,7,8,Very Likely,Data Analysis,Learning curve steep,Better visualization tools,5000-10000
+R002,2024-01-11,25-34,Male,UK,Finance,500-1000,Cloud Storage Pro,7,7,8,7,6,7,Likely,Document Management,Storage limits,More integrations,1000-5000
+R003,2024-01-12,45-54,Female,Germany,Healthcare,5000+,Security Suite,9,10,8,9,9,8,Very Likely,Data Protection,Complex setup,Mobile app improvements,10000+
+R004,2024-01-13,25-34,Male,Singapore,E-commerce,100-500,Project Manager,6,6,7,6,5,6,Neutral,Project Tracking,Missing features,Gantt chart view,500-1000
+R005,2024-01-14,35-44,Female,Canada,Education,1000-5000,Collaboration Tools,8,8,9,8,8,7,Likely,Team Communication,Notification overload,Better search function,1000-5000
+R006,2024-01-15,55-64,Male,Australia,Manufacturing,5000+,Database Pro,9,9,8,9,8,9,Very Likely,Inventory Management,Migration challenges,API improvements,10000+
+R007,2024-01-16,25-34,Female,France,Marketing,100-500,Email Platform,7,7,8,7,7,8,Likely,Email Campaigns,Template limitations,A/B testing,500-1000
+R008,2024-01-17,35-44,Male,Japan,Technology,1000-5000,CRM System,8,8,7,8,7,7,Likely,Customer Management,Customization limits,Workflow automation,5000-10000
+R009,2024-01-18,45-54,Female,USA,Finance,5000+,Accounting Pro,9,10,9,9,9,8,Very Likely,Financial Reporting,Export options limited,Real-time updates,10000+
+R010,2024-01-19,25-34,Male,Brazil,Retail,500-1000,Inventory System,6,5,6,6,5,6,Unlikely,Stock Management,System crashes,Better mobile support,1000-5000
+R011,2024-01-20,35-44,Female,India,Technology,1000-5000,Design Suite,8,9,9,8,8,7,Very Likely,Graphic Design,Performance issues,Cloud rendering,5000-10000
+R012,2024-01-21,45-54,Male,Netherlands,Logistics,5000+,Analytics Suite,9,9,8,9,8,9,Very Likely,Supply Chain Analysis,Data refresh speed,Predictive analytics,10000+
+R013,2024-01-22,25-34,Female,Spain,Marketing,100-500,Marketing Automation,7,7,7,7,6,7,Likely,Lead Generation,Integration issues,Better reporting,1000-5000
+R014,2024-01-23,35-44,Male,South Korea,Manufacturing,1000-5000,Project Manager,8,8,8,8,7,8,Likely,Production Planning,Resource allocation,Time tracking,5000-10000
+R015,2024-01-24,55-64,Female,USA,Healthcare,5000+,HR Management,9,10,9,9,9,8,Very Likely,Employee Management,Onboarding flow,Benefits tracking,10000+
+R016,2024-01-25,25-34,Male,Mexico,E-commerce,500-1000,Cloud Storage Pro,6,6,7,6,6,7,Neutral,File Sharing,Sync issues,Version control,500-1000
+R017,2024-01-26,35-44,Female,Sweden,Technology,1000-5000,Security Suite,8,8,8,8,8,7,Likely,Compliance,Alert fatigue,Threat intelligence,5000-10000
+R018,2024-01-27,45-54,Male,Italy,Finance,5000+,Database Pro,9,9,8,9,9,9,Very Likely,Transaction Processing,Query optimization,Better documentation,10000+
+R019,2024-01-28,25-34,Female,China,Retail,500-1000,CRM System,7,7,8,7,6,7,Likely,Sales Tracking,User interface,Mobile CRM,1000-5000
+R020,2024-01-29,35-44,Male,UAE,Construction,1000-5000,Project Manager,8,8,7,8,7,8,Likely,Project Scheduling,Dependency tracking,Resource management,5000-10000
+R021,2024-01-30,45-54,Female,Poland,Healthcare,5000+,Collaboration Tools,9,9,9,9,8,8,Very Likely,Team Coordination,Video quality,Screen sharing,10000+
+R022,2024-02-01,25-34,Male,Argentina,Marketing,100-500,Email Platform,6,6,7,6,5,6,Neutral,Newsletter,Deliverability,Automation,500-1000
+R023,2024-02-02,35-44,Female,Norway,Technology,1000-5000,Analytics Suite,8,8,8,8,8,7,Likely,Business Intelligence,Dashboard speed,Custom metrics,5000-10000
+R024,2024-02-03,55-64,Male,Denmark,Finance,5000+,Accounting Pro,9,10,9,9,9,9,Very Likely,Tax Compliance,Multi-currency,International tax,10000+
+R025,2024-02-04,25-34,Female,Thailand,E-commerce,500-1000,Inventory System,7,7,7,7,6,7,Likely,Order Management,Barcode scanning,Multi-warehouse,1000-5000
+R026,2024-02-05,35-44,Male,Belgium,Logistics,1000-5000,Database Pro,8,8,8,8,7,8,Likely,Route Optimization,Data backup,Real-time sync,5000-10000
+R027,2024-02-06,45-54,Female,Finland,Healthcare,5000+,Security Suite,9,9,9,9,9,8,Very Likely,HIPAA Compliance,Audit logs,Encryption options,10000+
+R028,2024-02-07,25-34,Male,Vietnam,Technology,100-500,Design Suite,7,7,8,7,7,7,Likely,UI/UX Design,Template library,Collaboration,1000-5000
+R029,2024-02-08,35-44,Female,Ireland,Marketing,1000-5000,Marketing Automation,8,8,8,8,7,8,Likely,Campaign Management,Attribution,Multi-channel,5000-10000
+R030,2024-02-09,45-54,Male,Switzerland,Finance,5000+,HR Management,9,10,9,9,9,8,Very Likely,Payroll Processing,Tax calculations,Global payroll,10000+

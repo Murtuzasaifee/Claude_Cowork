@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000002",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000002",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.764,
+        0.342,
+        0.71,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.857,
+        0.142,
+        0.227,
+        0.125
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-JohnsYon",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.112,
+        0.019,
+        0.484,
+        0.431
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paige MaLrsh",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.059,
+        0.119,
+        0.253,
+        0.066
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.782,
+        0.92,
+        0.205,
+        0.901
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.091,
+        0.846,
+        0.942,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "AGED",
+      "field_hint": "currency",
+      "bbox": [
+        0.57,
+        0.099,
+        0.578,
+        0.014
+      ],
+      "page": 1
+    },
+    {
+      "text": "4.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.902,
+        0.537,
+        0.974,
+        0.099
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-883300",
+      "field_hint": "po_number",
+      "bbox": [
+        0.708,
+        0.366,
+        0.589,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET0",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.424,
+        0.514,
+        0.408,
+        0.761
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable responsive alliance 1 x 8.11 = 8.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.52,
+        0.496,
+        0.361,
+        0.288
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reverse-engineered systemic mdel 1 x 1.96 = 1.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.6,
+        0.312,
+        0.976,
+        0.444
+      ],
+      "page": 2
+    }
+  ]
+}

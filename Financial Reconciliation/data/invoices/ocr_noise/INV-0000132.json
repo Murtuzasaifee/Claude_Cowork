@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000132",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000132",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.176,
+        0.679,
+        0.685,
+        0.261
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.958,
+        0.909,
+        0.74,
+        0.002
+      ],
+      "page": 1
+    },
+    {
+      "text": "VelasquezOrtega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.302,
+        0.877,
+        0.834,
+        0.305
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jose Arnold",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.599,
+        0.922,
+        0.012,
+        0.465
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-1",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.683,
+        0.766,
+        0.684,
+        0.071
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.788,
+        0.448,
+        0.257,
+        0.702
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.658,
+        0.16,
+        0.878,
+        0.741
+      ],
+      "page": 1
+    },
+    {
+      "text": "35.75",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.452,
+        0.498,
+        0.319,
+        0.17
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-143195",
+      "field_hint": "po_number",
+      "bbox": [
+        0.018,
+        0.081,
+        0.399,
+        0.543
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.028,
+        0.369,
+        0.725,
+        0.158
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled client-driven paradigm 1 x 9.69 =9.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.411,
+        0.042,
+        0.591,
+        0.316
+      ],
+      "page": 2
+    },
+    {
+      "text": "Ergonomic stable software 1 x 8.28 = 7.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.436,
+        0.463,
+        0.72,
+        0.154
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive motivating open system 1 x 11.12 = 10.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.297,
+        0.764,
+        0.18,
+        0.431
+      ],
+      "page": 1
+    }
+  ]
+}

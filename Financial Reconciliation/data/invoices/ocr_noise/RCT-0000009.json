@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000009",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000009",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.901,
+        0.811,
+        0.331,
+        0.996
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.023,
+        0.93,
+        0.914,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.044,
+        0.552,
+        0.174,
+        0.935
+      ],
+      "page": 1
+    },
+    {
+      "text": "Justn Romero",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.886,
+        0.263,
+        0.955,
+        0.399
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.042,
+        0.58,
+        0.257,
+        0.083
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.505,
+        0.436,
+        0.963,
+        0.26
+      ],
+      "page": 1
+    },
+    {
+      "text": "215.07",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.841,
+        0.431,
+        0.135,
+        0.515
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-517035",
+      "field_hint": "po_number",
+      "bbox": [
+        0.51,
+        0.728,
+        0.381,
+        0.426
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.623,
+        0.238,
+        0.206,
+        0.659
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face bottom-line parallelism 1 x 10.43 = 9.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.885,
+        0.138,
+        0.592,
+        0.885
+      ],
+      "page": 1
+    },
+    {
+      "text": "Centralized global superstructure 3 x 16.37 = 49.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.556,
+        0.009,
+        0.279,
+        0.831
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group dynamic leverage 1 x 13.97 = 12.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.882,
+        0.754,
+        0.615,
+        0.214
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergized intangible task-force 3 x 15.21 = 4q5.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.857,
+        0.521,
+        0.798,
+        0.765
+      ],
+      "page": 2
+    },
+    {
+      "text": "Streamlined needs-based conglomeratison 1 x 22.69 = 19.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.308,
+        0.589,
+        0.753,
+        0.26
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-lateral holistic frame 1 x 8.43 = 8.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.233,
+        0.44,
+        0.561,
+        0.589
+      ],
+      "page": 1
+    },
+    {
+      "text": "Self-enabling responsive extranet 4 x 15.45 = 52.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.215,
+        0.056,
+        0.564,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse leadingedge emulation 1 x 7.75 = 7.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.008,
+        0.557,
+        0.865,
+        0.759
+      ],
+      "page": 1
+    }
+  ]
+}

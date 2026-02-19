@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000131",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.947,
+        0.8,
+        0.809,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernadez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.958,
+        0.662,
+        0.132,
+        0.052
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cameron Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.879,
+        0.414,
+        0.831,
+        0.661
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.958,
+        0.832,
+        0.476,
+        0.636
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.414,
+        0.622,
+        0.832,
+        0.936
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.386,
+        0.64,
+        0.227,
+        0.872
+      ],
+      "page": 1
+    },
+    {
+      "text": "253.48",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.469,
+        0.148,
+        0.506,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-387782",
+      "field_hint": "po_number",
+      "bbox": [
+        0.04,
+        0.956,
+        0.782,
+        0.343
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.713,
+        0.915,
+        0.725,
+        0.147
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal bottom-line orchestration 1 x 19.19 = 16.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.188,
+        0.573,
+        0.94,
+        0.794
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergitsic logistical initiative 2 x 4.6 = 9.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.531,
+        0.966,
+        0.042,
+        0.697
+      ],
+      "page": 2
+    },
+    {
+      "text": "Extended upward-trending implementation 1 x 22.04 = 22.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.743,
+        0.05,
+        0.916,
+        0.976
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent empowerng hardware 1 x 28.67 = 25.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.694,
+        0.798,
+        0.933,
+        0.598
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused even-keeled extranet 3 x 15.7 = 47.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.617,
+        0.694,
+        0.178,
+        0.318
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive system-worthy architecutre 4 x 30.24 = 120.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.945,
+        0.748,
+        0.25,
+        0.558
+      ],
+      "page": 1
+    }
+  ]
+}

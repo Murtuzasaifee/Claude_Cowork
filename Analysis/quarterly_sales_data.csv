@@ -1,0 +1,32 @@
+Date,Region,Product_Category,Product_Name,Units_Sold,Revenue,Cost,Profit,Sales_Rep,Customer_Segment
+2024-01-15,North America,Electronics,Laptop Pro 15,45,67500,40500,27000,Sarah Johnson,Enterprise
+2024-01-15,North America,Electronics,Wireless Mouse,230,6900,3450,3450,Sarah Johnson,Small Business
+2024-01-18,Europe,Software,Analytics Suite,12,36000,14400,21600,Marco Silva,Enterprise
+2024-01-20,Asia Pacific,Electronics,Smartphone X1,89,44500,26700,17800,Li Wei,Consumer
+2024-01-22,North America,Software,Cloud Storage Pro,156,15600,6240,9360,Sarah Johnson,Small Business
+2024-01-25,Europe,Electronics,Tablet Air,67,33500,20100,13400,Marco Silva,Consumer
+2024-01-28,Asia Pacific,Software,Security Suite,34,51000,20400,30600,Li Wei,Enterprise
+2024-02-01,North America,Electronics,Wireless Keyboard,198,11880,5940,5940,Sarah Johnson,Small Business
+2024-02-03,Europe,Software,Project Manager,89,44500,17800,26700,Marco Silva,Enterprise
+2024-02-05,Asia Pacific,Electronics,Smart Watch,145,43500,26100,17400,Li Wei,Consumer
+2024-02-08,North America,Software,Email Platform,67,20100,8040,12060,Michael Chen,Small Business
+2024-02-10,Europe,Electronics,Desktop Pro,23,34500,20700,13800,Marco Silva,Enterprise
+2024-02-12,Asia Pacific,Software,Database Pro,45,67500,27000,40500,Li Wei,Enterprise
+2024-02-15,North America,Electronics,Monitor 4K,112,56000,33600,22400,Sarah Johnson,Small Business
+2024-02-18,Europe,Software,Collaboration Tools,178,35600,14240,21360,Marco Silva,Enterprise
+2024-02-20,Asia Pacific,Electronics,Headphones Pro,267,40050,20025,20025,Li Wei,Consumer
+2024-02-22,North America,Software,Backup Solution,91,27300,10920,16380,Michael Chen,Small Business
+2024-02-25,Europe,Electronics,Camera 8K,34,51000,30600,20400,Marco Silva,Consumer
+2024-02-28,Asia Pacific,Software,CRM System,56,84000,33600,50400,Li Wei,Enterprise
+2024-03-01,North America,Electronics,Router Mesh,156,23400,11700,11700,Sarah Johnson,Small Business
+2024-03-03,Europe,Software,Accounting Pro,78,39000,15600,23400,Marco Silva,Small Business
+2024-03-05,Asia Pacific,Electronics,Gaming Console,98,49000,29400,19600,Li Wei,Consumer
+2024-03-08,North America,Software,Video Editor Pro,23,34500,13800,20700,Michael Chen,Consumer
+2024-03-10,Europe,Electronics,Smart Speaker,189,28350,14175,14175,Marco Silva,Consumer
+2024-03-12,Asia Pacific,Software,Design Suite,67,100500,40200,60300,Li Wei,Enterprise
+2024-03-15,North America,Electronics,Webcam HD,234,23400,11700,11700,Sarah Johnson,Small Business
+2024-03-18,Europe,Software,Marketing Automation,45,67500,27000,40500,Marco Silva,Enterprise
+2024-03-20,Asia Pacific,Electronics,Printer Laser,67,33500,20100,13400,Li Wei,Small Business
+2024-03-22,North America,Software,HR Management,89,133500,53400,80100,Michael Chen,Enterprise
+2024-03-25,Europe,Electronics,Scanner Pro,45,22500,13500,9000,Marco Silva,Small Business
+2024-03-28,Asia Pacific,Software,Inventory System,34,51000,20400,30600,Li Wei,Enterprise

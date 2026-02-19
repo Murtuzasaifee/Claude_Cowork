@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000019",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000019",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.452,
+        0.895,
+        0.093,
+        0.104
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiceb",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.187,
+        0.069,
+        0.963,
+        0.284
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.07,
+        0.057,
+        0.519,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Rasmussen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.157,
+        0.111,
+        0.536,
+        0.478
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.866,
+        0.13,
+        0.206,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-04",
+      "field_hint": "due_date",
+      "bbox": [
+        0.604,
+        0.939,
+        0.587,
+        0.502
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.007,
+        0.143,
+        0.064,
+        0.399
+      ],
+      "page": 1
+    },
+    {
+      "text": "241.89",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.91,
+        0.879,
+        0.46,
+        0.576
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-612262",
+      "field_hint": "po_number",
+      "bbox": [
+        0.881,
+        0.456,
+        0.7,
+        0.712
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.81,
+        0.175,
+        0.249,
+        0.9
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured composite flexibility 3 x 31.65 = 94.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.911,
+        0.183,
+        0.569,
+        0.394
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse reciprocal open architecture 1 x 72.05 = 64.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.274,
+        0.628,
+        0.292,
+        0.916
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-lateral zero-defect archive 1 x 4.45 = 4.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.909,
+        0.411,
+        0.762,
+        0.121
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced bi-directional stategy 1 x 28.04 = 23.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.451,
+        0.253,
+        0.506,
+        0.462
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved cohesive alliance 2 x 18.77 = 37.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.462,
+        0.344,
+        0.399,
+        0.194
+      ],
+      "page": 1
+    }
+  ]
+}

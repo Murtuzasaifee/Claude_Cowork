@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000135",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000135",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.151,
+        0.391,
+        0.369,
+        0.953
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.171,
+        0.87,
+        0.575,
+        0.094
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.617,
+        0.593,
+        0.891,
+        0.163
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michele Hall",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.671,
+        0.628,
+        0.009,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "C2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.268,
+        0.475,
+        0.765,
+        0.412
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.063,
+        0.438,
+        0.619,
+        0.484
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.595,
+        0.307,
+        0.68,
+        0.255
+      ],
+      "page": 1
+    },
+    {
+      "text": "122.44",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.571,
+        0.406,
+        0.075,
+        0.509
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-589131",
+      "field_hint": "po_number",
+      "bbox": [
+        0.847,
+        0.113,
+        0.462,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.343,
+        0.399,
+        0.582,
+        0.808
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned optimal alliance 3 x 6.41 = 19.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.776,
+        0.534,
+        0.265,
+        0.316
+      ],
+      "page": 2
+    },
+    {
+      "text": "Balanced content-based challenge 5 x 11.92 = 53.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.806,
+        0.876,
+        0.327,
+        0.171
+      ],
+      "page": 1
+    },
+    {
+      "text": "Usr-centric logistical pricing structure 1 x 49.52 = 44.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.397,
+        0.29,
+        0.602,
+        0.061
+      ],
+      "page": 2
+    }
+  ]
+}

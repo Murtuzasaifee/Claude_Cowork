@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000021",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RHCT-0000021",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.926,
+        0.238,
+        0.07,
+        0.3
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.792,
+        0.47,
+        0.45,
+        0.76
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.461,
+        0.172,
+        0.751,
+        0.297
+      ],
+      "page": 1
+    },
+    {
+      "text": "Willam Mora",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.623,
+        0.462,
+        0.495,
+        0.604
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.11,
+        0.904,
+        0.753,
+        0.851
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.676,
+        0.043,
+        0.157,
+        0.916
+      ],
+      "page": 1
+    },
+    {
+      "text": "177.96",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.534,
+        0.019,
+        0.297,
+        0.293
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-424314",
+      "field_hint": "po_number",
+      "bbox": [
+        0.051,
+        0.031,
+        0.05,
+        0.287
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.354,
+        0.228,
+        0.415,
+        0.288
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive static definition 1 x 3.62 = 3.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.779,
+        0.694,
+        0.138,
+        0.366
+      ],
+      "page": 2
+    },
+    {
+      "text": "Automated explicit functionalities 2 x 14.08 = 26.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.6,
+        0.053,
+        0.76,
+        0.718
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line upward-trending model 4 x 20.72 = 82.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.059,
+        0.1,
+        0.332,
+        0.467
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channled maximized approach 2 x 12.69 = 24.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.82,
+        0.396,
+        0.911,
+        0.259
+      ],
+      "page": 1
+    }
+  ]
+}

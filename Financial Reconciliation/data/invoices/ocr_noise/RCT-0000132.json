@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000132",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000132",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.105,
+        0.981,
+        0.391,
+        0.572
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.02,
+        0.064,
+        0.435,
+        0.545
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Orteg",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.084,
+        0.135,
+        0.608,
+        0.067
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Gaines",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.646,
+        0.063,
+        0.59,
+        0.796
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.666,
+        0.907,
+        0.336,
+        0.6
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.362,
+        0.13,
+        0.547,
+        0.556
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.898,
+        0.195,
+        0.784,
+        0.151
+      ],
+      "page": 1
+    },
+    {
+      "text": "75.02",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.713,
+        0.608,
+        0.223,
+        0.236
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-970699",
+      "field_hint": "po_number",
+      "bbox": [
+        0.439,
+        0.612,
+        0.104,
+        0.726
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.599,
+        0.41,
+        0.484,
+        0.157
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive radical implementation 1 x 8.56 = 8.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.738,
+        0.266,
+        0.277,
+        0.36
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-orientedg composite portal 1 x 28.51 = 28.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.758,
+        0.923,
+        0.123,
+        0.551
+      ],
+      "page": 1
+    },
+    {
+      "text": "Red7uced 3rdgeneration hub 1 x 8.02 = 7.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.54,
+        0.316,
+        0.74,
+        0.819
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound secondary neural-net 1 x 5.25 = 4.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.338,
+        0.111,
+        0.012,
+        0.53
+      ],
+      "page": 1
+    }
+  ]
+}

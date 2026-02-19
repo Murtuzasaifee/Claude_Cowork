@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000054",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "oRCT-0000054",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.528,
+        0.185,
+        0.147,
+        0.47
+      ],
+      "page": 1
+    },
+    {
+      "text": "recept",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.759,
+        0.242,
+        0.677,
+        0.295
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.228,
+        0.604,
+        0.615,
+        0.917
+      ],
+      "page": 1
+    },
+    {
+      "text": "Julian Cardenas",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.563,
+        0.32,
+        0.744,
+        0.415
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.368,
+        0.074,
+        0.058,
+        0.491
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.016,
+        0.146,
+        0.807,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "77.06",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.221,
+        0.743,
+        0.168,
+        0.736
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-195563",
+      "field_hint": "po_number",
+      "bbox": [
+        0.72,
+        0.827,
+        0.17,
+        0.73
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.268,
+        0.214,
+        0.98,
+        0.426
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal 5thgeneration utilization 1 x 3.59 = 3.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.58,
+        0.033,
+        0.01,
+        0.549
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive radical instruction set 3 x 13.24 = 37.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.023,
+        0.442,
+        0.976,
+        0.746
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive context-sensitive website 1 x 4.19 = 4.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.447,
+        0.769,
+        0.887,
+        0.628
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed homogeneous system engine 1 x 5.51 = 5.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.614,
+        0.63,
+        0.279,
+        0.484
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible logistical data-warehouse 1 x 10.46 = 9.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.616,
+        0.023,
+        0.198,
+        0.097
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000058",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000058",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.035,
+        0.828,
+        0.692,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.558,
+        0.684,
+        0.638,
+        0.915
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.487,
+        0.142,
+        0.983,
+        0.078
+      ],
+      "page": 1
+    },
+    {
+      "text": "Linda Rodriguez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.016,
+        0.62,
+        0.454,
+        0.859
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.179,
+        0.848,
+        0.674,
+        0.627
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.391,
+        0.086,
+        0.601,
+        0.345
+      ],
+      "page": 1
+    },
+    {
+      "text": "20.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.286,
+        0.139,
+        0.98,
+        0.401
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-962520",
+      "field_hint": "po_number",
+      "bbox": [
+        0.712,
+        0.89,
+        0.32,
+        0.907
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.686,
+        0.129,
+        0.807,
+        0.957
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line heuristic implementation 1 x 10.74 = 10.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.387,
+        0.769,
+        0.54,
+        0.435
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000024",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000Q024",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.385,
+        0.809,
+        0.668,
+        0.42
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.306,
+        0.686,
+        0.693,
+        0.422
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.745,
+        0.593,
+        0.109,
+        0.079
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jack Jones",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.733,
+        0.85,
+        0.733,
+        0.6
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.501,
+        0.098,
+        0.594,
+        0.038
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.656,
+        0.386,
+        0.243,
+        0.523
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.708,
+        0.734,
+        0.089,
+        0.817
+      ],
+      "page": 1
+    },
+    {
+      "text": "156.62",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.596,
+        0.993,
+        0.628,
+        0.661
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-102693",
+      "field_hint": "po_number",
+      "bbox": [
+        0.759,
+        0.536,
+        0.16,
+        0.479
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEPIT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.488,
+        0.824,
+        0.724,
+        0.984
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced explicit Graphical User Interface 1 x 17.63 = 17.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.865,
+        0.447,
+        0.632,
+        0.458
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable mUobile data-warehouse 3 x 17.15 = 51.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.724,
+        0.781,
+        0.959,
+        0.222
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based empowering matrices 4 x 3.41 = 13.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.52,
+        0.598,
+        0.629,
+        0.57
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary dedicated software 1 x 7.5 = 6.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.284,
+        0.549,
+        0.412,
+        0.892
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive secondary flexibility 1 x 36.96 = 31.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.035,
+        0.435,
+        0.527,
+        0.723
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized modular standardization 2 x 21.02 = 35.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.338,
+        0.491,
+        0.101,
+        0.425
+      ],
+      "page": 1
+    }
+  ]
+}

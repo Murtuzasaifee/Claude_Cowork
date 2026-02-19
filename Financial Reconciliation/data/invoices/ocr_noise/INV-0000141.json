@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000141",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000141",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.177,
+        0.082,
+        0.807,
+        0.256
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.077,
+        0.893,
+        0.623,
+        0.697
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.892,
+        0.335,
+        0.872,
+        0.635
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Snyder",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.043,
+        0.373,
+        0.124,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "202-01-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.008,
+        0.143,
+        0.42,
+        0.422
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.102,
+        0.634,
+        0.676,
+        0.453
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.592,
+        0.794,
+        0.927,
+        0.575
+      ],
+      "page": 1
+    },
+    {
+      "text": "14.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.26,
+        0.756,
+        0.917,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-943019",
+      "field_hint": "po_number",
+      "bbox": [
+        0.004,
+        0.174,
+        0.506,
+        0.764
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.454,
+        0.27,
+        0.32,
+        0.961
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source empowering projection 2 x 7.46 = 14.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.831,
+        0.767,
+        0.538,
+        0.893
+      ],
+      "page": 1
+    }
+  ]
+}

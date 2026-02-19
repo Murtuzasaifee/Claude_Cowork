@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000186",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000186",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.184,
+        0.445,
+        0.793,
+        0.22
+      ],
+      "page": 1
+    },
+    {
+      "text": "invioce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.183,
+        0.28,
+        0.943,
+        0.221
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.95,
+        0.365,
+        0.392,
+        0.93
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hannah Garza",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.411,
+        0.529,
+        0.511,
+        0.589
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.802,
+        0.288,
+        0.368,
+        0.12
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.315,
+        0.959,
+        0.579,
+        0.971
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.929,
+        0.859,
+        0.143,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "107.73",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.751,
+        0.876,
+        0.711,
+        0.179
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-646417",
+      "field_hint": "po_number",
+      "bbox": [
+        0.702,
+        0.614,
+        0.584,
+        0.216
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.138,
+        0.131,
+        0.11,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound analyzing superstructure 1 x 4.54 = 4.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.004,
+        0.147,
+        0.196,
+        0.893
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound homogeneous intranet 1 x 5.35 = 5.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.935,
+        0.699,
+        0.73,
+        0.006
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined mission-critical hub 1 x 8.42 = 8.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.464,
+        0.877,
+        0.374,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable ohmogeneous orchestration 1 x 20.91 = 19.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.23,
+        0.611,
+        0.134,
+        0.293
+      ],
+      "page": 2
+    },
+    {
+      "text": "Polarized incremental core 1 x 25.11 = 23.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.985,
+        0.144,
+        0.243,
+        0.445
+      ],
+      "page": 2
+    },
+    {
+      "text": "Digitized composite parallelism 3 x 10.63 = 31.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.926,
+        0.699,
+        0.27,
+        0.064
+      ],
+      "page": 1
+    }
+  ]
+}

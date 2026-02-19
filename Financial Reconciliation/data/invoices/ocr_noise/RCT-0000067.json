@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000067",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000067",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.518,
+        0.769,
+        0.462,
+        0.433
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.69,
+        0.007,
+        0.291,
+        0.262
+      ],
+      "page": 1
+    },
+    {
+      "text": "eNwman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.189,
+        0.867,
+        0.554,
+        0.819
+      ],
+      "page": 1
+    },
+    {
+      "text": "Richard Key",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.39,
+        0.986,
+        0.246,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.326,
+        0.624,
+        0.829,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.551,
+        0.659,
+        0.901,
+        0.997
+      ],
+      "page": 1
+    },
+    {
+      "text": "SUD",
+      "field_hint": "currency",
+      "bbox": [
+        0.461,
+        0.887,
+        0.436,
+        0.845
+      ],
+      "page": 1
+    },
+    {
+      "text": "263.X33",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.054,
+        0.743,
+        0.159,
+        0.833
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-810614",
+      "field_hint": "po_number",
+      "bbox": [
+        0.607,
+        0.598,
+        0.622,
+        0.381
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.823,
+        0.165,
+        0.246,
+        0.85
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized client-server application 4 x 8.11 = 32.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.003,
+        0.245,
+        0.44,
+        0.643
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized secondary definition 5 x 12.41 = 58.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.795,
+        0.06,
+        0.18,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated logistical solution 2 x 11.48 = 22.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.609,
+        0.215,
+        0.558,
+        0.921
+      ],
+      "page": 1
+    }
+  ]
+}

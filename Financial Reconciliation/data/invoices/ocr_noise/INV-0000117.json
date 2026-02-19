@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000117",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000117",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.24,
+        0.136,
+        0.42,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.795,
+        0.373,
+        0.481,
+        0.059
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.698,
+        0.949,
+        0.091,
+        0.574
+      ],
+      "page": 1
+    },
+    {
+      "text": "Victoria Hudson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.844,
+        0.886,
+        0.109,
+        0.816
+      ],
+      "page": 1
+    },
+    {
+      "text": "0226-02-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.744,
+        0.227,
+        0.817,
+        0.794
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.2,
+        0.033,
+        0.071,
+        0.43
+      ],
+      "page": 1
+    },
+    {
+      "text": "GP",
+      "field_hint": "currency",
+      "bbox": [
+        0.906,
+        0.83,
+        0.654,
+        0.877
+      ],
+      "page": 1
+    },
+    {
+      "text": "60.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.711,
+        0.699,
+        0.227,
+        0.646
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-870899",
+      "field_hint": "po_number",
+      "bbox": [
+        0.413,
+        0.555,
+        0.213,
+        0.857
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.279,
+        0.472,
+        0.116,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group asynchronous open system 1 x 7.17 = 6.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.721,
+        0.926,
+        0.977,
+        0.202
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary human-resource firmware 1 x 7.25 = 7.25e",
+      "field_hint": "line_item",
+      "bbox": [
+        0.036,
+        0.332,
+        0.154,
+        0.775
+      ],
+      "page": 2
+    },
+    {
+      "text": "Business-focused hybrid utilization 1 x 12.06 = 12.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.183,
+        0.468,
+        0.297,
+        0.971
+      ],
+      "page": 2
+    },
+    {
+      "text": "Adaptive cohesive solution 1 x 7.81 = 7.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.764,
+        0.824,
+        0.337,
+        0.918
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive intermediate neural-net 1 x 24.46 = 24.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.273,
+        0.546,
+        0.039,
+        0.429
+      ],
+      "page": 1
+    }
+  ]
+}

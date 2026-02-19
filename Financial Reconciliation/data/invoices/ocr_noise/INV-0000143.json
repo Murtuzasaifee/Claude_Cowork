@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000143",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-00001d43",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.035,
+        0.305,
+        0.526,
+        0.099
+      ],
+      "page": 1
+    },
+    {
+      "text": "ivnoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.546,
+        0.449,
+        0.653,
+        0.056
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.032,
+        0.335,
+        0.792,
+        0.391
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharon Gibbs",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.07,
+        0.36,
+        0.409,
+        0.544
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.313,
+        0.06,
+        0.495,
+        0.137
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.012,
+        0.799,
+        0.216,
+        0.461
+      ],
+      "page": 1
+    },
+    {
+      "text": "229.39",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.654,
+        0.172,
+        0.094,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-378428",
+      "field_hint": "po_number",
+      "bbox": [
+        0.743,
+        0.473,
+        0.076,
+        0.39
+      ],
+      "page": 1
+    },
+    {
+      "text": "NE45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.87,
+        0.71,
+        0.279,
+        0.408
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused systemic hierarchy 1 x 19.61 = 16.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.547,
+        0.993,
+        0.068
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly intermediate parallelism 2 x 18.23 = 36.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.407,
+        0.983,
+        0.145,
+        0.226
+      ],
+      "page": 1
+    },
+    {
+      "text": "Team-oriented leadingedge toolset 6 x 10.21 = 58.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.902,
+        0.184,
+        0.144,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse contextuaWlly-based initiative 5 x 16.03 = 72.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.082,
+        0.954,
+        0.914,
+        0.664
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized actuating portal 1 x 10.67 = 10.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.823,
+        0.798,
+        0.474,
+        0.18
+      ],
+      "page": 2
+    }
+  ]
+}

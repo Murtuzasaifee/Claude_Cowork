@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000179",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000179",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.773,
+        0.943,
+        0.274,
+        0.614
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.904,
+        0.019,
+        0.896,
+        0.387
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.132,
+        0.122,
+        0.285,
+        0.784
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kari Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.773,
+        0.397,
+        0.323,
+        0.278
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-14",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.831,
+        0.164,
+        0.842,
+        0.297
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-28",
+      "field_hint": "due_date",
+      "bbox": [
+        0.816,
+        0.598,
+        0.46,
+        0.748
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.631,
+        0.301,
+        0.215,
+        0.821
+      ],
+      "page": 1
+    },
+    {
+      "text": "180.15",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.08,
+        0.668,
+        0.182,
+        0.414
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-495490",
+      "field_hint": "po_number",
+      "bbox": [
+        0.567,
+        0.088,
+        0.41,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "Monitored multi-tasking analyzer 4 x 18.85 = 64.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.218,
+        0.221,
+        0.111,
+        0.105
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered 5thgeneration array 2 x 7.88 = 15.76",
+      "field_hint": "line_item",
+      "bbox": [
+        0.773,
+        0.028,
+        0.401,
+        0.718
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reverse-engineered value-added circuit 1 x 17.02 = 14.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.034,
+        0.754,
+        0.195,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "Team-oriented encompassing strategy 1 x 21.76 = 18.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.419,
+        0.482,
+        0.8,
+        0.957
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone upward-trending data-warehouse 9 x 6.37  =57.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.563,
+        0.797,
+        0.265,
+        0.728
+      ],
+      "page": 1
+    }
+  ]
+}

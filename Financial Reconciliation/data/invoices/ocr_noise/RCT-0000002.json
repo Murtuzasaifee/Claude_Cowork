@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000002",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.617,
+        0.181,
+        0.578,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "Christina Castaneda",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.382,
+        0.382,
+        0.583,
+        0.937
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-21-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.234,
+        0.537,
+        0.093,
+        0.25
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.542,
+        0.754,
+        0.609,
+        0.016
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.794,
+        0.127,
+        0.654,
+        0.859
+      ],
+      "page": 1
+    },
+    {
+      "text": "321.35",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.673,
+        0.512,
+        0.188,
+        0.41
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-612438",
+      "field_hint": "po_number",
+      "bbox": [
+        0.517,
+        0.605,
+        0.952,
+        0.257
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET4y5",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.436,
+        0.612,
+        0.732,
+        0.508
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic reciprocal firmware 3 x 18.5 = 55.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.288,
+        0.284,
+        0.727,
+        0.177
+      ],
+      "page": 2
+    },
+    {
+      "text": "Vision-oriented systematic hub 3 x 43.19 = 129.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.344,
+        0.45,
+        0.204,
+        0.821
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized homogeneous database 1 x 15.57 = 14.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.974,
+        0.853,
+        0.634,
+        0.936
+      ],
+      "page": 2
+    },
+    {
+      "text": "Triple-buffered bottom-line approach 1 x 10.85 = 9.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.879,
+        0.921,
+        0.844,
+        0.866
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone modular budgetary management 1 x 30.39 = 27.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.605,
+        0.96,
+        0.283,
+        0.21
+      ],
+      "page": 2
+    },
+    {
+      "text": "Focused heuristic installation 1 x 8.59 = 7.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.405,
+        0.045,
+        0.458,
+        0.803
+      ],
+      "page": 2
+    },
+    {
+      "text": "Horizontal bandwidth-monitored encoding 1 x 24.41 =L 23.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.34,
+        0.136,
+        0.509,
+        0.455
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal secondary process improvement 2 x 8.2 = 15.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.611,
+        0.402,
+        0.377,
+        0.963
+      ],
+      "page": 1
+    }
+  ]
+}

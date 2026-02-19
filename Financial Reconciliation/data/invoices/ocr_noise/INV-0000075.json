@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000075",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "IN-0000075",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.304,
+        0.955,
+        0.549,
+        0.228
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.433,
+        0.947,
+        0.16,
+        0.969
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.067,
+        0.323,
+        0.477,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "Matthew Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.804,
+        0.416,
+        0.013,
+        0.308
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-07",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.684,
+        0.429,
+        0.122,
+        0.129
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.807,
+        0.864,
+        0.37,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.417,
+        0.209,
+        0.326,
+        0.233
+      ],
+      "page": 1
+    },
+    {
+      "text": "78.4",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.916,
+        0.973,
+        0.787,
+        0.555
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-134985",
+      "field_hint": "po_number",
+      "bbox": [
+        0.194,
+        0.127,
+        0.322,
+        0.633
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.593,
+        0.237,
+        0.82,
+        0.489
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable well-modulated encoding 1 x 17.4 = 14g.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.384,
+        0.148,
+        0.322,
+        0.529
+      ],
+      "page": 1
+    },
+    {
+      "text": "Implemented foreground info-mediaries 1 x 29.17 = 29.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.958,
+        0.266,
+        0.449,
+        0.777
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly bifurcated product 4 x 8.66 = 29.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.778,
+        0.474,
+        0.223,
+        0.003
+      ],
+      "page": 1
+    }
+  ]
+}

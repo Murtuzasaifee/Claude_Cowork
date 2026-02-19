@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000087",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000087",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.625,
+        0.06,
+        0.106,
+        0.852
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.311,
+        0.031,
+        0.799,
+        0.134
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.23,
+        0.348,
+        0.056,
+        0.206
+      ],
+      "page": 1
+    },
+    {
+      "text": "Julian Cardenas",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.333,
+        0.645,
+        0.508,
+        0.03
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.873,
+        0.716,
+        0.508,
+        0.586
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.451,
+        0.212,
+        0.259,
+        0.79
+      ],
+      "page": 1
+    },
+    {
+      "text": "29.784",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.704,
+        0.473,
+        0.489,
+        0.253
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-110142",
+      "field_hint": "po_number",
+      "bbox": [
+        0.391,
+        0.794,
+        0.245,
+        0.306
+      ],
+      "page": 1
+    },
+    {
+      "text": "ET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.387,
+        0.532,
+        0.511,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable national frame 1 x 16.75 = 16.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.96,
+        0.672,
+        0.364,
+        0.365
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse context-sensitive moratorium 2 x 13.95 = 23.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.785,
+        0.816,
+        0.562,
+        0.903
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive attitude-oriented forecast 6 x 30.68 = 184.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.583,
+        0.14,
+        0.022,
+        0.846
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless attitude-oriented time-frame 1 x 43.53 = 41.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.253,
+        0.978,
+        0.731,
+        0.603
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-engineered contextually-based contingency 3 x 12.53 = 31.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.574,
+        0.992,
+        0.854,
+        0.814
+      ],
+      "page": 1
+    }
+  ]
+}

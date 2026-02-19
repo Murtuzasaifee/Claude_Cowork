@@ -1,0 +1,31 @@
+Employee_ID,Name,Department,Job_Title,Hire_Date,Manager,Location,Employment_Type,Performance_Rating,Goals_Met_Percent,Projects_Completed,Training_Hours,Certifications,Attendance_Rate,Satisfaction_Score,Promotion_Eligible,Salary_Band,Tenure_Years,Last_Review_Date,Next_Review_Date,Skills_Assessment,Team_Size_Managed
+E1001,Jennifer Williams,Engineering,Senior Software Engineer,2019-03-15,Michael Chen,San Francisco,Full-Time,Exceeds Expectations,95,12,48,AWS Solutions Architect,98.5,4.2,Yes,Senior,4.8,2024-01-10,2024-07-10,Expert,0
+E1002,Robert Martinez,Sales,Account Executive,2020-07-22,Sarah Johnson,New York,Full-Time,Meets Expectations,88,8,24,Salesforce Certified,96.2,3.8,No,Mid,3.5,2024-01-15,2024-07-15,Proficient,0
+E1003,Lisa Anderson,Marketing,Marketing Manager,2018-01-10,David Lee,Chicago,Full-Time,Exceeds Expectations,92,15,36,Google Analytics IQ,99.1,4.5,Yes,Senior,6.0,2024-01-05,2024-07-05,Expert,5
+E1004,James Thompson,Engineering,DevOps Engineer,2021-05-18,Michael Chen,San Francisco,Full-Time,Meets Expectations,85,10,42,Kubernetes Admin,97.3,4.0,No,Mid,2.6,2024-01-20,2024-07-20,Proficient,0
+E1005,Maria Garcia,Customer Success,Customer Success Manager,2019-11-03,Emma Wilson,Austin,Full-Time,Exceeds Expectations,94,11,30,Customer Success Cert,98.7,4.3,Yes,Senior,4.2,2024-01-08,2024-07-08,Expert,3
+E1006,David Kim,Finance,Financial Analyst,2022-02-14,Richard Brown,Boston,Full-Time,Meets Expectations,87,7,28,CFA Level 2,95.8,3.7,No,Junior,1.9,2024-01-25,2024-07-25,Intermediate,0
+E1007,Emily Davis,Product,Product Manager,2017-09-20,David Lee,Seattle,Full-Time,Outstanding,98,18,40,Certified Scrum Master,99.5,4.8,Yes,Lead,6.3,2024-01-03,2024-07-03,Expert,4
+E1008,Michael Brown,Sales,Sales Development Rep,2023-01-09,Sarah Johnson,New York,Full-Time,Meets Expectations,82,6,20,N/A,94.5,3.5,No,Junior,1.0,2024-01-30,2024-07-30,Beginner,0
+E1009,Sarah Wilson,Engineering,QA Engineer,2020-10-12,Michael Chen,San Francisco,Full-Time,Exceeds Expectations,91,13,38,ISTQB Advanced,97.9,4.1,Yes,Mid,3.2,2024-01-12,2024-07-12,Proficient,0
+E1010,Christopher Lee,Marketing,Content Marketing Lead,2019-06-25,David Lee,Chicago,Full-Time,Exceeds Expectations,93,14,32,HubSpot Certified,98.3,4.4,Yes,Senior,4.5,2024-01-07,2024-07-07,Expert,2
+E1011,Jessica Taylor,Engineering,Frontend Developer,2021-08-30,Michael Chen,Remote,Full-Time,Meets Expectations,86,9,35,React Certified,96.7,3.9,No,Mid,2.4,2024-01-18,2024-07-18,Proficient,0
+E1012,Daniel Rodriguez,Customer Success,Support Specialist,2022-11-14,Emma Wilson,Austin,Full-Time,Meets Expectations,84,8,26,Zendesk Certified,95.2,3.6,No,Junior,1.1,2024-01-28,2024-07-28,Intermediate,0
+E1013,Amanda Martinez,Finance,Senior Accountant,2018-04-17,Richard Brown,Boston,Full-Time,Exceeds Expectations,90,10,34,CPA,99.0,4.2,Yes,Senior,5.7,2024-01-06,2024-07-06,Expert,1
+E1014,Ryan Thompson,Product,Associate Product Manager,2022-07-05,David Lee,Seattle,Full-Time,Meets Expectations,88,7,29,Product School Cert,96.4,3.8,No,Mid,1.5,2024-01-22,2024-07-22,Intermediate,0
+E1015,Michelle White,Sales,Enterprise Account Exec,2017-12-11,Sarah Johnson,New York,Full-Time,Outstanding,97,16,44,Enterprise Sales Master,99.2,4.7,Yes,Lead,6.1,2024-01-04,2024-07-04,Expert,0
+E1016,Kevin Harris,Engineering,Backend Developer,2020-02-28,Michael Chen,San Francisco,Full-Time,Exceeds Expectations,92,11,46,Python Certified,98.1,4.3,Yes,Mid,3.8,2024-01-11,2024-07-11,Proficient,0
+E1017,Laura Clark,Marketing,SEO Specialist,2021-11-22,David Lee,Remote,Full-Time,Meets Expectations,85,8,27,Google Analytics,96.9,3.7,No,Mid,2.1,2024-01-19,2024-07-19,Proficient,0
+E1018,Steven Lewis,Customer Success,Customer Success Lead,2018-08-06,Emma Wilson,Austin,Full-Time,Exceeds Expectations,94,13,33,ChurnZero Certified,98.6,4.4,Yes,Senior,5.4,2024-01-09,2024-07-09,Expert,6
+E1019,Nicole Walker,Finance,Finance Manager,2019-02-19,Richard Brown,Boston,Full-Time,Exceeds Expectations,91,12,37,MBA Finance,99.3,4.5,Yes,Senior,4.9,2024-01-05,2024-07-05,Expert,4
+E1020,Jason Hall,Engineering,Machine Learning Engineer,2020-09-14,Michael Chen,Remote,Full-Time,Outstanding,96,14,52,TensorFlow Certified,97.8,4.6,Yes,Senior,3.3,2024-01-13,2024-07-13,Expert,0
+E1021,Rebecca Allen,Sales,Sales Manager,2017-05-30,Sarah Johnson,New York,Full-Time,Exceeds Expectations,93,15,41,Sales Leadership Cert,99.1,4.5,Yes,Lead,6.6,2024-01-02,2024-07-02,Expert,8
+E1022,Timothy Young,Product,Senior Product Designer,2019-10-08,David Lee,Seattle,Full-Time,Exceeds Expectations,90,13,39,UX Design Master,98.4,4.2,Yes,Senior,4.2,2024-01-14,2024-07-14,Expert,2
+E1023,Melissa King,Engineering,Data Engineer,2021-04-26,Michael Chen,San Francisco,Full-Time,Meets Expectations,87,9,43,Snowflake Certified,96.5,4.0,No,Mid,2.7,2024-01-17,2024-07-17,Proficient,0
+E1024,Andrew Wright,Customer Success,Onboarding Specialist,2022-06-13,Emma Wilson,Remote,Full-Time,Meets Expectations,86,7,25,Customer Onboarding,95.7,3.8,No,Junior,1.5,2024-01-26,2024-07-26,Intermediate,0
+E1025,Stephanie Scott,Marketing,Demand Generation Manager,2018-11-27,David Lee,Chicago,Full-Time,Exceeds Expectations,92,14,36,Marketo Certified,98.9,4.4,Yes,Senior,5.1,2024-01-08,2024-07-08,Expert,3
+E1026,Brian Green,Finance,FP&A Analyst,2021-01-18,Richard Brown,Boston,Full-Time,Meets Expectations,88,8,31,Financial Modeling,97.1,3.9,No,Mid,3.0,2024-01-21,2024-07-21,Proficient,0
+E1027,Angela Adams,Engineering,Security Engineer,2019-07-09,Michael Chen,Remote,Full-Time,Exceeds Expectations,95,12,45,CISSP,98.7,4.3,Yes,Senior,4.5,2024-01-10,2024-07-10,Expert,0
+E1028,Patrick Baker,Sales,Inside Sales Rep,2023-03-20,Sarah Johnson,New York,Full-Time,Meets Expectations,83,5,22,N/A,94.8,3.6,No,Junior,0.8,2024-01-29,2024-07-29,Beginner,0
+E1029,Christine Nelson,Product,Technical Product Manager,2018-03-05,David Lee,Seattle,Full-Time,Outstanding,97,17,42,Agile Certified PM,99.4,4.7,Yes,Lead,5.8,2024-01-04,2024-07-04,Expert,5
+E1030,Gregory Carter,Engineering,Senior DevOps Engineer,2017-10-23,Michael Chen,San Francisco,Full-Time,Exceeds Expectations,93,14,50,AWS DevOps Pro,98.8,4.5,Yes,Lead,6.2,2024-01-06,2024-07-06,Expert,3

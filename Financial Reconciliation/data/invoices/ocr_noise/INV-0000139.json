@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000139",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000139",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.277,
+        0.938,
+        0.776,
+        0.298
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.67,
+        0.724,
+        0.583,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.824,
+        0.89,
+        0.329,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley Mccarthy",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.945,
+        0.742,
+        0.843,
+        0.051
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.584,
+        0.731,
+        0.609,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.82,
+        0.299,
+        0.54,
+        0.639
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.082,
+        0.014,
+        0.328,
+        0.581
+      ],
+      "page": 1
+    },
+    {
+      "text": "201.65",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.925,
+        0.811,
+        0.79,
+        0.795
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-177103",
+      "field_hint": "po_number",
+      "bbox": [
+        0.874,
+        0.523,
+        0.391,
+        0.523
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.638,
+        0.21,
+        0.503,
+        0.752
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused global installation1  x 25.35 = 25.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.246,
+        0.986,
+        0.492,
+        0.539
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered clear-thinking knowledgebase 2 x 18.16 = 36.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.011,
+        0.821,
+        0.738,
+        0.617
+      ],
+      "page": 2
+    },
+    {
+      "text": "Pre-emptive global solution 3 x 30.05 = 85.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.833,
+        0.445,
+        0.577,
+        0.37
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated mobile software 1 x 10.15 = 10.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.423,
+        0.208,
+        0.823,
+        0.374
+      ],
+      "page": 2
+    },
+    {
+      "text": "Horizontal tangible software 1 x 4.98 = 4.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.505,
+        0.751,
+        0.755,
+        0.465
+      ],
+      "page": 2
+    },
+    {
+      "text": "Compatible optimizing customer loyalty 1 x 4.11 = 4.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.127,
+        0.395,
+        0.746,
+        0.122
+      ],
+      "page": 2
+    }
+  ]
+}

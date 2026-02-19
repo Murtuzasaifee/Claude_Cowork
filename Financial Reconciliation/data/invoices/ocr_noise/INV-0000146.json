@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000146",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INrV-0000146",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.881,
+        0.721,
+        0.81,
+        0.706
+      ],
+      "page": 1
+    },
+    {
+      "text": "in6voice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.138,
+        0.222,
+        0.447,
+        0.922
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bek-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.034,
+        0.347,
+        0.887,
+        0.497
+      ],
+      "page": 1
+    },
+    {
+      "text": "Gina Prince",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.468,
+        0.79,
+        0.359,
+        0.971
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-10-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.996,
+        0.017,
+        0.295,
+        0.159
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.95,
+        0.552,
+        0.332,
+        0.549
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.628,
+        0.786,
+        0.975,
+        0.346
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-301603",
+      "field_hint": "po_number",
+      "bbox": [
+        0.114,
+        0.032,
+        0.465,
+        0.173
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.024,
+        0.085,
+        0.562,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced systematic secured line 6 x 32.4 = 1746.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.176,
+        0.984,
+        0.127,
+        0.735
+      ],
+      "page": 2
+    },
+    {
+      "text": "Implemented bottom-line emulation 1 x 11.56 = 11.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.125,
+        0.655,
+        0.264,
+        0.532
+      ],
+      "page": 1
+    },
+    {
+      "text": "Right-sized multi-state Graphical User Interface 1 x 13.43 = 13.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.325,
+        0.956,
+        0.772,
+        0.731
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated 3rdgeneration throughput 3 x 9.99 = 25.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.971,
+        0.305,
+        0.178,
+        0.144
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic solution-oriented conglomeration 1 x 16.13 = 13.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.634,
+        0.383,
+        0.966,
+        0.107
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated homogeneous architecture 1 x 27.24= 23.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.744,
+        0.626,
+        0.205,
+        0.732
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible stable standardization 4 x 9.87 = 33.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.35,
+        0.961,
+        0.083,
+        0.999
+      ],
+      "page": 2
+    }
+  ]
+}

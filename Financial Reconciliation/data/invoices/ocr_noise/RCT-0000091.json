@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000091",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000091",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.386,
+        0.662,
+        0.929,
+        0.605
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.287,
+        0.426,
+        0.879,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.256,
+        0.034,
+        0.556,
+        0.679
+      ],
+      "page": 1
+    },
+    {
+      "text": "Angela Holloway",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.564,
+        0.736,
+        0.865,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.315,
+        0.271,
+        0.075,
+        0.751
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.937,
+        0.458,
+        0.151,
+        0.429
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.625,
+        0.653,
+        0.45,
+        0.611
+      ],
+      "page": 1
+    },
+    {
+      "text": "108.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.052,
+        0.967,
+        0.279,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-793856",
+      "field_hint": "po_number",
+      "bbox": [
+        0.266,
+        0.676,
+        0.598,
+        0.998
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.247,
+        0.936,
+        0.547,
+        0.27
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased 3rdgeneration service-desk 1 x 7.69 = 6.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.345,
+        0.802,
+        0.838,
+        0.373
+      ],
+      "page": 2
+    },
+    {
+      "text": "Persevering foreground neural-net 1 x 17.79 = 16.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.697,
+        0.589,
+        0.757,
+        0.834
+      ],
+      "page": 1
+    }
+  ]
+}

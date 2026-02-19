@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000119",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000119",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.34,
+        0.438,
+        0.044,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.191,
+        0.129,
+        0.595,
+        0.05
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.674,
+        0.644,
+        0.913,
+        0.666
+      ],
+      "page": 1
+    },
+    {
+      "text": "Eric Robinson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.957,
+        0.622,
+        0.97,
+        0.773
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.003,
+        0.348,
+        0.938,
+        0.878
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.699,
+        0.76,
+        0.064,
+        0.543
+      ],
+      "page": 1
+    },
+    {
+      "text": "37.86",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.955,
+        0.99,
+        0.337,
+        0.615
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-955015",
+      "field_hint": "po_number",
+      "bbox": [
+        0.359,
+        0.76,
+        0.244,
+        0.374
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET5",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.071,
+        0.059,
+        0.964,
+        0.569
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated asynchronous migration 3 x 5.67 = 17.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.398,
+        0.428,
+        0.914,
+        0.824
+      ],
+      "page": 1
+    }
+  ]
+}

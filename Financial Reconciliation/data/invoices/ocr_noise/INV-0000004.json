@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000004",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000004",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.588,
+        0.986,
+        0.378,
+        0.39
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.1,
+        0.675,
+        0.336,
+        0.503
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.615,
+        0.363,
+        0.436,
+        0.497
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.84,
+        0.536,
+        0.287,
+        0.048
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-15",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.226,
+        0.743,
+        0.092,
+        0.844
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.067,
+        0.801,
+        0.475,
+        0.21
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.302,
+        0.804,
+        0.433,
+        0.54
+      ],
+      "page": 1
+    },
+    {
+      "text": "97.85",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.625,
+        0.453,
+        0.763,
+        0.181
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.577,
+        0.213,
+        0.962,
+        0.742
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed fresh-thinking neural-net 1 x 23.65 = 20.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.533,
+        0.614,
+        0.769,
+        0.434
+      ],
+      "page": 2
+    },
+    {
+      "text": "Secured mobile encryptino 2 x 5.96 = 11.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.462,
+        0.24,
+        0.746,
+        0.766
+      ],
+      "page": 1
+    },
+    {
+      "text": "Right-sized contextually-based adapter 1 x 10.88 = 10.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.911,
+        0.634,
+        0.846,
+        0.267
+      ],
+      "page": 1
+    },
+    {
+      "text": "Right-sized dynamic contingency 1 x 10.37 = 10.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.601,
+        0.406,
+        0.114,
+        0.192
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory fault-tolerant artificial intelligence 2 x 16.0 = 30.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.485,
+        0.991,
+        0.422,
+        0.906
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000025",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000025",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.116,
+        0.088,
+        0.089,
+        0.741
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.116,
+        0.368,
+        0.853,
+        0.954
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Icn",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.19,
+        0.388,
+        0.424,
+        0.771
+      ],
+      "page": 1
+    },
+    {
+      "text": "Christopher Bauer",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.126,
+        0.664,
+        0.591,
+        0.107
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.816,
+        0.297,
+        0.219,
+        0.68
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.747,
+        0.849,
+        0.828,
+        0.034
+      ],
+      "page": 1
+    },
+    {
+      "text": "22.04",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.689,
+        0.273,
+        0.848,
+        0.574
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-392136",
+      "field_hint": "po_number",
+      "bbox": [
+        0.291,
+        0.966,
+        0.059,
+        0.81
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.848,
+        0.934,
+        0.225,
+        0.736
+      ],
+      "page": 1
+    },
+    {
+      "text": "Centralized stable ability 1 x 13.49 = 11.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.857,
+        0.727,
+        0.299,
+        0.815
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000091",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000091",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.017,
+        0.234,
+        0.486,
+        0.219
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.934,
+        0.11,
+        0.721,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.658,
+        0.799,
+        0.746,
+        0.02
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Rasmussen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.241,
+        0.283,
+        0.81,
+        0.758
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.614,
+        0.799,
+        0.53,
+        0.183
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.149,
+        0.02,
+        0.768,
+        0.77
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.481,
+        0.187,
+        0.733,
+        0.721
+      ],
+      "page": 1
+    },
+    {
+      "text": "33.26",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.272,
+        0.199,
+        0.402,
+        0.842
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-904711",
+      "field_hint": "po_number",
+      "bbox": [
+        0.096,
+        0.472,
+        0.196,
+        0.245
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound explicit capability 1 x 9.55 = 9.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.241,
+        0.333,
+        0.228,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive globla flexibility 1 x 14.0 = 12.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.411,
+        0.044,
+        0.467,
+        0.535
+      ],
+      "page": 2
+    }
+  ]
+}

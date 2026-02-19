@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000122",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000122",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.663,
+        0.773,
+        0.251,
+        0.343
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.541,
+        0.849,
+        0.581,
+        0.923
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.293,
+        0.11,
+        0.674,
+        0.966
+      ],
+      "page": 1
+    },
+    {
+      "text": "Gary Newton",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.278,
+        0.215,
+        0.474,
+        0.713
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-Q09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.793,
+        0.456,
+        0.454,
+        0.068
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.576,
+        0.101,
+        0.32,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.763,
+        0.119,
+        0.264,
+        0.859
+      ],
+      "page": 1
+    },
+    {
+      "text": "349.79",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.714,
+        0.449,
+        0.913,
+        0.941
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-240829",
+      "field_hint": "po_number",
+      "bbox": [
+        0.694,
+        0.549,
+        0.067,
+        0.969
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.118,
+        0.849,
+        0.758,
+        0.624
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide leadingedge Local Area Network 1 x 9.91 = 9.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.912,
+        0.165,
+        0.577,
+        0.674
+      ],
+      "page": 1
+    },
+    {
+      "text": "Total local frame 11 x 31.26 = 292.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.638,
+        0.292,
+        0.719,
+        0.348
+      ],
+      "page": 2
+    },
+    {
+      "text": "Operative neutral system engine 1 x 5.73 = 4.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.193,
+        0.713,
+        0.062,
+        0.795
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled actuating Graphic Interface 1 x 7.52 = 6.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.124,
+        0.321,
+        0.565,
+        0.971
+      ],
+      "page": 1
+    }
+  ]
+}

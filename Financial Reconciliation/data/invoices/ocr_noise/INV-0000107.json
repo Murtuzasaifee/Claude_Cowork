@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "doc_id": "INV-0000107",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000107",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.842,
+        0.137,
+        0.81,
+        0.462
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jculie Jackson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.207,
+        0.806,
+        0.737,
+        0.413
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.276,
+        0.943,
+        0.489,
+        0.424
+      ],
+      "page": 1
+    },
+    {
+      "text": "61.69",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.366,
+        0.107,
+        0.593,
+        0.868
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-119116",
+      "field_hint": "po_number",
+      "bbox": [
+        0.061,
+        0.084,
+        0.508,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "NvET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.08,
+        0.048,
+        0.87,
+        0.361
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated national productivity 1 x 14.41 = 12.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.3,
+        0.801,
+        0.175,
+        0.704
+      ],
+      "page": 1
+    }
+  ]
+}

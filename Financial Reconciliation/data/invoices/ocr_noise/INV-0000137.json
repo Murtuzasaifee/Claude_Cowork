@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000137",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000137",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.126,
+        0.324,
+        0.344,
+        0.597
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoic",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.178,
+        0.939,
+        0.181,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.635,
+        0.66,
+        0.44,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ellen Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.389,
+        0.541,
+        0.685,
+        0.326
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.326,
+        0.096,
+        0.824,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "2062-02-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.287,
+        0.729,
+        0.218,
+        0.166
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.056,
+        0.741,
+        0.394,
+        0.658
+      ],
+      "page": 1
+    },
+    {
+      "text": "123.71",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.068,
+        0.717,
+        0.472,
+        0.923
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-124302",
+      "field_hint": "po_number",
+      "bbox": [
+        0.463,
+        0.157,
+        0.772,
+        0.536
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.347,
+        0.321,
+        0.675,
+        0.554
+      ],
+      "page": 1
+    },
+    {
+      "text": "Monitored incremental encoding 5 x 12.77 = 60.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.305,
+        0.681,
+        0.346,
+        0.713
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable zero-defeFct hardware 2 x 5.73 = 10.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.368,
+        0.084,
+        0.067,
+        0.336
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned static superstructure 2 x 19.45 = 36.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.363,
+        0.599,
+        0.258,
+        0.454
+      ],
+      "page": 1
+    }
+  ]
+}

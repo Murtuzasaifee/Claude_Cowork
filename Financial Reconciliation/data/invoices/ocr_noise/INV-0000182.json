@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000182",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000812",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.155,
+        0.013,
+        0.278,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "invocice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.001,
+        0.092,
+        0.726,
+        0.554
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.228,
+        0.89,
+        0.102,
+        0.115
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Juarez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.826,
+        0.946,
+        0.314,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.146,
+        0.766,
+        0.531,
+        0.131
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.437,
+        0.118,
+        0.7,
+        0.665
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.041,
+        0.759,
+        0.524,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "222.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.895,
+        0.102,
+        0.288,
+        0.867
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-202430",
+      "field_hint": "po_number",
+      "bbox": [
+        0.077,
+        0.333,
+        0.759,
+        0.787
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.93,
+        0.263,
+        0.47,
+        0.41
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated mission-critical definition 1 x 33.79 = 32.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.629,
+        0.551,
+        0.175,
+        0.642
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mandatory web-enabled intranet 2 x 27.57 = 46.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.023,
+        0.222,
+        0.344,
+        0.981
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synchronized tertiary contingency 1 x 8.16 = 8.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.674,
+        0.227,
+        0.558,
+        0.773
+      ],
+      "page": 2
+    },
+    {
+      "text": "Future-proofed holistic success 1 x 57.4 = 48.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.661,
+        0.725,
+        0.719,
+        0.251
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced reciprocal capability 1 x 9.9 = 8.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.576,
+        0.319,
+        0.332,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased homogeneous open architecture 1 x 44.83 = 44.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.592,
+        0.306,
+        0.768,
+        0.545
+      ],
+      "page": 1
+    }
+  ]
+}

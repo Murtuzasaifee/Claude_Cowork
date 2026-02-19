@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000029",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000029",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.933,
+        0.643,
+        0.826,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.488,
+        0.356,
+        0.616,
+        0.329
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velaszquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.355,
+        0.101,
+        0.492,
+        0.085
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jacqueline Andrwes",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.007,
+        0.769,
+        0.25,
+        0.471
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.892,
+        0.536,
+        0.269,
+        0.989
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.14,
+        0.747,
+        0.006,
+        0.884
+      ],
+      "page": 1
+    },
+    {
+      "text": "ED",
+      "field_hint": "currency",
+      "bbox": [
+        0.134,
+        0.421,
+        0.331,
+        0.032
+      ],
+      "page": 1
+    },
+    {
+      "text": "246.02",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.96,
+        0.983,
+        0.119,
+        0.489
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-400850",
+      "field_hint": "po_number",
+      "bbox": [
+        0.127,
+        0.751,
+        0.78,
+        0.4
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.826,
+        0.131,
+        0.958,
+        0.793
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused needs-based encryption 2 x 12.63 = 21.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.014,
+        0.684,
+        0.052,
+        0.83
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless mission-critical model 2 x 6.23 = 10.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.434,
+        0.289,
+        0.486,
+        0.761
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized discrete moderator 1 x 32.05 = 32.05",
+      "field_hint": "line_item",
+      "bbox": [
+        0.187,
+        0.281,
+        0.115,
+        0.264
+      ],
+      "page": 2
+    },
+    {
+      "text": "Adaptive systematic Graphical User Interface 3 x 15.08 = 40.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.198,
+        0.706,
+        0.81,
+        0.701
+      ],
+      "page": 2
+    },
+    {
+      "text": "Realigned solution-oriented emulation 4 Ox 14.59 = 52.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.149,
+        0.12,
+        0.401,
+        0.274
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric context-sensitive structure 1 x 33.32 = 33.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.616,
+        0.091,
+        0.051,
+        0.407
+      ],
+      "page": 1
+    },
+    {
+      "text": "Future-proofed 24hour ability 2 x 12.24 = 23.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.222,
+        0.426,
+        0.061,
+        0.427
+      ],
+      "page": 1
+    }
+  ]
+}

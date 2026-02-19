@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000138",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000138",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.141,
+        0.438,
+        0.529,
+        0.743
+      ],
+      "page": 1
+    },
+    {
+      "text": "nvoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.356,
+        0.3,
+        0.806,
+        0.571
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.901,
+        0.203,
+        0.333,
+        0.488
+      ],
+      "page": 1
+    },
+    {
+      "text": "James Smith MD",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.125,
+        0.218,
+        0.083,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.644,
+        0.918,
+        0.98,
+        0.427
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.175,
+        0.914,
+        0.068,
+        0.794
+      ],
+      "page": 1
+    },
+    {
+      "text": "489.46",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.01,
+        0.827,
+        0.435,
+        0.316
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-18574",
+      "field_hint": "po_number",
+      "bbox": [
+        0.409,
+        0.832,
+        0.213,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.784,
+        0.05,
+        0.512,
+        0.863
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary secondary secured line 1 x 7.1 = 7.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.188,
+        0.279,
+        0.382,
+        0.088
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable high-level alliance 2 x 14.99 = 29.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.163,
+        0.809,
+        0.589,
+        0.065
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric non-volatile service-desk 14 x 24.62 = 344.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.137,
+        0.605,
+        0.257,
+        0.376
+      ],
+      "page": 1
+    },
+    {
+      "text": "Networked analyzing matrix 3 x 10.21 = 29.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.053,
+        0.588,
+        0.586,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive encompassing Internet solution 1 x 18.08 = 16.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.554,
+        0.48,
+        0.577,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized maximized knowledge user 1 x 15.63 = 13.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.34,
+        0.095,
+        0.085,
+        0.594
+      ],
+      "page": 2
+    }
+  ]
+}

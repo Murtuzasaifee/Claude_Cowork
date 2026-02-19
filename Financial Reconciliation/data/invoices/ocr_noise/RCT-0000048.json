@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000048",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000048",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.782,
+        0.964,
+        0.919,
+        0.519
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.428,
+        0.543,
+        0.909,
+        0.548
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.563,
+        0.635,
+        0.145,
+        0.241
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.255,
+        0.364,
+        0.311,
+        0.421
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.738,
+        0.944,
+        0.266,
+        0.393
+      ],
+      "page": 1
+    },
+    {
+      "text": "GPB",
+      "field_hint": "currency",
+      "bbox": [
+        0.228,
+        0.457,
+        0.345,
+        0.169
+      ],
+      "page": 1
+    },
+    {
+      "text": "117.98",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.122,
+        0.358,
+        0.302,
+        0.513
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-378095",
+      "field_hint": "po_number",
+      "bbox": [
+        0.253,
+        0.079,
+        0.439,
+        0.544
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.703,
+        0.892,
+        0.073,
+        0.539
+      ],
+      "page": 1
+    },
+    {
+      "text": "Self-enabling tertiary encryption 1 x 12.31 = 12.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.917,
+        0.86,
+        0.877,
+        0.076
+      ],
+      "page": 2
+    },
+    {
+      "text": "Business-focused zero administration pricing structure 2 x 6.68 = 11.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.748,
+        0.783,
+        0.342,
+        0.709
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric systemic database 1 x 26.79 = 26.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.258,
+        0.742,
+        0.501,
+        0.247
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergized multi-state hardware 1 x 20.29 = 17.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.943,
+        0.971,
+        0.992,
+        0.5
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic cohesive paradigm 1 x 8.66 = 7.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.198,
+        0.877,
+        0.677,
+        0.632
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed discrete encryption 3 x 10.89 = 27.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.567,
+        0.675,
+        0.788,
+        0.029
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000007",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000007",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.684,
+        0.458,
+        0.01,
+        0.133
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.687,
+        0.713,
+        0.708,
+        0.736
+      ],
+      "page": 1
+    },
+    {
+      "text": "cSott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.333,
+        0.235,
+        0.908,
+        0.997
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andrew Gonzalez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.598,
+        0.748,
+        0.046,
+        0.254
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-20",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.395,
+        0.371,
+        0.968,
+        0.56
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.504,
+        0.93,
+        0.878,
+        0.132
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.142,
+        0.117,
+        0.044,
+        0.128
+      ],
+      "page": 1
+    },
+    {
+      "text": "92.18",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.748,
+        0.926,
+        0.283,
+        0.877
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-804314",
+      "field_hint": "po_number",
+      "bbox": [
+        0.264,
+        0.313,
+        0.893,
+        0.316
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.151,
+        0.853,
+        0.657,
+        0.798
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded zeor-defect array 1 x 7.87 = 7.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.036,
+        0.26,
+        0.706,
+        0.436
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused executive definition 1 x 26.3 = 24.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.485,
+        0.493,
+        0.846,
+        0.867
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust even-keeled migration 1 x 27.82 = 27.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.284,
+        0.835,
+        0.75,
+        0.823
+      ],
+      "page": 2
+    },
+    {
+      "text": "Automated 24hour workforce 2 x 6.5 = 11.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.584,
+        0.972,
+        0.526,
+        0.571
+      ],
+      "page": 1
+    }
+  ]
+}

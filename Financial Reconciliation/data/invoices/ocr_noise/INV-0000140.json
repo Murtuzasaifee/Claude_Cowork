@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000140",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.853,
+        0.985,
+        0.307,
+        0.646
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Ellciott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.574,
+        0.69,
+        0.328,
+        0.535
+      ],
+      "page": 1
+    },
+    {
+      "text": "Elizabeth Pacheco",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.123,
+        0.283,
+        0.061,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-02",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.4,
+        0.906,
+        0.933,
+        0.795
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.758,
+        0.14,
+        0.44,
+        0.217
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.401,
+        0.245,
+        0.353,
+        0.798
+      ],
+      "page": 1
+    },
+    {
+      "text": "30.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.322,
+        0.874,
+        0.751,
+        0.971
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-684929",
+      "field_hint": "po_number",
+      "bbox": [
+        0.292,
+        0.666,
+        0.086,
+        0.334
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.585,
+        0.568,
+        0.357,
+        0.79
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed homogeneous initiative 1 x 9.85 = 9.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.246,
+        0.957,
+        0.613,
+        0.66
+      ],
+      "page": 2
+    },
+    {
+      "text": "Persistent needs-based collaboration 1 x 13.72 = 13.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.182,
+        0.028,
+        0.158,
+        0.595
+      ],
+      "page": 2
+    }
+  ]
+}

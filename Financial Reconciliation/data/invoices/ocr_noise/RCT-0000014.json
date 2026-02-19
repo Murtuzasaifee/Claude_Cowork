@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000014",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000014",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.214,
+        0.779,
+        0.967,
+        0.23
+      ],
+      "page": 1
+    },
+    {
+      "text": "recepit",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.007,
+        0.272,
+        0.047,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "BeckN-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.227,
+        0.405,
+        0.672,
+        0.225
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Andersen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.568,
+        0.442,
+        0.82,
+        0.063
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.022,
+        0.704,
+        0.854,
+        0.891
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.721,
+        0.805,
+        0.774,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "225.92",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.39,
+        0.025,
+        0.174,
+        0.85
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-501312",
+      "field_hint": "po_number",
+      "bbox": [
+        0.415,
+        0.897,
+        0.471,
+        0.591
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.068,
+        0.886,
+        0.864,
+        0.523
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive executive moderator 2 x 2.27 = 4.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.088,
+        0.126,
+        0.128,
+        0.196
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering multimedia budgetary management 6 x 34.31 = 205.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.166,
+        0.867,
+        0.805,
+        0.083
+      ],
+      "page": 1
+    }
+  ]
+}

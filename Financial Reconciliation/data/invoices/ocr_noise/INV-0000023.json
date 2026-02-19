@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000023",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000023",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.681,
+        0.254,
+        0.602,
+        0.952
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiec",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.712,
+        0.384,
+        0.706,
+        0.974
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.876,
+        0.166,
+        0.427,
+        0.692
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joan Bridges",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.887,
+        0.586,
+        0.734,
+        0.752
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.109,
+        0.573,
+        0.798,
+        0.814
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.748,
+        0.699,
+        0.006,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "AEDH",
+      "field_hint": "currency",
+      "bbox": [
+        0.417,
+        0.288,
+        0.431,
+        0.176
+      ],
+      "page": 1
+    },
+    {
+      "text": "6.13",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.503,
+        0.11,
+        0.567,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-872343",
+      "field_hint": "po_number",
+      "bbox": [
+        0.809,
+        0.192,
+        0.983,
+        0.872
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.109,
+        0.636,
+        0.08,
+        0.086
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group asynchronous strategy 2 x5 .2 = 10.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.235,
+        0.485,
+        0.761,
+        0.01
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exgtended scalable contingency 2 x 20.37 = 40.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.211,
+        0.792,
+        0.376,
+        0.52
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced foreground implementation 1 x 6.25 = 6.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.337,
+        0.429,
+        0.371,
+        0.89
+      ],
+      "page": 1
+    }
+  ]
+}

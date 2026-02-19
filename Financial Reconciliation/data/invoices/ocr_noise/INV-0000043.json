@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000043",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000043",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.107,
+        0.417,
+        0.425,
+        0.028
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.011,
+        0.303,
+        0.645,
+        0.893
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velaquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.468,
+        0.723,
+        0.277,
+        0.982
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ellen Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.503,
+        0.349,
+        0.706,
+        0.391
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-07",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.352,
+        0.719,
+        0.339,
+        0.715
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.763,
+        0.303,
+        0.394,
+        0.916
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.472,
+        0.659,
+        0.576,
+        0.927
+      ],
+      "page": 1
+    },
+    {
+      "text": "57.77",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.129,
+        0.324,
+        0.955,
+        0.348
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-991597",
+      "field_hint": "po_number",
+      "bbox": [
+        0.045,
+        0.852,
+        0.159,
+        0.097
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.476,
+        0.76,
+        0.981,
+        0.809
+      ],
+      "page": 1
+    },
+    {
+      "text": "Implemented contextually-based hub 1 x 12.11 = 12.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.9,
+        0.174,
+        0.892,
+        0.756
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamles modular framework 1 x 9.81 = 8.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.037,
+        0.75,
+        0.442,
+        0.374
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic 24/7 installation 1 x 21.38 = 18.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.321,
+        0.699,
+        0.378,
+        0.989
+      ],
+      "page": 2
+    },
+    {
+      "text": "Down-sized client-driven hub1 x 18.72 = 15.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.679,
+        0.225,
+        0.742,
+        0.434
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000074",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000074",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.069,
+        0.775,
+        0.906,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.779,
+        0.099,
+        0.607,
+        0.19
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.248,
+        0.981,
+        0.203,
+        0.238
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joan Bridges",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.368,
+        0.303,
+        0.465,
+        0.871
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-07",
+      "field_hint": "due_date",
+      "bbox": [
+        0.12,
+        0.771,
+        0.264,
+        0.451
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.147,
+        0.786,
+        0.011,
+        0.967
+      ],
+      "page": 1
+    },
+    {
+      "text": "739.5",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.704,
+        0.874,
+        0.17,
+        0.899
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-708502",
+      "field_hint": "po_number",
+      "bbox": [
+        0.212,
+        0.911,
+        0.82,
+        0.745
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.847,
+        0.374,
+        0.529,
+        0.454
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile methodical leverage 1 x 9.17 = 9.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.355,
+        0.094,
+        0.952,
+        0.237
+      ],
+      "page": 2
+    },
+    {
+      "text": "Object-based next generation database 1 x 16.22 = 16.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.763,
+        0.069,
+        0.057,
+        0.347
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust eco-centric ability 1 x 4.82 = 4.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.774,
+        0.607,
+        0.548,
+        0.247
+      ],
+      "page": 2
+    },
+    {
+      "text": "Visionary content-based matrices 1 x 9.43 = 9.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.995,
+        0.376,
+        0.644,
+        0.028
+      ],
+      "page": 2
+    },
+    {
+      "text": "Operative contextually-based concept 1 x 16.62 = 15.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.3,
+        0.386,
+        0.704,
+        0.801
+      ],
+      "page": 1
+    },
+    {
+      "text": "Quality-focused value-added Graphic Interface 1 x 12.28 = 12.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.828,
+        0.979,
+        0.334,
+        0.203
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000192",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.776,
+        0.64,
+        0.46,
+        0.402
+      ],
+      "page": 1
+    },
+    {
+      "text": "AshleyLLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.444,
+        0.831,
+        0.515,
+        0.57
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sergio Griffin",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.397,
+        0.95,
+        0.99,
+        0.325
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.602,
+        0.892,
+        0.538,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.242,
+        0.318,
+        0.535,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.465,
+        0.434,
+        0.975,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "541.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.96,
+        0.532,
+        0.317,
+        0.924
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-214682",
+      "field_hint": "po_number",
+      "bbox": [
+        0.291,
+        0.773,
+        0.109,
+        0.947
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.583,
+        0.572,
+        0.953,
+        0.139
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly incremental array 3 x 9.91 = 29.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.867,
+        0.351,
+        0.093,
+        0.533
+      ],
+      "page": 1
+    }
+  ]
+}

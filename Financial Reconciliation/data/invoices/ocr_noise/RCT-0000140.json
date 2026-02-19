@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000140",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-000140",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.775,
+        0.668,
+        0.241,
+        0.484
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.246,
+        0.809,
+        0.86,
+        0.58
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.775,
+        0.012,
+        0.42,
+        0.183
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jacqueline Andrews",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.29,
+        0.038,
+        0.141,
+        0.913
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.311,
+        0.952,
+        0.552,
+        0.605
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.337,
+        0.638,
+        0.55,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.962,
+        0.099,
+        0.792,
+        0.245
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-3c32542",
+      "field_hint": "po_number",
+      "bbox": [
+        0.077,
+        0.866,
+        0.844,
+        0.89
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.395,
+        0.709,
+        0.884,
+        0.064
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-architected tangible intranet 2 x 14.13 = 24.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.643,
+        0.184,
+        0.956,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic foregAround function 1 x 14.91 = 14.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.552,
+        0.763,
+        0.557,
+        0.81
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed modular firmware 1 x 1.284 = 12.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.986,
+        0.054,
+        0.686,
+        0.453
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable coherent alliance 3 x 10.72 = 32.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.195,
+        0.01,
+        0.894,
+        0.155
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized national system engine 1 x 8.68 = 8.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.665,
+        0.177,
+        0.796,
+        0.482
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-architected disintermediate migration 7 x 15.49 = 97.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.285,
+        0.285,
+        0.825,
+        0.893
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary reciprocal artificial intelligence 5 x 15.12 = 71.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.843,
+        0.616,
+        0.063,
+        0.168
+      ],
+      "page": 1
+    }
+  ]
+}

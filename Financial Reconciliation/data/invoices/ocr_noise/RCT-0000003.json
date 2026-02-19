@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000003",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000003",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.106,
+        0.7,
+        0.855,
+        0.022
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.584,
+        0.085,
+        0.261,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnlel",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.524,
+        0.796,
+        0.951,
+        0.932
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Juarez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.48,
+        0.358,
+        0.432,
+        0.326
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-B18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.944,
+        0.686,
+        0.384,
+        0.662
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-04",
+      "field_hint": "due_date",
+      "bbox": [
+        0.683,
+        0.204,
+        0.694,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.983,
+        0.575,
+        0.328,
+        0.883
+      ],
+      "page": 1
+    },
+    {
+      "text": "29.6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.759,
+        0.017,
+        0.335,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-276379",
+      "field_hint": "po_number",
+      "bbox": [
+        0.948,
+        0.484,
+        0.311,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.901,
+        0.795,
+        0.435,
+        0.472
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide secondary success 1 x 9.14 = 9.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.9,
+        0.802,
+        0.124,
+        0.959
+      ],
+      "page": 1
+    }
+  ]
+}

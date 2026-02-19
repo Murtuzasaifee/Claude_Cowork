@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000007",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000007",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.919,
+        0.076,
+        0.674,
+        0.009
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.268,
+        0.945,
+        0.418,
+        0.318
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.951,
+        0.936,
+        0.776,
+        0.365
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kelly Fosuter",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.344,
+        0.623,
+        0.62,
+        0.809
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.677,
+        0.973,
+        0.917,
+        0.971
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.361,
+        0.519,
+        0.887,
+        0.865
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.621,
+        0.215,
+        0.206,
+        0.854
+      ],
+      "page": 1
+    },
+    {
+      "text": "106.09",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.762,
+        0.572,
+        0.548,
+        0.716
+      ],
+      "page": 1
+    },
+    {
+      "text": "0NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.258,
+        0.385,
+        0.259,
+        0.704
+      ],
+      "page": 1
+    },
+    {
+      "text": "Revers-eengineered 4thgeneration implementation 5 x 4.85 = 24.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.689,
+        0.876,
+        0.574,
+        0.745
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable intangible toolset 4 x 20.22 = 76.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.84,
+        0.736,
+        0.102,
+        0.063
+      ],
+      "page": 1
+    }
+  ]
+}

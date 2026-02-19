@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000069",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000069",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.512,
+        0.282,
+        0.739,
+        0.885
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.51,
+        0.136,
+        0.255,
+        0.407
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.332,
+        0.444,
+        0.851,
+        0.596
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.601,
+        0.8,
+        0.934,
+        0.368
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.859,
+        0.508,
+        0.712,
+        0.664
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.3,
+        0.768,
+        0.452,
+        0.497
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.874,
+        0.37,
+        0.879,
+        0.117
+      ],
+      "page": 1
+    },
+    {
+      "text": "173.72",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.852,
+        0.737,
+        0.812,
+        0.248
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-712879",
+      "field_hint": "po_number",
+      "bbox": [
+        0.017,
+        0.062,
+        0.285,
+        0.331
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.547,
+        0.311,
+        0.688,
+        0.416
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative even-keeled groupware 1 x 27.74 = 26.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.845,
+        0.106,
+        0.426,
+        0.197
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-layered zero-defect forecast 1 x 12.13 = 12.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.845,
+        0.117,
+        0.33,
+        0.586
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized national moderator 1 x 36.36 = 34.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.777,
+        0.431,
+        0.264,
+        0.734
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centirc tertiary benchmark 1 x 18.78 = 18.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.491,
+        0.68,
+        0.397,
+        0.197
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable eco-centric hardware 1 x 10.54 = 10.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.948,
+        0.693,
+        0.202,
+        0.103
+      ],
+      "page": 2
+    },
+    {
+      "text": "Digitized content-basedsoftware 2 x 7.49 = 14.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.336,
+        0.241,
+        0.29,
+        0.356
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless multi-state hub 3 x 5.7 = 17.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.435,
+        0.187,
+        0.123,
+        0.992
+      ],
+      "page": 2
+    }
+  ]
+}

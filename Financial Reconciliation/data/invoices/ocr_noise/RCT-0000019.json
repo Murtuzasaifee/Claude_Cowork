@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000019",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000019",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.191,
+        0.438,
+        0.88,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.137,
+        0.344,
+        0.482,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Morris",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.254,
+        0.886,
+        0.556,
+        0.287
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.245,
+        0.116,
+        0.579,
+        0.753
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-28",
+      "field_hint": "due_date",
+      "bbox": [
+        0.256,
+        0.362,
+        0.963,
+        0.905
+      ],
+      "page": 1
+    },
+    {
+      "text": "ERU",
+      "field_hint": "currency",
+      "bbox": [
+        0.41,
+        0.993,
+        0.971,
+        0.365
+      ],
+      "page": 1
+    },
+    {
+      "text": "189.82",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.86,
+        0.951,
+        0.551,
+        0.638
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-400404",
+      "field_hint": "po_number",
+      "bbox": [
+        0.679,
+        0.042,
+        0.722,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.075,
+        0.481,
+        0.902,
+        0.093
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced responsive knowledge user 1 x 21.8 = 21.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.56,
+        0.964,
+        0.923,
+        0.951
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reverse-engineered scalable moderator 2 x 10.73 = 21.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.472,
+        0.524,
+        0.484,
+        0.92
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cloned hybrid open architecture 1 x 23.22 = 20.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.7,
+        0.252,
+        0.158,
+        0.31
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive neutral productivity6  x 8.33 = 49.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.916,
+        0.577,
+        0.31,
+        0.115
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced heuristic system engine 3 x 13.48 = 40.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.542,
+        0.507,
+        0.471,
+        0.019
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic hybrid ustomer loyalty 2 x 7.92 = 15.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.338,
+        0.079,
+        0.939,
+        0.147
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused system-worthy adapter 1 x 6.8 = 6.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.004,
+        0.723,
+        0.489,
+        0.298
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive directional software 1 x 2.6 = 2.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.498,
+        0.137,
+        0.865,
+        0.068
+      ],
+      "page": 1
+    }
+  ]
+}

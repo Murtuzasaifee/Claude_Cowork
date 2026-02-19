@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000094",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000094",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.784,
+        0.539,
+        0.372,
+        0.787
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.719,
+        0.988,
+        0.313,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.29,
+        0.292,
+        0.159,
+        0.546
+      ],
+      "page": 1
+    },
+    {
+      "text": "Richard Key",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.54,
+        0.287,
+        0.522,
+        0.768
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.289,
+        0.622,
+        0.042,
+        0.379
+      ],
+      "page": 1
+    },
+    {
+      "text": "aGBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.662,
+        0.886,
+        0.378,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "61.84",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.275,
+        0.15,
+        0.378,
+        0.123
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-806707",
+      "field_hint": "po_number",
+      "bbox": [
+        0.512,
+        0.991,
+        0.37,
+        0.049
+      ],
+      "page": 1
+    },
+    {
+      "text": "NETU7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.042,
+        0.714,
+        0.625,
+        0.053
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable bandwidth-monitored hardware 2 x 13.02 = 26.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.856,
+        0.558,
+        0.618,
+        0.787
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organized local website 1 x 13.81 = 13.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.953,
+        0.856,
+        0.526,
+        0.126
+      ],
+      "page": 1
+    }
+  ]
+}

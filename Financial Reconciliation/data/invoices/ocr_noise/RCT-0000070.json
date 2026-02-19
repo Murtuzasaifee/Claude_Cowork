@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000070",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000070",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.484,
+        0.971,
+        0.764,
+        0.415
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.613,
+        0.759,
+        0.302,
+        0.804
+      ],
+      "page": 1
+    },
+    {
+      "text": "dams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.294,
+        0.079,
+        0.089,
+        0.911
+      ],
+      "page": 1
+    },
+    {
+      "text": "Justin Romero",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.766,
+        0.093,
+        0.718,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.384,
+        0.046,
+        0.938,
+        0.682
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0c2-07",
+      "field_hint": "due_date",
+      "bbox": [
+        0.524,
+        0.956,
+        0.883,
+        0.983
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.024,
+        0.088,
+        0.369,
+        0.79
+      ],
+      "page": 1
+    },
+    {
+      "text": "59.64",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.093,
+        0.369,
+        0.205,
+        0.044
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-R373832",
+      "field_hint": "po_number",
+      "bbox": [
+        0.678,
+        0.237,
+        0.217,
+        0.571
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.185,
+        0.002,
+        0.669,
+        0.236
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed local emulation 2 x 10.94 = 18.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.17,
+        0.655,
+        0.952,
+        0.56
+      ],
+      "page": 2
+    },
+    {
+      "text": "Profound empowering circuit 1 x 6.61 = 6.61",
+      "field_hint": "line_item",
+      "bbox": [
+        0.953,
+        0.45,
+        0.099,
+        0.756
+      ],
+      "page": 1
+    },
+    {
+      "text": "Grass-roots multi-state focus group 1 x 6.98 = 6.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.882,
+        0.881,
+        0.804,
+        0.739
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-layered radical help-desk 1 x 15.45 = 15.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.093,
+        0.294,
+        0.743,
+        0.405
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined directinal infrastructure 1 x 4.75 = 4.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.275,
+        0.03,
+        0.463,
+        0.559
+      ],
+      "page": 2
+    }
+  ]
+}

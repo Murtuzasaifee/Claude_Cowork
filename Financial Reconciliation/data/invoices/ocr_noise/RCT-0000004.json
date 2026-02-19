@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000004",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000004",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.999,
+        0.428,
+        0.172,
+        0.376
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.79,
+        0.629,
+        0.761,
+        0.249
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.759,
+        0.407,
+        0.559,
+        0.052
+      ],
+      "page": 1
+    },
+    {
+      "text": "Larry Norman",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.351,
+        0.019,
+        0.84,
+        0.022
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.439,
+        0.578,
+        0.601,
+        0.084
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.002,
+        0.294,
+        0.921,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.708,
+        0.46,
+        0.524,
+        0.759
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-896922",
+      "field_hint": "po_number",
+      "bbox": [
+        0.147,
+        0.945,
+        0.747,
+        0.216
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.629,
+        0.258,
+        0.509,
+        0.598
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed fault-tolerant open system 1 x 20.79 = 20.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.233,
+        0.537,
+        0.674,
+        0.151
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive leadingedge functionalities 1 x 29.37 = 26.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.089,
+        0.714,
+        0.743,
+        0.048
+      ],
+      "page": 1
+    }
+  ]
+}

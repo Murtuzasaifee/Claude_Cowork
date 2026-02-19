@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000121",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000121",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.66,
+        0.068,
+        0.907,
+        0.524
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.489,
+        0.004,
+        0.366,
+        0.094
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scot Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.536,
+        0.332,
+        0.551,
+        0.73
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jack Jones",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.464,
+        0.973,
+        0.167,
+        0.691
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.709,
+        0.75,
+        0.773,
+        0.917
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.699,
+        0.858,
+        0.067,
+        0.979
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP5",
+      "field_hint": "currency",
+      "bbox": [
+        0.172,
+        0.509,
+        0.332,
+        0.882
+      ],
+      "page": 1
+    },
+    {
+      "text": "83.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.995,
+        0.138,
+        0.722,
+        0.477
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.295,
+        0.127,
+        0.927,
+        0.979
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal full-range emulation 1 x 10.75 = 10.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.059,
+        0.089,
+        0.279,
+        0.987
+      ],
+      "page": 2
+    },
+    {
+      "text": "Face-to-face optimal paradigm 1 xV 7.3 = 6.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.11,
+        0.421,
+        0.953,
+        0.36
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cloned context-sensitive analyzer 1 x 24.34 = 23.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.673,
+        0.736,
+        0.735,
+        0.128
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-architected hybrid product 1 x 18.85 = j18.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.219,
+        0.131,
+        0.717,
+        0.498
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable didctic solution 1 x 14.77 = 14.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.041,
+        0.777,
+        0.131,
+        0.094
+      ],
+      "page": 1
+    }
+  ]
+}

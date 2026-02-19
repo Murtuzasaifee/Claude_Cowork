@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000031",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000031",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.325,
+        0.946,
+        0.884,
+        0.264
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.295,
+        0.985,
+        0.626,
+        0.01
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.28,
+        0.256,
+        0.016,
+        0.657
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bonnie Reynolds",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.583,
+        0.723,
+        0.688,
+        0.946
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.604,
+        0.206,
+        0.442,
+        0.324
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.858,
+        0.395,
+        0.446,
+        0.73
+      ],
+      "page": 1
+    },
+    {
+      "text": "UR",
+      "field_hint": "currency",
+      "bbox": [
+        0.496,
+        0.459,
+        0.816,
+        0.176
+      ],
+      "page": 1
+    },
+    {
+      "text": "233.63",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.18,
+        0.282,
+        0.31,
+        0.885
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-577538",
+      "field_hint": "po_number",
+      "bbox": [
+        0.188,
+        0.144,
+        0.426,
+        0.455
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.724,
+        0.137,
+        0.75,
+        0.012
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized even-keeled circuit 2 x 17.9 = 35.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.11,
+        0.014,
+        0.831,
+        0.935
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused bottom-line adapter 1 x 5.0 = .50",
+      "field_hint": "line_item",
+      "bbox": [
+        0.013,
+        0.966,
+        0.958,
+        0.106
+      ],
+      "page": 2
+    },
+    {
+      "text": "Decentralized system-worthy algorithm 1 x 64.87 = 64.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.085,
+        0.139,
+        0.76,
+        0.892
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based asynchronous open system 2 x 44.27 = 88.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.244,
+        0.544,
+        0.267,
+        0.544
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000085",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000085",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.762,
+        0.031,
+        0.039,
+        0.78
+      ],
+      "page": 1
+    },
+    {
+      "text": "eceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.769,
+        0.619,
+        0.494,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.295,
+        0.106,
+        0.444,
+        0.669
+      ],
+      "page": 1
+    },
+    {
+      "text": "Eica Robinson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.943,
+        0.023,
+        0.694,
+        0.311
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.522,
+        0.257,
+        0.273,
+        0.96
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.824,
+        0.961,
+        0.059,
+        0.259
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.115,
+        0.016,
+        0.117,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "64.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.157,
+        0.463,
+        0.047,
+        0.285
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-215795",
+      "field_hint": "po_number",
+      "bbox": [
+        0.029,
+        0.244,
+        0.308,
+        0.376
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.992,
+        0.875,
+        0.657,
+        0.256
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based demand-driven structure 1 x 23.48 = 19.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.755,
+        0.639,
+        0.057,
+        0.798
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergized asynchronous archtecture 5 x 2.28 = 10.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.624,
+        0.878,
+        0.5,
+        0.59
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced contextually-based architecture 1 x 11.56 = 11.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.161,
+        0.467,
+        0.283,
+        0.527
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative mobile policy 3 x 7.4 = 22.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.059,
+        0.512,
+        0.768,
+        0.288
+      ],
+      "page": 1
+    }
+  ]
+}

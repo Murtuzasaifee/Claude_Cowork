@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000197",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000197",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.505,
+        0.045,
+        0.889,
+        0.83
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.072,
+        0.871,
+        0.314,
+        0.244
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scotkt Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.149,
+        0.099,
+        0.535,
+        0.547
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Gaines",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.032,
+        0.55,
+        0.197,
+        0.731
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.523,
+        0.724,
+        0.637,
+        0.222
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.565,
+        0.668,
+        0.086,
+        0.938
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.38,
+        0.013,
+        0.749,
+        0.593
+      ],
+      "page": 1
+    },
+    {
+      "text": "17.34",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.482,
+        0.046,
+        0.023,
+        0.129
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-720970",
+      "field_hint": "po_number",
+      "bbox": [
+        0.781,
+        0.967,
+        0.913,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.365,
+        0.794,
+        0.794,
+        0.671
+      ],
+      "page": 1
+    },
+    {
+      "text": "Networked motivating forecast 1 x 17.74 = 15.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.18,
+        0.459,
+        0.529,
+        0.081
+      ],
+      "page": 1
+    }
+  ]
+}

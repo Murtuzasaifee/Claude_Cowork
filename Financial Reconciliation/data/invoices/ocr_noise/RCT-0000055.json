@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000055",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000055",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.014,
+        0.35,
+        0.491,
+        0.247
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.575,
+        0.3,
+        0.914,
+        0.793
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.54,
+        0.768,
+        0.882,
+        0.744
+      ],
+      "page": 1
+    },
+    {
+      "text": "Amanda Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.326,
+        0.501,
+        0.573,
+        0.659
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.987,
+        0.553,
+        0.443,
+        0.799
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.091,
+        0.529,
+        0.754,
+        0.502
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.815,
+        0.355,
+        0.606,
+        0.403
+      ],
+      "page": 1
+    },
+    {
+      "text": "38.24",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.041,
+        0.158,
+        0.323,
+        0.15
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.829,
+        0.39,
+        0.393,
+        0.608
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line optimizing projection 1 x 1.92 = 1.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.222,
+        0.775,
+        0.232,
+        0.251
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-sourcec lient-driven info-mediaries 1 x 11.54 = 11.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.82,
+        0.686,
+        0.389,
+        0.823
+      ],
+      "page": 2
+    },
+    {
+      "text": "Clnoned hybrid capacity 1 x 12.31 = 12.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.33,
+        0.31,
+        0.622,
+        0.382
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000112",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000112",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.062,
+        0.833,
+        0.538,
+        0.771
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.314,
+        0.411,
+        0.709,
+        0.126
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.372,
+        0.056,
+        0.486,
+        0.049
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robert Cunningham",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.301,
+        0.136,
+        0.53,
+        0.58
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.376,
+        0.375,
+        0.865,
+        0.786
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.435,
+        0.498,
+        0.05,
+        0.789
+      ],
+      "page": 1
+    },
+    {
+      "text": "ER",
+      "field_hint": "currency",
+      "bbox": [
+        0.424,
+        0.364,
+        0.756,
+        0.34
+      ],
+      "page": 1
+    },
+    {
+      "text": "210.5",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.783,
+        0.309,
+        0.319,
+        0.221
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-127965",
+      "field_hint": "po_number",
+      "bbox": [
+        0.029,
+        0.131,
+        0.857,
+        0.37
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.783,
+        0.854,
+        0.184,
+        0.419
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed tangible open architecture 1 x 945 = 8.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.334,
+        0.608,
+        0.229,
+        0.054
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reduced reciprocal infrastructure 1 x 13.77 = 12.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.856,
+        0.118,
+        0.152,
+        0.181
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated analyzing orchestration 1 x 8.71 = 8.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.694,
+        0.474,
+        0.401,
+        0.764
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reduced zer oadministration installation 4 x 13.32 = 50.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.281,
+        0.983,
+        0.092,
+        0.911
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enterprise-wide non-volatile adapter 7 x 15.75 = 110.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.797,
+        0.639,
+        0.993,
+        0.006
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000144",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000144",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.598,
+        0.348,
+        0.628,
+        0.338
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.689,
+        0.391,
+        0.147,
+        0.846
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.325,
+        0.761,
+        0.234,
+        0.947
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Howard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.793,
+        0.01,
+        0.034,
+        0.324
+      ],
+      "page": 1
+    },
+    {
+      "text": "202E6-02-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.98,
+        0.928,
+        0.104,
+        0.224
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.743,
+        0.79,
+        0.633,
+        0.757
+      ],
+      "page": 1
+    },
+    {
+      "text": "141.48",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.684,
+        0.639,
+        0.536,
+        0.577
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-408545",
+      "field_hint": "po_number",
+      "bbox": [
+        0.748,
+        0.054,
+        0.557,
+        0.766
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEPIT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.674,
+        0.634,
+        0.967,
+        0.639
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced intangible intranet 3 x 3.18 = 9.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.24,
+        0.267,
+        0.223,
+        0.986
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergistic zero administration framework 1 x 10.97 = 9.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.432,
+        0.603,
+        0.034,
+        0.665
+      ],
+      "page": 2
+    },
+    {
+      "text": "Intuitive valueadded capacity 3 x 14.38 = 43.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.077,
+        0.809,
+        0.702,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face systematic paradigm 1 x 4.49 = 4.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.214,
+        0.019,
+        0.912,
+        0.116
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated web-enabled conglomeration 1 x 21.05 = 20.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.697,
+        0.269,
+        0.018,
+        0.62
+      ],
+      "page": 1
+    },
+    {
+      "text": "Self-enabling optimal leverage 1 x 3.25 = 2.93",
+      "field_hint": "line_item",
+      "bbox": [
+        0.788,
+        0.938,
+        0.033,
+        0.35
+      ],
+      "page": 2
+    },
+    {
+      "text": "Function-based clear-thinkin time-frame 3 x 9.25 = 27.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.73,
+        0.391,
+        0.505,
+        0.397
+      ],
+      "page": 1
+    }
+  ]
+}

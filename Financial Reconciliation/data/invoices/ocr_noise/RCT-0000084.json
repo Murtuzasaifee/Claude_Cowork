@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000084",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000084",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.823,
+        0.491,
+        0.476,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "receiptD",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.656,
+        0.129,
+        0.213,
+        0.537
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.615,
+        0.643,
+        0.8,
+        0.042
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Rasmussen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.275,
+        0.117,
+        0.253,
+        0.342
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.808,
+        0.084,
+        0.737,
+        0.456
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.539,
+        0.899,
+        0.031,
+        0.962
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.312,
+        0.677,
+        0.248,
+        0.634
+      ],
+      "page": 1
+    },
+    {
+      "text": "266.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.805,
+        0.51,
+        0.62,
+        0.907
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-311469",
+      "field_hint": "po_number",
+      "bbox": [
+        0.638,
+        0.238,
+        0.391,
+        0.14
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.306,
+        0.191,
+        0.236,
+        0.183
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adaptive context-sensitive migration 5 x 26.08 = 130.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.252,
+        0.943,
+        0.228,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved optimal pricing structure 3 x 23.26 = 96.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.468,
+        0.635,
+        0.768,
+        0.197
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cross-group transitionwal success 1 x 8.37 = 7.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.682,
+        0.348,
+        0.337,
+        0.219
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable multimedia infrastructure 1 x 17.78 = 17.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.849,
+        0.45,
+        0.939,
+        0.516
+      ],
+      "page": 2
+    },
+    {
+      "text": "Ergonomic foreground knowledge user 1 x 25.55 = 23.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.699,
+        0.503,
+        0.526,
+        0.972
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000153",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000153",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.192,
+        0.206,
+        0.007,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoie",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.805,
+        0.344,
+        0.973,
+        0.114
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.338,
+        0.329,
+        0.718,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "John Lam",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.504,
+        0.554,
+        0.56,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "202-601-16",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.875,
+        0.295,
+        0.246,
+        0.919
+      ],
+      "page": 1
+    },
+    {
+      "text": "w2026-03-17",
+      "field_hint": "due_date",
+      "bbox": [
+        0.564,
+        0.74,
+        1.0,
+        0.23
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.269,
+        0.27,
+        0.162,
+        0.58
+      ],
+      "page": 1
+    },
+    {
+      "text": "63.39",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.598,
+        0.313,
+        0.875,
+        0.601
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-720387",
+      "field_hint": "po_number",
+      "bbox": [
+        0.967,
+        0.401,
+        0.075,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.066,
+        0.015,
+        0.182,
+        0.775
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly object-oriente dcontingency 1 x 6.09 = 5.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.342,
+        0.986,
+        0.098,
+        0.132
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive fault-tolerant standardization 1 x 18.93 = 17.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.1,
+        0.372,
+        0.723,
+        0.128
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized bifurcated Local Area Network 1 x 36.91 = 36.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.319,
+        0.668,
+        0.509,
+        0.918
+      ],
+      "page": 1
+    }
+  ]
+}

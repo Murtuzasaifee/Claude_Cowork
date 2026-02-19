@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000116",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000116",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.033,
+        0.503,
+        0.752,
+        0.186
+      ],
+      "page": 1
+    },
+    {
+      "text": "eceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.378,
+        0.489,
+        0.482,
+        0.595
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.597,
+        0.662,
+        0.175,
+        0.324
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jody Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.189,
+        0.405,
+        0.576,
+        0.414
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.095,
+        0.745,
+        0.316,
+        0.453
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.719,
+        0.973,
+        0.297,
+        0.811
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.983,
+        0.323,
+        0.72,
+        0.655
+      ],
+      "page": 1
+    },
+    {
+      "text": "146.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.049,
+        0.113,
+        0.521,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-391592",
+      "field_hint": "po_number",
+      "bbox": [
+        0.736,
+        0.476,
+        0.25,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.287,
+        0.42,
+        0.993,
+        0.649
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused 4thgeneration data-warehouse 4 x 17.89 = 71.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.866,
+        0.99,
+        0.009,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded explicit adapter 1 x 57.6 = 48.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.068,
+        0.583,
+        0.259,
+        0.324
+      ],
+      "page": 1
+    }
+  ]
+}

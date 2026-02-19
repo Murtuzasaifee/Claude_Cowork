@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000020",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000020",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.74,
+        0.78,
+        0.356,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.276,
+        0.825,
+        0.23,
+        0.721
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.767,
+        0.292,
+        0.543,
+        0.939
+      ],
+      "page": 1
+    },
+    {
+      "text": "William ora",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.952,
+        0.142,
+        0.238,
+        0.555
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.01,
+        0.049,
+        0.088,
+        0.26
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.229,
+        0.401,
+        0.075,
+        0.742
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.1,
+        0.634,
+        0.007,
+        0.365
+      ],
+      "page": 1
+    },
+    {
+      "text": "163.22",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.496,
+        0.981,
+        0.975,
+        0.669
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.119,
+        0.562,
+        0.55,
+        0.721
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive system-worthy interface 1 x 35.34 = 35.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.149,
+        0.565,
+        0.842,
+        0.831
+      ],
+      "page": 2
+    },
+    {
+      "text": "Streamlined human-resource paradigm 1x 8.64 = 8.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.34,
+        0.162,
+        0.909,
+        0.344
+      ],
+      "page": 2
+    },
+    {
+      "text": "Face-to-face multimedia throughput 1 x 17.43 = 17.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.811,
+        0.077,
+        0.842,
+        0.802
+      ],
+      "page": 2
+    },
+    {
+      "text": "Diverse discrete firmware 2 x 10.83 = 19.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.165,
+        0.019,
+        0.788,
+        0.334
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal needs-based synergy 2 x 27.75 = 55.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.995,
+        0.963,
+        0.915,
+        0.299
+      ],
+      "page": 1
+    }
+  ]
+}

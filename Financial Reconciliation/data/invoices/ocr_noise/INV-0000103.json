@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000103",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000103",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.863,
+        0.138,
+        0.706,
+        0.51
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.28,
+        0.632,
+        0.733,
+        0.422
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.788,
+        0.842,
+        0.288,
+        0.502
+      ],
+      "page": 1
+    },
+    {
+      "text": "John Lam",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.119,
+        0.083,
+        0.693,
+        0.985
+      ],
+      "page": 1
+    },
+    {
+      "text": "0226-01-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.156,
+        0.307,
+        0.639,
+        0.586
+      ],
+      "page": 1
+    },
+    {
+      "text": "EAD",
+      "field_hint": "currency",
+      "bbox": [
+        0.643,
+        0.826,
+        0.991,
+        0.116
+      ],
+      "page": 1
+    },
+    {
+      "text": "438.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.208,
+        0.324,
+        0.481,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-625721",
+      "field_hint": "po_number",
+      "bbox": [
+        0.738,
+        0.682,
+        0.284,
+        0.284
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.386,
+        0.62,
+        0.717,
+        0.144
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide 4thgeneration monitoring 9 x 27.58 = 223.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.937,
+        0.423,
+        0.899,
+        0.789
+      ],
+      "page": 2
+    },
+    {
+      "text": "Decentralized bandwidth-monitored forecast 1 x 37.89 = 34.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.15,
+        0.006,
+        0.366,
+        0.515
+      ],
+      "page": 2
+    },
+    {
+      "text": "Pre-emptive real-time database 1 x 8.48 = 7.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.288,
+        0.95,
+        0.07,
+        0.218
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal coherent protocol 1 x 8.01 = 8.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.106,
+        0.134,
+        0.836,
+        0.126
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-tiered high-level model 3 x 8.61 = 24.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.007,
+        0.305,
+        0.093,
+        0.377
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound client-server portal 6 x 10.83 = 58.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.415,
+        0.49,
+        0.204,
+        0.553
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated methodical productivity 2 x 5.36 = 10.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.519,
+        0.087,
+        0.456,
+        0.787
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000170",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000170",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.624,
+        0.567,
+        0.797,
+        0.193
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.004,
+        0.621,
+        0.918,
+        0.154
+      ],
+      "page": 1
+    },
+    {
+      "text": "HKooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.88,
+        0.417,
+        0.384,
+        0.132
+      ],
+      "page": 1
+    },
+    {
+      "text": "Timothy Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.901,
+        0.732,
+        0.684,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.927,
+        0.947,
+        0.322,
+        0.752
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "due_date",
+      "bbox": [
+        0.1,
+        0.966,
+        0.255,
+        0.431
+      ],
+      "page": 1
+    },
+    {
+      "text": "181.56",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.338,
+        0.787,
+        0.415,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-154040",
+      "field_hint": "po_number",
+      "bbox": [
+        0.357,
+        0.415,
+        0.353,
+        0.325
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.862,
+        0.26,
+        0.77,
+        0.589
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive system-worthy artificial intelligence 6 x 14.08 = 80.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.144,
+        0.848,
+        0.202,
+        0.529
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-layered encompsasing focus group 3 x 27.1 = 81.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.821,
+        0.867,
+        0.73,
+        0.453
+      ],
+      "page": 1
+    }
+  ]
+}

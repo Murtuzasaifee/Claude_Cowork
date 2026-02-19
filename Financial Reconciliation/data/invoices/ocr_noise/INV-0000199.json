@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000199",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-00001h99",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.661,
+        0.168,
+        0.935,
+        0.383
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.044,
+        0.264,
+        0.377,
+        0.937
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnelkl",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.128,
+        0.157,
+        0.48,
+        0.519
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.583,
+        0.989,
+        0.4,
+        0.053
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.448,
+        0.613,
+        0.79,
+        0.727
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.477,
+        0.285,
+        0.614,
+        0.624
+      ],
+      "page": 1
+    },
+    {
+      "text": "223.48",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.49,
+        0.11,
+        0.546,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-744333",
+      "field_hint": "po_number",
+      "bbox": [
+        0.517,
+        0.095,
+        0.62,
+        0.663
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.009,
+        0.077,
+        0.211,
+        0.801
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic transitional benchmark 4 x 8.49 = 30.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.313,
+        0.862,
+        0.095,
+        0.408
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory heuristic array 2 x 10.59 = 20.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.955,
+        0.833,
+        0.449,
+        0.178
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fundamental client-driven time-frame 1 x 5.4 = 4.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.609,
+        0.218,
+        0.914,
+        0.507
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based next generation complexity 1 x 13.93 = 13.93",
+      "field_hint": "line_item",
+      "bbox": [
+        0.526,
+        0.69,
+        0.59,
+        0.581
+      ],
+      "page": 2
+    },
+    {
+      "text": "Assimilated interactive orchestration 1 x 14.42 = 14.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.948,
+        0.698,
+        0.114,
+        0.207
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused multi-state info-mediaries 6 x 14.67 = 88.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.494,
+        0.189,
+        0.683,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "Future-proofed impactful moderator 2 x 11.8 = 22.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.194,
+        0.921,
+        0.802,
+        0.242
+      ],
+      "page": 1
+    }
+  ]
+}

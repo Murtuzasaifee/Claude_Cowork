@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000032",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000032",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.23,
+        0.427,
+        0.353,
+        0.92
+      ],
+      "page": 1
+    },
+    {
+      "text": "reciept",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.134,
+        0.064,
+        0.449,
+        0.023
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.253,
+        0.673,
+        0.437,
+        0.716
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley Mccarthy",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.762,
+        0.209,
+        0.396,
+        0.066
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.353,
+        0.091,
+        0.709,
+        0.018
+      ],
+      "page": 1
+    },
+    {
+      "text": "2N026-03-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.304,
+        0.538,
+        0.256,
+        0.129
+      ],
+      "page": 1
+    },
+    {
+      "text": "aUSD",
+      "field_hint": "currency",
+      "bbox": [
+        0.21,
+        0.011,
+        0.452,
+        0.129
+      ],
+      "page": 1
+    },
+    {
+      "text": "45.1o6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.003,
+        0.904,
+        0.67,
+        0.683
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-226601",
+      "field_hint": "po_number",
+      "bbox": [
+        0.197,
+        0.457,
+        0.807,
+        0.574
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.142,
+        0.957,
+        0.03,
+        0.606
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-architected 5thgeneration ability 1 x 22.87 = 22.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.221,
+        0.422,
+        0.9,
+        0.426
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive non-volatile circuit 1 x 8.9 = 8.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.676,
+        0.009,
+        0.206,
+        0.001
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless foreground complexity 1 x 4.99 = 4.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.943,
+        0.39,
+        0.436,
+        0.264
+      ],
+      "page": 1
+    }
+  ]
+}

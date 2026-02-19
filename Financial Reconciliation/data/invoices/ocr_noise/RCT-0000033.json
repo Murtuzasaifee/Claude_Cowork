@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000033",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000033",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.552,
+        0.1,
+        0.729,
+        0.095
+      ],
+      "page": 1
+    },
+    {
+      "text": "receip",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.693,
+        0.516,
+        0.586,
+        0.296
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johsnon",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.61,
+        0.806,
+        0.615,
+        0.978
+      ],
+      "page": 1
+    },
+    {
+      "text": "Elizabeth Pacheco",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.773,
+        0.122,
+        0.836,
+        0.708
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.696,
+        0.133,
+        0.793,
+        0.553
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.984,
+        0.648,
+        0.636,
+        0.235
+      ],
+      "page": 1
+    },
+    {
+      "text": "115.25",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.955,
+        0.851,
+        0.306,
+        0.995
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-325465",
+      "field_hint": "po_number",
+      "bbox": [
+        0.87,
+        0.198,
+        0.364,
+        0.772
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.776,
+        0.817,
+        0.319,
+        0.686
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated clear-thinking support 1 x 4.19 = 4.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.704,
+        0.552,
+        0.177,
+        0.04
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered transitional intranet 6 x 14.42 = 86.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.588,
+        0.969,
+        0.02,
+        0.908
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000073",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000073",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.176,
+        0.201,
+        0.086,
+        0.414
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.419,
+        0.146,
+        0.454,
+        0.332
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.139,
+        0.054,
+        0.242,
+        0.629
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Gaies",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.314,
+        0.008,
+        0.889,
+        0.356
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.685,
+        0.437,
+        0.487,
+        0.426
+      ],
+      "page": 1
+    },
+    {
+      "text": "EAD",
+      "field_hint": "currency",
+      "bbox": [
+        0.083,
+        0.523,
+        0.849,
+        0.454
+      ],
+      "page": 1
+    },
+    {
+      "text": "162.06",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.18,
+        0.241,
+        0.799,
+        0.188
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-786224",
+      "field_hint": "po_number",
+      "bbox": [
+        0.919,
+        0.017,
+        0.865,
+        0.273
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.32,
+        0.082,
+        0.871,
+        0.331
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered exuding knowledgebase 1 x 6.93 = 5.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.582,
+        0.188,
+        0.861,
+        0.706
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused grid-enabled strategy 4 x 32.71 = 111.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.265,
+        0.75,
+        0.784,
+        0.628
+      ],
+      "page": 2
+    }
+  ]
+}

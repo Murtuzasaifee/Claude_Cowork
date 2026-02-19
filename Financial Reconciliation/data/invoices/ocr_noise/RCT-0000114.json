@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000114",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000114",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.212,
+        0.095,
+        0.968,
+        0.801
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.128,
+        0.272,
+        0.495,
+        0.508
+      ],
+      "page": 1
+    },
+    {
+      "text": "2206-02-14",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.78,
+        0.386,
+        0.832,
+        0.608
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.041,
+        0.07,
+        0.58,
+        0.056
+      ],
+      "page": 1
+    },
+    {
+      "text": "UDS",
+      "field_hint": "currency",
+      "bbox": [
+        0.258,
+        0.441,
+        0.758,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "68.79",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.244,
+        0.402,
+        0.572,
+        0.82
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-5g27433",
+      "field_hint": "po_number",
+      "bbox": [
+        0.211,
+        0.574,
+        0.318,
+        0.575
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.143,
+        0.201,
+        0.013,
+        0.294
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized zero administration database 1 x 31.16 = 31.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.253,
+        0.793,
+        0.175,
+        0.63
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal homogeneous data-warehouse 2 x 2.38 = 4.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.656,
+        0.196,
+        0.353,
+        0.3
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000037",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000037",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.365,
+        0.296,
+        0.419,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "reeipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.37,
+        0.811,
+        0.34,
+        0.333
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.706,
+        0.429,
+        0.5,
+        0.487
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jody Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.312,
+        0.794,
+        0.232,
+        0.137
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.577,
+        0.601,
+        0.263,
+        0.823
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.825,
+        0.4,
+        0.377,
+        0.661
+      ],
+      "page": 1
+    },
+    {
+      "text": "316.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.017,
+        0.947,
+        0.184,
+        0.062
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-501320",
+      "field_hint": "po_number",
+      "bbox": [
+        0.677,
+        0.4,
+        0.458,
+        0.605
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.462,
+        0.918,
+        0.067,
+        0.341
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered 4thgeneration archvie 1 x 81.55 = 73.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.848,
+        0.253,
+        0.612,
+        0.457
+      ],
+      "page": 2
+    },
+    {
+      "text": "Customizable composite Itnernet solution 4 x 10.09 = 38.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.182,
+        0.074,
+        0.649,
+        0.686
+      ],
+      "page": 2
+    },
+    {
+      "text": "Function-based 4thgeneration matrices 7 x 28.1 = 167.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.635,
+        0.839,
+        0.741,
+        0.158
+      ],
+      "page": 1
+    }
+  ]
+}

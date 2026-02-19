@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000127",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000127",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.811,
+        0.018,
+        0.169,
+        0.976
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiceg",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.136,
+        0.662,
+        0.15,
+        0.073
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.716,
+        0.906,
+        0.62,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Contreras",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.036,
+        0.955,
+        0.475,
+        0.074
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.231,
+        0.798,
+        0.985,
+        0.185
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.765,
+        0.46,
+        0.339,
+        0.577
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.649,
+        0.42,
+        0.237,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "76.64",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.572,
+        0.916,
+        0.693,
+        0.203
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-846385",
+      "field_hint": "po_number",
+      "bbox": [
+        0.382,
+        0.309,
+        0.031,
+        0.512
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.335,
+        0.233,
+        0.145,
+        0.159
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organized content-based core 4 x 17.69 = 63.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.024,
+        0.349,
+        0.808,
+        0.272
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse directional frame 1 x 5.06 = 4.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.922,
+        0.48,
+        0.711,
+        0.001
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000162",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000162",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.746,
+        0.976,
+        0.599,
+        0.155
+      ],
+      "page": 1
+    },
+    {
+      "text": "nivoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.29,
+        0.05,
+        0.979,
+        0.698
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-MortonV",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.944,
+        0.957,
+        0.305,
+        0.652
+      ],
+      "page": 1
+    },
+    {
+      "text": "Aaron Coo",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.071,
+        0.301,
+        0.017,
+        0.517
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.901,
+        0.844,
+        0.47,
+        0.033
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.327,
+        0.671,
+        0.297,
+        0.742
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.297,
+        0.011,
+        0.621,
+        0.709
+      ],
+      "page": 1
+    },
+    {
+      "text": "34.58",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.234,
+        0.832,
+        0.031,
+        0.932
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-570325",
+      "field_hint": "po_number",
+      "bbox": [
+        0.942,
+        0.102,
+        0.943,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET465",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.973,
+        0.816,
+        0.649,
+        0.857
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarzied static focus group 1 x 17.38 = 14.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.474,
+        0.364,
+        0.628,
+        0.003
+      ],
+      "page": 2
+    },
+    {
+      "text": "Horizontal 3rdgeneration fuKnctionalities 1 x 12.65 = 10.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.333,
+        0.48,
+        0.758,
+        0.652
+      ],
+      "page": 2
+    },
+    {
+      "text": "Virtual systemic info-mediaries 1 x 1.61 = 1.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.85,
+        0.007,
+        0.248,
+        0.939
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000008",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000008",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.296,
+        0.402,
+        0.197,
+        0.084
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.196,
+        0.054,
+        0.063,
+        0.223
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.297,
+        0.45,
+        0.533,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sarah xCooper",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.614,
+        0.303,
+        0.768,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.432,
+        0.749,
+        0.305,
+        0.988
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-04",
+      "field_hint": "due_date",
+      "bbox": [
+        0.742,
+        0.184,
+        0.591,
+        0.141
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.598,
+        0.341,
+        0.055,
+        0.307
+      ],
+      "page": 1
+    },
+    {
+      "text": "123.24",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.734,
+        0.103,
+        0.419,
+        0.105
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-764406",
+      "field_hint": "po_number",
+      "bbox": [
+        0.641,
+        0.69,
+        0.093,
+        0.059
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.702,
+        0.526,
+        0.132,
+        0.664
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced user-facing Graphical User Interface 2 x 19.44 = 36.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.404,
+        0.141,
+        0.824,
+        0.925
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable dedicated archive 1 x 14.74 = 14.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.499,
+        0.928,
+        0.402,
+        0.65
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory optimal extranet 1 x 19.21 = 17.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.381,
+        0.146,
+        0.529,
+        0.631
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned client-server installation 1 x 3.69 = 3.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.086,
+        0.004,
+        0.345,
+        0.23
+      ],
+      "page": 2
+    },
+    {
+      "text": "Team-oriented coherent flexibility 3 x 2.47 = 7.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.937,
+        0.634,
+        0.492,
+        0.76
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-engineeerd logistical array 1 x 14.54 = 12.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.146,
+        0.047,
+        0.645,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamless tertiary standardization 1 x 11.65 = 11.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.735,
+        0.254,
+        0.191,
+        0.463
+      ],
+      "page": 1
+    }
+  ]
+}

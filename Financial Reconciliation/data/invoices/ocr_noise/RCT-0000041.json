@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000041",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000041",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.884,
+        0.484,
+        0.792,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "reecipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.47,
+        0.683,
+        0.609,
+        0.54
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.295,
+        0.584,
+        0.935,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joan Bridges",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.252,
+        0.474,
+        0.794,
+        0.18
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-010-1",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.336,
+        0.047,
+        0.271,
+        0.801
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.424,
+        0.864,
+        0.839,
+        0.62
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.455,
+        0.993,
+        0.525,
+        0.941
+      ],
+      "page": 1
+    },
+    {
+      "text": "27.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.513,
+        0.883,
+        0.758,
+        0.966
+      ],
+      "page": 1
+    },
+    {
+      "text": "POU-955937",
+      "field_hint": "po_number",
+      "bbox": [
+        0.936,
+        0.991,
+        0.984,
+        0.416
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_REEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.435,
+        0.695,
+        0.333,
+        0.991
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated 24/7 encryption 1 x 14.13 = 14.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.251,
+        0.896,
+        0.516,
+        0.027
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face upward-trending artificial intelligence 1 x 3.86 = 3.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.528,
+        0.788,
+        0.479,
+        0.242
+      ],
+      "page": 2
+    },
+    {
+      "text": "Self-enabling empowering infrastructure 1 x 3.89 = 3.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.119,
+        0.887,
+        0.981,
+        0.41
+      ],
+      "page": 1
+    }
+  ]
+}

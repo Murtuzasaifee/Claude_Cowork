@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000079",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000079",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.012,
+        0.518,
+        0.981,
+        0.597
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.431,
+        0.759,
+        0.319,
+        0.117
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnon",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.473,
+        0.17,
+        0.06,
+        0.329
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phillip Washington",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.178,
+        0.086,
+        0.585,
+        0.116
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.16,
+        0.583,
+        0.608,
+        0.504
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.751,
+        0.216,
+        0.513,
+        0.362
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.581,
+        0.58,
+        0.285,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "146.61",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.821,
+        0.031,
+        0.45,
+        0.89
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-168458",
+      "field_hint": "po_number",
+      "bbox": [
+        0.506,
+        0.303,
+        0.307,
+        0.618
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.391,
+        0.364,
+        0.297,
+        0.074
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed even-keeled adapter 3 x 8.83 = 26.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.939,
+        0.6,
+        0.247,
+        0.386
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cross-platform intangible circuit 4 x 5.5 = 20.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.102,
+        0.416,
+        0.957,
+        0.694
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mandatory analyzing instruction set 3 x 33.85 = 91.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.313,
+        0.796,
+        0.719,
+        0.56
+      ],
+      "page": 1
+    }
+  ]
+}

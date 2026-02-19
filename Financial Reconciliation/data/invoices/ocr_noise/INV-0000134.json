@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000134",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000134",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.199,
+        0.735,
+        0.02,
+        0.219
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.738,
+        0.745,
+        0.706,
+        0.062
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morotn",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.337,
+        0.544,
+        0.189,
+        0.096
+      ],
+      "page": 1
+    },
+    {
+      "text": "Timohty Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.244,
+        0.529,
+        0.235,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-30",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.162,
+        0.418,
+        0.81,
+        0.171
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.062,
+        0.451,
+        0.534,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.934,
+        0.858,
+        0.177,
+        0.556
+      ],
+      "page": 1
+    },
+    {
+      "text": "504.73",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.502,
+        0.893,
+        0.673,
+        0.883
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-250647",
+      "field_hint": "po_number",
+      "bbox": [
+        0.408,
+        0.747,
+        0.506,
+        0.635
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.913,
+        0.75,
+        0.768,
+        0.177
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based client-server model 4 x 16.72 = 66.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.552,
+        0.965,
+        0.109,
+        0.973
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable value-added throughput 1 x 2.8 = 2.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.157,
+        0.9,
+        0.717,
+        0.152
+      ],
+      "page": 2
+    },
+    {
+      "text": "Managed value-added portal 2 x 95.24 = 190.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.971,
+        0.349,
+        0.187,
+        0.737
+      ],
+      "page": 2
+    },
+    {
+      "text": "Public-key client-driven collaboration 1 x 6.32 = 6.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.325,
+        0.938,
+        0.736,
+        0.7
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced grid-enabled algorithm 2 x 19.12 = 36.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.386,
+        0.651,
+        0.422,
+        0.629
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered modular neural-netH 7 x 14.78 = 98.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.1,
+        0.654,
+        0.266,
+        0.77
+      ],
+      "page": 2
+    },
+    {
+      "text": "Networked 24hour project 1 x 7.73 = 7.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.957,
+        0.117,
+        0.918,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible multi-tasking alliance 4 x 17.87 = 67.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.853,
+        0.643,
+        0.541,
+        0.299
+      ],
+      "page": 2
+    }
+  ]
+}

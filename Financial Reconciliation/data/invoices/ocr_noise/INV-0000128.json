@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000128",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000128",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.763,
+        0.496,
+        0.298,
+        0.448
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.941,
+        0.42,
+        0.201,
+        0.891
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.257,
+        0.331,
+        0.023,
+        0.244
+      ],
+      "page": 1
+    },
+    {
+      "text": "Justin Romero",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.199,
+        0.589,
+        0.386,
+        0.272
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0205",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.079,
+        0.883,
+        0.565,
+        0.358
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.321,
+        0.05,
+        0.371,
+        0.466
+      ],
+      "page": 1
+    },
+    {
+      "text": "1D00.02",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.414,
+        0.206,
+        0.3,
+        0.987
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-486831",
+      "field_hint": "po_number",
+      "bbox": [
+        0.916,
+        0.621,
+        0.56,
+        0.57
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.923,
+        0.414,
+        0.435,
+        0.299
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable asymmetric framework 2 x 16.14 = 32.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.901,
+        0.923,
+        0.745,
+        0.307
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optional holistic hub 4 x 7.54 = 28.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.305,
+        0.121,
+        0.569,
+        0.603
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent client-driven Graphical User Interface 1 x 15.28 = 15.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.706,
+        0.858,
+        0.276,
+        0.451
+      ],
+      "page": 1
+    }
+  ]
+}

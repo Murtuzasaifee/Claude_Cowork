@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000188",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000188",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.064,
+        0.406,
+        0.894,
+        0.34
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.191,
+        0.634,
+        0.103,
+        0.515
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.32,
+        0.506,
+        0.197,
+        0.624
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.318,
+        0.282,
+        0.11,
+        0.841
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-04",
+      "field_hint": "due_date",
+      "bbox": [
+        0.091,
+        0.927,
+        0.037,
+        0.889
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.405,
+        0.606,
+        0.694,
+        0.646
+      ],
+      "page": 1
+    },
+    {
+      "text": "99.22",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.436,
+        0.107,
+        0.516,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-982495",
+      "field_hint": "po_number",
+      "bbox": [
+        0.422,
+        0.085,
+        0.571,
+        0.827
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.736,
+        0.521,
+        0.664,
+        0.16
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based neutral intranet 1 x 21.0 = 19.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.719,
+        0.865,
+        0.333,
+        0.979
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented maximized Graphical User Interface 1 x 16.07 = 16.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.644,
+        0.067,
+        0.348,
+        0.327
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergistic web-enabled utilization 2 x 8.15 = 16.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.365,
+        0.239,
+        0.247,
+        0.656
+      ],
+      "page": 2
+    },
+    {
+      "text": "Diverse salable encoding 6 x 6.15 = 36.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.094,
+        0.905,
+        0.7,
+        0.335
+      ],
+      "page": 1
+    }
+  ]
+}

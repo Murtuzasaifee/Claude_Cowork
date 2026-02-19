@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000173",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000173",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.558,
+        0.302,
+        0.51,
+        0.609
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.405,
+        0.55,
+        0.506,
+        0.55
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.023,
+        0.156,
+        0.017,
+        0.479
+      ],
+      "page": 1
+    },
+    {
+      "text": "Angela Holloway",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.399,
+        0.109,
+        0.115,
+        0.632
+      ],
+      "page": 1
+    },
+    {
+      "text": "226-01-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.547,
+        0.807,
+        0.1,
+        0.928
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-28",
+      "field_hint": "due_date",
+      "bbox": [
+        0.644,
+        0.847,
+        0.784,
+        0.098
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.027,
+        0.828,
+        0.007,
+        0.402
+      ],
+      "page": 1
+    },
+    {
+      "text": "185.85",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.596,
+        0.873,
+        0.047,
+        0.586
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-877259",
+      "field_hint": "po_number",
+      "bbox": [
+        0.589,
+        0.144,
+        0.553,
+        0.893
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.511,
+        0.93,
+        0.437,
+        0.304
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic web-enabled flexibility 1 x 30.24 = 30.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.243,
+        0.316,
+        0.421,
+        0.328
+      ],
+      "page": 2
+    },
+    {
+      "text": "Diverse disintermediate portal 1 x 19.61 = 16.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.783,
+        0.865,
+        0.997,
+        0.191
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized zero tolerance abiity 1 x 27.4 = 26.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.236,
+        0.102,
+        0.171,
+        0.805
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal needs-based success 1 x 14.85 = 14.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.632,
+        0.681,
+        0.768,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary dedicated throughput 2 x 7.42 = 14.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.525,
+        0.618,
+        0.676,
+        0.739
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organized motivating interface 1 x 18.63 = 18.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.263,
+        0.311,
+        0.982,
+        0.537
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic leadingedge system engine 1 x 30.5 = 30.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.309,
+        0.483,
+        0.051,
+        0.92
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved attitude-oriented intranet 1 x 14.83 = 14.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.978,
+        0.793,
+        0.851,
+        0.198
+      ],
+      "page": 2
+    }
+  ]
+}

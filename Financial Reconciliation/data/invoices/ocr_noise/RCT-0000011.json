@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000011",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000011",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.167,
+        0.382,
+        0.553,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.655,
+        0.049,
+        0.083,
+        0.634
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bec-kMorton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.197,
+        0.3,
+        0.005,
+        0.839
+      ],
+      "page": 1
+    },
+    {
+      "text": "Daniel Cruz",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.748,
+        0.375,
+        0.881,
+        0.399
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.929,
+        0.326,
+        0.273,
+        0.881
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.892,
+        0.041,
+        0.891,
+        0.485
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.991,
+        0.633,
+        0.138,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "313.33",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.395,
+        0.697,
+        0.793,
+        0.624
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-362552",
+      "field_hint": "po_number",
+      "bbox": [
+        0.153,
+        0.531,
+        0.981,
+        0.409
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.154,
+        0.501,
+        0.738,
+        0.171
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric intermediate project 1 x 22.86 = 22.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.357,
+        0.321,
+        0.886,
+        0.785
+      ],
+      "page": 2
+    },
+    {
+      "text": "Extended composite capability 4 x 20.37 = 77.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.02,
+        0.497,
+        0.34,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized modular firmwar e1 x 7.73 = 7.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.26,
+        0.942,
+        0.371,
+        0.478
+      ],
+      "page": 2
+    },
+    {
+      "text": "Implemented foreground initiative 1 x 7.29 = 6.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.003,
+        0.561,
+        0.777,
+        0.022
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse zero-defect process improvement 3 x K12.49 = 37.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.938,
+        0.607,
+        0.065,
+        0.483
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based holistic initiative 1 x 14.67 = 12.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.688,
+        0.299,
+        0.793,
+        0.604
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive client-driven secured line 3 x 19.09 = 57.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.429,
+        0.276,
+        0.541,
+        0.52
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-friendly explicit customer loyalty 4 x 19.25 = 77.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.644,
+        0.663,
+        0.476,
+        0.44
+      ],
+      "page": 1
+    }
+  ]
+}

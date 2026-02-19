@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000102",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000102",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.773,
+        0.287,
+        0.262,
+        0.008
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.878,
+        0.894,
+        0.824,
+        0.075
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.599,
+        0.165,
+        0.199,
+        0.833
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Howard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.793,
+        0.086,
+        0.364,
+        0.395
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.108,
+        0.828,
+        0.202,
+        0.217
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.214,
+        0.419,
+        0.728,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.447,
+        0.317,
+        0.016,
+        0.621
+      ],
+      "page": 1
+    },
+    {
+      "text": "345.48g",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.283,
+        0.77,
+        0.087,
+        0.776
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-486649",
+      "field_hint": "po_number",
+      "bbox": [
+        0.529,
+        0.998,
+        0.696,
+        0.524
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.835,
+        0.758,
+        0.007,
+        0.361
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable object-oriented knowledgebase 5 x 61.36 = 306.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.558,
+        0.767,
+        0.402,
+        0.89
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergized maximized collaboration 1 x 7.65 = 7.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.776,
+        0.416,
+        0.956,
+        0.864
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000021",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000021",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.99,
+        0.713,
+        0.791,
+        0.922
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.095,
+        0.324,
+        0.631,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.133,
+        0.175,
+        0.762,
+        0.688
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kelly Foster",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.068,
+        0.018,
+        0.912,
+        0.449
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.503,
+        0.705,
+        0.013,
+        0.021
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0-324",
+      "field_hint": "due_date",
+      "bbox": [
+        0.757,
+        0.62,
+        0.06,
+        0.375
+      ],
+      "page": 1
+    },
+    {
+      "text": "SUD",
+      "field_hint": "currency",
+      "bbox": [
+        0.238,
+        0.725,
+        0.989,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "4.66",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.521,
+        0.978,
+        0.648,
+        0.288
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.242,
+        0.539,
+        0.907,
+        0.665
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased eco-centric matrix 1 x 14.27 = 14.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.72,
+        0.608,
+        0.381,
+        0.322
+      ],
+      "page": 1
+    },
+    {
+      "text": "Seamess dynamic database 1 x 22.05 = 18.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.954,
+        0.052,
+        0.992,
+        0.938
+      ],
+      "page": 1
+    }
+  ]
+}

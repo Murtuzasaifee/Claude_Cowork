@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "doc_id": "INV-0000082",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000082",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.127,
+        0.096,
+        0.743,
+        0.423
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-oMrton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.977,
+        0.72,
+        0.284,
+        0.241
+      ],
+      "page": 1
+    },
+    {
+      "text": "William Owen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.752,
+        0.928,
+        0.354,
+        0.236
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.172,
+        0.966,
+        0.383,
+        0.542
+      ],
+      "page": 1
+    },
+    {
+      "text": "14.26",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.614,
+        0.974,
+        0.81,
+        0.125
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-315173",
+      "field_hint": "po_number",
+      "bbox": [
+        0.242,
+        0.61,
+        0.892,
+        0.918
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_BON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.58,
+        0.6,
+        0.387,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organized radical focus grouCp 1 x 13.58 = 13.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.15,
+        0.888,
+        0.851,
+        0.751
+      ],
+      "page": 1
+    }
+  ]
+}

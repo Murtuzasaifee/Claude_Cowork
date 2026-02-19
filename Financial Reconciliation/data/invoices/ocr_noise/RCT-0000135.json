@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000135",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000135",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.157,
+        0.61,
+        0.973,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "erceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.929,
+        0.612,
+        0.711,
+        0.69
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.449,
+        0.158,
+        0.29,
+        0.238
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sergio Griffin",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.078,
+        0.351,
+        0.5,
+        0.068
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.551,
+        0.771,
+        0.725,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.316,
+        0.091,
+        0.879,
+        0.787
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.034,
+        0.506,
+        0.501,
+        0.007
+      ],
+      "page": 1
+    },
+    {
+      "text": "319.3",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.2,
+        0.551,
+        0.002,
+        0.196
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-467544",
+      "field_hint": "po_number",
+      "bbox": [
+        0.477,
+        0.437,
+        0.217,
+        0.619
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.741,
+        0.974,
+        0.349,
+        0.798
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable directional hardware 7 x 26.65 = 167.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.415,
+        0.182,
+        0.779,
+        0.535
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-platform systematic website 2 x 17.89 = 33.99",
+      "field_hint": "line_item",
+      "bbox": [
+        0.45,
+        0.028,
+        0.931,
+        0.484
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-architected background service-desk 1 x 11.63 = 11.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.814,
+        0.771,
+        0.112
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cross-group 5thgeneration throughput 2 x 7.71 = 15.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.223,
+        0.103,
+        0.241,
+        0.871
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused methodical Graphical User Interface 2 x 18.01 = 30.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.829,
+        0.529,
+        0.531,
+        0.033
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cloned web-enabled protocol 1 x 10.89 = 9.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.204,
+        0.86,
+        0.778,
+        0.763
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source radical GraphBical User Interface 1 x 26.55 = 25.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.336,
+        0.414,
+        0.934,
+        0.475
+      ],
+      "page": 1
+    }
+  ]
+}

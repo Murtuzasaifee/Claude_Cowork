@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000147",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000147",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.126,
+        0.459,
+        0.953,
+        0.394
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.847,
+        0.704,
+        0.387,
+        0.351
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.153,
+        0.13,
+        0.984,
+        0.956
+      ],
+      "page": 1
+    },
+    {
+      "text": "Julie Jackson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.998,
+        0.852,
+        0.442,
+        0.856
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.473,
+        0.83,
+        0.662,
+        0.578
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.036,
+        0.975,
+        0.109,
+        0.51
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.301,
+        0.146,
+        0.235,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "216.44",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.307,
+        0.419,
+        0.739,
+        0.378
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-687713",
+      "field_hint": "po_number",
+      "bbox": [
+        0.791,
+        0.433,
+        0.253,
+        0.738
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.575,
+        0.172,
+        0.97,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "Quality-focused multi-tasking toolset 1 x 20.55 = 17.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.818,
+        0.766,
+        0.101,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent bifurcated methodology 1 x 7.46 = 7.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.08,
+        0.147,
+        0.249,
+        0.857
+      ],
+      "page": 1
+    },
+    {
+      "text": "Grass-roots stable portal 3 x 43.54 = 111.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.677,
+        0.789,
+        0.5,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative homogeneous complexity 1 x 6.82 = 5.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.277,
+        0.801,
+        0.537,
+        0.993
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed next generation function 1 x 57.74 = 54.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.347,
+        0.098,
+        0.101,
+        0.044
+      ],
+      "page": 1
+    }
+  ]
+}

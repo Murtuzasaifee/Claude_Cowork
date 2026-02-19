@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000184",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000184",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.026,
+        0.087,
+        0.464,
+        0.928
+      ],
+      "page": 1
+    },
+    {
+      "text": "invLoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.176,
+        0.406,
+        0.604,
+        0.475
+      ],
+      "page": 1
+    },
+    {
+      "text": "Aslhey LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.819,
+        0.752,
+        0.971,
+        0.121
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andrwe Gonzalez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.532,
+        0.938,
+        0.358,
+        0.185
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.106,
+        0.239,
+        0.244,
+        0.374
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.085,
+        0.062,
+        0.058,
+        0.022
+      ],
+      "page": 1
+    },
+    {
+      "text": "62.37",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.43,
+        0.377,
+        0.184,
+        0.341
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-875584",
+      "field_hint": "po_number",
+      "bbox": [
+        0.7,
+        0.064,
+        0.74,
+        0.354
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET1",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.998,
+        0.812,
+        0.143,
+        0.0
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized 24/7 portal 1 x 21.34 = 18.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.804,
+        0.217,
+        0.743,
+        0.083
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive neutral pricing structure 1 x 6.75 = 6.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.916,
+        0.534,
+        0.075,
+        0.331
+      ],
+      "page": 1
+    },
+    {
+      "text": "Implemented foreground algorithm 1 x 11.08 = 11.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.245,
+        0.013,
+        0.74,
+        0.615
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic 24/7 forecast 1 x 13.91 = 13.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.912,
+        0.92,
+        0.67,
+        0.974
+      ],
+      "page": 1
+    }
+  ]
+}

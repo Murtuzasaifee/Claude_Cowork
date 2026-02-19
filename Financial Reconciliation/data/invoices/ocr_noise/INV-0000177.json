@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000177",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000177",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.578,
+        0.198,
+        0.924,
+        0.721
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.707,
+        0.196,
+        0.404,
+        0.053
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman3 Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.335,
+        0.647,
+        0.942,
+        0.91
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.168,
+        0.741,
+        0.096,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "ED",
+      "field_hint": "currency",
+      "bbox": [
+        0.256,
+        0.739,
+        0.566,
+        0.019
+      ],
+      "page": 1
+    },
+    {
+      "text": "285.07",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.893,
+        0.206,
+        0.74,
+        0.141
+      ],
+      "page": 1
+    },
+    {
+      "text": "OP-117975",
+      "field_hint": "po_number",
+      "bbox": [
+        0.991,
+        0.232,
+        0.977,
+        0.13
+      ],
+      "page": 1
+    },
+    {
+      "text": "NT30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.655,
+        0.096,
+        0.663,
+        0.614
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable client-server benchmark 3 x 22.69 = 68.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.256,
+        0.307,
+        0.224,
+        0.101
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric methodical info-mediaries 2 x 20.37 = 36.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.517,
+        0.955,
+        0.117,
+        0.215
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured local utilization 1 x 15.31 = 13.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.832,
+        0.412,
+        0.283,
+        0.126
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced intermediate system engine 5 x 12.44 = 59.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.773,
+        0.298,
+        0.443,
+        0.793
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound attitude-oriented structure 1 x 11.4 = 11.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.429,
+        0.268,
+        0.745,
+        0.73
+      ],
+      "page": 2
+    },
+    {
+      "text": "Future-proofed national matrices 2 x 11.47 = 22.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.75,
+        0.637,
+        0.474,
+        0.905
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized neutral capability 3 x 12.45 = 33.61",
+      "field_hint": "line_item",
+      "bbox": [
+        0.637,
+        0.361,
+        0.622,
+        0.83
+      ],
+      "page": 1
+    }
+  ]
+}

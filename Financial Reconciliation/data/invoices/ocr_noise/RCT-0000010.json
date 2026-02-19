@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000010",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000010",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.689,
+        0.149,
+        0.891,
+        0.368
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.664,
+        0.873,
+        0.159,
+        0.906
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.76,
+        0.111,
+        0.218,
+        0.245
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lisa Leonard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.51,
+        0.343,
+        0.535,
+        0.298
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.907,
+        0.639,
+        0.502,
+        0.611
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.552,
+        0.48,
+        0.269,
+        0.281
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.335,
+        0.079,
+        0.357,
+        0.201
+      ],
+      "page": 1
+    },
+    {
+      "text": "115.96",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.345,
+        0.787,
+        0.33,
+        0.629
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-148174",
+      "field_hint": "po_number",
+      "bbox": [
+        0.489,
+        0.537,
+        0.457,
+        0.276
+      ],
+      "page": 1
+    },
+    {
+      "text": "NEHT7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.386,
+        0.887,
+        0.929,
+        0.429
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focuseYd coherent Graphical User Interface 1 x 3.26 = 3.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.617,
+        0.493,
+        0.257,
+        0.224
+      ],
+      "page": 2
+    },
+    {
+      "text": "Down-sized maximized capacity 1 x 9.9 = 8.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.072,
+        0.358,
+        0.641,
+        0.311
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse 6thgeneration frame 1 x 25.41 = 22.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.599,
+        0.238,
+        0.723,
+        0.914
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed value-added orchestration 1 x 6.65 = 6.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.736,
+        0.818,
+        0.061,
+        0.11
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral actuatKing frame 4 x 16.44 = 59.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.475,
+        0.639,
+        0.173,
+        0.281
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000096",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000096",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.454,
+        0.101,
+        0.129,
+        0.776
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.572,
+        0.634,
+        0.899,
+        0.731
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.816,
+        0.723,
+        0.417,
+        0.183
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-29",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.217,
+        0.792,
+        0.602,
+        0.985
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.288,
+        0.732,
+        0.383,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "UR",
+      "field_hint": "currency",
+      "bbox": [
+        0.235,
+        0.643,
+        0.314,
+        0.944
+      ],
+      "page": 1
+    },
+    {
+      "text": "92.62",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.284,
+        0.673,
+        0.894,
+        0.061
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-896204",
+      "field_hint": "po_number",
+      "bbox": [
+        0.19,
+        0.948,
+        0.049,
+        0.28
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral responsive service-desk 1 x 5.61 = 5.61",
+      "field_hint": "line_item",
+      "bbox": [
+        0.738,
+        0.247,
+        0.184,
+        0.054
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic high-level monitoring 1 x 3.81 = 3.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.608,
+        0.466,
+        0.14,
+        0.27
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized mission-critical migration 1 x 3.59 = 3.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.024,
+        0.62,
+        0.468,
+        0.096
+      ],
+      "page": 2
+    },
+    {
+      "text": "Visionary next generation superstructure 1 x 11.14 = 10.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.703,
+        0.242,
+        0.929,
+        0.756
+      ],
+      "page": 1
+    },
+    {
+      "text": "Networked needs-based approach 2 x 12.95 = 24.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.49,
+        0.355,
+        0.257,
+        0.398
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual mobile flexibility 1 x 16.07 = 13.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.947,
+        0.338,
+        0.31,
+        0.927
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced scalable productiity 1 x 11.49 = 9.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.428,
+        0.34,
+        0.683,
+        0.58
+      ],
+      "page": 2
+    },
+    {
+      "text": "Digitized freground intranet 1 x 13.87 = 13.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.463,
+        0.051,
+        0.139,
+        0.069
+      ],
+      "page": 1
+    }
+  ]
+}

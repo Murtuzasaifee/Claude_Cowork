@@ -1,0 +1,21 @@
+Company,Product_Name,Market_Share_Percent,Price_Tier,Overall_Rating,Feature_Score,Performance_Score,Support_Score,Security_Score,Ease_of_Use,Integration_Options,Mobile_App,API_Available,Free_Trial_Days,User_Base_Size,Year_Founded,Headquarters,Annual_Revenue_M,Growth_Rate_Percent,Customer_Retention_Rate,Key_Differentiator
+TechVision Inc,CloudMaster Pro,23.5,Premium,4.6,92,88,85,95,87,45,Yes,Yes,30,1500000,2015,San Francisco,450,35,89,AI-powered automation
+DataFlow Systems,FlowSync Enterprise,18.2,Premium,4.4,88,90,82,90,85,38,Yes,Yes,14,980000,2016,London,320,28,86,Real-time collaboration
+InnovateSoft,ProjectHub Elite,15.7,Mid-Range,4.3,85,84,88,85,90,32,Yes,Yes,21,750000,2017,Berlin,245,42,88,Intuitive interface
+GlobalTech Solutions,SyncWorks Business,12.4,Mid-Range,4.2,83,85,80,88,86,28,Yes,Yes,30,620000,2018,Singapore,198,31,84,Multi-platform support
+ConnectPro,TeamBridge Plus,10.8,Budget,4.0,80,78,85,82,88,24,Yes,Yes,14,450000,2019,Toronto,125,38,82,Affordable pricing
+NextGen Apps,WorkFlow Pro,8.9,Premium,4.5,90,92,86,92,84,42,Yes,Yes,30,520000,2014,Tokyo,380,22,91,Advanced analytics
+SmartSolutions,CollabSpace,6.2,Budget,3.9,78,75,78,80,89,20,Yes,No,7,280000,2020,Austin,78,45,79,Simple setup
+TechCore,DataVault Enterprise,4.3,Premium,4.7,94,95,90,98,82,50,Yes,Yes,30,380000,2013,Boston,410,18,93,Enterprise security
+Our Company,CoWork Suite,0.0,Mid-Range,0.0,0,0,0,0,0,35,Yes,Yes,30,0,2024,Seattle,0,0,0,Claude AI integration
+Productivity Plus,TaskMaster 360,0.0,Budget,3.8,76,74,75,78,87,18,Yes,No,14,195000,2021,Miami,52,52,77,Quick deployment
+AgileWorks,ProjectForce,0.0,Mid-Range,4.1,84,82,83,84,85,30,Yes,Yes,21,410000,2018,Amsterdam,156,26,85,Agile methodology
+EnterpriseHub,WorkHub Pro,0.0,Premium,4.4,89,87,88,91,83,40,Yes,Yes,30,690000,2016,Munich,298,24,87,Scalability
+CollaborateNow,TeamSync,0.0,Budget,3.7,75,72,76,79,90,16,Yes,No,7,165000,2021,Dublin,42,48,76,User-friendly
+DataWorks,AnalyticsPro,0.0,Premium,4.5,91,93,84,93,81,48,Yes,Yes,30,850000,2015,Sydney,365,29,90,Data visualization
+CloudFirst,CloudCollab,0.0,Mid-Range,4.0,82,80,79,86,86,26,Yes,Yes,14,325000,2019,Stockholm,112,36,83,Cloud-native
+SecureConnect,VaultTeam,0.0,Premium,4.6,90,88,89,97,80,44,Yes,Yes,30,540000,2014,Zurich,425,20,92,Zero-trust security
+QuickTask,TaskFlow Lite,0.0,Budget,3.6,74,71,74,77,91,14,Yes,No,7,125000,2022,Portland,28,65,74,Minimalist design
+IntegrateAll,HubConnect,0.0,Mid-Range,4.2,86,83,81,87,84,52,Yes,Yes,21,480000,2017,Copenhagen,178,32,86,API-first design
+PremiumWork,EliteCollab,0.0,Premium,4.7,93,94,91,94,79,46,Yes,Yes,30,720000,2013,New York,520,16,94,White-glove support
+StartupTools,LaunchPad,0.0,Budget,3.8,77,76,77,81,88,22,Yes,Yes,14,210000,2020,Tel Aviv,68,55,78,Startup-focused

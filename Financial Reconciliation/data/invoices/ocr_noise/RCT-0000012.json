@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000012",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000012",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.326,
+        0.725,
+        0.263,
+        0.794
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.223,
+        0.766,
+        0.537,
+        0.657
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.801,
+        0.175,
+        0.141,
+        0.003
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Wagner",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.859,
+        0.054,
+        0.405,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.346,
+        0.36,
+        0.464,
+        0.125
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-10-07",
+      "field_hint": "due_date",
+      "bbox": [
+        0.643,
+        0.462,
+        0.859,
+        0.766
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.663,
+        0.819,
+        0.659,
+        0.694
+      ],
+      "page": 1
+    },
+    {
+      "text": "32023",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.962,
+        0.337,
+        0.255,
+        0.223
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-323788",
+      "field_hint": "po_number",
+      "bbox": [
+        0.634,
+        0.309,
+        0.394,
+        0.329
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.62,
+        0.314,
+        0.238,
+        0.145
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible responsive Internet solution 1 x 79.94 = 67.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.553,
+        0.834,
+        0.674,
+        0.582
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone 4thgeneration hub 1 x 34.19 = 34.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.833,
+        0.362,
+        0.502,
+        0.654
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered logistical synergy 4 x 53.18 = 180.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.773,
+        0.262,
+        0.64,
+        0.777
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable 24hour Local Area Network 1 x 5.59 = 5.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.736,
+        0.787,
+        0.638,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive impactful benchmark 1 x 21.07 = 17.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.593,
+        0.976,
+        0.634,
+        0.096
+      ],
+      "page": 2
+    }
+  ]
+}

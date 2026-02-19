@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000045",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000045",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.286,
+        0.074,
+        0.224,
+        0.345
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.739,
+        0.663,
+        0.367,
+        0.809
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.669,
+        0.53,
+        0.977,
+        0.164
+      ],
+      "page": 1
+    },
+    {
+      "text": "Gina Prince",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.313,
+        0.874,
+        0.61,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.374,
+        0.295,
+        0.296,
+        0.149
+      ],
+      "page": 1
+    },
+    {
+      "text": "20E26-01-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.631,
+        0.765,
+        0.882,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "176.95",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.3,
+        0.057,
+        0.823,
+        0.362
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO2-65154",
+      "field_hint": "po_number",
+      "bbox": [
+        0.738,
+        0.285,
+        0.991,
+        0.01
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.999,
+        0.437,
+        0.29,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adaptive well-modulated algorithm 1 x 6.7 = 5.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.09,
+        0.797,
+        0.089,
+        0.552
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured needs-based neural-net 4 x 15.4 = 52.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.165,
+        0.478,
+        0.317,
+        0.568
+      ],
+      "page": 2
+    },
+    {
+      "text": "Integrated non-volatile ability 1 x 4.94 = 4.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.913,
+        0.089,
+        0.8,
+        0.655
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized foreground conglomeration 1 x 5.62 = 5.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.086,
+        0.9,
+        0.087,
+        0.967
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented intangible strategy 2 x 21.06 = 42.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.963,
+        0.977,
+        0.262,
+        0.502
+      ],
+      "page": 1
+    }
+  ]
+}

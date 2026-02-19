@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000122",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000122",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.715,
+        0.595,
+        0.935,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.585,
+        0.611,
+        0.224,
+        0.768
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.991,
+        0.09,
+        0.683,
+        0.813
+      ],
+      "page": 1
+    },
+    {
+      "text": "Julie errell",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.865,
+        0.041,
+        0.945,
+        0.582
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-30",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.944,
+        0.029,
+        0.248,
+        0.965
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.62,
+        0.392,
+        0.151,
+        0.081
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.42,
+        0.014,
+        0.056,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "295.58",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.418,
+        0.97,
+        0.393,
+        0.954
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-556608",
+      "field_hint": "po_number",
+      "bbox": [
+        0.93,
+        0.084,
+        0.512,
+        0.394
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.287,
+        0.763,
+        0.255,
+        0.656
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group tertiary moderator 2 x 6.97 = 12.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.98,
+        0.685,
+        0.605,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering disintermediate product 1 x 43.31 = 36.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.302,
+        0.605,
+        0.167,
+        0.19
+      ],
+      "page": 1
+    },
+    {
+      "text": "Digitized multi-tasking Graphic Interface 4 x 15.65 = 59.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.834,
+        0.088,
+        0.969,
+        0.256
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized national Graphic Interface 2 x 8.12 = 16.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.739,
+        0.941,
+        0.555,
+        0.321
+      ],
+      "page": 2
+    },
+    {
+      "text": "Seamless exuding open system 3 x 26.11 = 66.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.85,
+        0.636,
+        0.955,
+        0.534
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive real-time middleware 1 x 13.2 = 12.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.687,
+        0.098,
+        0.623,
+        0.408
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive next generation encoding 3 x 23.69 = 71.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.821,
+        0.085,
+        0.601,
+        0.683
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured background Graphical User Interface 1 x 16.13 = 15.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.805,
+        0.887,
+        0.72,
+        0.962
+      ],
+      "page": 1
+    }
+  ]
+}

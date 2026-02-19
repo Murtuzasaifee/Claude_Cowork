@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000117",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000117",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.249,
+        0.626,
+        0.747,
+        0.9
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.854,
+        0.777,
+        0.578,
+        0.244
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.138,
+        0.769,
+        0.452,
+        0.339
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andre Gray",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.337,
+        0.471,
+        0.53,
+        0.953
+      ],
+      "page": 1
+    },
+    {
+      "text": "02025-12-29",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.64,
+        0.804,
+        0.962,
+        0.995
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.464,
+        0.378,
+        0.665,
+        0.747
+      ],
+      "page": 1
+    },
+    {
+      "text": "AEDL",
+      "field_hint": "currency",
+      "bbox": [
+        0.936,
+        0.959,
+        0.251,
+        0.418
+      ],
+      "page": 1
+    },
+    {
+      "text": "56.5",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.998,
+        0.633,
+        0.025,
+        0.685
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-764845",
+      "field_hint": "po_number",
+      "bbox": [
+        0.47,
+        0.757,
+        0.752,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.797,
+        0.155,
+        0.724,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive uniform artificial intelligence 1 x 9.63 = 8.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.963,
+        0.933,
+        0.702,
+        0.139
+      ],
+      "page": 2
+    },
+    {
+      "text": "Distributed analyzing budgetary management 2 x 8.75 = 17.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.392,
+        0.349,
+        0.685,
+        0.251
+      ],
+      "page": 2
+    }
+  ]
+}

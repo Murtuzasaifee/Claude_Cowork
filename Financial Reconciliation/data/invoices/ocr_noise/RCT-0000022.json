@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000022",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000022",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.522,
+        0.126,
+        0.61,
+        0.223
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.985,
+        0.273,
+        0.801,
+        0.164
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.834,
+        0.963,
+        0.647,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "Barry Kirby",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.694,
+        0.788,
+        0.797,
+        0.082
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.02,
+        0.169,
+        0.431,
+        0.913
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.779,
+        0.403,
+        0.011,
+        0.72
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.575,
+        0.703,
+        0.636,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "25.19",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.865,
+        0.645,
+        0.301,
+        0.452
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-489933",
+      "field_hint": "po_number",
+      "bbox": [
+        0.706,
+        0.318,
+        0.659,
+        0.052
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.401,
+        0.493,
+        0.144,
+        0.705
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed contextually-based challenge 1 x 7.23 = 6.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.95,
+        0.811,
+        0.268,
+        0.571
+      ],
+      "page": 2
+    },
+    {
+      "text": "Realigned methodical website 1 x 3.71 = 3.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.684,
+        0.4,
+        0.019,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "Grass-roots optimal website 1 x 7.75 = 6.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.865,
+        0.791,
+        0.689,
+        0.175
+      ],
+      "page": 1
+    }
+  ]
+}

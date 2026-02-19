@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000150",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000150",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.098,
+        0.234,
+        0.372,
+        0.563
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.26,
+        0.376,
+        0.939,
+        0.046
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.161,
+        0.734,
+        0.019,
+        0.296
+      ],
+      "page": 1
+    },
+    {
+      "text": "Christina Castaneda",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.843,
+        0.37,
+        0.28,
+        0.773
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-021-3",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.102,
+        0.461,
+        0.061,
+        0.5
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-30",
+      "field_hint": "due_date",
+      "bbox": [
+        0.264,
+        0.652,
+        0.532,
+        0.641
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.061,
+        0.098,
+        0.318,
+        0.979
+      ],
+      "page": 1
+    },
+    {
+      "text": "137.6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.889,
+        0.297,
+        0.073,
+        0.302
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-892630",
+      "field_hint": "po_number",
+      "bbox": [
+        0.672,
+        0.383,
+        0.162,
+        0.173
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.685,
+        0.403,
+        0.148,
+        0.451
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse clear-thinking open system 1 x 8.38 = 8.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.997,
+        0.449,
+        0.429,
+        0.136
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable tertiary forecast 1 x 5.64 = 4.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.207,
+        0.478,
+        0.068,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated bifurcated hierarchy 1 x 7.4 = 7.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.548,
+        0.921,
+        0.476,
+        0.692
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent bottom-line middleware 1 x 7.16 = 7.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.529,
+        0.722,
+        0.836,
+        0.607
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust modular toolset 3 x 12.47 = 33.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.797,
+        0.517,
+        0.936,
+        0.994
+      ],
+      "page": 2
+    },
+    {
+      "text": "Automated optimizing Xmiddleware 1 x 25.07 = 25.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.371,
+        0.235,
+        0.006,
+        0.788
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cross-platform needs-based forecast 2 x 13.14 = 24.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.772,
+        0.474,
+        0.578,
+        0.742
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive regional groupware 1 x 5.36 = 4.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.952,
+        0.777,
+        0.314,
+        0.682
+      ],
+      "page": 2
+    }
+  ]
+}

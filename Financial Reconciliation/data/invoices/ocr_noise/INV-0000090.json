@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000090",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000090",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.169,
+        0.957,
+        0.864,
+        0.51
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoKice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.795,
+        0.776,
+        0.188,
+        0.548
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.667,
+        0.192,
+        0.528,
+        0.344
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joan Bridges",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.911,
+        0.288,
+        0.249,
+        0.856
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.648,
+        0.498,
+        0.978,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-09",
+      "field_hint": "due_date",
+      "bbox": [
+        0.128,
+        0.184,
+        0.641,
+        0.12
+      ],
+      "page": 1
+    },
+    {
+      "text": "SUD",
+      "field_hint": "currency",
+      "bbox": [
+        0.998,
+        0.745,
+        0.731,
+        0.684
+      ],
+      "page": 1
+    },
+    {
+      "text": "180.64",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.959,
+        0.575,
+        0.652,
+        0.717
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-786837",
+      "field_hint": "po_number",
+      "bbox": [
+        0.206,
+        0.144,
+        0.724,
+        0.786
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.411,
+        0.66,
+        0.68,
+        0.443
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source real-time workforce 1 x 17.62 = 15.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.207,
+        0.353,
+        0.87,
+        0.858
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-engineered attitude-oriented standardization 1 x 37.88 = 37.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.274,
+        0.049,
+        0.003,
+        0.464
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed even-keeled success 2 x 36.57 = 73.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.748,
+        0.524,
+        0.204,
+        0.11
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized composite protocol 1 x 10.91 = 10.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.426,
+        0.014,
+        0.786,
+        0.53
+      ],
+      "page": 2
+    },
+    {
+      "text": "Face-to-face next generation installation 1 x 21.43 = 19.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.224,
+        0.201,
+        0.864,
+        0.839
+      ],
+      "page": 1
+    }
+  ]
+}

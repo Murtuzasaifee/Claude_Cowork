@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reconciliation Finance Report — 19 Feb 2026</title>
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f4f6fa;
+      color: #1a1d2e;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── Layout ── */
+    .page { max-width: 1100px; margin: 0 auto; padding: 32px 24px 60px; }
+
+    /* ── Header ── */
+    .report-header {
+      background: linear-gradient(135deg, #0f2b5b 0%, #1b4f9e 100%);
+      color: #fff;
+      border-radius: 12px;
+      padding: 32px 36px 28px;
+      margin-bottom: 32px;
+    }
+    .report-header h1 { font-size: 24px; font-weight: 700; letter-spacing: -0.3px; }
+    .report-header .subtitle {
+      margin-top: 6px;
+      font-size: 13px;
+      opacity: 0.78;
+    }
+    .report-header .meta-row {
+      display: flex;
+      gap: 28px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+    .meta-chip {
+      background: rgba(255,255,255,0.13);
+      border: 1px solid rgba(255,255,255,0.22);
+      border-radius: 6px;
+      padding: 4px 12px;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    /* ── Section titles ── */
+    .section { margin-bottom: 36px; }
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #0f2b5b;
+      border-left: 4px solid #1b4f9e;
+      padding-left: 12px;
+      margin-bottom: 16px;
+    }
+    .section-sub {
+      font-size: 13px;
+      font-weight: 600;
+      color: #3a4460;
+      margin: 14px 0 8px;
+    }
+
+    /* ── Stat cards ── */
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+    .stat-card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 16px 18px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      border-top: 3px solid #1b4f9e;
+    }
+    .stat-card.green  { border-top-color: #1a8a4a; }
+    .stat-card.amber  { border-top-color: #e07b00; }
+    .stat-card.red    { border-top-color: #c0392b; }
+    .stat-card.purple { border-top-color: #6c3db7; }
+    .stat-card .label { font-size: 11px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-card .value { font-size: 24px; font-weight: 700; color: #0f2b5b; margin-top: 4px; }
+    .stat-card .note  { font-size: 11px; color: #9ca3af; margin-top: 2px; }
+
+    /* ── Tables ── */
+    .tbl-wrap { overflow-x: auto; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.07); }
+    table { width: 100%; border-collapse: collapse; background: #fff; font-size: 13px; }
+    thead tr { background: #0f2b5b; color: #fff; }
+    thead th { padding: 10px 14px; text-align: left; font-weight: 600; white-space: nowrap; }
+    tbody tr:nth-child(even) { background: #f8f9fc; }
+    tbody tr:hover { background: #eef2fb; }
+    tbody td { padding: 9px 14px; border-bottom: 1px solid #e9ecf3; vertical-align: top; }
+
+    /* ── Badges ── */
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-blue   { background: #dbeafe; color: #1d4ed8; }
+    .badge-green  { background: #dcfce7; color: #166534; }
+    .badge-amber  { background: #fef3c7; color: #92400e; }
+    .badge-red    { background: #fee2e2; color: #991b1b; }
+    .badge-purple { background: #ede9fe; color: #5b21b6; }
+    .badge-gray   { background: #f1f5f9; color: #475569; }
+
+    /* ── Progress / accuracy bar ── */
+    .acc-bar-wrap { margin: 10px 0; }
+    .acc-bar-label { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 4px; }
+    .acc-bar-track { background: #e5e7eb; border-radius: 9999px; height: 10px; overflow: hidden; }
+    .acc-bar-fill  { height: 100%; border-radius: 9999px; }
+    .fill-green  { background: #16a34a; }
+    .fill-amber  { background: #d97706; }
+    .fill-red    { background: #dc2626; }
+
+    /* ── Exception box ── */
+    .exc-box {
+      background: #fff8f1;
+      border: 1px solid #fcd34d;
+      border-left: 4px solid #e07b00;
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 12px;
+    }
+    .exc-box h4 { font-size: 13px; font-weight: 700; color: #92400e; margin-bottom: 6px; }
+    .exc-box p, .exc-box ul { font-size: 13px; color: #3a3a3a; }
+    .exc-box ul { padding-left: 18px; }
+    .exc-box li { margin-bottom: 2px; }
+    .exc-box.critical { background: #fff1f1; border-color: #fca5a5; border-left-color: #c0392b; }
+    .exc-box.critical h4 { color: #991b1b; }
+
+    /* ── Formula box ── */
+    .formula-box {
+      background: #f0f4ff;
+      border: 1px solid #bfcfff;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-family: 'Consolas', monospace;
+      font-size: 12.5px;
+      color: #1e3a8a;
+      margin-bottom: 12px;
+      line-height: 1.9;
+    }
+    .formula-box .f-label {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      color: #6b7280;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 4px;
+    }
+
+    /* ── Two-column ── */
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
+
+    /* ── Info row ── */
+    .info-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+
+    /* ── Footer ── */
+    .report-footer {
+      margin-top: 48px;
+      padding-top: 18px;
+      border-top: 1px solid #dde1ec;
+      font-size: 11px;
+      color: #9ca3af;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ════════════════════════ HEADER ════════════════════════ -->
+  <div class="report-header">
+    <h1>Reconciliation Finance Report</h1>
+    <div class="subtitle">Invoice · Receipt · Bank Statement Analysis — Period: Jan–Mar 2026</div>
+    <div class="meta-row">
+      <span class="meta-chip">Prepared: 19 Feb 2026</span>
+      <span class="meta-chip">Prepared for: Finance / Accounting Team</span>
+      <span class="meta-chip">Currency mix: GBP · USD · AED · EUR</span>
+      <span class="meta-chip">Automated match engine: Description-regex parser</span>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 1. FILE INVENTORY ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">1 · File Inventory &amp; Identifiers</div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>File / Dataset</th>
+            <th>Primary Key</th>
+            <th>ID Format (example)</th>
+            <th>Row Count</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>bank_statement.csv</strong></td>
+            <td><code>bank_txn_id</code></td>
+            <td><span class="badge badge-blue">BTX-00000001</span></td>
+            <td>352</td>
+            <td>Clean extract. Covers Jan–Mar 2026.</td>
+          </tr>
+          <tr>
+            <td><strong>bank_statement_messy.csv</strong></td>
+            <td><code>bank_txn_id</code></td>
+            <td><span class="badge badge-blue">BTX-00000183</span></td>
+            <td>362</td>
+            <td><span class="badge badge-red">⚠ Full overlap with clean file</span> — 352 identical IDs; 10 net new rows. Likely a raw export with no dedup applied.</td>
+          </tr>
+          <tr>
+            <td><strong>invoices_header.csv</strong></td>
+            <td><code>doc_id</code></td>
+            <td><span class="badge badge-green">INV-0000001</span></td>
+            <td>200</td>
+            <td>One row per invoice. Has matching line-items file.</td>
+          </tr>
+          <tr>
+            <td><strong>invoices_line_items.csv</strong></td>
+            <td><code>doc_id + line_no</code></td>
+            <td><span class="badge badge-green">INV-0000001 · L1</span></td>
+            <td>922</td>
+            <td>Avg 4.6 line items per invoice.</td>
+          </tr>
+          <tr>
+            <td><strong>receipts_header.csv</strong></td>
+            <td><code>doc_id</code></td>
+            <td><span class="badge badge-purple">RCT-0000001</span></td>
+            <td>150</td>
+            <td>One row per receipt. Same schema as invoices.</td>
+          </tr>
+          <tr>
+            <td><strong>receipts_line_items.csv</strong></td>
+            <td><code>doc_id + line_no</code></td>
+            <td><span class="badge badge-purple">RCT-0000001 · L1</span></td>
+            <td>674</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><strong>ground_truth_links.csv</strong></td>
+            <td><code>doc_id + bank_txn_id</code></td>
+            <td><span class="badge badge-gray">INV-0000122 ↔ BTX-00000001</span></td>
+            <td>378</td>
+            <td>Reference file for link validation. 5 link-type categories.</td>
+          </tr>
+          <tr>
+            <td><strong>many_to_one_mapping_cases.csv</strong></td>
+            <td><code>bank_txn_id</code></td>
+            <td><span class="badge badge-amber">BTX-00000001</span></td>
+            <td>7</td>
+            <td>Bank txns covered by 2–5 documents each.</td>
+          </tr>
+          <tr>
+            <td><strong>missing_items_report.csv</strong></td>
+            <td><code>doc_id + bank_txn_id</code></td>
+            <td>—</td>
+            <td>131</td>
+            <td>Pre-computed exception list: mismatches, orphaned docs, orphaned txns.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 2. BASIC COUNTS ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">2 · Basic Counts &amp; Volume</div>
+
+    <div class="section-sub">Bank Transactions (clean file, deduplicated)</div>
+    <div class="stat-grid">
+      <div class="stat-card">
+        <div class="label">Total Txns</div>
+        <div class="value">362</div>
+        <div class="note">714 raw rows across 2 files</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">Total Amount</div>
+        <div class="value">96,138</div>
+        <div class="note">Multi-currency; not summed to single FX</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">GBP Txns</div>
+        <div class="value">203</div>
+        <div class="note">28.4% of all rows</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">USD Txns</div>
+        <div class="value">160</div>
+        <div class="note">22.4%</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">AED Txns</div>
+        <div class="value">156</div>
+        <div class="note">21.8%</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">EUR Txns</div>
+        <div class="value">195</div>
+        <div class="note">27.3%</div>
+      </div>
+    </div>
+
+    <div class="section-sub">Invoices</div>
+    <div class="stat-grid">
+      <div class="stat-card green">
+        <div class="label">Total Invoices</div>
+        <div class="value">200</div>
+      </div>
+      <div class="stat-card green">
+        <div class="label">PAID</div>
+        <div class="value">38</div>
+        <div class="note">19%</div>
+      </div>
+      <div class="stat-card amber">
+        <div class="label">PARTIALLY PAID</div>
+        <div class="value">53</div>
+        <div class="note">26.5%</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">OPEN</div>
+        <div class="value">48</div>
+        <div class="note">24%</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">VOID</div>
+        <div class="value">61</div>
+        <div class="note">30.5% — high void rate</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">Total Value</div>
+        <div class="value">30,281</div>
+        <div class="note">Mixed FX</div>
+      </div>
+    </div>
+
+    <div class="section-sub">Receipts</div>
+    <div class="stat-grid">
+      <div class="stat-card purple">
+        <div class="label">Total Receipts</div>
+        <div class="value">150</div>
+      </div>
+      <div class="stat-card green">
+        <div class="label">PAID</div>
+        <div class="value">36</div>
+        <div class="note">24%</div>
+      </div>
+      <div class="stat-card amber">
+        <div class="label">PARTIALLY PAID</div>
+        <div class="value">36</div>
+        <div class="note">24%</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">OPEN</div>
+        <div class="value">33</div>
+        <div class="note">22%</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">VOID</div>
+        <div class="value">45</div>
+        <div class="note">30% — mirrors invoice void rate</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">Total Value</div>
+        <div class="value">21,091</div>
+        <div class="note">Mixed FX</div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 3. DATA QUALITY FLAGS ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">3 · Data Quality Flags</div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Flag</th>
+            <th>Severity</th>
+            <th>Count</th>
+            <th>Detail / Sample IDs</th>
+            <th>Recommended Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Duplicate bank file (messy vs clean)</strong></td>
+            <td><span class="badge badge-red">HIGH</span></td>
+            <td>352 duplicate IDs</td>
+            <td>bank_statement_messy.csv overlaps entirely with bank_statement.csv; only 10 rows are net-new.</td>
+            <td>Confirm which file is authoritative; deduplicate before any downstream processing.</td>
+          </tr>
+          <tr>
+            <td><strong>Missing bank channel</strong></td>
+            <td><span class="badge badge-amber">MEDIUM</span></td>
+            <td>8 txns</td>
+            <td>channel field is blank on 8 bank rows.</td>
+            <td>Back-fill from payment processor logs or flag for manual review.</td>
+          </tr>
+          <tr>
+            <td><strong>Missing counterparty name</strong></td>
+            <td><span class="badge badge-amber">MEDIUM</span></td>
+            <td>19 txns</td>
+            <td>counterparty_name blank on 19 rows.</td>
+            <td>Enrich from counterparty_account (IBAN lookup) or request from bank.</td>
+          </tr>
+          <tr>
+            <td><strong>Missing bank description</strong></td>
+            <td><span class="badge badge-amber">MEDIUM</span></td>
+            <td>10 txns</td>
+            <td>description field empty — these txns cannot be auto-matched by any reference-parsing engine.</td>
+            <td>Manual review; cross-reference counterparty and amount.</td>
+          </tr>
+          <tr>
+            <td><strong>VOID docs linked to bank txns</strong></td>
+            <td><span class="badge badge-red">HIGH</span></td>
+            <td>106 doc-links</td>
+            <td>e.g. RCT-0000049, INV-0000039, RCT-0000092 … (106 total)</td>
+            <td>Verify whether these were voided after payment was processed. If so, issue credit notes. If voided in error, reinstate.</td>
+          </tr>
+          <tr>
+            <td><strong>Currency mismatches (doc ≠ bank)</strong></td>
+            <td><span class="badge badge-red">HIGH</span></td>
+            <td>13 pairs</td>
+            <td>INV-0000095 (AED) ↔ BTX-00000001 (GBP); INV-0000138 (EUR) ↔ BTX-00000002 (USD) — see Section 5</td>
+            <td>Confirm FX conversion entries. Amounts cannot be directly compared without an exchange rate applied.</td>
+          </tr>
+          <tr>
+            <td><strong>High VOID rate</strong></td>
+            <td><span class="badge badge-amber">MEDIUM</span></td>
+            <td>106 of 350 docs (30%)</td>
+            <td>61 invoices + 45 receipts voided. Unusually high; industry norm is &lt;5%.</td>
+            <td>Investigate root cause: duplicate issuance, test data, or systematic cancellation process?</td>
+          </tr>
+          <tr>
+            <td><strong>PARTIALLY_PAID invoices with no split detail</strong></td>
+            <td><span class="badge badge-amber">MEDIUM</span></td>
+            <td>53 invoices, 36 receipts</td>
+            <td>No payment schedule or partial-payment breakdown present in the data files.</td>
+            <td>Request payment allocation details from AR/AP system to enable full reconciliation.</td>
+          </tr>
+          <tr>
+            <td><strong>Reversed date anomalies</strong></td>
+            <td><span class="badge badge-green">CLEAR</span></td>
+            <td>0</td>
+            <td>No booking_date &gt; value_date gaps &gt; 1 day detected.</td>
+            <td>No action required.</td>
+          </tr>
+          <tr>
+            <td><strong>Line-item vs header total mismatch</strong></td>
+            <td><span class="badge badge-green">CLEAR</span></td>
+            <td>0</td>
+            <td>All invoice line-item subtotals reconcile to header subtotals within £0.02.</td>
+            <td>No action required.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 4. MATCH PATTERNS ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">4 · Match Patterns</div>
+
+    <div class="stat-grid">
+      <div class="stat-card green">
+        <div class="label">Exact 1:1</div>
+        <div class="value">264</div>
+        <div class="note">69.8% of ground-truth links</div>
+      </div>
+      <div class="stat-card amber">
+        <div class="label">1:Many (one doc → many bank)</div>
+        <div class="value">42</div>
+        <div class="note">11.1% — split payments</div>
+      </div>
+      <div class="stat-card amber">
+        <div class="label">Many:1 (many docs → one bank)</div>
+        <div class="value">21</div>
+        <div class="note">5.6% — consolidated payments</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">Partial / Mismatch</div>
+        <div class="value">22</div>
+        <div class="note">5.8% — amount or ref discrepancy</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">Doc Without Bank</div>
+        <div class="value">29</div>
+        <div class="note">7.7% — no matching txn</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">Bank Without Doc</div>
+        <div class="value">17</div>
+        <div class="note">Orphaned bank txns</div>
+      </div>
+    </div>
+
+    <div class="section-sub">Many-to-One Detail (consolidated payments)</div>
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Bank Txn ID</th>
+            <th>Doc Count</th>
+            <th>Documents Covered</th>
+            <th>Flag</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>BTX-00000001</code></td>
+            <td><strong>5</strong></td>
+            <td>INV-0000095, INV-0000122, INV-0000135, INV-0000167, RCT-0000015</td>
+            <td><span class="badge badge-red">High-fan · multi-CCY</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000006</code></td>
+            <td><strong>4</strong></td>
+            <td>INV-0000096, INV-0000133, INV-0000195, RCT-0000098</td>
+            <td><span class="badge badge-amber">High-fan</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000003</code></td>
+            <td>3</td>
+            <td>INV-0000108, INV-0000188, RCT-0000018</td>
+            <td><span class="badge badge-amber">Multi-CCY</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000005</code></td>
+            <td>3</td>
+            <td>INV-0000052, RCT-0000056, RCT-0000081</td>
+            <td><span class="badge badge-amber">Multi-CCY</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000002</code></td>
+            <td>2</td>
+            <td>INV-0000138, INV-0000186</td>
+            <td><span class="badge badge-gray">Standard</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000004</code></td>
+            <td>2</td>
+            <td>INV-0000191, RCT-0000042</td>
+            <td><span class="badge badge-gray">Standard</span></td>
+          </tr>
+          <tr>
+            <td><code>BTX-00000007</code></td>
+            <td>2</td>
+            <td>INV-0000176, RCT-0000114</td>
+            <td><span class="badge badge-gray">Standard</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-sub">Missing Items Summary</div>
+    <div class="stat-grid" style="max-width:520px;">
+      <div class="stat-card red">
+        <div class="label">Potential Mismatch</div>
+        <div class="value">85</div>
+        <div class="note">Mainly many:1 complex mappings</div>
+      </div>
+      <div class="stat-card red">
+        <div class="label">Doc Without Bank</div>
+        <div class="value">29</div>
+        <div class="note">Possible unpaid / timing</div>
+      </div>
+      <div class="stat-card amber">
+        <div class="label">Bank Without Doc</div>
+        <div class="value">17</div>
+        <div class="note">Unidentified payments</div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 5. TOP EXCEPTIONS ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">5 · Top Exceptions for Accountant Review</div>
+
+    <div class="exc-box critical">
+      <h4>🔴 EXC-01 · VOID Documents Matched to Bank Payments (106 links)</h4>
+      <p>106 document-to-bank links reference documents whose status is <strong>VOID</strong>. Payment has been received against documents that are supposed to be cancelled. Immediate reconciliation is required — either the void was applied in error, or a credit note / reversal entry is missing.</p>
+      <p style="margin-top:8px"><strong>Sample IDs:</strong> RCT-0000049, INV-0000039, RCT-0000092, RCT-0000045, RCT-0000102, INV-0000013, INV-0000027, RCT-0000113 …</p>
+    </div>
+
+    <div class="exc-box critical">
+      <h4>🔴 EXC-02 · Currency Mismatch Between Document and Bank Transaction (13 pairs)</h4>
+      <p>The document currency and the bank transaction currency disagree. Direct amount comparison is invalid until FX conversion rates are applied. These pairs require a confirmed exchange rate and any resulting FX gain/loss journal entry.</p>
+      <div style="margin-top:10px">
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Doc ID</th><th>Bank Txn ID</th><th>Doc CCY</th><th>Bank CCY</th></tr></thead>
+            <tbody>
+              <tr><td>INV-0000095</td><td>BTX-00000001</td><td><span class="badge badge-amber">AED</span></td><td><span class="badge badge-blue">GBP</span></td></tr>
+              <tr><td>RCT-0000015</td><td>BTX-00000001</td><td><span class="badge badge-amber">USD</span></td><td><span class="badge badge-blue">GBP</span></td></tr>
+              <tr><td>INV-0000135</td><td>BTX-00000001</td><td><span class="badge badge-amber">AED</span></td><td><span class="badge badge-blue">GBP</span></td></tr>
+              <tr><td>INV-0000167</td><td>BTX-00000001</td><td><span class="badge badge-amber">EUR</span></td><td><span class="badge badge-blue">GBP</span></td></tr>
+              <tr><td>INV-0000138</td><td>BTX-00000002</td><td><span class="badge badge-amber">EUR</span></td><td><span class="badge badge-blue">USD</span></td></tr>
+              <tr><td>INV-0000108</td><td>BTX-00000003</td><td><span class="badge badge-amber">GBP</span></td><td><span class="badge badge-blue">AED</span></td></tr>
+              <tr><td>INV-0000191</td><td>BTX-00000004</td><td><span class="badge badge-amber">USD</span></td><td><span class="badge badge-blue">GBP</span></td></tr>
+              <tr><td>INV-0000052</td><td>BTX-00000005</td><td><span class="badge badge-amber">GBP</span></td><td><span class="badge badge-blue">EUR</span></td></tr>
+              <tr><td>RCT-0000056</td><td>BTX-00000005</td><td><span class="badge badge-amber">USD</span></td><td><span class="badge badge-blue">EUR</span></td></tr>
+              <tr><td>INV-0000096</td><td>BTX-00000006</td><td><span class="badge badge-amber">USD</span></td><td><span class="badge badge-blue">AED</span></td></tr>
+              <tr><td colspan="4" style="color:#9ca3af; font-style:italic; font-size:12px;">+3 more pairs…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="exc-box">
+      <h4>🟡 EXC-03 · High-Fan Many-to-One Payments (4 cases, up to 5 docs per txn)</h4>
+      <p>BTX-00000001 covers 5 documents across 4 different currencies. These consolidated payment transactions require amount allocation across each constituent document. Auto-match engines typically fail on these without a pro-rata or explicit allocation rule.</p>
+      <ul>
+        <li><strong>BTX-00000001</strong> — 5 docs, 4 currencies (GBP, AED, USD, EUR), bank amount: £735.80</li>
+        <li><strong>BTX-00000006</strong> — 4 docs; manual allocation required</li>
+        <li><strong>BTX-00000003</strong> and <strong>BTX-00000005</strong> — 3 docs each, cross-currency</li>
+      </ul>
+    </div>
+
+    <div class="exc-box">
+      <h4>🟡 EXC-04 · 29 Documents Without a Bank Transaction (Possible Unpaid Items)</h4>
+      <p>29 invoices/receipts appear in the document files but have no corresponding bank transaction. These could represent unpaid invoices, timing differences (payment processed after statement cut-off), or missing bank data.</p>
+      <p style="margin-top:6px">Action: Cross-reference against AR aging. Escalate any overdue items.</p>
+    </div>
+
+    <div class="exc-box">
+      <h4>🟡 EXC-05 · 17 Bank Transactions Without a Document</h4>
+      <p>17 bank transactions have no matching invoice or receipt. These may be: payments against documents not yet uploaded, bank charges, inter-company transfers, or unrecorded income.</p>
+      <p style="margin-top:6px">Action: Request document retrieval from originating cost centres. If none exist, post as "suspense" pending investigation.</p>
+    </div>
+
+    <div class="exc-box">
+      <h4>🟡 EXC-06 · Bank File Duplication (messy vs clean feeds)</h4>
+      <p>The messy feed (362 rows) duplicates 352 rows already present in the clean feed. Using both files without deduplication inflates transaction counts by ~97% and will cause double-matching. Until deduplication is applied, all automated reconciliation figures should be treated as preliminary.</p>
+    </div>
+
+    <div class="exc-box">
+      <h4>🟡 EXC-07 · 10 Bank Txns with Blank Description Field</h4>
+      <p>Regex-based reference parsing cannot match these transactions. All 10 will fall into the "unmatched" bucket by default. Manual investigation or enrichment from the bank is required before they can be reconciled.</p>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ 6. RECONCILIATION ACCURACY ════════════════════════ -->
+  <div class="section">
+    <div class="section-title">6 · Automated Reconciliation Accuracy</div>
+
+    <p style="margin-bottom:16px; color:#4b5563; font-size:13px;">
+      The automated engine tested here parses structured document references (e.g. <code>INV-XXXXXXX</code>, <code>RCT-XXXXXXX</code>) from the bank transaction <code>description</code> field and links them to the corresponding document. Results are benchmarked against the ground truth file (378 verified links).
+    </p>
+
+    <div class="two-col">
+      <div>
+        <div class="stat-grid" style="grid-template-columns: 1fr 1fr;">
+          <div class="stat-card green">
+            <div class="label">True Positives (TP)</div>
+            <div class="value">318</div>
+            <div class="note">Correct links found</div>
+          </div>
+          <div class="stat-card red">
+            <div class="label">False Negatives (FN)</div>
+            <div class="value">60</div>
+            <div class="note">GT links missed</div>
+          </div>
+          <div class="stat-card amber">
+            <div class="label">False Positives (FP)</div>
+            <div class="value">3</div>
+            <div class="note">Wrong links generated</div>
+          </div>
+          <div class="stat-card">
+            <div class="label">GT Links Total</div>
+            <div class="value">378</div>
+            <div class="note">Benchmark corpus</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="acc-bar-wrap">
+          <div class="acc-bar-label"><span>Precision</span><strong>99.1%</strong></div>
+          <div class="acc-bar-track"><div class="acc-bar-fill fill-green" style="width:99.1%"></div></div>
+        </div>
+        <div class="acc-bar-wrap">
+          <div class="acc-bar-label"><span>Recall (Match Rate)</span><strong>84.1%</strong></div>
+          <div class="acc-bar-track"><div class="acc-bar-fill fill-amber" style="width:84.1%"></div></div>
+        </div>
+        <div class="acc-bar-wrap">
+          <div class="acc-bar-label"><span>F1 Score</span><strong>91.0%</strong></div>
+          <div class="acc-bar-track"><div class="acc-bar-fill fill-green" style="width:91.0%"></div></div>
+        </div>
+        <div style="margin-top:12px; font-size:12px; color:#6b7280;">
+          <strong>Interpretation:</strong> When the engine produces a link, it is correct 99.1% of the time (very low false-positive rate). However it misses ~16% of true links — primarily many:1 consolidated payments and any txns with missing description text.
+        </div>
+      </div>
+    </div>
+
+    <div class="section-sub" style="margin-top:24px;">Metric Definitions &amp; Formulas</div>
+
+    <div class="formula-box">
+      <div class="f-label">Core Metrics</div>
+      Precision   = TP / (TP + FP)   = 318 / (318 + 3)    = <strong>99.1%</strong><br>
+      Recall      = TP / (TP + FN)   = 318 / (318 + 60)   = <strong>84.1%</strong><br>
+      F1 Score    = 2 × (P × R) / (P + R)                  = <strong>91.0%</strong><br>
+      Match Rate  = TP / |GT|        = 318 / 378            = <strong>84.1%</strong>
+    </div>
+
+    <div class="formula-box">
+      <div class="f-label">Ongoing Monitoring KPIs (recommended)</div>
+      Auto-match Rate (%)     = Auto-confirmed links / Total links in period  → target ≥ 90%<br>
+      Exception Rate (%)      = Manual reviews needed / Total links           → target ≤ 10%<br>
+      False Positive Rate (%) = FP / (FP + TN)                               → target ≤ 1%<br>
+      Days-to-Clear (avg)     = Avg(date_cleared − booking_date)             → target ≤ 3 days<br>
+      Void-Link Rate (%)      = VOID-linked docs / Total linked docs          → target = 0%<br>
+      CCY Mismatch Rate (%)   = Cross-currency links / Total links            → target ≤ 2%
+    </div>
+
+    <div class="section-sub">Where the Engine Falls Short (Root Causes of the 60 FN)</div>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Root Cause</th><th>Est. % of FN</th><th>Fix</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>Many-to-one consolidated payments — single bank txn covers docs NOT mentioned in description</td>
+            <td>~45%</td>
+            <td>Add amount-allocation matching logic (pro-rata or direct allocation file)</td>
+          </tr>
+          <tr>
+            <td>Bank description field is blank</td>
+            <td>~17%</td>
+            <td>Enrich bank feed at source; use counterparty + amount fuzzy match as fallback</td>
+          </tr>
+          <tr>
+            <td>One-to-many split payments — doc referenced in multiple txns, algo only captures last</td>
+            <td>~20%</td>
+            <td>Change algo to allow one doc_id → many bank_txn_id mappings</td>
+          </tr>
+          <tr>
+            <td>Reference typos or non-standard formatting in description</td>
+            <td>~18%</td>
+            <td>Fuzzy matching (Levenshtein distance ≤ 2) on extracted references</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════ FOOTER ════════════════════════ -->
+  <div class="report-footer">
+    Reconciliation Finance Report · Generated 19 Feb 2026 · Data period Jan–Mar 2026 ·
+    All figures provisional pending bank file deduplication (EXC-06) ·
+    For queries contact Finance Operations.
+  </div>
+
+</div>
+</body>
+</html>

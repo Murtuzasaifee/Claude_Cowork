@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000169",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000169",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.872,
+        0.297,
+        0.128,
+        0.745
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.381,
+        0.131,
+        0.157,
+        0.548
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.806,
+        0.075,
+        0.867,
+        0.104
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharon Gibbs",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.339,
+        0.251,
+        0.004,
+        0.073
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.699,
+        0.919,
+        0.163,
+        0.91
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.703,
+        0.304,
+        0.498,
+        0.173
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.341,
+        0.715,
+        0.747,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "24.72",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.501,
+        0.141,
+        0.965,
+        0.205
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-655736",
+      "field_hint": "po_number",
+      "bbox": [
+        0.483,
+        0.33,
+        0.547,
+        0.848
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.384,
+        0.077,
+        0.731,
+        0.698
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized value-added pricing structure 1 x 14.87 = 13.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.401,
+        0.468,
+        0.98,
+        0.599
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000088",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "NIV-0000088",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.222,
+        0.822,
+        0.239,
+        0.002
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.535,
+        0.899,
+        0.94,
+        0.016
+      ],
+      "page": 1
+    },
+    {
+      "text": "Elizabeth Pacheco",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.767,
+        0.788,
+        0.769,
+        0.663
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.534,
+        0.552,
+        0.78,
+        0.855
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.726,
+        0.177,
+        0.656,
+        0.014
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.246,
+        0.48,
+        0.099,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "166.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.257,
+        0.162,
+        0.426,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-492483",
+      "field_hint": "po_number",
+      "bbox": [
+        0.289,
+        0.998,
+        0.692,
+        0.639
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.954,
+        0.066,
+        0.77,
+        0.758
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual tangible collboration 1 x 20.69 = 19.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.121,
+        0.766,
+        0.78,
+        0.465
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented well-modulated system engine 1 x 4.53 = 4.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.785,
+        0.356,
+        0.092,
+        0.176
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined directional matrix 1 x 3.57 = 3.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.018,
+        0.914,
+        0.804,
+        0.793
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive tatic capability 5 x 8.32 = 35.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.522,
+        0.69,
+        0.194,
+        0.991
+      ],
+      "page": 2
+    },
+    {
+      "text": "Expanded analyzing capacity 2 x 24.05 = 48.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.389,
+        0.757,
+        0.104,
+        0.512
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent coherent info-mediaXries 3 x 11.92 = 35.76",
+      "field_hint": "line_item",
+      "bbox": [
+        0.586,
+        0.697,
+        0.976,
+        0.745
+      ],
+      "page": 2
+    }
+  ]
+}

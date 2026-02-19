@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000016",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000016",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.62,
+        0.764,
+        0.625,
+        0.579
+      ],
+      "page": 1
+    },
+    {
+      "text": "invioce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.313,
+        0.848,
+        0.065,
+        0.128
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.301,
+        0.626,
+        0.066,
+        0.678
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Williams",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.381,
+        0.096,
+        0.752,
+        0.233
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.011,
+        0.384,
+        0.795,
+        0.88
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.938,
+        0.783,
+        0.454,
+        0.328
+      ],
+      "page": 1
+    },
+    {
+      "text": "LUSD",
+      "field_hint": "currency",
+      "bbox": [
+        0.789,
+        0.194,
+        0.573,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "155.34",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.725,
+        0.445,
+        0.243,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-515011",
+      "field_hint": "po_number",
+      "bbox": [
+        0.436,
+        0.96,
+        0.754,
+        0.311
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.147,
+        0.309,
+        0.343,
+        0.369
+      ],
+      "page": 1
+    },
+    {
+      "text": "Future-proofed uniform Local Area Network 1 x 12.12 = 10.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.057,
+        0.507,
+        0.835,
+        0.859
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary even-keeled monitoring 2 x 7.08 = 12.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.641,
+        0.201,
+        0.068,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized leadingedge open architecture 2 x 20.93 = 37.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.6,
+        0.331,
+        0.578,
+        0.963
+      ],
+      "page": 2
+    },
+    {
+      "text": "Advanced neutral workforce 1 x 32.58 = 32.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.105,
+        0.876,
+        0.911,
+        0.496
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized 5thgeneration strategy 1 x 32.29 = 32.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.467,
+        0.213,
+        0.481,
+        0.768
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered solution-oriented portal 1 x 8.62 = 8.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.4,
+        0.826,
+        0.007,
+        0.01
+      ],
+      "page": 1
+    }
+  ]
+}

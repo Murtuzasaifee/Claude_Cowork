@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000076",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000076",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.485,
+        0.314,
+        0.883,
+        0.2
+      ],
+      "page": 1
+    },
+    {
+      "text": "isnvoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.733,
+        0.735,
+        0.195,
+        0.799
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.423,
+        0.819,
+        0.011,
+        0.261
+      ],
+      "page": 1
+    },
+    {
+      "text": "William OwWen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.421,
+        0.369,
+        0.776,
+        0.993
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.157,
+        0.444,
+        0.314,
+        0.937
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01s-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.163,
+        0.129,
+        0.956,
+        0.124
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.369,
+        0.315,
+        0.721,
+        0.55
+      ],
+      "page": 1
+    },
+    {
+      "text": "227.38",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.396,
+        0.327,
+        0.836,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-964749",
+      "field_hint": "po_number",
+      "bbox": [
+        0.569,
+        0.883,
+        0.056,
+        0.717
+      ],
+      "page": 1
+    },
+    {
+      "text": "NTE30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.152,
+        0.523,
+        0.94,
+        0.235
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly contextually-based process improvement 1 x 16.16 = 16.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.338,
+        0.413,
+        0.751,
+        0.492
+      ],
+      "page": 2
+    },
+    {
+      "text": "Extended even-keeled neural-net 1 x 35.05 = 35.05",
+      "field_hint": "line_item",
+      "bbox": [
+        0.79,
+        0.695,
+        0.548,
+        0.089
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible optmal challenge 4 x 16.14 = 64.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.239,
+        0.645,
+        0.558,
+        0.052
+      ],
+      "page": 2
+    },
+    {
+      "text": "Inverse staticm onitoring 1 x 29.99 = 26.99",
+      "field_hint": "line_item",
+      "bbox": [
+        0.95,
+        0.954,
+        0.138,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent dynamic interface 1 x 8.92 = 8.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.019,
+        0.766,
+        0.492,
+        0.67
+      ],
+      "page": 2
+    },
+    {
+      "text": "Function-based holistic collaboration1  x 23.92 = 21.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.036,
+        0.23,
+        0.491,
+        0.349
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key bi-directional orchestration 2 x 24.08 = 43.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.899,
+        0.164,
+        0.213,
+        0.536
+      ],
+      "page": 2
+    }
+  ]
+}

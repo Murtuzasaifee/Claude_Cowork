@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000136",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000136",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.914,
+        0.791,
+        0.291,
+        0.811
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.639,
+        0.888,
+        0.481,
+        0.659
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hoope,r Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.328,
+        0.825,
+        0.749,
+        0.651
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley Mccarthy",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.026,
+        0.541,
+        0.32,
+        0.325
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.484,
+        0.292,
+        0.36,
+        0.473
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.153,
+        0.941,
+        0.016,
+        0.286
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.735,
+        0.936,
+        0.303,
+        0.245
+      ],
+      "page": 1
+    },
+    {
+      "text": "B86.3",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.767,
+        0.822,
+        0.086,
+        0.635
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-298202",
+      "field_hint": "po_number",
+      "bbox": [
+        0.089,
+        0.648,
+        0.017,
+        0.275
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.042,
+        0.872,
+        0.312,
+        0.552
+      ],
+      "page": 1
+    },
+    {
+      "text": "Extended empowering budgetary management 1 x 16.17 = 14.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.13,
+        0.478,
+        0.406,
+        0.892
+      ],
+      "page": 2
+    }
+  ]
+}

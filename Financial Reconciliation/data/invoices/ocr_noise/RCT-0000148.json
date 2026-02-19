@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000148",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000148",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.281,
+        0.564,
+        0.174,
+        0.117
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.316,
+        0.736,
+        0.68,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "Veasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.303,
+        0.033,
+        0.738,
+        0.539
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mr. Gerald Lozano DDS",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.571,
+        0.843,
+        0.783,
+        0.272
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.257,
+        0.976,
+        0.014,
+        0.889
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.849,
+        0.252,
+        0.462,
+        0.528
+      ],
+      "page": 1
+    },
+    {
+      "text": "195.72",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.535,
+        0.441,
+        0.17,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-901368",
+      "field_hint": "po_number",
+      "bbox": [
+        0.581,
+        0.142,
+        0.282,
+        0.425
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.083,
+        0.192,
+        0.04,
+        0.471
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based bki-directional process improvement 1 x 6.45 = 6.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.668,
+        0.107,
+        0.814,
+        0.353
+      ],
+      "page": 2
+    },
+    {
+      "text": "Centralxized systemic Internet solution 1 x 7.39 = 7.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.566,
+        0.602,
+        0.308,
+        0.109
+      ],
+      "page": 1
+    },
+    {
+      "text": "Networked systematic methodology 3 x 15.9 = 47.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.85,
+        0.776,
+        0.257,
+        0.632
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized scalable moderator 7 x 10.66 = 74.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.484,
+        0.766,
+        0.722,
+        0.387
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organized needs-based conglomeration 1 x 9.54 = 8.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.102,
+        0.04,
+        0.962,
+        0.229
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual hybrid moderator  x 6.07 = 15.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.472,
+        0.162,
+        0.307,
+        0.376
+      ],
+      "page": 1
+    }
+  ]
+}

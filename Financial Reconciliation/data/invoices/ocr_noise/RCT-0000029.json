@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000029",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000029",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.622,
+        0.866,
+        0.659,
+        0.388
+      ],
+      "page": 1
+    },
+    {
+      "text": "r7eceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.959,
+        0.273,
+        0.201,
+        0.124
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.391,
+        0.937,
+        0.43,
+        0.365
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andre wRoach",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.463,
+        0.125,
+        0.881,
+        0.121
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-1J9",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.612,
+        0.934,
+        0.371,
+        0.263
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.593,
+        0.694,
+        0.448,
+        0.102
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.646,
+        0.361,
+        0.005,
+        0.874
+      ],
+      "page": 1
+    },
+    {
+      "text": "18.42",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.661,
+        0.475,
+        0.84,
+        0.099
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-162804",
+      "field_hint": "po_number",
+      "bbox": [
+        0.954,
+        0.583,
+        0.151,
+        0.322
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.055,
+        0.024,
+        0.924,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advance dmobile architecture 1 x 4.15 = 4.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.667,
+        0.75,
+        0.083,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated needs-based emulation 1 x 4.3 = 3.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.46,
+        0.562,
+        0.788,
+        0.968
+      ],
+      "page": 2
+    }
+  ]
+}

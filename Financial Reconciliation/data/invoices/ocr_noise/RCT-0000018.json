@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000018",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000018",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.725,
+        0.217,
+        0.117,
+        0.093
+      ],
+      "page": 1
+    },
+    {
+      "text": "receip",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.29,
+        0.484,
+        0.455,
+        0.779
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.818,
+        0.718,
+        0.299,
+        0.477
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joh nLam",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.953,
+        0.576,
+        0.392,
+        0.881
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.351,
+        0.341,
+        0.15,
+        0.565
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-0n2",
+      "field_hint": "due_date",
+      "bbox": [
+        0.296,
+        0.338,
+        0.943,
+        0.68
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.609,
+        0.258,
+        0.685,
+        0.528
+      ],
+      "page": 1
+    },
+    {
+      "text": "182.89",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.843,
+        0.379,
+        0.59,
+        0.597
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-238394",
+      "field_hint": "po_number",
+      "bbox": [
+        0.718,
+        0.408,
+        0.218,
+        0.132
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.034,
+        0.768,
+        0.443,
+        0.441
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused regional customer loyalty 1 x 10.74 = 10.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.468,
+        0.757,
+        0.205,
+        0.565
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative modular array 1 x 6.55 = 6.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.468,
+        0.184,
+        0.745,
+        0.759
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory transitional infrastructure 1 x 14.7 = 13.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.055,
+        0.438,
+        0.238,
+        0.358
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated impactful ability 1 x 12.03 = 10.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.187,
+        0.793,
+        0.407,
+        0.967
+      ],
+      "page": 2
+    },
+    {
+      "text": "Networked demand-driven complexity 2 x 25.88 = 46.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.164,
+        0.193,
+        0.942,
+        0.242
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone asynchronous toolset 9 x 9.21 = 82.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.23,
+        0.28,
+        0.023,
+        0.401
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-friendly secondary challenge 1 x 7.71 = 6.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.952,
+        0.378,
+        0.985,
+        0.259
+      ],
+      "page": 1
+    }
+  ]
+}

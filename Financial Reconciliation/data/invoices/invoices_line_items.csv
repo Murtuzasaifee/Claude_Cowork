@@ -1,0 +1,923 @@
+doc_id,line_no,description,quantity,unit_price,discount_pct,line_amount
+INV-0000001,1,Object-based homogeneous orchestration,1,5.59,0,5.59
+INV-0000001,2,Cloned scalable software,1,15.23,0,15.23
+INV-0000001,3,Profit-focused demand-driven capability,1,14.81,5,14.07
+INV-0000001,4,Advanced logistical interface,2,24.71,0,49.42
+INV-0000002,1,Customizable responsive alliance,1,8.11,0,8.11
+INV-0000002,2,Polarized secondary function,1,8.43,0,8.43
+INV-0000002,3,Reverse-engineered systemic model,1,1.96,0,1.96
+INV-0000003,1,Switchable fault-tolerant definition,1,23.69,0,23.69
+INV-0000003,2,Organic value-added moratorium,1,9.03,0,9.03
+INV-0000003,3,Triple-buffered background budgetary management,1,7.25,0,7.25
+INV-0000003,4,Re-contextualized bandwidth-monitored projection,1,7.84,0,7.84
+INV-0000003,5,Versatile well-modulated emulation,1,18.51,15,15.73
+INV-0000003,6,Synergistic optimizing matrices,1,13.27,0,13.27
+INV-0000003,7,Integrated incremental toolset,1,8.49,15,7.22
+INV-0000003,8,Customer-focused scalable data-warehouse,1,8.0,5,7.6
+INV-0000004,1,Distributed fresh-thinking neural-net,1,23.65,15,20.1
+INV-0000004,2,Secured mobile encryption,2,5.96,0,11.92
+INV-0000004,3,Right-sized contextually-based adapter,1,10.88,0,10.88
+INV-0000004,4,Right-sized dynamic contingency,1,10.37,0,10.37
+INV-0000004,5,Mandatory fault-tolerant artificial intelligence,2,16.0,5,30.4
+INV-0000005,1,Extended motivating archive,1,85.18,15,72.4
+INV-0000005,2,Networked background installation,1,28.09,10,25.28
+INV-0000005,3,Cross-group executive workforce,6,14.2,10,76.68
+INV-0000005,4,Multi-tiered bifurcated database,5,22.58,0,112.9
+INV-0000005,5,Virtual global secured line,1,6.01,0,6.01
+INV-0000006,1,Distributed system-worthy function,1,4.02,0,4.02
+INV-0000006,2,Re-engineered composite challenge,3,4.75,0,14.25
+INV-0000006,3,Programmable bottom-line leverage,1,6.58,0,6.58
+INV-0000006,4,Profound needs-based archive,1,18.31,0,18.31
+INV-0000006,5,Visionary actuating access,2,22.68,10,40.82
+INV-0000006,6,Business-focused 4thgeneration Graphic Interface,2,10.54,0,21.08
+INV-0000007,1,Expanded zero-defect array,1,7.87,10,7.08
+INV-0000007,2,Secured foreground groupware,3,4.24,10,11.45
+INV-0000007,3,Focused executive definition,1,26.3,5,24.98
+INV-0000007,4,Robust even-keeled migration,1,27.82,0,27.82
+INV-0000007,5,Automated 24hour workforce,2,6.5,10,11.7
+INV-0000008,1,De-engineered empowering functionalities,4,5.89,0,23.56
+INV-0000008,2,Synergistic even-keeled alliance,2,11.55,0,23.1
+INV-0000008,3,Profit-focused solution-oriented methodology,2,34.7,0,69.4
+INV-0000008,4,Robust upward-trending paradigm,1,15.44,10,13.9
+INV-0000009,1,Progressive global Graphical User Interface,1,9.22,0,9.22
+INV-0000009,2,Distributed zero-defect flexibility,1,11.67,0,11.67
+INV-0000010,1,Programmable logistical adapter,1,4.51,5,4.28
+INV-0000010,2,Proactive context-sensitive core,1,25.27,5,24.01
+INV-0000010,3,Managed web-enabled forecast,4,8.38,0,33.52
+INV-0000010,4,Fundamental 3rdgeneration firmware,2,4.28,0,8.56
+INV-0000011,1,Mandatory stable capacity,1,10.5,15,8.92
+INV-0000011,2,Profit-focused didactic circuit,1,9.04,0,9.04
+INV-0000011,3,Customizable national secured line,5,17.31,0,86.55
+INV-0000011,4,Horizontal empowering protocol,4,27.41,0,109.64
+INV-0000011,5,Adaptive content-based complexity,3,31.83,0,95.49
+INV-0000011,6,Customer-focused heuristic orchestration,4,13.78,0,55.12
+INV-0000011,7,Polarized impactful utilization,1,10.18,10,9.16
+INV-0000012,1,Future-proofed full-range frame,1,9.42,0,9.42
+INV-0000012,2,Organic methodical project,3,1.9,15,4.84
+INV-0000013,1,Extended dynamic attitude,1,15.52,0,15.52
+INV-0000013,2,Focused attitude-oriented moderator,1,16.73,0,16.73
+INV-0000013,3,Universal real-time Internet solution,1,10.85,5,10.31
+INV-0000013,4,Up-sized disintermediate time-frame,1,6.3,0,6.3
+INV-0000013,5,Multi-tiered 4thgeneration interface,7,32.55,5,216.46
+INV-0000013,6,Optimized neutral standardization,6,12.03,0,72.18
+INV-0000013,7,Upgradable coherent access,1,3.78,5,3.59
+INV-0000014,1,Programmable 6thgeneration superstructure,1,13.09,15,11.13
+INV-0000015,1,Business-focused client-driven encryption,1,9.0,0,9.0
+INV-0000015,2,Total global collaboration,1,17.02,10,15.32
+INV-0000015,3,Expanded needs-based system engine,1,10.16,0,10.16
+INV-0000016,1,Digitized multi-tasking process improvement,1,15.45,15,13.13
+INV-0000016,2,Future-proofed uniform Local Area Network,1,12.12,10,10.91
+INV-0000016,3,Visionary even-keeled monitoring,2,7.08,10,12.74
+INV-0000016,4,Decentralized leadingedge open architecture,2,20.93,10,37.67
+INV-0000016,5,Advanced neutral workforce,1,32.58,0,32.58
+INV-0000016,6,Decentralized 5thgeneration strategy,1,32.29,0,32.29
+INV-0000016,7,Reverse-engineered solution-oriented portal,1,8.62,0,8.62
+INV-0000017,1,Pre-emptive 24/7 model,1,23.25,10,20.93
+INV-0000017,2,Polarized value-added portal,1,40.23,10,36.21
+INV-0000017,3,Persistent cohesive intranet,1,22.45,0,22.45
+INV-0000017,4,Persistent client-server software,1,19.19,0,19.19
+INV-0000017,5,Persistent attitude-oriented process improvement,1,5.18,10,4.66
+INV-0000017,6,Versatile coherent paradigm,2,18.81,0,37.62
+INV-0000017,7,Focused executive complexity,1,10.88,10,9.79
+INV-0000017,8,Stand-alone multi-state hierarchy,1,9.49,0,9.49
+INV-0000018,1,Face-to-face fault-tolerant migration,2,17.98,15,30.57
+INV-0000019,1,Secured composite flexibility,3,31.65,0,94.95
+INV-0000019,2,Diverse reciprocal open architecture,1,72.05,10,64.84
+INV-0000019,3,Multi-lateral zero-defect archive,1,4.45,0,4.45
+INV-0000019,4,Advanced bi-directional strategy,1,28.04,15,23.83
+INV-0000019,5,Devolved cohesive alliance,2,18.77,0,37.54
+INV-0000020,1,Function-based web-enabled task-force,1,28.56,0,28.56
+INV-0000021,1,Phased eco-centric matrix,1,14.27,0,14.27
+INV-0000021,2,Seamless dynamic database,1,22.05,15,18.74
+INV-0000022,1,Self-enabling interactive firmware,1,13.77,0,13.77
+INV-0000023,1,Cross-group asynchronous strategy,2,5.2,0,10.4
+INV-0000023,2,Extended scalable contingency,2,20.37,0,40.74
+INV-0000023,3,Reduced foreground implementation,1,6.25,0,6.25
+INV-0000024,1,Optimized explicit emulation,1,20.88,15,17.75
+INV-0000024,2,Mandatory neutral forecast,3,29.6,0,88.8
+INV-0000024,3,Pre-emptive regional protocol,2,6.64,5,12.62
+INV-0000025,1,Centralized stable ability,1,13.49,15,11.47
+INV-0000026,1,Persistent 24hour groupware,1,22.54,0,22.54
+INV-0000026,2,Profit-focused reciprocal instruction set,1,10.3,0,10.3
+INV-0000026,3,Centralized fresh-thinking challenge,3,82.61,0,247.83
+INV-0000026,4,Object-based grid-enabled contingency,1,13.01,0,13.01
+INV-0000026,5,Vision-oriented 3rdgeneration capacity,1,6.21,10,5.59
+INV-0000026,6,Virtual upward-trending Local Area Network,1,24.14,0,24.14
+INV-0000027,1,Up-sized bi-directional functionalities,2,11.17,10,20.11
+INV-0000027,2,Fully-configurable static synergy,6,20.46,0,122.76
+INV-0000027,3,Organic background array,6,8.88,0,53.28
+INV-0000027,4,Synchronized full-range artificial intelligence,1,20.99,0,20.99
+INV-0000027,5,Operative actuating flexibility,3,6.37,15,16.24
+INV-0000027,6,De-engineered multi-state intranet,1,8.51,5,8.08
+INV-0000027,7,Distributed user-facing frame,5,18.94,0,94.7
+INV-0000028,1,Mandatory transitional budgetary management,1,41.85,15,35.57
+INV-0000028,2,Compatible methodical methodology,1,25.54,0,25.54
+INV-0000029,1,Business-focused needs-based encryption,2,12.63,15,21.47
+INV-0000029,2,Seamless mission-critical model,2,6.23,15,10.59
+INV-0000029,3,Optimized discrete moderator,1,32.05,0,32.05
+INV-0000029,4,Adaptive systematic Graphical User Interface,3,15.08,10,40.72
+INV-0000029,5,Realigned solution-oriented emulation,4,14.59,10,52.52
+INV-0000029,6,User-centric context-sensitive structure,1,33.32,0,33.32
+INV-0000029,7,Future-proofed 24hour ability,2,12.24,5,23.26
+INV-0000030,1,Open-source logistical installation,2,14.33,5,27.23
+INV-0000030,2,Distributed even-keeled projection,1,13.78,15,11.71
+INV-0000030,3,Fundamental even-keeled customer loyalty,1,13.67,0,13.67
+INV-0000030,4,Pre-emptive dedicated parallelism,1,6.69,10,6.02
+INV-0000030,5,Reduced optimal instruction set,1,3.48,5,3.31
+INV-0000030,6,Exclusive system-worthy matrix,1,15.64,15,13.29
+INV-0000030,7,Optional regional artificial intelligence,1,6.52,0,6.52
+INV-0000030,8,Function-based analyzing attitude,1,9.64,15,8.19
+INV-0000031,1,Polarized even-keeled circuit,2,17.9,0,35.8
+INV-0000031,2,Focused bottom-line adapter,1,5.0,0,5.0
+INV-0000031,3,Decentralized system-worthy algorithm,1,64.87,0,64.87
+INV-0000031,4,Object-based asynchronous open system,2,44.27,0,88.54
+INV-0000032,1,Reduced radical forecast,2,12.31,0,24.62
+INV-0000032,2,Realigned 5thgeneration moderator,1,16.6,0,16.6
+INV-0000032,3,Secured intangible customer loyalty,3,8.92,15,22.75
+INV-0000032,4,Upgradable zero-defect algorithm,1,3.79,15,3.22
+INV-0000032,5,Polarized context-sensitive throughput,1,7.1,0,7.1
+INV-0000032,6,Advanced transitional knowledgebase,1,38.97,0,38.97
+INV-0000032,7,Reduced multi-state firmware,1,15.22,5,14.46
+INV-0000033,1,Diverse client-server help-desk,2,3.94,5,7.49
+INV-0000033,2,Reverse-engineered attitude-oriented instruction set,2,15.86,15,26.96
+INV-0000033,3,Cross-group real-time knowledge user,1,38.7,10,34.83
+INV-0000034,1,Managed even-keeled Local Area Network,1,7.3,0,7.3
+INV-0000034,2,Object-based web-enabled implementation,2,4.97,15,8.45
+INV-0000034,3,Open-architected disintermediate circuit,1,10.32,5,9.8
+INV-0000034,4,Progressive optimizing strategy,1,45.17,5,42.91
+INV-0000034,5,Centralized human-resource functionalities,1,4.92,0,4.92
+INV-0000034,6,Open-architected reciprocal function,1,11.32,0,11.32
+INV-0000034,7,Expanded cohesive interface,1,35.88,15,30.5
+INV-0000034,8,Mandatory methodical firmware,1,30.76,0,30.76
+INV-0000035,1,Multi-channeled reciprocal groupware,1,12.69,0,12.69
+INV-0000035,2,Multi-lateral bandwidth-monitored flexibility,3,63.03,10,170.18
+INV-0000035,3,Virtual 6thgeneration portal,2,10.57,0,21.14
+INV-0000035,4,Secured upward-trending emulation,1,12.71,0,12.71
+INV-0000035,5,De-engineered systemic instruction set,5,3.23,0,16.15
+INV-0000035,6,Team-oriented fresh-thinking archive,2,29.86,0,59.72
+INV-0000036,1,Profound homogeneous workforce,1,19.7,0,19.7
+INV-0000037,1,Synergistic multimedia system engine,1,12.8,5,12.16
+INV-0000037,2,Realigned dedicated flexibility,6,8.67,5,49.42
+INV-0000037,3,Proactive background ability,1,14.09,10,12.68
+INV-0000037,4,Proactive incremental synergy,3,7.88,15,20.09
+INV-0000037,5,Horizontal zero administration benchmark,2,9.5,15,16.15
+INV-0000038,1,Multi-layered needs-based access,1,15.7,15,13.34
+INV-0000038,2,Vision-oriented zero-defect orchestration,3,18.3,15,46.67
+INV-0000038,3,Down-sized explicit policy,1,17.93,5,17.03
+INV-0000038,4,Profound 3rdgeneration frame,3,7.41,15,18.9
+INV-0000038,5,Persevering real-time framework,9,3.49,0,31.41
+INV-0000038,6,Up-sized real-time encryption,2,5.18,5,9.84
+INV-0000039,1,Cloned radical database,1,36.13,0,36.13
+INV-0000039,2,Synergistic zero tolerance middleware,2,8.96,5,17.02
+INV-0000039,3,Quality-focused 24/7 secured line,1,12.29,0,12.29
+INV-0000039,4,Pre-emptive foreground focus group,3,23.37,0,70.11
+INV-0000039,5,Advanced human-resource workforce,1,10.3,0,10.3
+INV-0000039,6,Multi-channeled exuding standardization,1,22.15,5,21.04
+INV-0000039,7,Public-key holistic knowledge user,4,10.08,0,40.32
+INV-0000040,1,Right-sized maximized utilization,5,7.93,5,37.67
+INV-0000040,2,Multi-lateral didactic access,6,46.46,0,278.76
+INV-0000041,1,Ameliorated optimizing approach,1,25.68,10,23.11
+INV-0000042,1,User-friendly directional benchmark,1,28.32,10,25.49
+INV-0000042,2,Polarized foreground knowledgebase,2,5.27,10,9.49
+INV-0000042,3,Organic executive service-desk,3,7.47,15,19.05
+INV-0000043,1,Implemented contextually-based hub,1,12.11,0,12.11
+INV-0000043,2,Seamless modular framework,1,9.81,10,8.83
+INV-0000043,3,Organic 24/7 installation,1,21.38,15,18.17
+INV-0000043,4,Down-sized client-driven hub,1,18.72,15,15.91
+INV-0000044,1,Managed foreground middleware,1,31.52,0,31.52
+INV-0000044,2,De-engineered context-sensitive emulation,1,9.0,10,8.1
+INV-0000044,3,Inverse 6thgeneration instruction set,3,14.05,15,35.83
+INV-0000044,4,Sharable attitude-oriented utilization,2,27.33,0,54.66
+INV-0000044,5,Mandatory 4thgeneration Internet solution,5,8.72,0,43.6
+INV-0000044,6,Quality-focused attitude-oriented definition,8,7.65,5,58.14
+INV-0000045,1,Inverse multimedia focus group,1,31.57,5,29.99
+INV-0000045,2,Virtual secondary throughput,3,2.93,5,8.35
+INV-0000045,3,Devolved next generation framework,4,36.56,15,124.3
+INV-0000045,4,Fully-configurable mission-critical website,1,9.86,10,8.87
+INV-0000045,5,Innovative dynamic synergy,1,12.14,0,12.14
+INV-0000045,6,Automated multi-state concept,1,29.66,0,29.66
+INV-0000045,7,Multi-channeled mobile challenge,1,20.9,0,20.9
+INV-0000045,8,Multi-tiered incremental capability,6,4.43,0,26.58
+INV-0000046,1,Monitored 6thgeneration portal,4,6.75,5,25.65
+INV-0000047,1,Streamlined local application,1,12.79,10,11.51
+INV-0000048,1,Triple-buffered clear-thinking time-frame,9,24.25,5,207.34
+INV-0000048,2,Optional zero tolerance service-desk,1,16.97,0,16.97
+INV-0000048,3,Centralized high-level application,1,12.65,0,12.65
+INV-0000048,4,Optional value-added hardware,1,9.0,0,9.0
+INV-0000048,5,Switchable reciprocal Local Area Network,1,44.79,0,44.79
+INV-0000048,6,Front-line background solution,1,11.27,5,10.71
+INV-0000048,7,Grass-roots holistic matrix,1,24.13,15,20.51
+INV-0000048,8,Focused real-time standardization,1,10.91,0,10.91
+INV-0000049,1,Organized explicit instruction set,1,4.72,0,4.72
+INV-0000049,2,Triple-buffered foreground policy,1,3.19,0,3.19
+INV-0000049,3,Managed tertiary firmware,3,15.7,0,47.1
+INV-0000049,4,Digitized value-added open system,2,20.48,0,40.96
+INV-0000049,5,Open-source secondary flexibility,1,34.25,0,34.25
+INV-0000049,6,Team-oriented systematic alliance,5,11.57,15,49.17
+INV-0000049,7,Devolved scalable process improvement,3,10.0,0,30.0
+INV-0000049,8,Devolved background open system,8,14.98,0,119.84
+INV-0000050,1,User-centric 24/7 Local Area Network,1,5.65,0,5.65
+INV-0000050,2,Customizable foreground frame,7,14.78,0,103.46
+INV-0000051,1,Self-enabling incremental implementation,1,14.81,15,12.59
+INV-0000051,2,Synchronized value-added artificial intelligence,1,11.29,0,11.29
+INV-0000051,3,Synergistic human-resource throughput,4,11.72,15,39.85
+INV-0000051,4,Customer-focused context-sensitive productivity,3,35.21,5,100.35
+INV-0000051,5,Monitored systematic utilization,5,15.16,0,75.8
+INV-0000052,1,Enhanced multimedia product,3,9.79,0,29.37
+INV-0000052,2,Up-sized mobile methodology,1,3.98,0,3.98
+INV-0000052,3,Devolved client-server instruction set,6,4.67,5,26.62
+INV-0000052,4,Synergized 3rdgeneration portal,2,17.72,5,33.67
+INV-0000052,5,Up-sized 3rdgeneration time-frame,1,6.82,0,6.82
+INV-0000052,6,Horizontal impactful process improvement,2,9.85,10,17.73
+INV-0000052,7,Up-sized dynamic algorithm,1,13.2,15,11.22
+INV-0000052,8,Profit-focused regional encoding,3,36.09,15,92.03
+INV-0000053,1,Synergized neutral hub,1,24.99,10,22.49
+INV-0000053,2,Persevering disintermediate interface,1,13.68,5,13.0
+INV-0000053,3,Programmable needs-based encoding,1,34.55,5,32.82
+INV-0000053,4,Total modular approach,1,22.52,5,21.39
+INV-0000054,1,Synchronized optimal support,1,3.63,15,3.09
+INV-0000054,2,Ergonomic empowering workforce,1,33.48,0,33.48
+INV-0000054,3,Public-key user-facing artificial intelligence,4,14.01,0,56.04
+INV-0000054,4,Open-source mission-critical application,3,2.67,0,8.01
+INV-0000054,5,Re-engineered regional attitude,1,24.22,0,24.22
+INV-0000055,1,Diverse zero-defect project,5,15.36,0,76.8
+INV-0000056,1,Fully-configurable local throughput,1,12.06,10,10.85
+INV-0000056,2,Multi-tiered holistic core,1,21.27,0,21.27
+INV-0000057,1,Focused exuding benchmark,1,12.13,0,12.13
+INV-0000057,2,Open-source asymmetric contingency,1,16.15,5,15.34
+INV-0000057,3,Triple-buffered foreground interface,2,11.18,15,19.01
+INV-0000057,4,Implemented heuristic project,1,11.56,0,11.56
+INV-0000057,5,User-centric optimal protocol,1,5.64,15,4.79
+INV-0000057,6,Universal client-server utilization,1,17.14,5,16.28
+INV-0000057,7,Ergonomic motivating instruction set,4,51.34,0,205.36
+INV-0000057,8,Front-line bottom-line data-warehouse,1,9.74,10,8.77
+INV-0000058,1,Integrated national frame,1,6.88,0,6.88
+INV-0000059,1,Synergistic bi-directional Graphical User Interface,1,8.24,0,8.24
+INV-0000059,2,Assimilated secondary complexity,1,4.46,0,4.46
+INV-0000059,3,Down-sized uniform superstructure,1,10.65,10,9.59
+INV-0000059,4,Self-enabling intermediate hardware,1,11.34,5,10.77
+INV-0000059,5,Persevering 24hour infrastructure,3,12.55,15,32.0
+INV-0000059,6,Optional zero administration approach,1,22.11,5,21.0
+INV-0000059,7,Switchable didactic knowledgebase,2,7.89,0,15.78
+INV-0000059,8,Integrated real-time website,1,8.31,5,7.89
+INV-0000060,1,Pre-emptive clear-thinking ability,1,5.16,10,4.64
+INV-0000060,2,Re-engineered even-keeled hardware,1,7.86,0,7.86
+INV-0000060,3,Focused national monitoring,2,2.63,5,5.0
+INV-0000060,4,Cloned needs-based collaboration,1,22.11,0,22.11
+INV-0000060,5,Virtual bandwidth-monitored neural-net,4,6.1,0,24.4
+INV-0000060,6,Integrated composite Graphic Interface,1,6.17,0,6.17
+INV-0000060,7,Organic national protocol,1,12.88,0,12.88
+INV-0000061,1,Balanced analyzing framework,1,6.91,10,6.22
+INV-0000061,2,Operative client-server analyzer,1,6.47,5,6.15
+INV-0000061,3,Multi-channeled national projection,1,5.8,15,4.93
+INV-0000061,4,Ergonomic logistical matrix,1,7.71,5,7.32
+INV-0000061,5,Centralized multimedia portal,1,14.19,0,14.19
+INV-0000061,6,Upgradable holistic time-frame,2,23.04,0,46.08
+INV-0000062,1,Fundamental national strategy,3,6.61,0,19.83
+INV-0000062,2,Innovative actuating knowledge user,1,12.15,10,10.94
+INV-0000062,3,Decentralized tangible conglomeration,1,8.95,0,8.95
+INV-0000063,1,Right-sized scalable extranet,1,36.87,10,33.18
+INV-0000063,2,Stand-alone human-resource encryption,1,32.36,15,27.51
+INV-0000063,3,Down-sized modular policy,1,4.87,0,4.87
+INV-0000063,4,Up-sized static throughput,1,12.42,5,11.8
+INV-0000063,5,Synchronized fault-tolerant conglomeration,1,13.32,5,12.65
+INV-0000064,1,Balanced contextually-based array,1,8.84,0,8.84
+INV-0000064,2,Synergistic regional toolset,1,7.86,5,7.47
+INV-0000065,1,Mandatory composite access,1,6.82,5,6.48
+INV-0000065,2,Phased human-resource challenge,4,8.32,10,29.95
+INV-0000065,3,Team-oriented homogeneous instruction set,1,2.11,5,2.0
+INV-0000066,1,Reduced user-facing solution,8,19.67,0,157.36
+INV-0000066,2,Ameliorated bifurcated access,1,16.01,5,15.21
+INV-0000066,3,Self-enabling context-sensitive paradigm,4,11.48,0,45.92
+INV-0000066,4,Virtual tangible interface,3,7.34,0,22.02
+INV-0000066,5,Re-engineered zero-defect migration,2,8.39,15,14.26
+INV-0000066,6,Optional static time-frame,5,50.92,5,241.87
+INV-0000066,7,Multi-channeled dynamic circuit,1,37.85,15,32.17
+INV-0000067,1,Centralized demand-driven structure,2,8.21,0,16.42
+INV-0000067,2,Vision-oriented logistical hierarchy,1,6.04,10,5.44
+INV-0000067,3,Inverse 24hour array,1,8.84,5,8.4
+INV-0000067,4,Devolved fault-tolerant project,1,9.83,0,9.83
+INV-0000067,5,Organic hybrid implementation,1,5.49,15,4.67
+INV-0000067,6,Enterprise-wide holistic middleware,1,14.69,0,14.69
+INV-0000067,7,Up-sized human-resource project,1,10.98,5,10.43
+INV-0000067,8,Synchronized coherent Local Area Network,1,9.16,15,7.79
+INV-0000068,1,Operative actuating Graphic Interface,1,7.99,15,6.79
+INV-0000068,2,Right-sized next generation process improvement,2,20.74,10,37.33
+INV-0000068,3,Customizable bandwidth-monitored budgetary management,2,7.34,5,13.95
+INV-0000068,4,Cross-group interactive moderator,1,66.93,0,66.93
+INV-0000068,5,Down-sized static array,1,13.72,15,11.66
+INV-0000068,6,Pre-emptive well-modulated productivity,1,12.97,15,11.02
+INV-0000069,1,Implemented 24hour software,1,17.14,5,16.28
+INV-0000069,2,Sharable global definition,3,36.82,0,110.46
+INV-0000070,1,Reactive directional analyzer,1,8.04,0,8.04
+INV-0000070,2,Universal responsive projection,1,18.39,5,17.47
+INV-0000070,3,Synergistic non-volatile implementation,1,17.82,0,17.82
+INV-0000070,4,Open-source multi-state matrices,1,25.14,0,25.14
+INV-0000070,5,Switchable grid-enabled capacity,1,10.08,10,9.07
+INV-0000070,6,Total context-sensitive task-force,3,23.65,5,67.4
+INV-0000071,1,Intuitive empowering flexibility,1,7.59,0,7.59
+INV-0000071,2,Grass-roots intangible frame,1,2.56,5,2.43
+INV-0000071,3,Assimilated foreground secured line,2,4.03,15,6.85
+INV-0000072,1,Customizable object-oriented encryption,4,12.32,5,46.82
+INV-0000072,2,Networked national initiative,1,22.75,0,22.75
+INV-0000073,1,Extended even-keeled application,1,13.03,0,13.03
+INV-0000073,2,Polarized system-worthy utilization,1,13.68,5,13.0
+INV-0000074,1,Automated bi-directional database,1,18.14,10,16.33
+INV-0000075,1,Fully-configurable well-modulated encoding,1,17.4,15,14.79
+INV-0000075,2,Implemented foreground info-mediaries,1,29.17,0,29.17
+INV-0000075,3,User-friendly bifurcated product,4,8.66,15,29.44
+INV-0000076,1,User-friendly contextually-based process improvement,1,16.16,0,16.16
+INV-0000076,2,Extended even-keeled neural-net,1,35.05,0,35.05
+INV-0000076,3,Compatible optimal challenge,4,16.14,0,64.56
+INV-0000076,4,Inverse static monitoring,1,29.99,10,26.99
+INV-0000076,5,Persistent dynamic interface,1,8.92,0,8.92
+INV-0000076,6,Function-based holistic collaboration,1,23.92,10,21.53
+INV-0000076,7,Public-key bi-directional orchestration,2,24.08,10,43.34
+INV-0000077,1,Seamless disintermediate collaboration,2,3.89,0,7.78
+INV-0000077,2,Compatible tertiary alliance,1,14.83,0,14.83
+INV-0000077,3,Operative attitude-oriented standardization,1,13.73,0,13.73
+INV-0000077,4,Optional system-worthy budgetary management,1,21.87,15,18.59
+INV-0000077,5,Open-architected human-resource analyzer,1,13.82,15,11.75
+INV-0000077,6,Team-oriented attitude-oriented knowledgebase,1,77.52,15,65.89
+INV-0000077,7,Inverse exuding Local Area Network,1,42.42,5,40.3
+INV-0000077,8,Cloned object-oriented policy,5,18.42,10,82.89
+INV-0000078,1,Ameliorated even-keeled knowledgebase,2,14.51,15,24.67
+INV-0000078,2,Balanced human-resource access,1,5.49,0,5.49
+INV-0000078,3,Multi-tiered optimizing concept,1,13.86,0,13.86
+INV-0000078,4,Polarized motivating monitoring,5,13.07,15,55.55
+INV-0000078,5,Ergonomic secondary array,1,72.03,0,72.03
+INV-0000078,6,Future-proofed logistical methodology,1,17.58,5,16.7
+INV-0000078,7,Robust web-enabled utilization,1,25.78,0,25.78
+INV-0000079,1,Public-key multimedia protocol,1,8.1,0,8.1
+INV-0000079,2,Pre-emptive background project,1,22.12,0,22.12
+INV-0000079,3,Configurable client-driven algorithm,5,2.4,0,12.0
+INV-0000079,4,User-centric value-added initiative,1,29.64,0,29.64
+INV-0000079,5,Switchable exuding array,1,6.87,0,6.87
+INV-0000079,6,Virtual demand-driven superstructure,1,5.54,5,5.26
+INV-0000079,7,Quality-focused national productivity,1,10.98,0,10.98
+INV-0000080,1,Assimilated optimizing model,1,21.39,5,20.32
+INV-0000080,2,Face-to-face asymmetric alliance,1,10.91,15,9.27
+INV-0000080,3,Organized disintermediate budgetary management,1,5.98,0,5.98
+INV-0000081,1,Re-contextualized fault-tolerant task-force,6,17.49,0,104.94
+INV-0000081,2,Organic intangible extranet,1,6.96,15,5.92
+INV-0000081,3,Progressive contextually-based function,11,10.86,0,119.46
+INV-0000081,4,Cross-group intangible methodology,1,7.58,10,6.82
+INV-0000081,5,Distributed cohesive productivity,2,13.52,15,22.98
+INV-0000081,6,Customizable attitude-oriented help-desk,1,11.24,0,11.24
+INV-0000082,1,Organized radical focus group,1,13.58,0,13.58
+INV-0000083,1,Multi-lateral methodical data-warehouse,1,73.62,0,73.62
+INV-0000083,2,Programmable contextually-based definition,1,5.61,10,5.05
+INV-0000083,3,Polarized user-facing adapter,2,32.2,0,64.4
+INV-0000083,4,Secured solution-oriented firmware,1,1.89,0,1.89
+INV-0000083,5,Re-engineered holistic collaboration,1,5.34,0,5.34
+INV-0000083,6,Public-key disintermediate groupware,1,14.05,0,14.05
+INV-0000084,1,Focused system-worthy system engine,3,10.97,0,32.91
+INV-0000085,1,Face-to-face scalable implementation,1,17.63,0,17.63
+INV-0000085,2,Extended intangible methodology,2,9.46,10,17.03
+INV-0000085,3,Open-architected asymmetric capacity,1,11.6,10,10.44
+INV-0000085,4,Optimized static migration,2,11.44,0,22.88
+INV-0000085,5,Streamlined stable capability,1,12.44,5,11.82
+INV-0000085,6,Innovative zero-defect software,1,13.05,10,11.75
+INV-0000085,7,Advanced leadingedge paradigm,1,11.12,0,11.12
+INV-0000085,8,Multi-tiered didactic service-desk,2,9.53,10,17.15
+INV-0000086,1,Public-key bifurcated hierarchy,1,10.38,5,9.86
+INV-0000086,2,Customizable context-sensitive matrices,2,14.36,15,24.41
+INV-0000087,1,Distributed systemic task-force,1,14.54,10,13.09
+INV-0000087,2,Visionary coherent challenge,2,7.69,10,13.84
+INV-0000087,3,Enhanced dynamic moderator,4,6.32,0,25.28
+INV-0000087,4,Sharable well-modulated utilization,1,3.79,5,3.6
+INV-0000087,5,Multi-channeled discrete solution,4,41.9,10,150.84
+INV-0000087,6,Quality-focused tertiary flexibility,3,5.11,10,13.8
+INV-0000087,7,Public-key 6thgeneration initiative,1,6.88,5,6.54
+INV-0000088,1,Virtual tangible collaboration,1,20.69,5,19.66
+INV-0000088,2,Vision-oriented well-modulated system engine,1,4.53,5,4.3
+INV-0000088,3,Streamlined directional matrix,1,3.57,5,3.39
+INV-0000088,4,Proactive static capability,5,8.32,15,35.36
+INV-0000088,5,Expanded analyzing capacity,2,24.05,0,48.1
+INV-0000088,6,Persistent coherent info-mediaries,3,11.92,0,35.76
+INV-0000089,1,Multi-layered hybrid leverage,1,55.07,0,55.07
+INV-0000089,2,Programmable explicit paradigm,1,19.5,15,16.57
+INV-0000089,3,Object-based content-based website,1,4.94,15,4.2
+INV-0000089,4,Monitored bi-directional database,1,13.07,0,13.07
+INV-0000089,5,Streamlined 4thgeneration analyzer,1,3.89,0,3.89
+INV-0000089,6,Inverse exuding throughput,1,17.93,10,16.14
+INV-0000089,7,Switchable content-based benchmark,2,8.77,0,17.54
+INV-0000090,1,Open-source real-time workforce,1,17.62,10,15.86
+INV-0000090,2,Re-engineered attitude-oriented standardization,1,37.88,0,37.88
+INV-0000090,3,Distributed even-keeled success,2,36.57,0,73.14
+INV-0000090,4,Polarized composite protocol,1,10.91,0,10.91
+INV-0000090,5,Face-to-face next generation installation,1,21.43,10,19.29
+INV-0000091,1,Profound explicit capability,1,9.55,0,9.55
+INV-0000091,2,Intuitive global flexibility,1,14.0,10,12.6
+INV-0000092,1,Re-engineered 5thgeneration knowledgebase,1,4.19,0,4.19
+INV-0000092,2,Centralized discrete paradigm,1,6.97,15,5.92
+INV-0000092,3,Distributed even-keeled pricing structure,2,18.21,0,36.42
+INV-0000093,1,Multi-tiered foreground forecast,1,3.57,0,3.57
+INV-0000094,1,Customizable bandwidth-monitored hardware,2,13.02,0,26.04
+INV-0000094,2,Organized local website,1,13.81,0,13.81
+INV-0000095,1,Universal human-resource policy,1,18.64,5,17.71
+INV-0000095,2,Devolved bi-directional approach,1,4.21,0,4.21
+INV-0000095,3,Face-to-face zero tolerance Local Area Network,1,3.73,0,3.73
+INV-0000095,4,Switchable system-worthy help-desk,2,24.31,10,43.76
+INV-0000095,5,Customizable global core,1,13.82,0,13.82
+INV-0000095,6,Versatile analyzing Graphic Interface,1,9.64,0,9.64
+INV-0000095,7,Mandatory next generation task-force,2,4.09,5,7.77
+INV-0000095,8,Intuitive neutral firmware,3,9.2,0,27.6
+INV-0000096,1,Organized next generation conglomeration,3,5.69,0,17.07
+INV-0000097,1,Proactive user-facing ability,1,23.35,0,23.35
+INV-0000097,2,Digitized user-facing portal,1,4.84,0,4.84
+INV-0000097,3,Down-sized executive concept,1,10.4,5,9.88
+INV-0000097,4,Quality-focused zero tolerance migration,4,21.58,10,77.69
+INV-0000097,5,Intuitive zero administration encoding,2,18.79,15,31.94
+INV-0000097,6,Adaptive web-enabled knowledge user,2,8.87,0,17.74
+INV-0000097,7,User-centric solution-oriented time-frame,1,18.97,10,17.07
+INV-0000098,1,Profit-focused clear-thinking algorithm,1,21.61,10,19.45
+INV-0000098,2,Future-proofed didactic core,1,13.38,5,12.71
+INV-0000098,3,De-engineered executive installation,2,16.65,15,28.3
+INV-0000098,4,Public-key analyzing hardware,7,10.49,15,62.42
+INV-0000098,5,Organized modular data-warehouse,5,26.85,5,127.54
+INV-0000098,6,Team-oriented empowering functionalities,3,11.52,0,34.56
+INV-0000098,7,Enterprise-wide needs-based info-mediaries,1,4.56,0,4.56
+INV-0000099,1,Implemented disintermediate hub,1,17.3,10,15.57
+INV-0000099,2,Mandatory discrete help-desk,1,5.87,5,5.58
+INV-0000099,3,Business-focused optimizing moderator,2,29.8,10,53.64
+INV-0000099,4,Optional 4thgeneration focus group,1,16.26,0,16.26
+INV-0000099,5,Focused zero tolerance benchmark,3,3.16,5,9.01
+INV-0000099,6,Cross-group multi-tasking time-frame,1,22.36,0,22.36
+INV-0000099,7,Down-sized mobile parallelism,1,14.85,15,12.62
+INV-0000100,1,Enhanced cohesive matrices,1,20.07,0,20.07
+INV-0000100,2,Reduced regional extranet,3,12.59,15,32.1
+INV-0000100,3,Distributed hybrid project,12,28.68,15,292.54
+INV-0000100,4,Centralized impactful matrices,1,7.55,0,7.55
+INV-0000100,5,Profound next generation collaboration,1,23.19,0,23.19
+INV-0000100,6,Customizable impactful contingency,8,15.18,0,121.44
+INV-0000101,1,Open-source grid-enabled utilization,2,3.75,15,6.38
+INV-0000101,2,Persevering multimedia challenge,2,3.56,10,6.41
+INV-0000101,3,Multi-tiered tangible utilization,1,9.87,15,8.39
+INV-0000101,4,Future-proofed dynamic Graphical User Interface,1,6.94,15,5.9
+INV-0000101,5,Enterprise-wide logistical benchmark,1,3.15,10,2.83
+INV-0000101,6,Decentralized dedicated infrastructure,2,5.23,0,10.46
+INV-0000101,7,Versatile next generation approach,1,10.85,15,9.22
+INV-0000101,8,Secured real-time knowledgebase,4,6.84,0,27.36
+INV-0000102,1,Switchable object-oriented knowledgebase,5,61.36,0,306.8
+INV-0000102,2,Synergized maximized collaboration,1,7.65,5,7.27
+INV-0000103,1,Enterprise-wide 4thgeneration monitoring,9,27.58,10,223.4
+INV-0000103,2,Decentralized bandwidth-monitored forecast,1,37.89,10,34.1
+INV-0000103,3,Pre-emptive real-time database,1,8.48,15,7.21
+INV-0000103,4,Universal coherent protocol,1,8.01,0,8.01
+INV-0000103,5,Multi-tiered high-level model,3,8.61,5,24.54
+INV-0000103,6,Profound client-server portal,6,10.83,10,58.48
+INV-0000103,7,Realigned static database,4,9.38,15,31.89
+INV-0000103,8,Integrated methodical productivity,2,5.36,0,10.72
+INV-0000104,1,Vision-oriented actuating website,2,15.5,0,31.0
+INV-0000104,2,Universal bi-directional superstructure,1,9.36,0,9.36
+INV-0000104,3,Robust fault-tolerant infrastructure,1,63.44,15,53.92
+INV-0000105,1,Stand-alone user-facing website,1,23.49,0,23.49
+INV-0000105,2,Secured 5thgeneration customer loyalty,1,9.45,15,8.03
+INV-0000105,3,Inverse scalable access,1,18.33,10,16.5
+INV-0000105,4,Intuitive context-sensitive ability,4,17.82,0,71.28
+INV-0000105,5,Innovative solution-oriented capacity,1,26.01,15,22.11
+INV-0000105,6,Pre-emptive static concept,1,3.58,15,3.04
+INV-0000105,7,Organic hybrid methodology,1,5.05,0,5.05
+INV-0000106,1,Centralized fault-tolerant functionalities,2,6.76,0,13.52
+INV-0000106,2,Enterprise-wide responsive core,1,12.11,10,10.9
+INV-0000106,3,Versatile zero-defect instruction set,2,1.07,15,1.82
+INV-0000106,4,Ameliorated human-resource flexibility,1,6.62,0,6.62
+INV-0000106,5,Programmable directional intranet,3,30.78,0,92.34
+INV-0000106,6,Phased attitude-oriented ability,1,5.52,0,5.52
+INV-0000107,1,Integrated national productivity,1,14.41,15,12.25
+INV-0000107,2,Multi-channeled incremental Local Area Network,2,15.09,15,25.65
+INV-0000108,1,Reverse-engineered regional projection,3,16.18,0,48.54
+INV-0000108,2,Proactive radical array,3,20.1,0,60.3
+INV-0000108,3,Diverse regional artificial intelligence,2,24.68,0,49.36
+INV-0000108,4,Front-line directional neural-net,2,35.59,0,71.18
+INV-0000108,5,Assimilated empowering capability,1,9.4,0,9.4
+INV-0000108,6,Team-oriented contextually-based pricing structure,2,6.8,0,13.6
+INV-0000108,7,Face-to-face homogeneous task-force,1,16.33,0,16.33
+INV-0000108,8,User-friendly holistic analyzer,1,16.12,10,14.51
+INV-0000109,1,Reduced heuristic info-mediaries,1,21.59,0,21.59
+INV-0000109,2,Intuitive multi-tasking encryption,7,4.29,15,25.53
+INV-0000109,3,Up-sized zero-defect circuit,1,20.64,10,18.58
+INV-0000110,1,Profit-focused neutral matrices,1,4.73,10,4.26
+INV-0000110,2,User-centric systematic data-warehouse,3,14.68,0,44.04
+INV-0000110,3,Expanded systematic process improvement,1,9.2,0,9.2
+INV-0000110,4,Up-sized bottom-line data-warehouse,6,28.4,5,161.88
+INV-0000111,1,Synchronized zero-defect budgetary management,5,4.44,0,22.2
+INV-0000111,2,Managed exuding utilization,1,13.78,10,12.4
+INV-0000111,3,Monitored cohesive budgetary management,1,16.22,0,16.22
+INV-0000112,1,Managed tangible open architecture,1,9.45,5,8.98
+INV-0000112,2,Reduced reciprocal infrastructure,1,13.77,10,12.39
+INV-0000112,3,Automated analyzing orchestration,1,8.71,0,8.71
+INV-0000112,4,Reduced zero administration installation,4,13.32,5,50.62
+INV-0000112,5,Enterprise-wide non-volatile adapter,7,15.75,0,110.25
+INV-0000113,1,Exclusive web-enabled concept,1,8.43,0,8.43
+INV-0000113,2,Open-source human-resource Local Area Network,1,11.11,0,11.11
+INV-0000113,3,Managed fault-tolerant focus group,2,2.93,0,5.86
+INV-0000113,4,Realigned foreground task-force,2,3.7,0,7.4
+INV-0000113,5,Multi-lateral disintermediate conglomeration,11,9.17,0,100.87
+INV-0000113,6,Polarized dynamic emulation,1,5.15,0,5.15
+INV-0000113,7,Profit-focused multi-tasking emulation,3,10.76,15,27.44
+INV-0000114,1,Optimized analyzing Internet solution,2,26.72,10,48.1
+INV-0000114,2,Public-key non-volatile functionalities,1,30.49,0,30.49
+INV-0000114,3,Re-engineered cohesive open system,6,10.43,0,62.58
+INV-0000114,4,Right-sized encompassing initiative,5,5.46,0,27.3
+INV-0000114,5,Devolved fault-tolerant policy,1,5.16,0,5.16
+INV-0000114,6,Devolved bi-directional architecture,1,38.94,0,38.94
+INV-0000114,7,Centralized executive policy,8,22.84,0,182.72
+INV-0000114,8,Optimized content-based array,1,10.54,10,9.49
+INV-0000115,1,Phased solution-oriented encryption,1,12.83,15,10.91
+INV-0000115,2,Robust zero-defect access,1,10.38,10,9.34
+INV-0000115,3,Secured demand-driven functionalities,3,17.35,5,49.45
+INV-0000115,4,User-centric system-worthy hardware,1,11.94,0,11.94
+INV-0000115,5,Progressive attitude-oriented neural-net,4,19.99,0,79.96
+INV-0000115,6,Balanced uniform protocol,3,20.2,5,57.57
+INV-0000115,7,Customer-focused mission-critical function,2,6.29,10,11.32
+INV-0000116,1,Vision-oriented 24/7 budgetary management,1,15.28,10,13.75
+INV-0000116,2,Reverse-engineered motivating pricing structure,5,29.21,5,138.75
+INV-0000116,3,Automated local paradigm,1,17.18,0,17.18
+INV-0000116,4,Business-focused optimizing knowledge user,1,15.84,15,13.46
+INV-0000117,1,Cross-group asynchronous open system,1,7.17,15,6.09
+INV-0000117,2,Visionary human-resource firmware,1,7.25,0,7.25
+INV-0000117,3,Business-focused hybrid utilization,1,12.06,0,12.06
+INV-0000117,4,Adaptive cohesive solution,1,7.81,0,7.81
+INV-0000117,5,Pre-emptive intermediate neural-net,1,24.46,0,24.46
+INV-0000118,1,Multi-layered zero tolerance collaboration,1,10.79,15,9.17
+INV-0000118,2,Organic local model,1,7.53,5,7.15
+INV-0000118,3,Mandatory value-added database,1,24.94,15,21.2
+INV-0000119,1,Integrated asynchronous migration,3,5.67,0,17.01
+INV-0000120,1,Monitored client-driven help-desk,3,11.98,0,35.94
+INV-0000120,2,De-engineered 4thgeneration parallelism,1,8.17,15,6.94
+INV-0000120,3,Total regional throughput,1,65.46,0,65.46
+INV-0000120,4,Visionary dynamic website,2,11.99,0,23.98
+INV-0000120,5,Up-sized responsive parallelism,1,6.6,0,6.6
+INV-0000120,6,Focused bi-directional challenge,1,12.51,0,12.51
+INV-0000121,1,Universal full-range emulation,1,10.75,0,10.75
+INV-0000121,2,Face-to-face optimal paradigm,1,7.3,15,6.21
+INV-0000121,3,Cloned context-sensitive analyzer,1,24.34,5,23.12
+INV-0000121,4,Open-architected hybrid product,1,18.85,0,18.85
+INV-0000121,5,Sharable didactic solution,1,14.77,5,14.03
+INV-0000122,1,Cross-group tertiary moderator,2,6.97,10,12.55
+INV-0000122,2,Persevering disintermediate product,1,43.31,15,36.81
+INV-0000122,3,Digitized multi-tasking Graphic Interface,4,15.65,5,59.47
+INV-0000122,4,Re-contextualized national Graphic Interface,2,8.12,0,16.24
+INV-0000122,5,Seamless exuding open system,3,26.11,15,66.58
+INV-0000122,6,Proactive real-time middleware,1,13.2,5,12.54
+INV-0000122,7,Proactive next generation encoding,3,23.69,0,71.07
+INV-0000122,8,Secured background Graphical User Interface,1,16.13,5,15.32
+INV-0000123,1,Stand-alone 24/7 secured line,2,56.13,0,112.26
+INV-0000123,2,Organized bi-directional budgetary management,1,5.92,0,5.92
+INV-0000123,3,Customizable uniform toolset,3,8.41,10,22.71
+INV-0000124,1,Polarized multimedia functionalities,2,97.08,15,165.04
+INV-0000124,2,Sharable radical complexity,2,11.39,5,21.64
+INV-0000124,3,Progressive executive monitoring,1,5.53,0,5.53
+INV-0000125,1,Multi-channeled local info-mediaries,2,18.08,0,36.16
+INV-0000125,2,Universal clear-thinking infrastructure,1,26.15,0,26.15
+INV-0000125,3,Decentralized directional orchestration,2,11.27,15,19.16
+INV-0000125,4,Face-to-face multi-tasking benchmark,2,3.3,0,6.6
+INV-0000126,1,Enhanced multi-tasking info-mediaries,1,6.48,15,5.51
+INV-0000126,2,Expanded responsive time-frame,8,4.08,5,31.01
+INV-0000126,3,Pre-emptive transitional alliance,2,49.46,0,98.92
+INV-0000126,4,Multi-channeled 5thgeneration flexibility,1,3.88,0,3.88
+INV-0000126,5,Business-focused full-range methodology,1,8.16,0,8.16
+INV-0000127,1,Organized content-based core,4,17.69,10,63.68
+INV-0000127,2,Inverse directional frame,1,5.06,10,4.55
+INV-0000128,1,Sharable asymmetric framework,2,16.14,0,32.28
+INV-0000128,2,Optional holistic hub,4,7.54,5,28.65
+INV-0000128,3,Persistent client-driven Graphical User Interface,1,15.28,0,15.28
+INV-0000129,1,Exclusive zero tolerance utilization,1,9.93,5,9.43
+INV-0000129,2,Customer-focused coherent capability,1,10.92,15,9.28
+INV-0000129,3,Visionary executive process improvement,1,25.63,15,21.79
+INV-0000129,4,Public-key 5thgeneration access,1,5.43,5,5.16
+INV-0000129,5,Re-contextualized 24/7 extranet,1,15.23,10,13.71
+INV-0000130,1,De-engineered national monitoring,6,21.44,0,128.64
+INV-0000130,2,Distributed mobile hardware,1,5.09,10,4.58
+INV-0000130,3,Open-source systematic infrastructure,2,4.1,15,6.97
+INV-0000130,4,Persevering static architecture,1,10.07,10,9.06
+INV-0000130,5,Grass-roots mobile throughput,1,2.81,0,2.81
+INV-0000130,6,Focused next generation project,3,14.55,0,43.65
+INV-0000131,1,Universal bottom-line orchestration,1,19.19,15,16.31
+INV-0000131,2,Synergistic logistical initiative,2,4.6,0,9.2
+INV-0000131,3,Extended upward-trending implementation,1,22.04,0,22.04
+INV-0000131,4,Persistent empowering hardware,1,28.67,10,25.8
+INV-0000131,5,Profit-focused even-keeled extranet,3,15.7,0,47.1
+INV-0000131,6,Reactive system-worthy architecture,4,30.24,0,120.96
+INV-0000132,1,Multi-channeled client-driven paradigm,1,9.69,0,9.69
+INV-0000132,2,Ergonomic stable software,1,8.28,15,7.04
+INV-0000132,3,Intuitive motivating open system,1,11.12,10,10.01
+INV-0000133,1,Versatile 3rdgeneration circuit,5,5.9,10,26.55
+INV-0000133,2,Diverse interactive methodology,1,8.07,5,7.67
+INV-0000133,3,Reverse-engineered secondary neural-net,1,12.26,10,11.03
+INV-0000133,4,Pre-emptive secondary database,8,13.43,15,91.32
+INV-0000134,1,Function-based client-server model,4,16.72,0,66.88
+INV-0000134,2,Customizable value-added throughput,1,2.8,15,2.38
+INV-0000134,3,Managed value-added portal,2,95.24,0,190.48
+INV-0000134,4,Public-key client-driven collaboration,1,6.32,0,6.32
+INV-0000134,5,Balanced grid-enabled algorithm,2,19.12,5,36.33
+INV-0000134,6,Triple-buffered modular neural-net,7,14.78,5,98.29
+INV-0000134,7,Networked 24hour project,1,7.73,5,7.34
+INV-0000134,8,Compatible multi-tasking alliance,4,17.87,5,67.91
+INV-0000135,1,Cloned optimal alliance,3,6.41,0,19.23
+INV-0000135,2,Balanced content-based challenge,5,11.92,10,53.64
+INV-0000135,3,User-centric logistical pricing structure,1,49.52,10,44.57
+INV-0000136,1,Business-focused maximized framework,4,8.9,0,35.6
+INV-0000137,1,Monitored incremental encoding,5,12.77,5,60.66
+INV-0000137,2,Switchable zero-defect hardware,2,5.73,10,10.31
+INV-0000137,3,Realigned static superstructure,2,19.45,5,36.95
+INV-0000138,1,Visionary secondary secured line,1,7.1,0,7.1
+INV-0000138,2,Switchable high-level alliance,2,14.99,0,29.98
+INV-0000138,3,User-centric non-volatile service-desk,14,24.62,0,344.68
+INV-0000138,4,Networked analyzing matrix,3,10.21,5,29.1
+INV-0000138,5,Reactive encompassing Internet solution,1,18.08,10,16.27
+INV-0000138,6,Up-sized maximized knowledge user,1,15.63,15,13.29
+INV-0000139,1,Business-focused global installation,1,25.35,0,25.35
+INV-0000139,2,Reverse-engineered clear-thinking knowledgebase,2,18.16,0,36.32
+INV-0000139,3,Pre-emptive global solution,3,30.05,5,85.64
+INV-0000139,4,Integrated mobile software,1,10.15,0,10.15
+INV-0000139,5,Horizontal tangible software,1,4.98,10,4.48
+INV-0000139,6,Reduced encompassing projection,2,3.86,10,6.95
+INV-0000139,7,Compatible optimizing customer loyalty,1,4.11,0,4.11
+INV-0000140,1,Managed homogeneous initiative,1,9.85,0,9.85
+INV-0000140,2,Persistent needs-based collaboration,1,13.72,0,13.72
+INV-0000141,1,Open-source empowering projection,2,7.46,0,14.92
+INV-0000142,1,Multi-channeled grid-enabled matrices,1,2.52,10,2.27
+INV-0000142,2,Integrated impactful help-desk,3,7.55,0,22.65
+INV-0000142,3,Persistent asynchronous intranet,1,8.86,0,8.86
+INV-0000142,4,Persevering non-volatile data-warehouse,1,12.01,5,11.41
+INV-0000142,5,Enterprise-wide 3rdgeneration installation,1,33.51,10,30.16
+INV-0000142,6,Assimilated 6thgeneration moderator,1,3.4,15,2.89
+INV-0000143,1,Focused systemic hierarchy,1,19.61,15,16.67
+INV-0000143,2,User-friendly intermediate parallelism,2,18.23,0,36.46
+INV-0000143,3,Team-oriented leadingedge toolset,6,10.21,5,58.2
+INV-0000143,4,Diverse contextually-based initiative,5,16.03,10,72.14
+INV-0000143,5,Up-sized actuating portal,1,10.67,0,10.67
+INV-0000143,6,Versatile neutral flexibility,1,17.94,15,15.25
+INV-0000144,1,Focused background strategy,1,6.62,15,5.63
+INV-0000144,2,Optimized needs-based Local Area Network,1,6.12,0,6.12
+INV-0000144,3,Switchable leadingedge synergy,3,3.19,0,9.57
+INV-0000145,1,Secured discrete firmware,1,16.08,10,14.47
+INV-0000145,2,Optional secondary application,2,7.99,10,14.38
+INV-0000145,3,Down-sized impactful circuit,1,4.01,5,3.81
+INV-0000145,4,Persevering clear-thinking portal,1,6.18,15,5.25
+INV-0000145,5,User-centric coherent data-warehouse,1,17.92,15,15.23
+INV-0000145,6,Up-sized eco-centric flexibility,2,13.63,0,27.26
+INV-0000145,7,Cloned 24/7 solution,1,6.32,15,5.37
+INV-0000146,1,Advanced systematic secured line,6,32.4,10,174.96
+INV-0000146,2,Implemented bottom-line emulation,1,11.56,0,11.56
+INV-0000146,3,Cross-platform real-time hardware,1,16.95,10,15.25
+INV-0000146,4,Right-sized multi-state Graphical User Interface,1,13.43,0,13.43
+INV-0000146,5,Integrated 3rdgeneration throughput,3,9.99,15,25.47
+INV-0000146,6,Ergonomic solution-oriented conglomeration,1,16.13,15,13.71
+INV-0000146,7,Assimilated homogeneous architecture,1,27.24,15,23.15
+INV-0000146,8,Compatible stable standardization,4,9.87,15,33.56
+INV-0000147,1,Quality-focused multi-tasking toolset,1,20.55,15,17.47
+INV-0000147,2,Persistent bifurcated methodology,1,7.46,0,7.46
+INV-0000147,3,Grass-roots stable portal,3,43.54,15,111.03
+INV-0000147,4,Innovative homogeneous complexity,1,6.82,15,5.8
+INV-0000147,5,Distributed next generation function,1,57.74,5,54.85
+INV-0000148,1,Phased object-oriented customer loyalty,1,5.12,0,5.12
+INV-0000148,2,Enterprise-wide bottom-line definition,2,9.51,0,19.02
+INV-0000148,3,Triple-buffered local success,1,16.73,0,16.73
+INV-0000148,4,Universal local matrices,1,28.71,0,28.71
+INV-0000148,5,Enhanced secondary help-desk,1,37.95,0,37.95
+INV-0000148,6,Multi-layered next generation architecture,1,33.84,15,28.76
+INV-0000148,7,Face-to-face coherent collaboration,1,3.74,0,3.74
+INV-0000149,1,Business-focused fresh-thinking contingency,8,16.28,0,130.24
+INV-0000149,2,Balanced high-level pricing structure,1,7.09,0,7.09
+INV-0000149,3,Synergized bandwidth-monitored portal,1,24.13,10,21.72
+INV-0000149,4,Secured tertiary flexibility,9,26.39,15,201.88
+INV-0000149,5,Compatible background matrix,1,15.06,10,13.55
+INV-0000150,1,Inverse clear-thinking open system,1,8.38,0,8.38
+INV-0000150,2,Customizable tertiary forecast,1,5.64,15,4.79
+INV-0000150,3,Automated bifurcated hierarchy,1,7.4,0,7.4
+INV-0000150,4,Persistent bottom-line middleware,1,7.16,0,7.16
+INV-0000150,5,Robust modular toolset,3,12.47,10,33.67
+INV-0000150,6,Automated optimizing middleware,1,25.07,0,25.07
+INV-0000150,7,Cross-platform needs-based forecast,2,13.14,5,24.97
+INV-0000150,8,Progressive regional groupware,1,5.36,15,4.56
+INV-0000151,1,De-engineered responsive function,2,5.14,10,9.25
+INV-0000151,2,Visionary regional architecture,10,19.82,15,168.47
+INV-0000151,3,Horizontal actuating algorithm,2,47.59,15,80.9
+INV-0000151,4,Programmable 6thgeneration alliance,1,13.03,0,13.03
+INV-0000152,1,Persevering local complexity,6,7.56,0,45.36
+INV-0000153,1,User-friendly object-oriented contingency,1,6.09,10,5.48
+INV-0000153,2,Proactive fault-tolerant standardization,1,18.93,5,17.98
+INV-0000153,3,Re-contextualized bifurcated Local Area Network,1,36.91,0,36.91
+INV-0000154,1,Open-source composite ability,1,9.83,10,8.85
+INV-0000154,2,Streamlined multi-state concept,2,8.38,15,14.25
+INV-0000154,3,Stand-alone holistic interface,1,4.55,0,4.55
+INV-0000154,4,Future-proofed human-resource intranet,9,12.82,0,115.38
+INV-0000154,5,Customer-focused upward-trending Graphic Interface,3,21.03,10,56.78
+INV-0000155,1,Fully-configurable holistic focus group,1,7.21,0,7.21
+INV-0000155,2,Customer-focused systematic algorithm,2,14.26,0,28.52
+INV-0000155,3,Reduced static process improvement,1,17.33,0,17.33
+INV-0000155,4,Synergistic optimizing leverage,2,18.31,0,36.62
+INV-0000155,5,Persistent systemic open architecture,1,5.76,5,5.47
+INV-0000155,6,Vision-oriented fault-tolerant solution,1,6.54,0,6.54
+INV-0000155,7,Fundamental non-volatile software,1,12.95,5,12.3
+INV-0000155,8,Optimized stable Graphic Interface,1,20.0,0,20.0
+INV-0000156,1,Automated actuating analyzer,1,55.09,5,52.34
+INV-0000156,2,Front-line regional Local Area Network,1,5.52,0,5.52
+INV-0000157,1,Quality-focused secondary access,5,14.53,0,72.65
+INV-0000157,2,Re-engineered discrete middleware,3,12.17,0,36.51
+INV-0000157,3,Seamless multimedia process improvement,1,8.96,5,8.51
+INV-0000157,4,Monitored uniform archive,4,27.56,0,110.24
+INV-0000158,1,Function-based 5thgeneration flexibility,4,18.14,10,65.3
+INV-0000158,2,Horizontal executive service-desk,1,18.54,5,17.61
+INV-0000159,1,Adaptive needs-based installation,1,5.3,0,5.3
+INV-0000159,2,Organized reciprocal forecast,2,9.52,0,19.04
+INV-0000159,3,Versatile modular benchmark,1,12.62,10,11.36
+INV-0000160,1,Switchable regional superstructure,3,13.73,10,37.07
+INV-0000160,2,Fully-configurable contextually-based intranet,1,68.4,5,64.98
+INV-0000160,3,Upgradable bifurcated solution,2,9.87,5,18.75
+INV-0000161,1,Re-engineered upward-trending software,1,2.08,0,2.08
+INV-0000161,2,Advanced scalable parallelism,1,12.74,5,12.1
+INV-0000162,1,Polarized static focus group,1,17.38,15,14.77
+INV-0000162,2,Horizontal 3rdgeneration functionalities,1,12.65,15,10.75
+INV-0000162,3,Virtual systemic info-mediaries,1,1.61,15,1.37
+INV-0000163,1,Public-key bi-directional database,1,14.96,0,14.96
+INV-0000163,2,Distributed multimedia array,2,17.78,0,35.56
+INV-0000163,3,Operative impactful neural-net,2,4.96,10,8.93
+INV-0000163,4,Distributed user-facing algorithm,1,7.52,5,7.14
+INV-0000163,5,Horizontal grid-enabled secured line,10,11.66,10,104.94
+INV-0000163,6,Expanded contextually-based benchmark,1,8.21,0,8.21
+INV-0000164,1,Horizontal incremental complexity,1,9.14,5,8.68
+INV-0000164,2,Vision-oriented leadingedge contingency,1,15.06,0,15.06
+INV-0000164,3,Multi-tiered well-modulated orchestration,1,7.85,0,7.85
+INV-0000164,4,Multi-channeled 3rdgeneration data-warehouse,1,4.16,0,4.16
+INV-0000165,1,Innovative didactic process improvement,1,23.07,0,23.07
+INV-0000165,2,Persevering attitude-oriented concept,1,5.87,0,5.87
+INV-0000165,3,Front-line motivating application,4,10.52,10,37.87
+INV-0000165,4,Inverse reciprocal open system,1,8.54,0,8.54
+INV-0000166,1,Reduced 24hour moratorium,1,5.37,0,5.37
+INV-0000167,1,Proactive client-driven adapter,3,22.53,0,67.59
+INV-0000167,2,Fully-configurable contextually-based Graphic Interface,1,20.77,15,17.65
+INV-0000167,3,User-friendly attitude-oriented Internet solution,1,9.26,10,8.33
+INV-0000167,4,Function-based fault-tolerant encoding,1,12.05,0,12.05
+INV-0000167,5,Monitored directional Graphic Interface,2,13.15,5,24.98
+INV-0000168,1,Business-focused mobile adapter,1,5.57,10,5.01
+INV-0000168,2,Customer-focused tertiary encryption,1,6.07,0,6.07
+INV-0000168,3,Quality-focused 5thgeneration interface,1,11.92,15,10.13
+INV-0000168,4,Adaptive bandwidth-monitored strategy,1,5.28,5,5.02
+INV-0000168,5,Fully-configurable bi-directional moratorium,1,11.85,5,11.26
+INV-0000168,6,Multi-layered value-added open architecture,2,2.43,0,4.86
+INV-0000168,7,Profound leadingedge portal,1,8.92,0,8.92
+INV-0000169,1,Optimized value-added pricing structure,1,14.87,10,13.38
+INV-0000170,1,Pre-emptive system-worthy artificial intelligence,6,14.08,5,80.26
+INV-0000170,2,Multi-layered encompassing focus group,3,27.1,0,81.3
+INV-0000171,1,Multi-layered maximized paradigm,1,5.56,0,5.56
+INV-0000171,2,Robust context-sensitive adapter,1,11.45,10,10.3
+INV-0000172,1,Configurable incremental productivity,2,23.22,0,46.44
+INV-0000172,2,Integrated bottom-line time-frame,2,14.78,15,25.13
+INV-0000172,3,Adaptive zero tolerance solution,1,21.32,10,19.19
+INV-0000172,4,Streamlined intangible infrastructure,1,5.29,15,4.5
+INV-0000172,5,Centralized needs-based architecture,2,12.73,0,25.46
+INV-0000172,6,Enterprise-wide 24hour analyzer,1,10.38,5,9.86
+INV-0000172,7,Cross-platform impactful open system,1,12.98,0,12.98
+INV-0000172,8,Innovative zero administration knowledge user,2,6.95,10,12.51
+INV-0000173,1,Ergonomic web-enabled flexibility,1,30.24,0,30.24
+INV-0000173,2,Diverse disintermediate portal,1,19.61,15,16.67
+INV-0000173,3,Optimized zero tolerance ability,1,27.4,5,26.03
+INV-0000173,4,Horizontal needs-based success,1,14.85,0,14.85
+INV-0000173,5,Visionary dedicated throughput,2,7.42,0,14.84
+INV-0000173,6,Organized motivating interface,1,18.63,0,18.63
+INV-0000173,7,Ergonomic leadingedge system engine,1,30.5,0,30.5
+INV-0000173,8,Devolved attitude-oriented intranet,1,14.83,5,14.09
+INV-0000174,1,Customizable cohesive task-force,2,6.37,0,12.74
+INV-0000174,2,Vision-oriented leadingedge superstructure,2,8.1,0,16.2
+INV-0000174,3,Enterprise-wide object-oriented secured line,6,12.52,0,75.12
+INV-0000174,4,Business-focused bandwidth-monitored Graphic Interface,3,33.75,0,101.25
+INV-0000174,5,Innovative hybrid approach,2,42.93,5,81.57
+INV-0000175,1,Adaptive asymmetric strategy,3,6.7,0,20.1
+INV-0000175,2,Virtual homogeneous pricing structure,1,15.67,15,13.32
+INV-0000175,3,Advanced dynamic functionalities,5,8.03,0,40.15
+INV-0000175,4,Pre-emptive intermediate intranet,1,4.97,0,4.97
+INV-0000175,5,Synergized foreground product,1,18.28,0,18.28
+INV-0000175,6,Virtual optimal project,1,13.51,15,11.48
+INV-0000175,7,Robust regional access,1,14.12,10,12.71
+INV-0000175,8,Integrated context-sensitive synergy,2,10.86,5,20.63
+INV-0000176,1,Business-focused holistic function,1,15.07,15,12.81
+INV-0000176,2,Visionary bi-directional framework,3,14.67,0,44.01
+INV-0000176,3,Quality-focused homogeneous knowledgebase,5,21.9,0,109.5
+INV-0000177,1,Re-contextualized non-volatile complexity,1,6.89,0,6.89
+INV-0000177,2,Switchable client-server benchmark,3,22.69,0,68.07
+INV-0000177,3,User-centric methodical info-mediaries,2,20.37,10,36.67
+INV-0000177,4,Secured local utilization,1,15.31,10,13.78
+INV-0000177,5,Reduced intermediate system engine,5,12.44,5,59.09
+INV-0000177,6,Profound attitude-oriented structure,1,11.4,0,11.4
+INV-0000177,7,Future-proofed national matrices,2,11.47,0,22.94
+INV-0000177,8,Decentralized neutral capability,3,12.45,10,33.61
+INV-0000178,1,Synergistic context-sensitive matrices,3,4.29,0,12.87
+INV-0000178,2,Profound transitional attitude,2,60.96,10,109.73
+INV-0000178,3,Secured logistical application,1,25.86,10,23.27
+INV-0000178,4,Open-source tangible array,1,43.29,0,43.29
+INV-0000179,1,Monitored multi-tasking analyzer,4,18.85,15,64.09
+INV-0000179,2,Multi-tiered 5thgeneration array,2,7.88,0,15.76
+INV-0000179,3,Reverse-engineered value-added circuit,1,17.02,15,14.47
+INV-0000179,4,Team-oriented encompassing strategy,1,21.76,15,18.5
+INV-0000179,5,Stand-alone upward-trending data-warehouse,9,6.37,0,57.33
+INV-0000180,1,Innovative bandwidth-monitored complexity,1,30.01,5,28.51
+INV-0000180,2,Reduced impactful help-desk,1,9.06,15,7.7
+INV-0000180,3,Devolved empowering process improvement,1,20.16,0,20.16
+INV-0000180,4,Re-engineered heuristic contingency,1,33.53,10,30.18
+INV-0000180,5,Diverse background definition,1,14.8,0,14.8
+INV-0000180,6,Secured context-sensitive collaboration,1,33.73,10,30.36
+INV-0000180,7,Exclusive intangible hub,2,4.42,0,8.84
+INV-0000180,8,Multi-channeled client-driven paradigm,1,5.62,0,5.62
+INV-0000181,1,Face-to-face impactful collaboration,1,6.88,0,6.88
+INV-0000181,2,Team-oriented full-range function,2,2.81,0,5.62
+INV-0000181,3,Advanced intangible success,4,3.71,0,14.84
+INV-0000182,1,Assimilated mission-critical definition,1,33.79,5,32.1
+INV-0000182,2,Mandatory web-enabled intranet,2,27.57,15,46.87
+INV-0000182,3,Synchronized tertiary contingency,1,8.16,0,8.16
+INV-0000182,4,Future-proofed holistic success,1,57.4,15,48.79
+INV-0000182,5,Advanced reciprocal capability,1,9.9,15,8.42
+INV-0000182,6,Phased homogeneous open architecture,1,44.83,0,44.83
+INV-0000183,1,Reactive modular archive,1,45.63,0,45.63
+INV-0000183,2,Proactive demand-driven initiative,2,7.87,15,13.38
+INV-0000183,3,Managed 5thgeneration project,3,21.75,0,65.25
+INV-0000183,4,Programmable bandwidth-monitored matrices,1,26.61,5,25.28
+INV-0000183,5,Proactive mobile encryption,2,7.73,5,14.69
+INV-0000183,6,Multi-tiered transitional moratorium,3,1.75,0,5.25
+INV-0000184,1,Optimized 24/7 portal,1,21.34,15,18.14
+INV-0000184,2,Reactive neutral pricing structure,1,6.75,0,6.75
+INV-0000184,3,Implemented foreground algorithm,1,11.08,0,11.08
+INV-0000184,4,Synergistic 24/7 forecast,1,13.91,0,13.91
+INV-0000185,1,Up-sized actuating strategy,1,18.24,5,17.33
+INV-0000185,2,Seamless directional workforce,2,9.54,0,19.08
+INV-0000185,3,Organic attitude-oriented adapter,1,14.63,0,14.63
+INV-0000185,4,Multi-channeled 24/7 utilization,3,28.19,0,84.57
+INV-0000185,5,Visionary multi-state strategy,1,3.14,0,3.14
+INV-0000186,1,Profound analyzing superstructure,1,4.54,5,4.31
+INV-0000186,2,Profound homogeneous intranet,1,5.35,0,5.35
+INV-0000186,3,Streamlined mission-critical hub,1,8.42,0,8.42
+INV-0000186,4,Programmable homogeneous orchestration,1,20.91,5,19.86
+INV-0000186,5,Polarized incremental core,1,25.11,5,23.85
+INV-0000186,6,Digitized composite parallelism,3,10.63,0,31.89
+INV-0000187,1,Configurable eco-centric parallelism,1,10.65,5,10.12
+INV-0000187,2,Mandatory 24hour throughput,1,32.24,0,32.24
+INV-0000187,3,Enterprise-wide encompassing circuit,1,14.07,0,14.07
+INV-0000187,4,Automated multi-tasking capability,1,9.35,0,9.35
+INV-0000187,5,Cross-platform contextually-based emulation,1,22.88,5,21.74
+INV-0000188,1,Function-based neutral intranet,1,21.0,5,19.95
+INV-0000188,2,Vision-oriented maximized Graphical User Interface,1,16.07,0,16.07
+INV-0000188,3,Synergistic web-enabled utilization,2,8.15,0,16.3
+INV-0000188,4,Diverse scalable encoding,6,6.15,0,36.9
+INV-0000189,1,Virtual real-time project,1,6.52,0,6.52
+INV-0000189,2,Multi-lateral directional intranet,4,6.77,10,24.37
+INV-0000189,3,Down-sized holistic success,2,6.39,15,10.86
+INV-0000189,4,Self-enabling homogeneous capability,1,8.43,0,8.43
+INV-0000189,5,Re-engineered incremental customer loyalty,1,12.06,5,11.46
+INV-0000190,1,Fully-configurable systematic benchmark,4,13.08,0,52.32
+INV-0000190,2,Upgradable didactic challenge,1,5.52,5,5.24
+INV-0000190,3,Focused intangible array,1,14.48,0,14.48
+INV-0000190,4,Upgradable bifurcated definition,1,12.95,0,12.95
+INV-0000190,5,Streamlined contextually-based Local Area Network,5,11.28,10,50.76
+INV-0000190,6,Advanced asynchronous knowledge user,1,7.98,0,7.98
+INV-0000190,7,Right-sized hybrid function,2,5.6,10,10.08
+INV-0000191,1,Streamlined 24/7 process improvement,1,18.12,15,15.4
+INV-0000191,2,Function-based radical complexity,1,12.88,5,12.24
+INV-0000191,3,Reactive local standardization,1,15.54,0,15.54
+INV-0000191,4,Operative uniform policy,1,9.04,15,7.68
+INV-0000191,5,Synergized 24hour migration,1,8.34,0,8.34
+INV-0000191,6,Realigned explicit model,3,24.83,0,74.49
+INV-0000191,7,Public-key full-range protocol,1,78.59,0,78.59
+INV-0000192,1,User-friendly incremental array,3,9.91,0,29.73
+INV-0000193,1,Switchable hybrid initiative,2,13.55,0,27.1
+INV-0000193,2,Down-sized zero administration productivity,1,11.5,5,10.92
+INV-0000193,3,Fundamental bi-directional Graphic Interface,1,6.82,0,6.82
+INV-0000193,4,Exclusive contextually-based moderator,1,8.9,0,8.9
+INV-0000193,5,Upgradable national extranet,1,49.75,0,49.75
+INV-0000193,6,Streamlined optimal moratorium,2,7.41,0,14.82
+INV-0000193,7,Enterprise-wide impactful archive,1,12.83,0,12.83
+INV-0000194,1,Advanced composite forecast,3,7.74,0,23.22
+INV-0000194,2,Ergonomic value-added strategy,3,11.69,5,33.32
+INV-0000194,3,Visionary well-modulated pricing structure,1,7.42,0,7.42
+INV-0000194,4,Organic intangible conglomeration,1,8.52,0,8.52
+INV-0000194,5,Up-sized needs-based encoding,2,4.43,5,8.42
+INV-0000194,6,Ergonomic local portal,4,13.02,0,52.08
+INV-0000195,1,Centralized grid-enabled framework,4,9.47,0,37.88
+INV-0000195,2,Integrated contextually-based flexibility,1,17.43,5,16.56
+INV-0000195,3,Multi-lateral zero tolerance benchmark,8,11.67,15,79.36
+INV-0000195,4,Multi-lateral tangible groupware,4,7.28,15,24.75
+INV-0000195,5,De-engineered static hierarchy,1,6.16,5,5.85
+INV-0000195,6,Team-oriented interactive contingency,2,12.14,0,24.28
+INV-0000195,7,Configurable bifurcated policy,3,30.47,0,91.41
+INV-0000195,8,Ameliorated holistic initiative,6,8.18,0,49.08
+INV-0000196,1,Realigned 24hour middleware,1,3.38,10,3.04
+INV-0000196,2,Streamlined client-driven focus group,3,14.02,0,42.06
+INV-0000196,3,Multi-channeled multi-state capability,1,27.99,0,27.99
+INV-0000197,1,Networked motivating forecast,1,17.74,15,15.08
+INV-0000198,1,Persistent 5thgeneration framework,4,5.19,15,17.65
+INV-0000198,2,Profit-focused upward-trending matrices,2,13.23,0,26.46
+INV-0000198,3,Versatile motivating instruction set,3,21.84,10,58.97
+INV-0000198,4,Multi-layered encompassing benchmark,4,9.03,0,36.12
+INV-0000198,5,Configurable dedicated moratorium,1,8.31,10,7.48
+INV-0000199,1,Ergonomic transitional benchmark,4,8.49,10,30.56
+INV-0000199,2,Mandatory heuristic array,2,10.59,5,20.12
+INV-0000199,3,Fundamental client-driven time-frame,1,5.4,10,4.86
+INV-0000199,4,Object-based next generation complexity,1,13.93,0,13.93
+INV-0000199,5,Assimilated interactive orchestration,1,14.42,0,14.42
+INV-0000199,6,Customer-focused multi-state info-mediaries,6,14.67,0,88.02
+INV-0000199,7,Future-proofed impactful moderator,2,11.8,5,22.42
+INV-0000200,1,Enterprise-wide hybrid functionalities,2,5.3,0,10.6
+INV-0000200,2,Progressive directional paradigm,1,10.19,0,10.19

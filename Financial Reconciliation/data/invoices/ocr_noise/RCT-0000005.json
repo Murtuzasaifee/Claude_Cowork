@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000005",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000005",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.462,
+        0.428,
+        0.675,
+        0.89
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.444,
+        0.313,
+        0.041,
+        0.614
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.605,
+        0.814,
+        0.265,
+        0.496
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lisa Leonard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.273,
+        0.287,
+        0.239,
+        0.285
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.587,
+        0.848,
+        0.446,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-30",
+      "field_hint": "due_date",
+      "bbox": [
+        0.027,
+        0.753,
+        0.24,
+        0.389
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.025,
+        0.872,
+        0.023,
+        0.867
+      ],
+      "page": 1
+    },
+    {
+      "text": "285.26",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.308,
+        0.445,
+        0.2,
+        0.088
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-320073",
+      "field_hint": "po_number",
+      "bbox": [
+        0.208,
+        0.777,
+        0.059,
+        0.588
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.047,
+        0.851,
+        0.738,
+        0.796
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated high-level software 1 x 11.33 = 11.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.506,
+        0.242,
+        0.291,
+        0.263
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse grid-enabled implementation 7 x 28.72 = 190.99",
+      "field_hint": "line_item",
+      "bbox": [
+        0.334,
+        0.657,
+        0.365,
+        0.342
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered logistical methodology 2 x 15.81 = 31.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.13,
+        0.412,
+        0.984,
+        0.631
+      ],
+      "page": 2
+    },
+    {
+      "text": "Configurable local database 1 x 7.01 = 7.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.037,
+        0.466,
+        0.855,
+        0.571
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line executive success 2 x 9.19 = 18.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.815,
+        0.585,
+        0.753,
+        0.362
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000099",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000099",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.293,
+        0.607,
+        0.858,
+        0.321
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.863,
+        0.522,
+        0.872,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.05,
+        0.368,
+        0.638,
+        0.27
+      ],
+      "page": 1
+    },
+    {
+      "text": "William Owen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.599,
+        0.391,
+        0.058,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.763,
+        0.412,
+        0.13,
+        0.137
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.492,
+        0.625,
+        0.474,
+        0.384
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-916964",
+      "field_hint": "po_number",
+      "bbox": [
+        0.602,
+        0.769,
+        0.264,
+        0.397
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.067,
+        0.195,
+        0.203,
+        0.232
+      ],
+      "page": 1
+    },
+    {
+      "text": "Implemented disintermediate hub 1 x 17.3 = 15.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.314,
+        0.715,
+        0.171,
+        0.345
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory discrete help-desk 1 x 5.87 = 5.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.079,
+        0.011,
+        0.85,
+        0.899
+      ],
+      "page": 1
+    },
+    {
+      "text": "uBsiness-focused optimizing moderator 2 x 29.8 = 53.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.38,
+        0.219,
+        0.422,
+        0.825
+      ],
+      "page": 2
+    },
+    {
+      "text": "Optional 4thgeneration focus group 1 x 16.26 = 16.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.546,
+        0.976,
+        0.376,
+        0.19
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused zero tolerance benchmark 3 x 3.16 = 9.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.297,
+        0.265,
+        0.049,
+        0.961
+      ],
+      "page": 2
+    },
+    {
+      "text": "Cross-group multi-asking time-frame 1 x 22.36 = 22.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.51,
+        0.973,
+        0.095,
+        0.275
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized mobile parallelism 1 x 14.85 = 12.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.25,
+        0.102,
+        0.47,
+        0.108
+      ],
+      "page": 1
+    }
+  ]
+}

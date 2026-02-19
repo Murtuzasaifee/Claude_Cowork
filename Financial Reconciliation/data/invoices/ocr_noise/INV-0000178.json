@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000178",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000178",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.982,
+        0.404,
+        0.814,
+        0.563
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.897,
+        0.96,
+        0.37,
+        0.246
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott td",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.3,
+        0.267,
+        0.783,
+        0.369
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Rasmussen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.698,
+        0.159,
+        0.878,
+        0.777
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.394,
+        0.72,
+        0.667,
+        0.338
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-30",
+      "field_hint": "due_date",
+      "bbox": [
+        0.7,
+        0.408,
+        0.762,
+        0.881
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.748,
+        0.154,
+        0.203,
+        0.911
+      ],
+      "page": 1
+    },
+    {
+      "text": "203.62",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.924,
+        0.151,
+        0.103,
+        0.475
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-182857",
+      "field_hint": "po_number",
+      "bbox": [
+        0.645,
+        0.934,
+        0.951,
+        0.745
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.271,
+        0.94,
+        0.287,
+        0.549
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic context-sensitive matrices 3 x 4.29 = 12.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.669,
+        0.026,
+        0.785,
+        0.393
+      ],
+      "page": 2
+    },
+    {
+      "text": "Profound transitional attitude 2 x 60.96 = 109.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.59,
+        0.236,
+        0.608,
+        0.889
+      ],
+      "page": 2
+    },
+    {
+      "text": "Secured logistical appilcation 1 x 25.86 = 23.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.86,
+        0.674,
+        0.5,
+        0.102
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source tangible array 1 x 43.29 = 43.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.088,
+        0.245,
+        0.497,
+        0.208
+      ],
+      "page": 1
+    }
+  ]
+}

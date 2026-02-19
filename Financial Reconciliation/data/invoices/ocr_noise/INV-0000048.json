@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000048",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000048",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.605,
+        0.449,
+        0.419,
+        0.569
+      ],
+      "page": 1
+    },
+    {
+      "text": "invXoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.909,
+        0.674,
+        0.666,
+        0.606
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.118,
+        0.409,
+        0.505,
+        0.148
+      ],
+      "page": 1
+    },
+    {
+      "text": "Julie Jackson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.198,
+        0.18,
+        0.454,
+        0.167
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-02",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.711,
+        0.47,
+        0.101,
+        0.869
+      ],
+      "page": 1
+    },
+    {
+      "text": "2206-01-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.132,
+        0.867,
+        0.919,
+        0.904
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.557,
+        0.712,
+        0.119,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "369.52",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.617,
+        0.994,
+        0.045,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-596249",
+      "field_hint": "po_number",
+      "bbox": [
+        0.409,
+        0.45,
+        0.835,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.152,
+        0.008,
+        0.593,
+        0.674
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered clear-thinking time-frame 9 x 24.25 = 207.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.177,
+        0.723,
+        0.279,
+        0.773
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optional zero tolerance service-desk 1 x 16.97 = 16.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.564,
+        0.897,
+        0.58,
+        0.844
+      ],
+      "page": 1
+    },
+    {
+      "text": "Centralized high-level application 1 x 12.65 = 12.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.757,
+        0.954,
+        0.042,
+        0.945
+      ],
+      "page": 2
+    },
+    {
+      "text": "Optional value-added hardware 1 x 9.0 = 9.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.575,
+        0.615,
+        0.099,
+        0.285
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable reciprocal Local Area Network 1 x 44.79 = 44.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.224,
+        0.169,
+        0.939,
+        0.259
+      ],
+      "page": 2
+    },
+    {
+      "text": "Front-line background solution 1 x 11.27 = 10.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.666,
+        0.141,
+        0.207,
+        0.839
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused real-time standardization 1 x 10.91 = 10.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.54,
+        0.799,
+        0.007,
+        0.833
+      ],
+      "page": 1
+    }
+  ]
+}

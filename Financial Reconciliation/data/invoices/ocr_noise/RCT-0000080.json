@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000080",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000080",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.137,
+        0.102,
+        0.403,
+        0.878
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.236,
+        0.183,
+        0.251,
+        0.715
+      ],
+      "page": 1
+    },
+    {
+      "text": "Erica Robinson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.877,
+        0.921,
+        0.395,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "2062-01-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.01,
+        0.139,
+        0.247,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.242,
+        0.424,
+        0.8,
+        0.814
+      ],
+      "page": 1
+    },
+    {
+      "text": "BGP",
+      "field_hint": "currency",
+      "bbox": [
+        0.652,
+        0.634,
+        0.661,
+        0.59
+      ],
+      "page": 1
+    },
+    {
+      "text": "194.05",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.91,
+        0.427,
+        0.395,
+        0.47
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-335217",
+      "field_hint": "po_number",
+      "bbox": [
+        0.877,
+        0.865,
+        0.487,
+        0.134
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable next generation superstructure 2 x 3.65  6.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.688,
+        0.02,
+        0.833,
+        0.699
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled client-driven architecture 1 x 43.01Z = 43.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.754,
+        0.715,
+        0.493,
+        0.917
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured 24/7 frame 1 x 15.93 = 15.93",
+      "field_hint": "line_item",
+      "bbox": [
+        0.138,
+        0.277,
+        0.432,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust needs-based migration 3 x 18.14 = 51.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.989,
+        0.593,
+        0.207,
+        0.178
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound empowering adapter 1 x 13.11 = 13.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.71,
+        0.234,
+        0.551,
+        0.699
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced dYynamic success 1 x 4.01 = 4.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.928,
+        0.577,
+        0.908,
+        0.648
+      ],
+      "page": 2
+    },
+    {
+      "text": "Secured neutral matrices 2 x 21.22 = 42.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.459,
+        0.651,
+        0.516,
+        0.478
+      ],
+      "page": 2
+    }
+  ]
+}

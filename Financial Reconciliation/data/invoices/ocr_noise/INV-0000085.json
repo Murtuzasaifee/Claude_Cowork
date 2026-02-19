@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000085",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000085",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.479,
+        0.352,
+        0.193,
+        0.922
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.146,
+        0.711,
+        0.27,
+        0.025
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.024,
+        0.403,
+        0.799,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "John Grant",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.051,
+        0.517,
+        0.123,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.036,
+        0.779,
+        0.729,
+        0.566
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.933,
+        0.378,
+        0.661,
+        0.44
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.142,
+        0.915,
+        0.093,
+        0.384
+      ],
+      "page": 1
+    },
+    {
+      "text": "39.82",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.954,
+        0.194,
+        0.569,
+        0.418
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-580292q",
+      "field_hint": "po_number",
+      "bbox": [
+        0.99,
+        0.211,
+        0.991,
+        0.163
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face scalable implementation 1 x 17.63 = 17.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.219,
+        0.915,
+        0.166,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "Extended intangible methodology 2 x 9.46 = 17.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.899,
+        0.617,
+        0.979,
+        0.851
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-architected asymmetric capacity 1 x 11.6 = 10.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.901,
+        0.742,
+        0.632,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized static migration 2 x 11.44 = 22.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.59,
+        0.683,
+        0.806,
+        0.778
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined stabl capability 1 x 12.44 = 11.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.328,
+        0.509,
+        0.499,
+        0.724
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative zero-defect software 1 x 13.05 = 11.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.802,
+        0.258,
+        0.824,
+        0.555
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced leadingedge paradigm 1 x 11.12 = 11.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.905,
+        0.926,
+        0.697,
+        0.506
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered didactic service-desk 2 x 9.53 = 17.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.331,
+        0.081,
+        0.162,
+        0.481
+      ],
+      "page": 2
+    }
+  ]
+}

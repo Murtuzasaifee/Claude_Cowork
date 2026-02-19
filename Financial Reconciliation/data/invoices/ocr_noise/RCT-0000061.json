@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000061",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000061",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.598,
+        0.931,
+        0.353,
+        0.461
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.069,
+        0.796,
+        0.85,
+        0.097
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.227,
+        0.819,
+        0.887,
+        0.785
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paige Marh",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.467,
+        0.092,
+        0.75,
+        0.746
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.294,
+        0.6,
+        0.496,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.552,
+        0.413,
+        0.069,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.476,
+        0.403,
+        0.948,
+        0.996
+      ],
+      "page": 1
+    },
+    {
+      "text": "87.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.591,
+        0.499,
+        0.255,
+        0.456
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-748276",
+      "field_hint": "po_number",
+      "bbox": [
+        0.128,
+        0.903,
+        0.583,
+        0.045
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.16,
+        0.186,
+        0.871,
+        0.321
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative didactic matrices 2 x 36.77 = 73.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.439,
+        0.29,
+        0.207,
+        0.118
+      ],
+      "page": 1
+    }
+  ]
+}

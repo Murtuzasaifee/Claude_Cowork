@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000015",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000015",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.865,
+        0.394,
+        0.758,
+        0.318
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.273,
+        0.915,
+        0.7,
+        0.181
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.286,
+        0.076,
+        0.521,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jennifer Blackwell",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.765,
+        0.696,
+        0.085,
+        0.382
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.018,
+        0.338,
+        0.058,
+        0.553
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-18",
+      "field_hint": "due_date",
+      "bbox": [
+        0.69,
+        0.216,
+        0.838,
+        0.722
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.537,
+        0.898,
+        0.862,
+        0.939
+      ],
+      "page": 1
+    },
+    {
+      "text": "51.95",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.166,
+        0.946,
+        0.261,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-746002",
+      "field_hint": "po_number",
+      "bbox": [
+        0.975,
+        0.899,
+        0.111,
+        0.443
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.011,
+        0.002,
+        0.482,
+        0.778
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused needs-based architecture 1 x 18.69 = 17.76",
+      "field_hint": "line_item",
+      "bbox": [
+        0.483,
+        0.732,
+        0.011,
+        0.422
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source staXtic adapter 2 x 11.31 = 22.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.465,
+        0.144,
+        0.604,
+        0.003
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused system-worthy projection 1 x 10.71 = 9.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.066,
+        0.416,
+        0.958,
+        0.499
+      ],
+      "page": 1
+    }
+  ]
+}

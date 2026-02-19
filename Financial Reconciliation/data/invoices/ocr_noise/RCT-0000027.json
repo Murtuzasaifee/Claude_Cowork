@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000027",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000027",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.22,
+        0.078,
+        0.093,
+        0.756
+      ],
+      "page": 1
+    },
+    {
+      "text": "rteceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.01,
+        0.983,
+        0.922,
+        0.697
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.116,
+        0.874,
+        0.669,
+        0.31
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jennifer Blackwell",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.414,
+        0.573,
+        0.275,
+        0.048
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.1,
+        0.661,
+        0.503,
+        0.527
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-2-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.763,
+        0.39,
+        0.315,
+        0.125
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.661,
+        0.472,
+        0.269,
+        0.055
+      ],
+      "page": 1
+    },
+    {
+      "text": "87.71",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.266,
+        0.618,
+        0.581,
+        0.921
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-961194",
+      "field_hint": "po_number",
+      "bbox": [
+        0.608,
+        0.708,
+        0.393,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET930",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.3,
+        0.004,
+        0.385,
+        0.224
+      ],
+      "page": 1
+    },
+    {
+      "text": "Extended user-facing adapter 1 x 8.82 = 8.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.351,
+        0.94,
+        0.703,
+        0.557
+      ],
+      "page": 1
+    },
+    {
+      "text": "Digitized needs-based service-desk 1 x 12.23 = 12.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.241,
+        0.685,
+        0.036,
+        0.027
+      ],
+      "page": 2
+    },
+    {
+      "text": "Object-based well-modulated open system 6 x 8.73 = 47.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.295,
+        0.787,
+        0.166,
+        0.226
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned stable access 1 x 5.65 = 5.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.061,
+        0.441,
+        0.951,
+        0.4
+      ],
+      "page": 2
+    },
+    {
+      "text": "Intuitive transitional collaboration 1 x 9.46 = 9.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.775,
+        0.636,
+        0.816,
+        0.591
+      ],
+      "page": 2
+    }
+  ]
+}

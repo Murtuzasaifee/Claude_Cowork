@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "doc_id": "INV-0000018",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.783,
+        0.404,
+        0.406,
+        0.58
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.513,
+        0.761,
+        0.149,
+        0.398
+      ],
+      "page": 1
+    },
+    {
+      "text": "Richard Key",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.474,
+        0.516,
+        0.786,
+        0.758
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.792,
+        0.313,
+        0.188,
+        0.77
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.45,
+        0.558,
+        0.375,
+        0.578
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.01,
+        0.81,
+        0.834,
+        0.34
+      ],
+      "page": 1
+    },
+    {
+      "text": "40.16",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.403,
+        0.779,
+        0.538,
+        0.326
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.154,
+        0.953,
+        0.33,
+        0.63
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face fault-tolerant migration 2 x 17.98 = 30.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.867,
+        0.98,
+        0.204,
+        0.391
+      ],
+      "page": 2
+    }
+  ]
+}

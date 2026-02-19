@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000056",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000056",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.441,
+        0.46,
+        0.735,
+        0.583
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.426,
+        0.186,
+        0.116,
+        0.338
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.575,
+        0.681,
+        0.699,
+        0.979
+      ],
+      "page": 1
+    },
+    {
+      "text": "James Howe",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.503,
+        0.926,
+        0.07,
+        0.563
+      ],
+      "page": 1
+    },
+    {
+      "text": "226-02-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.314,
+        0.602,
+        0.215,
+        0.373
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "due_date",
+      "bbox": [
+        0.715,
+        0.401,
+        0.1,
+        0.223
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.766,
+        0.026,
+        0.586,
+        0.785
+      ],
+      "page": 1
+    },
+    {
+      "text": "660.92",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.012,
+        0.992,
+        0.884,
+        0.069
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-661527",
+      "field_hint": "po_number",
+      "bbox": [
+        0.856,
+        0.095,
+        0.542,
+        0.911
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.914,
+        0.808,
+        0.598,
+        0.608
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive system-worthy infrastructure 6x 50.03 = 270.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.784,
+        0.374,
+        0.877,
+        0.336
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-engineered tangible structure 1 x 14.17 = 13.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.811,
+        0.223,
+        0.929,
+        0.412
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered multi-state standardization 2 x 13.26 = 23.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.66,
+        0.077,
+        0.008,
+        0.011
+      ],
+      "page": 1
+    },
+    {
+      "text": "Monitored systematic migration 7 x 35.99 = 25.193",
+      "field_hint": "line_item",
+      "bbox": [
+        0.163,
+        0.836,
+        0.958,
+        0.558
+      ],
+      "page": 2
+    },
+    {
+      "text": "Networked 4thgeneration migration 1 x 10.32 = 9.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.989,
+        0.017,
+        0.918,
+        0.702
+      ],
+      "page": 2
+    },
+    {
+      "text": "Inverse dedicanted knowledge user 1 x 13.94 = 13.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.813,
+        0.074,
+        0.195,
+        0.576
+      ],
+      "page": 1
+    }
+  ]
+}

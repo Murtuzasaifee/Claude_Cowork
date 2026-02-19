@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000151",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000151",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.595,
+        0.463,
+        0.711,
+        0.344
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.587,
+        0.863,
+        0.241,
+        0.781
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.477,
+        0.86,
+        0.75,
+        0.13
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lylnn Odom",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.944,
+        0.147,
+        0.103,
+        0.762
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.651,
+        0.49,
+        0.607,
+        0.969
+      ],
+      "page": 1
+    },
+    {
+      "text": "206-01-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.617,
+        0.543,
+        0.114,
+        0.268
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.233,
+        0.375,
+        0.94,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "295.23Z",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.179,
+        0.03,
+        0.18,
+        0.413
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-138105",
+      "field_hint": "po_number",
+      "bbox": [
+        0.55,
+        0.096,
+        0.979,
+        0.266
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.829,
+        0.061,
+        0.546,
+        0.868
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered responsive function 2 x 5.14 = 9.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.759,
+        0.922,
+        0.806,
+        0.08
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary regional architecture 10 x 19.82 = 168.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.888,
+        0.685,
+        0.941,
+        0.291
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal actuating algorithm 2 x 47.59 = 80.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.459,
+        0.254,
+        0.28,
+        0.578
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable 6thgeneration alliance 1 x 13.03 = 13.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.563,
+        0.783,
+        0.433,
+        0.242
+      ],
+      "page": 2
+    }
+  ]
+}

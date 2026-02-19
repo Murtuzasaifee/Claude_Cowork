@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000152",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-000152",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.26,
+        0.156,
+        0.35,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.109,
+        0.604,
+        0.738,
+        0.225
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bek-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.541,
+        0.087,
+        0.895,
+        0.118
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Gaines",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.048,
+        0.975,
+        0.563,
+        0.429
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.42,
+        0.395,
+        0.331,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-21",
+      "field_hint": "due_date",
+      "bbox": [
+        0.304,
+        0.977,
+        0.588,
+        0.265
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.023,
+        0.723,
+        0.506,
+        0.546
+      ],
+      "page": 1
+    },
+    {
+      "text": "72.x16",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.754,
+        0.846,
+        0.022,
+        0.045
+      ],
+      "page": 1
+    },
+    {
+      "text": "NE7T",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.046,
+        0.186,
+        0.078,
+        0.371
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering local complexity 6 x 7.56 = 45.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.814,
+        0.62,
+        0.279,
+        0.542
+      ],
+      "page": 1
+    }
+  ]
+}

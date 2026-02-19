@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000071",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000071",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.246,
+        0.713,
+        0.568,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.363,
+        0.463,
+        0.862,
+        0.792
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.393,
+        0.47,
+        0.543,
+        0.452
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lauren Watson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.87,
+        0.412,
+        0.199,
+        0.338
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.937,
+        0.432,
+        0.943,
+        0.024
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "due_date",
+      "bbox": [
+        0.172,
+        0.984,
+        0.681,
+        0.769
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.801,
+        0.151,
+        0.316,
+        0.246
+      ],
+      "page": 1
+    },
+    {
+      "text": "27.71",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.487,
+        0.61,
+        0.763,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "P-O799233",
+      "field_hint": "po_number",
+      "bbox": [
+        0.086,
+        0.009,
+        0.862,
+        0.053
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.902,
+        0.203,
+        0.151,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive empowering flexibility 1 x 7.59 = 7.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.909,
+        0.583,
+        0.828,
+        0.475
+      ],
+      "page": 2
+    },
+    {
+      "text": "Grass-roots intangible frame 1 x 2.56 = 2.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.802,
+        0.16,
+        0.881,
+        0.163
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated foreground secured line 2 x 4.03 = 6.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.158,
+        0.552,
+        0.47,
+        0.983
+      ],
+      "page": 2
+    }
+  ]
+}

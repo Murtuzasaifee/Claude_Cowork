@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000156",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000156",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.18,
+        0.975,
+        0.819,
+        0.88
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.858,
+        0.1,
+        0.55,
+        0.02
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.62,
+        0.565,
+        0.172,
+        0.697
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.445,
+        0.267,
+        0.267,
+        0.769
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.428,
+        0.335,
+        0.196,
+        0.824
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.761,
+        0.011,
+        0.359,
+        0.293
+      ],
+      "page": 1
+    },
+    {
+      "text": "70.75",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.379,
+        0.761,
+        0.418,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-837733",
+      "field_hint": "po_number",
+      "bbox": [
+        0.198,
+        0.434,
+        0.706,
+        0.063
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated actuating analyzer 1 x 55.09 = 52.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.227,
+        0.874,
+        0.626,
+        0.313
+      ],
+      "page": 2
+    },
+    {
+      "text": "Front-line regional Local Area Network 1 x 5.5 = 5.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.279,
+        0.321,
+        0.59,
+        0.016
+      ],
+      "page": 1
+    }
+  ]
+}

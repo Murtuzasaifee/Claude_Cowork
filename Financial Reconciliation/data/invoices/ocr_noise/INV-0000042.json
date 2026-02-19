@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000042",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000042",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.313,
+        0.935,
+        0.713,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.41,
+        0.028,
+        0.559,
+        0.957
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.615,
+        0.302,
+        0.243,
+        0.512
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lisa Leonard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.566,
+        0.293,
+        0.755,
+        0.393
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-011-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.054,
+        0.055,
+        0.83,
+        0.65
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-2",
+      "field_hint": "due_date",
+      "bbox": [
+        0.481,
+        0.331,
+        0.061,
+        0.74
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.053,
+        0.205,
+        0.144,
+        0.74
+      ],
+      "page": 1
+    },
+    {
+      "text": "54.03",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.676,
+        0.852,
+        0.301,
+        0.311
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-13349",
+      "field_hint": "po_number",
+      "bbox": [
+        0.115,
+        0.0,
+        0.604,
+        0.121
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.474,
+        0.833,
+        0.444,
+        0.056
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-friendly directional benchmark 1 x 28.32 = 25.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.983,
+        0.82,
+        0.842,
+        0.547
+      ],
+      "page": 2
+    },
+    {
+      "text": "Polarized foreground knowledgebase 2 x 5.27 = 9.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.617,
+        0.432,
+        0.636,
+        0.185
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic executive service-desk 3 x 7.47 = 19I.05",
+      "field_hint": "line_item",
+      "bbox": [
+        0.2,
+        0.48,
+        0.289,
+        0.1
+      ],
+      "page": 2
+    }
+  ]
+}

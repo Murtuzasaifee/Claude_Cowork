@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000120",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000120",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.548,
+        0.12,
+        0.815,
+        0.417
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.045,
+        0.328,
+        0.057,
+        0.737
+      ],
+      "page": 1
+    },
+    {
+      "text": "Heornandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.887,
+        0.295,
+        0.054,
+        0.818
+      ],
+      "page": 1
+    },
+    {
+      "text": "Amanda Johnosn",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.756,
+        0.486,
+        0.6,
+        0.814
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.23,
+        0.96,
+        0.296,
+        0.759
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.679,
+        0.232,
+        0.642,
+        0.355
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.266,
+        0.843,
+        0.562,
+        0.356
+      ],
+      "page": 1
+    },
+    {
+      "text": "142.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.411,
+        0.255,
+        0.096,
+        0.557
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-474486",
+      "field_hint": "po_number",
+      "bbox": [
+        0.591,
+        0.047,
+        0.319,
+        0.02
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.272,
+        0.671,
+        0.855,
+        0.661
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharabl directional info-mediaries 3 x 10.69 = 27.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.557,
+        0.911,
+        0.467,
+        0.17
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based full-range paradigm 1 x 15.39 = 15.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.289,
+        0.471,
+        0.691,
+        0.568
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mandatory dynamic contingency 4 x 9.89 = 39.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.01,
+        0.2,
+        0.256,
+        0.394
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-tiered mission-critical software 1 x 10.71 = 10.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.915,
+        0.53,
+        0.33,
+        0.933
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative tertiary groupware 3 x 7.47 = 22.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.599,
+        0.405,
+        0.946,
+        0.442
+      ],
+      "page": 1
+    }
+  ]
+}

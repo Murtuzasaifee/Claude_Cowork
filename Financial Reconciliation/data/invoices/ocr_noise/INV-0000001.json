@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000001",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000001",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.302,
+        0.585,
+        0.494,
+        0.74
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.154,
+        0.3,
+        0.641,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.288,
+        0.179,
+        0.907,
+        0.645
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-07",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.971,
+        0.599,
+        0.362,
+        0.48
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.686,
+        0.974,
+        0.818,
+        0.373
+      ],
+      "page": 1
+    },
+    {
+      "text": "SD",
+      "field_hint": "currency",
+      "bbox": [
+        0.582,
+        0.146,
+        0.461,
+        0.693
+      ],
+      "page": 1
+    },
+    {
+      "text": "84.1",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.636,
+        0.955,
+        0.049,
+        0.292
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO8-52787",
+      "field_hint": "po_number",
+      "bbox": [
+        0.765,
+        0.599,
+        0.167,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.8,
+        0.271,
+        0.698,
+        0.363
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based homogeneous orchestration 1 x 5.59 = 5.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.144,
+        0.137,
+        0.281,
+        0.779
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned scalable software 1 x 15.23 = 15.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.102,
+        0.155,
+        0.221,
+        0.188
+      ],
+      "page": 2
+    },
+    {
+      "text": "Profit-focused demand-driven capability 1 x 14.81 = 14.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.526,
+        0.532,
+        0.551,
+        0.756
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced logistical interface 2 x 24.71 = 49.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.117,
+        0.131,
+        0.017,
+        0.348
+      ],
+      "page": 2
+    }
+  ]
+}

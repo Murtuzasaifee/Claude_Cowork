@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000141",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RC-T0000141",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.135,
+        0.454,
+        0.679,
+        0.964
+      ],
+      "page": 1
+    },
+    {
+      "text": "recept",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.671,
+        0.676,
+        0.551,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.883,
+        0.292,
+        0.641,
+        0.506
+      ],
+      "page": 1
+    },
+    {
+      "text": "Leslie King",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.6,
+        0.455,
+        0.052,
+        0.476
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.174,
+        0.982,
+        0.754,
+        0.217
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.523,
+        0.478,
+        0.35,
+        0.978
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.28,
+        0.918,
+        0.544,
+        0.54
+      ],
+      "page": 1
+    },
+    {
+      "text": "46.V64",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.465,
+        0.031,
+        0.581,
+        0.732
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-311505",
+      "field_hint": "po_number",
+      "bbox": [
+        0.095,
+        0.879,
+        0.794,
+        0.766
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.002,
+        0.193,
+        0.236,
+        0.806
+      ],
+      "page": 1
+    },
+    {
+      "text": "Grass-roots heuristic capability 1 x 7.64 = 6.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.421,
+        0.018,
+        0.049,
+        0.312
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based explicit firmware 1 x 10.76 = 9.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.2,
+        0.921,
+        0.209,
+        0.186
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visonary bottom-line hub 1 x 3.63 = 3.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.687,
+        0.207,
+        0.99,
+        0.743
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated intangible Graphical User Interface 1 x 10.36 = 10.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.937,
+        0.231,
+        0.379,
+        0.293
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enhacned local circuit 1 x 3.7 = 3.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.475,
+        0.691,
+        0.121,
+        0.794
+      ],
+      "page": 1
+    }
+  ]
+}

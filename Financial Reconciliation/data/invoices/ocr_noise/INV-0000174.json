@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000174",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000174",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.934,
+        0.534,
+        0.075,
+        0.037
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.45,
+        0.446,
+        0.053,
+        0.882
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.804,
+        0.628,
+        0.357,
+        0.512
+      ],
+      "page": 1
+    },
+    {
+      "text": "Angela Holloway",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.575,
+        0.293,
+        0.915,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-15",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.856,
+        0.954,
+        0.814,
+        0.066
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0316",
+      "field_hint": "due_date",
+      "bbox": [
+        0.219,
+        0.499,
+        0.662,
+        0.869
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.366,
+        0.706,
+        0.16,
+        0.91
+      ],
+      "page": 1
+    },
+    {
+      "text": "329.91",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.234,
+        0.509,
+        0.962,
+        0.774
+      ],
+      "page": 1
+    },
+    {
+      "text": "PvO-677390",
+      "field_hint": "po_number",
+      "bbox": [
+        0.559,
+        0.922,
+        0.662,
+        0.643
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.175,
+        0.09,
+        0.855,
+        0.736
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable cohesive task-force 2 x 6.37 = 12.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.739,
+        0.538,
+        0.583,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented leadingedge superstructure 2 x 8.1 = 16.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.3,
+        0.795,
+        0.847,
+        0.709
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide object-oriented secured Kline 6 x 12.52 = 75.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.357,
+        0.283,
+        0.082,
+        0.627
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused bandwidth-monitored Graphic Interface 3 x 33.75 = 101.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.61,
+        0.425,
+        0.442,
+        0.337
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovaztive hybrid approach 2 x 42.93 = 81.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.565,
+        0.072,
+        0.834,
+        0.287
+      ],
+      "page": 1
+    }
+  ]
+}

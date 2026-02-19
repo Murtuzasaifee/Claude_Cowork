@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000164",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "NV-0000164",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.994,
+        0.249,
+        0.923,
+        0.712
+      ],
+      "page": 1
+    },
+    {
+      "text": "Rinvoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.209,
+        0.383,
+        0.769,
+        0.767
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-E6lliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.821,
+        0.555,
+        0.684,
+        0.279
+      ],
+      "page": 1
+    },
+    {
+      "text": "Gary Newton",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.66,
+        0.534,
+        0.012,
+        0.392
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-16",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.091,
+        0.901,
+        0.282,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.722,
+        0.343,
+        0.418,
+        0.2
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.468,
+        0.264,
+        0.021,
+        0.908
+      ],
+      "page": 1
+    },
+    {
+      "text": "37.54",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.84,
+        0.487,
+        0.506,
+        0.965
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-948799",
+      "field_hint": "po_number",
+      "bbox": [
+        0.043,
+        0.168,
+        0.979,
+        0.716
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.541,
+        0.723,
+        0.693,
+        0.886
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal incremental complexity 1 x 9.14 = 8.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.092,
+        0.681,
+        0.91,
+        0.811
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented leadingedge contingency 1 x 15.06 = 15.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.276,
+        0.339,
+        0.047,
+        0.163
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered well-modulated orchestration 1 x 7.85 = 7.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.111,
+        0.656,
+        0.032,
+        0.994
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-channeled 3rdgneeration data-warehouse 1 x 4.16 = 4.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.226,
+        0.905,
+        0.678,
+        0.476
+      ],
+      "page": 1
+    }
+  ]
+}

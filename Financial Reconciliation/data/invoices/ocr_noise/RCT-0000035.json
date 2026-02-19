@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000035",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000035",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.496,
+        0.285,
+        0.582,
+        0.612
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.824,
+        0.782,
+        0.313,
+        0.684
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.8,
+        0.277,
+        0.85,
+        0.043
+      ],
+      "page": 1
+    },
+    {
+      "text": "Amanda Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.17,
+        0.426,
+        0.386,
+        0.771
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.298,
+        0.452,
+        0.355,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026p-02-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.341,
+        0.652,
+        0.515,
+        0.921
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.637,
+        0.862,
+        0.741,
+        0.462
+      ],
+      "page": 1
+    },
+    {
+      "text": "26.6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.966,
+        0.364,
+        0.855,
+        0.45
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-963684",
+      "field_hint": "po_number",
+      "bbox": [
+        0.497,
+        0.417,
+        0.986,
+        0.552
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.996,
+        0.218,
+        0.307,
+        0.039
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse clear-thinking website 1 x 25.33 = 25.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.057,
+        0.443,
+        0.67,
+        0.806
+      ],
+      "page": 1
+    }
+  ]
+}

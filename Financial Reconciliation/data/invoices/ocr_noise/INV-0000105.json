@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000105",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000150",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.469,
+        0.527,
+        0.498,
+        0.113
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.327,
+        0.58,
+        0.558,
+        0.915
+      ],
+      "page": 1
+    },
+    {
+      "text": "Niewman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.793,
+        0.397,
+        0.791,
+        0.863
+      ],
+      "page": 1
+    },
+    {
+      "text": "Amanad Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.761,
+        0.489,
+        0.811,
+        0.686
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-23",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.864,
+        0.438,
+        0.684,
+        0.693
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.667,
+        0.357,
+        0.237,
+        0.535
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.923,
+        0.79,
+        0.814,
+        0.04
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-685066",
+      "field_hint": "po_number",
+      "bbox": [
+        0.388,
+        0.082,
+        0.573,
+        0.794
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.347,
+        0.872,
+        0.954,
+        0.872
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone user-facing website 1 x 23.49 = 23.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.094,
+        0.779,
+        0.643,
+        0.167
+      ],
+      "page": 2
+    },
+    {
+      "text": "Secured 5thgeneration customer loyalty 1 x 9.45 = 8.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.664,
+        0.092,
+        0.199,
+        0.277
+      ],
+      "page": 2
+    },
+    {
+      "text": "nIverse scalable access 1 x 18.33 = 16.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.577,
+        0.992,
+        0.083,
+        0.687
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive context-sensitive ability 4 x 17.82 = 71.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.145,
+        0.048,
+        0.151,
+        0.152
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative solution-oriented capacity 1 x 26.01 = 22.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.924,
+        0.96,
+        0.41,
+        0.753
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive static concept 1 x 3.58 = 3.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.746,
+        0.089,
+        0.113,
+        0.403
+      ],
+      "page": 1
+    },
+    {
+      "text": "OrCganic hybrid methodology 1 x 5.05 = 5.05",
+      "field_hint": "line_item",
+      "bbox": [
+        0.136,
+        0.343,
+        0.743,
+        0.529
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000067",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000067",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.322,
+        0.827,
+        0.702,
+        0.796
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiceI",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.313,
+        0.807,
+        0.604,
+        0.72
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.554,
+        0.985,
+        0.465,
+        0.574
+      ],
+      "page": 1
+    },
+    {
+      "text": "James Smith MD",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.497,
+        0.436,
+        0.953,
+        0.171
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.058,
+        0.348,
+        0.868,
+        0.148
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026K-02-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.252,
+        0.897,
+        0.028,
+        0.598
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.133,
+        0.396,
+        0.662,
+        0.31
+      ],
+      "page": 1
+    },
+    {
+      "text": "81.55",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.233,
+        0.798,
+        0.508,
+        0.407
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-919488",
+      "field_hint": "po_number",
+      "bbox": [
+        0.587,
+        0.863,
+        0.971,
+        0.053
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.775,
+        0.071,
+        0.064,
+        0.414
+      ],
+      "page": 1
+    },
+    {
+      "text": "Centralized demand-driven structure 2 x 8.21 = 16W.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.99,
+        0.836,
+        0.029,
+        0.929
+      ],
+      "page": 2
+    },
+    {
+      "text": "Vision-oriented logistical hierarchy1 x 6.04 = 5.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.701,
+        0.685,
+        0.805,
+        0.381
+      ],
+      "page": 1
+    },
+    {
+      "text": "Inverse 24hour array 1 x 8.84 = 8.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.096,
+        0.355,
+        0.707,
+        0.879
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved fault-tolerant project 1 x 9.83 = 9.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.201,
+        0.351,
+        0.647,
+        0.082
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic hybrid implementation 1 x 5.49 = 4.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.02,
+        0.606,
+        0.982,
+        0.059
+      ],
+      "page": 1
+    },
+    {
+      "text": "aEnterprise-wide holistic middleware 1 x 14.69 = 14.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.327,
+        0.306,
+        0.8,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized human-resource project 1 x 10.98 = 10.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.188,
+        0.621,
+        0.182,
+        0.218
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized coherent Local Area Network 1 x 9.16 = 7.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.155,
+        0.374,
+        0.177,
+        0.441
+      ],
+      "page": 1
+    }
+  ]
+}

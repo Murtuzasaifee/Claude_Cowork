@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000038",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "IVN-0000038",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.215,
+        0.372,
+        0.145,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.214,
+        0.567,
+        0.322,
+        0.233
+      ],
+      "page": 1
+    },
+    {
+      "text": "James Harris",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.212,
+        0.217,
+        0.561,
+        0.716
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.671,
+        0.574,
+        0.646,
+        0.682
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.198,
+        0.05,
+        0.494,
+        0.047
+      ],
+      "page": 1
+    },
+    {
+      "text": "ED",
+      "field_hint": "currency",
+      "bbox": [
+        0.601,
+        0.591,
+        0.236,
+        0.021
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-128276",
+      "field_hint": "po_number",
+      "bbox": [
+        0.005,
+        0.462,
+        0.131,
+        0.967
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-layered needs-based access 1 x 15.7 = 13.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.337,
+        0.016,
+        0.47,
+        0.83
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented zero-defect orchestration 3 x 18.3 = 46.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.754,
+        0.4,
+        0.556,
+        0.313
+      ],
+      "page": 2
+    },
+    {
+      "text": "Profound 3rdgeneration frame 3 x 7.41 = 18.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.493,
+        0.641,
+        0.91,
+        0.843
+      ],
+      "page": 2
+    },
+    {
+      "text": "Persevering real-time framework 9 x 3.49 = 31.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.825,
+        0.139,
+        0.994,
+        0.861
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized real-time encrpytion 2 x 5.18 = 9.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.816,
+        0.538,
+        0.005,
+        0.688
+      ],
+      "page": 1
+    }
+  ]
+}

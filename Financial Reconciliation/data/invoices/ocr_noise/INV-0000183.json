@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000183",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000183",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.43,
+        0.638,
+        0.689,
+        0.359
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.543,
+        0.015,
+        0.067,
+        0.048
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.234,
+        0.756,
+        0.371,
+        0.894
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Andersen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.444,
+        0.093,
+        0.223,
+        0.664
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-29",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.552,
+        0.14,
+        0.22,
+        0.02
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-30",
+      "field_hint": "due_date",
+      "bbox": [
+        0.398,
+        0.614,
+        0.64,
+        0.849
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.774,
+        0.499,
+        0.909,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "197.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.184,
+        0.744,
+        0.901,
+        0.174
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-525825",
+      "field_hint": "po_number",
+      "bbox": [
+        0.08,
+        0.709,
+        0.308,
+        0.72
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.398,
+        0.108,
+        0.535,
+        0.315
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive modular archive 1 x 45.63 = 45.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.928,
+        0.384,
+        0.834,
+        0.563
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed 5thgeneration project 3 x 21.75 = 65.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.061,
+        0.997,
+        0.213,
+        0.657
+      ],
+      "page": 2
+    },
+    {
+      "text": "Programmable bandwidth-monitored matrices 1 x 26.61 = 25.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.291,
+        0.181,
+        0.222,
+        0.083
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive mobile encryption 2 x 7.73 = 14.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.525,
+        0.226,
+        0.28,
+        0.912
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered transitional moratorium 3 x 1.75 = 5.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.905,
+        0.69,
+        0.6,
+        0.443
+      ],
+      "page": 1
+    }
+  ]
+}

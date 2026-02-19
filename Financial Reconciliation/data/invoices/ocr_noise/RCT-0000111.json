@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000111",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000111",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.425,
+        0.467,
+        0.682,
+        0.017
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.226,
+        0.388,
+        0.42,
+        0.15
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.348,
+        0.47,
+        0.641,
+        0.353
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Ramirez MD",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.731,
+        0.166,
+        0.608,
+        0.309
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.88,
+        0.838,
+        0.71,
+        0.217
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.018,
+        0.752,
+        0.309,
+        0.524
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.695,
+        0.381,
+        0.748,
+        0.325
+      ],
+      "page": 1
+    },
+    {
+      "text": "41.62",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.342,
+        0.413,
+        0.116,
+        0.515
+      ],
+      "page": 1
+    },
+    {
+      "text": "OP-504620",
+      "field_hint": "po_number",
+      "bbox": [
+        0.687,
+        0.429,
+        0.824,
+        0.704
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.985,
+        0.967,
+        0.661,
+        0.562
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized user-facing function 2 x 17.71 = 30.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.665,
+        0.064,
+        0.103,
+        0.656
+      ],
+      "page": 1
+    }
+  ]
+}

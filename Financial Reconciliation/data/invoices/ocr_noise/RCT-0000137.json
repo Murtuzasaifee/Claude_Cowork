@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000137",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000137",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.624,
+        0.332,
+        0.649,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.506,
+        0.041,
+        0.678,
+        0.789
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.403,
+        0.487,
+        0.871,
+        0.304
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ellen Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.744,
+        0.485,
+        0.524,
+        0.221
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-17",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.773,
+        0.871,
+        0.668,
+        0.261
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.613,
+        0.83,
+        0.407,
+        0.702
+      ],
+      "page": 1
+    },
+    {
+      "text": "SUD",
+      "field_hint": "currency",
+      "bbox": [
+        0.26,
+        0.212,
+        0.907,
+        0.71
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-365953",
+      "field_hint": "po_number",
+      "bbox": [
+        0.724,
+        0.868,
+        0.544,
+        0.737
+      ],
+      "page": 1
+    },
+    {
+      "text": "DE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.302,
+        0.687,
+        0.376,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary explicit open architecture 1 x 5.96 = 5.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.945,
+        0.211,
+        0.498,
+        0.014
+      ],
+      "page": 2
+    },
+    {
+      "text": "Innovative asynchronous alorithm 1 x 9.22 = 9.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.959,
+        0.911,
+        0.103,
+        0.893
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group systematic support 2 x 43.55 = 74.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.38,
+        0.109,
+        0.181,
+        0.096
+      ],
+      "page": 1
+    },
+    {
+      "text": "Decentralized bottom-line service-desk 3 x 17.57 = 52.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.261,
+        0.409,
+        0.995,
+        0.37
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based mission-critical instruction set 2 x 30.93 = 58.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.219,
+        0.108,
+        0.441,
+        0.594
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused interactive artificial intelligence 3 x 6.13 = 18.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.162,
+        0.756,
+        0.886,
+        0.355
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned upward-trending benchmark 1 x 103.89 = 103.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.942,
+        0.488,
+        0.364,
+        0.555
+      ],
+      "page": 2
+    }
+  ]
+}

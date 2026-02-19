@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000172",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000172",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.842,
+        0.018,
+        0.191,
+        0.312
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.665,
+        0.471,
+        0.533,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "Barry Kirby",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.114,
+        0.309,
+        0.513,
+        0.425
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.523,
+        0.159,
+        0.004,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.32,
+        0.641,
+        0.874,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.571,
+        0.159,
+        0.647,
+        0.22
+      ],
+      "page": 1
+    },
+    {
+      "text": "168.87",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.737,
+        0.361,
+        0.549,
+        0.716
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-58889",
+      "field_hint": "po_number",
+      "bbox": [
+        0.293,
+        0.516,
+        0.099,
+        0.982
+      ],
+      "page": 1
+    },
+    {
+      "text": "NT45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.843,
+        0.214,
+        0.967,
+        0.915
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable incremental productivity 2 x 23.22 = 4W6.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.09,
+        0.541,
+        0.15,
+        0.779
+      ],
+      "page": 1
+    },
+    {
+      "text": "Integrated bottom-line time-frame 2 x 14.78 = 25.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.563,
+        0.414,
+        0.549,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adaptive zero tolerance solution 1 x 21.32 = 19.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.46,
+        0.144,
+        0.654,
+        0.119
+      ],
+      "page": 2
+    },
+    {
+      "text": "Streamlined intangible infrastructure 1 x 5.29 = 4.5",
+      "field_hint": "line_item",
+      "bbox": [
+        0.981,
+        0.884,
+        0.228,
+        0.679
+      ],
+      "page": 2
+    },
+    {
+      "text": "Centralized needs-based architecture 2 x 12.73 = 25.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.797,
+        0.978,
+        0.316,
+        0.273
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enterprise-wide 24hour analyzer 1 x 10.38 = 9.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.056,
+        0.889,
+        0.281,
+        0.466
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-platform impactful open system 1 x 12.98 = 12.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.071,
+        0.791,
+        0.421,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative zero administration knoNwledge user 2 x 6.95 = 12.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.685,
+        0.843,
+        0.749,
+        0.463
+      ],
+      "page": 1
+    }
+  ]
+}

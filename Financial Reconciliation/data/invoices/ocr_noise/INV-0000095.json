@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000095",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000095",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.529,
+        0.89,
+        0.915,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.962,
+        0.644,
+        0.547,
+        0.474
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.194,
+        0.718,
+        0.188,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ian Crosby",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.673,
+        0.142,
+        0.4,
+        0.678
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.645,
+        0.667,
+        0.307,
+        0.298
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.131,
+        0.722,
+        0.845,
+        0.431
+      ],
+      "page": 1
+    },
+    {
+      "text": "154.65",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.252,
+        0.462,
+        0.041,
+        0.39
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-652530",
+      "field_hint": "po_number",
+      "bbox": [
+        0.157,
+        0.946,
+        0.374,
+        0.291
+      ],
+      "page": 1
+    },
+    {
+      "text": "NE4T5",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.34,
+        0.683,
+        0.294,
+        0.959
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal human-resource polic y1 x 18.64 = 17.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.377,
+        0.411,
+        0.28,
+        0.291
+      ],
+      "page": 2
+    },
+    {
+      "text": "Devolved bi-directional approach 1 x 4.21 = 4.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.916,
+        0.022,
+        0.226,
+        0.109
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face zero tolerance Local Area Network 1 x 3.73 = 3.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.178,
+        0.982,
+        0.332,
+        0.972
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable system-worthy help-desk 2 x 24.31 = 43.76",
+      "field_hint": "line_item",
+      "bbox": [
+        0.674,
+        0.34,
+        0.29,
+        0.639
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable global core 1 x 13.82 = 13.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.209,
+        0.765,
+        0.355,
+        0.829
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile analyzing Graphic Interface 1 x 9.64 = 9.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.122,
+        0.728,
+        0.807,
+        0.806
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory next generation task-force 2 x 4.09 = 7.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.526,
+        0.721,
+        0.787,
+        0.544
+      ],
+      "page": 2
+    },
+    {
+      "text": "Intuitive neutral firmware 3 x 9.2 = 27.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.091,
+        0.679,
+        0.493,
+        0.135
+      ],
+      "page": 2
+    }
+  ]
+}

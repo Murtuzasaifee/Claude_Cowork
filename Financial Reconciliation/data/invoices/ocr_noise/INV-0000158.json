@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000158",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000158",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.573,
+        0.204,
+        0.68,
+        0.169
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.848,
+        0.756,
+        0.987,
+        0.024
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.638,
+        0.848,
+        0.844,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Wagenr",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.455,
+        0.262,
+        0.856,
+        0.423
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-1229",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.03,
+        0.391,
+        0.187,
+        0.061
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.578,
+        0.962,
+        0.896,
+        0.015
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.581,
+        0.767,
+        0.509,
+        0.616
+      ],
+      "page": 1
+    },
+    {
+      "text": "100.35",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.537,
+        0.16,
+        0.12,
+        0.154
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-691573",
+      "field_hint": "po_number",
+      "bbox": [
+        0.769,
+        0.773,
+        0.233,
+        0.09
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.534,
+        0.822,
+        0.308,
+        0.262
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based 5thgeneration flexibility 4 x 18.14 = 65.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.03,
+        0.718,
+        0.591,
+        0.687
+      ],
+      "page": 2
+    },
+    {
+      "text": "Horizontal executive service-desk 1 x 18.54 = 17.61",
+      "field_hint": "line_item",
+      "bbox": [
+        0.675,
+        0.237,
+        0.327,
+        0.687
+      ],
+      "page": 2
+    }
+  ]
+}

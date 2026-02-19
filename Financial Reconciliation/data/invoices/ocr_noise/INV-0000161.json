@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000161",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000161",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.827,
+        0.272,
+        0.877,
+        0.51
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.717,
+        0.452,
+        0.498,
+        0.518
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.411,
+        0.999,
+        0.961,
+        0.231
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.775,
+        0.97,
+        0.408,
+        0.585
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.567,
+        0.485,
+        0.911,
+        0.887
+      ],
+      "page": 1
+    },
+    {
+      "text": "ERU",
+      "field_hint": "currency",
+      "bbox": [
+        0.186,
+        0.524,
+        0.185,
+        0.961
+      ],
+      "page": 1
+    },
+    {
+      "text": "14.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.398,
+        0.966,
+        0.949,
+        0.569
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-16382",
+      "field_hint": "po_number",
+      "bbox": [
+        0.61,
+        0.59,
+        0.89,
+        0.601
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.737,
+        0.791,
+        0.734,
+        0.248
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-engineered upward-trending software 1 x 2.08 = 2.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.477,
+        0.973,
+        0.556,
+        0.464
+      ],
+      "page": 1
+    },
+    {
+      "text": "dvanced scalable parallelism 1 x 12.74 = 12.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.301,
+        0.247,
+        0.525,
+        0.049
+      ],
+      "page": 1
+    }
+  ]
+}

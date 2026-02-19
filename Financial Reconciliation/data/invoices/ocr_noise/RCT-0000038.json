@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000038",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000038",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.224,
+        0.48,
+        0.16,
+        0.92
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.884,
+        0.511,
+        0.652,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joan Bridges",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.054,
+        0.286,
+        0.56,
+        0.491
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.789,
+        0.891,
+        0.934,
+        0.062
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-120",
+      "field_hint": "due_date",
+      "bbox": [
+        0.694,
+        0.743,
+        0.96,
+        0.981
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.553,
+        0.902,
+        0.259,
+        0.704
+      ],
+      "page": 1
+    },
+    {
+      "text": "138.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.137,
+        0.881,
+        0.491,
+        0.013
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-623125",
+      "field_hint": "po_number",
+      "bbox": [
+        0.822,
+        0.647,
+        0.886,
+        0.951
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.257,
+        0.817,
+        0.343,
+        0.362
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized 5thgeneration help-desk 2 x 9.62 = 18.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.695,
+        0.469,
+        0.547,
+        0.536
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory contextually-based neural-net 1 x 27.55 = 27.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.699,
+        0.273,
+        0.318,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable bifurcated prGotocol 4 x 10.56 = 42.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.607,
+        0.953,
+        0.153,
+        0.306
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated exuding strategy 1 x 11.08 = 9.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.136,
+        0.797,
+        0.147,
+        0.401
+      ],
+      "page": 2
+    },
+    {
+      "text": "Self-enabling national forecast 1 x 24.59 = 22.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.378,
+        0.12,
+        0.027,
+        0.342
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000063",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000063",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.909,
+        0.265,
+        0.321,
+        0.783
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.034,
+        0.872,
+        0.914,
+        0.046
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.525,
+        0.158,
+        0.015,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robert Cunningham",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.112,
+        0.476,
+        0.983,
+        0.856
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09a",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.311,
+        0.469,
+        0.903,
+        0.128
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.614,
+        0.716,
+        0.478,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "EAD",
+      "field_hint": "currency",
+      "bbox": [
+        0.805,
+        0.143,
+        0.659,
+        0.743
+      ],
+      "page": 1
+    },
+    {
+      "text": "99.01",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.615,
+        0.25,
+        0.251,
+        0.73
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-678043",
+      "field_hint": "po_number",
+      "bbox": [
+        0.462,
+        0.591,
+        0.517,
+        0.988
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.328,
+        0.375,
+        0.145,
+        0.736
+      ],
+      "page": 1
+    },
+    {
+      "text": "Right-sized scalable extranet 1 x 36.87 = 33.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.8,
+        0.632,
+        0.794,
+        0.98
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alon ehuman-resource encryption 1 x 32.36 = 27.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.397,
+        0.012,
+        0.481,
+        0.858
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized modular policy 1 x 4.87 = 4.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.577,
+        0.452,
+        0.215,
+        0.621
+      ],
+      "page": 2
+    },
+    {
+      "text": "Up-sized static throughput 1 x 12.42 = 11.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.655,
+        0.514,
+        0.337,
+        0.997
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized fault-tolerant conglomeration 1 x 13.32 = 12.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.487,
+        0.549,
+        0.663,
+        0.668
+      ],
+      "page": 1
+    }
+  ]
+}

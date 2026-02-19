@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000053",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000053",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.936,
+        0.034,
+        0.743,
+        0.011
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.762,
+        0.683,
+        0.632,
+        0.537
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.281,
+        0.399,
+        0.766,
+        0.082
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharon Gibbs",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.547,
+        0.922,
+        0.269,
+        0.219
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.711,
+        0.626,
+        0.753,
+        0.687
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.571,
+        0.386,
+        0.017,
+        0.977
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.844,
+        0.357,
+        0.302,
+        0.832
+      ],
+      "page": 1
+    },
+    {
+      "text": "209.96",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.666,
+        0.539,
+        0.222,
+        0.621
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-963918",
+      "field_hint": "po_number",
+      "bbox": [
+        0.323,
+        0.713,
+        0.629,
+        0.45
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.603,
+        0.522,
+        0.363,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line emOpowering capacity 1 x 37.4 = 33.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.803,
+        0.038,
+        0.603,
+        0.614
+      ],
+      "page": 2
+    },
+    {
+      "text": "Progressive high-level concept 1 x 29.73 = 26.76",
+      "field_hint": "line_item",
+      "bbox": [
+        0.672,
+        0.863,
+        0.678,
+        0.08
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized demand-driven standardization 2 x 36.0 = 72.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.374,
+        0.582,
+        0.674,
+        0.964
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse non-volatile hierarchy 1 x 7.15 = 7.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.727,
+        0.128,
+        0.012,
+        0.436
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-tiered 24hour hierarchy 4 x 6.59 = 26.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.671,
+        0.037,
+        0.646,
+        0.223
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line zero-defect utilization 1 x 4.53 = 4.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.871,
+        0.829,
+        0.577,
+        0.532
+      ],
+      "page": 1
+    }
+  ]
+}

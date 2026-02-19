@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000054",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000054",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.517,
+        0.631,
+        0.475,
+        0.467
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.658,
+        0.901,
+        0.322,
+        0.105
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.159,
+        0.475,
+        0.337,
+        0.903
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jaime Rivers",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.163,
+        0.547,
+        0.752,
+        0.439
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.694,
+        0.731,
+        0.474,
+        0.244
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.483,
+        0.401,
+        0.04,
+        0.929
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.927,
+        0.108,
+        0.426,
+        0.269
+      ],
+      "page": 1
+    },
+    {
+      "text": "143.57",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.164,
+        0.166,
+        0.301,
+        0.597
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-102805",
+      "field_hint": "po_number",
+      "bbox": [
+        0.951,
+        0.568,
+        0.14,
+        0.663
+      ],
+      "page": 1
+    },
+    {
+      "text": "NE1T4",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.793,
+        0.141,
+        0.346,
+        0.396
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized optimal support 1 x 3.63 = 3.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.2,
+        0.172,
+        0.308,
+        0.185
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic empowering workforce 1 x 33.48 = 33.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.154,
+        0.555,
+        0.776,
+        0.005
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key user-facing artificial intelligence 4 x 14.01 = 56.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.687,
+        0.699,
+        0.913,
+        0.668
+      ],
+      "page": 1
+    },
+    {
+      "text": "Open-source mission-critical application 3 x 2.67 = 8.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.096,
+        0.129,
+        0.763,
+        0.134
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-engineered regional attitude 1 x 24.22 = 24.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.73,
+        0.425,
+        0.394,
+        0.072
+      ],
+      "page": 1
+    }
+  ]
+}

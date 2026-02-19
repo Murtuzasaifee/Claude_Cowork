@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000016",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000016",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.103,
+        0.39,
+        0.574,
+        0.045
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.387,
+        0.297,
+        0.329,
+        0.401
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.109,
+        0.613,
+        0.401,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "William Owen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.609,
+        0.02,
+        0.785,
+        0.25
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12P-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.015,
+        0.298,
+        0.336,
+        0.662
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-31",
+      "field_hint": "due_date",
+      "bbox": [
+        0.451,
+        0.053,
+        0.552,
+        0.737
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.188,
+        0.993,
+        0.142,
+        0.391
+      ],
+      "page": 1
+    },
+    {
+      "text": "18.01",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.175,
+        0.961,
+        0.922,
+        0.067
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-429780",
+      "field_hint": "po_number",
+      "bbox": [
+        0.729,
+        0.781,
+        0.341,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET54",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.571,
+        0.929,
+        0.025,
+        0.708
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced motivating process improvement 1 x 10.44 = 9.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.514,
+        0.142,
+        0.843,
+        0.603
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound system-worthy hub 1 x 2.86 = 2.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.231,
+        0.503,
+        0.298,
+        0.682
+      ],
+      "page": 2
+    }
+  ]
+}

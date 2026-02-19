@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000057",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.213,
+        0.873,
+        0.073,
+        0.929
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.349,
+        0.154,
+        0.449,
+        0.541
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melis5sa Ramirez MD",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.415,
+        0.976,
+        0.131,
+        0.033
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-2",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.997,
+        0.371,
+        0.073,
+        0.318
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-91",
+      "field_hint": "due_date",
+      "bbox": [
+        0.432,
+        0.831,
+        0.063,
+        0.082
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.863,
+        0.71,
+        0.78,
+        0.875
+      ],
+      "page": 1
+    },
+    {
+      "text": "181.24",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.222,
+        0.059,
+        0.325,
+        0.584
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-893969",
+      "field_hint": "po_number",
+      "bbox": [
+        0.581,
+        0.915,
+        0.06,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.816,
+        0.341,
+        0.43,
+        0.658
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust cohesive collaboration 1 x 24.21 = 20.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.846,
+        0.105,
+        0.02,
+        0.583
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive systemic paradigm 1 x 7.25 = 7.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.405,
+        0.548,
+        0.967,
+        0.359
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved systmeatic paradigm 1 x 24.34 = 21.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.793,
+        0.006,
+        0.122,
+        0.786
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent discrete array 7 x 4.73 = 29.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.769,
+        0.253,
+        0.747,
+        0.807
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based next generation matrix 3 x 19.48 = 52.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.692,
+        0.5,
+        0.102,
+        0.038
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic systemic service-desk 1 x 19.57 = 17.61",
+      "field_hint": "line_item",
+      "bbox": [
+        0.564,
+        0.264,
+        0.566,
+        0.352
+      ],
+      "page": 1
+    }
+  ]
+}

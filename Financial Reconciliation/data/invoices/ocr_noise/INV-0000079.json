@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000079",
+    "scanned_pages": 3,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000079",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.429,
+        0.59,
+        0.478,
+        0.615
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylo-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.031,
+        0.701,
+        0.861,
+        0.384
+      ],
+      "page": 1
+    },
+    {
+      "text": "Matthew SNmith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.881,
+        0.949,
+        0.685,
+        0.995
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-29",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.759,
+        0.087,
+        0.252,
+        0.092
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.631,
+        0.094,
+        0.38,
+        0.337
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.323,
+        0.553,
+        0.704,
+        0.451
+      ],
+      "page": 1
+    },
+    {
+      "text": "9L4.97",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.863,
+        0.781,
+        0.936,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-242254",
+      "field_hint": "po_number",
+      "bbox": [
+        0.697,
+        0.388,
+        0.925,
+        0.654
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key multimedia protocol 1 x 8.1 = 8.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.491,
+        0.902,
+        0.293,
+        0.163
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive background project 1 x 22.12 = 22.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.687,
+        0.969,
+        0.077,
+        0.482
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric value-added initiative 1 x 29.64 = 29.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.905,
+        0.772,
+        0.044,
+        0.183
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable exuding array 1 x 6.87 = 6.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.493,
+        0.714,
+        0.808,
+        0.948
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual demand-driven superstructure 1K x 5.54 = 5.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.024,
+        0.496,
+        0.794,
+        0.43
+      ],
+      "page": 2
+    },
+    {
+      "text": "Quality-focused national productivity 1 x 10.98 = 10.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.635,
+        0.106,
+        0.474,
+        0.279
+      ],
+      "page": 2
+    }
+  ]
+}

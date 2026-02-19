@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000097",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000097",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.941,
+        0.043,
+        0.367,
+        0.021
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.936,
+        0.429,
+        0.966,
+        0.744
+      ],
+      "page": 1
+    },
+    {
+      "text": "VelaBsquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.78,
+        0.018,
+        0.042,
+        0.193
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bradley Walker",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.203,
+        0.391,
+        0.885,
+        0.088
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-021-2",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.073,
+        0.94,
+        0.213,
+        0.953
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.341,
+        0.052,
+        0.43,
+        0.55
+      ],
+      "page": 1
+    },
+    {
+      "text": "AEDB",
+      "field_hint": "currency",
+      "bbox": [
+        0.763,
+        0.644,
+        0.143,
+        0.211
+      ],
+      "page": 1
+    },
+    {
+      "text": "214.89",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.75,
+        0.04,
+        0.242,
+        0.896
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.194,
+        0.298,
+        0.477,
+        0.667
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive user-facing ability 1 x 23.35 = 23.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.136,
+        0.046,
+        0.234,
+        0.374
+      ],
+      "page": 2
+    },
+    {
+      "text": "Digitized user-facing portal1 x 4.84 = 4.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.691,
+        0.018,
+        0.822,
+        0.507
+      ],
+      "page": 2
+    },
+    {
+      "text": "Down-sized executie concept 1 x 10.4 = 9.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.574,
+        0.935,
+        0.715,
+        0.453
+      ],
+      "page": 1
+    },
+    {
+      "text": "Quality-focused zero tolerance migration 4 x K21.58 = 77.69",
+      "field_hint": "line_item",
+      "bbox": [
+        0.624,
+        0.626,
+        0.767,
+        0.573
+      ],
+      "page": 1
+    },
+    {
+      "text": "Intuitive zero administration encoding 2 x 18.79 = 31.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.83,
+        0.642,
+        0.759,
+        0.746
+      ],
+      "page": 2
+    },
+    {
+      "text": "Adaptive web-enabled knowledge user 2 x 8.87 = 17.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.456,
+        0.889,
+        0.296,
+        0.535
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric solution-oriented time-frame 1 x 18.97 = 17.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.147,
+        0.565,
+        0.294
+      ],
+      "page": 2
+    }
+  ]
+}

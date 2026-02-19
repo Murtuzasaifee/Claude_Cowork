@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000171",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000171",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.937,
+        0.154,
+        0.212,
+        0.643
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoiUce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.049,
+        0.611,
+        0.535,
+        0.03
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.747,
+        0.213,
+        0.668,
+        0.012
+      ],
+      "page": 1
+    },
+    {
+      "text": "Patricia Griffith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.824,
+        0.476,
+        0.485,
+        0.845
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.487,
+        0.841,
+        0.337,
+        0.153
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.389,
+        0.27,
+        0.013,
+        0.318
+      ],
+      "page": 1
+    },
+    {
+      "text": "18.24",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.378,
+        0.691,
+        0.299,
+        0.509
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-319036",
+      "field_hint": "po_number",
+      "bbox": [
+        0.498,
+        0.639,
+        0.223,
+        0.251
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-layered maximized paradigm 1 x 5.56 = 5.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.761,
+        0.045,
+        0.658,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust context-sensitive adapter 1 x 11.45 = 10.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.147,
+        0.872,
+        0.857,
+        0.801
+      ],
+      "page": 1
+    }
+  ]
+}

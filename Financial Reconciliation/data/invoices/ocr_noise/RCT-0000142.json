@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000142",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.637,
+        0.362,
+        0.554,
+        0.598
+      ],
+      "page": 1
+    },
+    {
+      "text": "MillerJohnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.771,
+        0.798,
+        0.233,
+        0.358
+      ],
+      "page": 1
+    },
+    {
+      "text": "Aaron Cook",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.365,
+        0.369,
+        0.472,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.24,
+        0.945,
+        0.15,
+        0.186
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.757,
+        0.479,
+        0.098,
+        0.397
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.169,
+        0.581,
+        0.967,
+        0.366
+      ],
+      "page": 1
+    },
+    {
+      "text": "37.39",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.081,
+        0.301,
+        0.044,
+        0.471
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-191016",
+      "field_hint": "po_number",
+      "bbox": [
+        0.864,
+        0.624,
+        0.618,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.348,
+        0.394,
+        0.122,
+        0.527
+      ],
+      "page": 1
+    },
+    {
+      "text": "Universal incremental leverage 3 x 8.81 = 22.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.703,
+        0.844,
+        0.524,
+        0.807
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide background migration 1 x 5.99 = 5.99",
+      "field_hint": "line_item",
+      "bbox": [
+        0.862,
+        0.099,
+        0.971,
+        0.317
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable directional orchestration 1 x 7.15 = 7.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.723,
+        0.116,
+        0.293,
+        0.806
+      ],
+      "page": 1
+    }
+  ]
+}

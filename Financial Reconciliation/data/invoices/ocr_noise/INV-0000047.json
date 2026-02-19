@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000047",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000047",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.077,
+        0.444,
+        0.511,
+        0.237
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.823,
+        0.416,
+        0.642,
+        0.876
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.788,
+        0.335,
+        0.408,
+        0.652
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paula Robinson DVM",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.622,
+        0.16,
+        0.045,
+        0.93
+      ],
+      "page": 1
+    },
+    {
+      "text": "202Z6-02-02",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.313,
+        0.716,
+        0.742,
+        0.783
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.379,
+        0.583,
+        0.657,
+        0.15
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.955,
+        0.959,
+        0.992,
+        0.565
+      ],
+      "page": 1
+    },
+    {
+      "text": "12.09",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.734,
+        0.539,
+        0.121,
+        0.878
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-855053",
+      "field_hint": "po_number",
+      "bbox": [
+        0.659,
+        0.52,
+        0.317,
+        0.195
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.329,
+        0.799,
+        0.977,
+        0.231
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined local application 1 x 12.79 = 11.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.693,
+        0.445,
+        0.958,
+        0.41
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000015",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000015",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.625,
+        0.808,
+        0.221,
+        0.98
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoie",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.707,
+        0.209,
+        0.196,
+        0.821
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.569,
+        0.494,
+        0.552,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "Gina Prince",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.565,
+        0.065,
+        0.128,
+        0.065
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-09",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.228,
+        0.523,
+        0.782,
+        0.192
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.693,
+        0.533,
+        0.253,
+        0.56
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.641,
+        0.943,
+        0.052,
+        0.939
+      ],
+      "page": 1
+    },
+    {
+      "text": "46.2",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.274,
+        0.68,
+        0.467,
+        0.361
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-697347",
+      "field_hint": "po_number",
+      "bbox": [
+        0.225,
+        0.278,
+        0.42,
+        0.449
+      ],
+      "page": 1
+    },
+    {
+      "text": "Business-focused client-driven encryption 1 x 9.0 =b 9.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.99,
+        0.226,
+        0.69,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Total global collaboration 1 x 17.02 = 15.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.063,
+        0.625,
+        0.028,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded needs-based system engine 1 x 10.16 = 10.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.334,
+        0.25,
+        0.108,
+        0.238
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000115",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-000N0115",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.625,
+        0.82,
+        0.036,
+        0.683
+      ],
+      "page": 1
+    },
+    {
+      "text": "receiptR",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.419,
+        0.468,
+        0.853,
+        0.036
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.842,
+        0.524,
+        0.938,
+        0.896
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ryan Jordan",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.781,
+        0.831,
+        0.017,
+        0.212
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.55,
+        0.534,
+        0.287,
+        0.669
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.197,
+        0.239,
+        0.691,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.684,
+        0.448,
+        0.009,
+        0.385
+      ],
+      "page": 1
+    },
+    {
+      "text": "24.66",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.877,
+        0.472,
+        0.348,
+        0.309
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-772580",
+      "field_hint": "po_number",
+      "bbox": [
+        0.222,
+        0.825,
+        0.105,
+        0.813
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.406,
+        0.452,
+        0.071,
+        0.137
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key global forecast 1 x 4.91 = 4.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.665,
+        0.553,
+        0.135,
+        0.033
+      ],
+      "page": 1
+    }
+  ]
+}

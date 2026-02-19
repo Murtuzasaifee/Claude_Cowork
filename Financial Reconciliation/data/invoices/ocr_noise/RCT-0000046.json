@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000046",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000046",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.623,
+        0.692,
+        0.892,
+        0.428
+      ],
+      "page": 1
+    },
+    {
+      "text": "reecipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.819,
+        0.116,
+        0.116,
+        0.026
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Mortonn",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.503,
+        0.994,
+        0.039,
+        0.29
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paige Marsh",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.163,
+        0.526,
+        0.602,
+        0.556
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-30",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.578,
+        0.677,
+        0.302,
+        0.36
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.108,
+        0.576,
+        0.59,
+        0.513
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.321,
+        0.964,
+        0.727,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "103.81",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.234,
+        0.431,
+        0.863,
+        0.399
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-286340",
+      "field_hint": "po_number",
+      "bbox": [
+        0.926,
+        0.88,
+        0.991,
+        0.911
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.218,
+        0.548,
+        0.563,
+        0.618
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optional foreground parallelism 3 x 14.38 = 36.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.479,
+        0.036,
+        0.813,
+        0.03
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary content-based function 1 x 31.78 = 28.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.023,
+        0.887,
+        0.249,
+        0.953
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-platform motivating productivity 1 x 7.26 = 7.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.958,
+        0.077,
+        0.894,
+        0.475
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed tertiary open architecture 1 x 22.71 = 21.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.496,
+        0.347,
+        0.703,
+        0.358
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000062",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000062",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.271,
+        0.936,
+        0.217,
+        0.355
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.44,
+        0.834,
+        0.375,
+        0.444
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.38,
+        0.447,
+        0.399,
+        0.206
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robert Cunningham",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.093,
+        0.175,
+        0.913,
+        0.725
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.12,
+        0.489,
+        0.605,
+        0.75
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-91",
+      "field_hint": "due_date",
+      "bbox": [
+        0.36,
+        0.255,
+        0.112,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "55.68",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.857,
+        0.355,
+        0.946,
+        0.837
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-335615",
+      "field_hint": "po_number",
+      "bbox": [
+        0.301,
+        1.0,
+        0.084,
+        0.644
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.951,
+        0.275,
+        0.647,
+        0.323
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fundamental national strategy 3 x 6.61 = 19.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.565,
+        0.128,
+        0.156,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative actuating knowledge user 1 x 12.15 = 10.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.866,
+        0.661,
+        0.372,
+        0.415
+      ],
+      "page": 1
+    },
+    {
+      "text": "DecentralVized tangible conglomeration 1 x 8.95 = 8.95",
+      "field_hint": "line_item",
+      "bbox": [
+        0.809,
+        0.669,
+        0.365,
+        0.925
+      ],
+      "page": 1
+    }
+  ]
+}

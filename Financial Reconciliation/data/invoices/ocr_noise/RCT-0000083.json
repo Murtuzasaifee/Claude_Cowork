@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000083",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000083",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.715,
+        0.678,
+        0.918,
+        0.129
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.706,
+        0.024,
+        0.087,
+        0.046
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.063,
+        0.634,
+        0.471,
+        0.446
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.568,
+        0.574,
+        0.862,
+        0.854
+      ],
+      "page": 1
+    },
+    {
+      "text": "20260-1-20",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.188,
+        0.311,
+        0.496,
+        0.213
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-03",
+      "field_hint": "due_date",
+      "bbox": [
+        0.104,
+        0.411,
+        0.066,
+        0.045
+      ],
+      "page": 1
+    },
+    {
+      "text": "269.1",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.111,
+        0.122,
+        0.336,
+        0.334
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-383091",
+      "field_hint": "po_number",
+      "bbox": [
+        0.133,
+        0.721,
+        0.76,
+        0.999
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_REECIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.96,
+        0.423,
+        0.861,
+        0.692
+      ],
+      "page": 1
+    },
+    {
+      "text": "Grass-roots web-enabled alliance 1 x 24.46 = 24.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.077,
+        0.523,
+        0.764,
+        0.891
+      ],
+      "page": 2
+    }
+  ]
+}

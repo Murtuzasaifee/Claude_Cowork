@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000145",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000145",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.199,
+        0.727,
+        0.686,
+        0.743
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.329,
+        0.879,
+        0.761,
+        0.002
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Morris",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.793,
+        0.744,
+        0.994,
+        0.453
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.003,
+        0.521,
+        0.768,
+        0.568
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.406,
+        0.003,
+        0.58,
+        0.856
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.741,
+        0.152,
+        0.235,
+        0.686
+      ],
+      "page": 1
+    },
+    {
+      "text": "110.06",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.832,
+        0.673,
+        0.945,
+        0.577
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-688132",
+      "field_hint": "po_number",
+      "bbox": [
+        0.045,
+        0.009,
+        0.795,
+        0.337
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.082,
+        0.855,
+        0.91,
+        0.425
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured discrete firmware 1 x 16.08 = 14.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.041,
+        0.023,
+        0.597,
+        0.841
+      ],
+      "page": 2
+    },
+    {
+      "text": "Optional secondary application 2 x 7.99 = 14.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.249,
+        0.119,
+        0.097,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized impactfulc ircuit 1 x 4.01 = 3.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.092,
+        0.604,
+        0.646,
+        0.694
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering clear-thinking portal 1 x 6.18 = 5.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.963,
+        0.309,
+        0.973,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric coherent data-warehouse 1 x 17.92 = 15.23",
+      "field_hint": "line_item",
+      "bbox": [
+        0.068,
+        0.203,
+        0.763,
+        0.278
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned 24/7 solution 1 x 6.32 = 5.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.607,
+        0.25,
+        0.582,
+        0.704
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000187",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.671,
+        0.849,
+        0.784,
+        0.808
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hoopre, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.883,
+        0.825,
+        0.027,
+        0.949
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.292,
+        0.918,
+        0.127,
+        0.817
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-13",
+      "field_hint": "due_date",
+      "bbox": [
+        0.204,
+        0.993,
+        0.213,
+        0.849
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.947,
+        0.51,
+        0.939,
+        0.691
+      ],
+      "page": 1
+    },
+    {
+      "text": "101.9",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.74,
+        0.086,
+        0.207,
+        0.009
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-607753",
+      "field_hint": "po_number",
+      "bbox": [
+        0.607,
+        0.286,
+        0.435,
+        0.916
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.37,
+        0.419,
+        0.568,
+        0.834
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable eco-centric parallelism 1  10.65 = 10.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.37,
+        0.867,
+        0.908,
+        0.931
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enterprise-wide encompassing circuit 1 x 14.07 = 14.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.001,
+        0.108,
+        0.332,
+        0.392
+      ],
+      "page": 1
+    },
+    {
+      "text": "Automated multi-tasking capability 1 x 9.35 = 9.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.715,
+        0.895,
+        0.642,
+        0.541
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-platform contextually-based emulation 1 x 22.88 = 21.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.51,
+        0.639,
+        0.728,
+        0.036
+      ],
+      "page": 1
+    }
+  ]
+}

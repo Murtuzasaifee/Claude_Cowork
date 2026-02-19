@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "doc_id": "INV-0000155",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000155",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.169,
+        0.159,
+        0.184,
+        0.35
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.353,
+        0.796,
+        0.934,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.447,
+        0.552,
+        0.189,
+        0.76
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Wagner",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.091,
+        0.946,
+        0.793,
+        0.246
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.573,
+        0.594,
+        0.788,
+        0.605
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.831,
+        0.443,
+        0.134,
+        0.399
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.343,
+        0.839,
+        0.963,
+        0.361
+      ],
+      "page": 1
+    },
+    {
+      "text": "145.6",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.039,
+        0.717,
+        0.615,
+        0.05
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-857997",
+      "field_hint": "po_number",
+      "bbox": [
+        0.246,
+        0.763,
+        0.539,
+        0.178
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.094,
+        0.95,
+        0.222,
+        0.852
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable holistic focus group 1 x 7.21 = 7.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.021,
+        0.529,
+        0.461,
+        0.659
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused systematic algorithm 2 x 14.26 = 28.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.923,
+        0.748,
+        0.831,
+        0.055
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced static process improvement 1 x 17.33 = 17.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.218,
+        0.526,
+        0.939,
+        0.01
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergistic optimizing leverage 2 x 18.31 = 36.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.2,
+        0.424,
+        0.445,
+        0.426
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent systemic open architecture 1 x 5.76 = 5.47",
+      "field_hint": "line_item",
+      "bbox": [
+        0.206,
+        0.867,
+        0.198,
+        0.41
+      ],
+      "page": 1
+    },
+    {
+      "text": "Vision-oriented fault-tolerant solution 1 x 6.54 = 6.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.259,
+        0.713,
+        0.965,
+        0.3
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fundamental non-volatile software 1 x 12.95 = 12.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.276,
+        0.817,
+        0.116,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized stable Graphic Interface 1 x 20.0 = 20.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.895,
+        0.523,
+        0.477,
+        0.42
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000037",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000037",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.275,
+        0.935,
+        0.627,
+        0.638
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.123,
+        0.142,
+        0.262,
+        0.181
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.913,
+        0.208,
+        0.101,
+        0.795
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lauren Watson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.626,
+        0.21,
+        0.42,
+        0.89
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-20",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.161,
+        0.299,
+        0.904,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.117,
+        0.343,
+        0.347,
+        0.995
+      ],
+      "page": 1
+    },
+    {
+      "text": "GB7P",
+      "field_hint": "currency",
+      "bbox": [
+        0.122,
+        0.606,
+        0.536,
+        0.518
+      ],
+      "page": 1
+    },
+    {
+      "text": "147.07",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.365,
+        0.899,
+        0.029,
+        0.139
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-611945",
+      "field_hint": "po_number",
+      "bbox": [
+        0.127,
+        0.274,
+        0.199,
+        0.092
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.467,
+        0.809,
+        0.436,
+        0.946
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic multimedia system engine 1 x 12.8 = 12.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.198,
+        0.846,
+        0.717,
+        0.962
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned dedicated flexibility 6 x 8.67 = 49.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.312,
+        0.794,
+        0.954,
+        0.488
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactive background ability 1 x 14.09 = 12.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.816,
+        0.623,
+        0.607,
+        0.429
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive incremental synergy 3 x 7.88 = 20.09",
+      "field_hint": "line_item",
+      "bbox": [
+        0.819,
+        0.449,
+        0.889,
+        0.958
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal zero administration benchmark 2 x 9.5 = 16.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.827,
+        0.645,
+        0.965,
+        0.352
+      ],
+      "page": 1
+    }
+  ]
+}

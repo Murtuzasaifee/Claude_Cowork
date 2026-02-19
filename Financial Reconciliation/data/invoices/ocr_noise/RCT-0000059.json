@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000059",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000059",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.876,
+        0.594,
+        0.631,
+        0.786
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.125,
+        0.37,
+        0.157,
+        0.498
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.045,
+        0.063,
+        0.364,
+        0.935
+      ],
+      "page": 1
+    },
+    {
+      "text": "Angela Holloway",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.717,
+        0.148,
+        0.148,
+        0.179
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-011-30",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.034,
+        0.521,
+        0.745,
+        0.522
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.879,
+        0.453,
+        0.108,
+        0.956
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.008,
+        0.36,
+        0.732,
+        0.228
+      ],
+      "page": 1
+    },
+    {
+      "text": "G124.78",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.272,
+        0.919,
+        0.017,
+        0.613
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-647945",
+      "field_hint": "po_number",
+      "bbox": [
+        0.664,
+        0.242,
+        0.127,
+        0.718
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.883,
+        0.921,
+        0.579,
+        0.916
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive holistic collaboration 1 x 39.25 = 35.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.109,
+        0.814,
+        0.909,
+        0.641
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable multimedia supportG 1 x 11.3 = 10.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.222,
+        0.695,
+        0.8,
+        0.197
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-friendly systemic alliance 1 x 17.74 = 15.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.592,
+        0.544,
+        0.689,
+        0.304
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved otransitional utilization 1 x 12.63 = 12.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.093,
+        0.492,
+        0.94,
+        0.865
+      ],
+      "page": 2
+    },
+    {
+      "text": "Virtual fault-tolerant moratorium 1 x 7.66 = 7.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.653,
+        0.96,
+        0.804,
+        0.567
+      ],
+      "page": 1
+    },
+    {
+      "text": "Operative bi-directionl attitude 1 x 8.02 = 7.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.993,
+        0.519,
+        0.617,
+        0.806
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized eco-centric projection 1 x 16.04 = 15.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.473,
+        0.972,
+        0.776,
+        0.871
+      ],
+      "page": 1
+    }
+  ]
+}

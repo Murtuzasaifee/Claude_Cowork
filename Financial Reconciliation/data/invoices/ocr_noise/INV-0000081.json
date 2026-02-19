@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000081",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000081",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.704,
+        0.777,
+        0.773,
+        0.04
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.65,
+        0.987,
+        0.341,
+        0.836
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.855,
+        0.47,
+        0.488,
+        0.757
+      ],
+      "page": 1
+    },
+    {
+      "text": "Lisa Leonard",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.56,
+        0.682,
+        0.599,
+        0.786
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.691,
+        0.975,
+        0.533,
+        0.616
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-08",
+      "field_hint": "due_date",
+      "bbox": [
+        0.934,
+        0.875,
+        0.594,
+        0.228
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.239,
+        0.191,
+        0.972,
+        0.192
+      ],
+      "page": 1
+    },
+    {
+      "text": "281.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.279,
+        0.598,
+        0.67,
+        0.188
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-299028",
+      "field_hint": "po_number",
+      "bbox": [
+        0.802,
+        0.688,
+        0.19,
+        0.686
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.204,
+        0.463,
+        0.52,
+        0.117
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-contextualized fault-tolerant task-force 6 x 17.49 = 104.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.247,
+        0.598,
+        0.633,
+        0.337
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic intangible extranet 1 x 6.96 = 5.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.392,
+        0.717,
+        0.932,
+        0.459
+      ],
+      "page": 1
+    },
+    {
+      "text": "Progressive contextually-based function 11 x 10.86 = 119.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.253,
+        0.967,
+        0.813,
+        0.984
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group intangible methodology 1 x 7.58 = 6.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.255,
+        0.495,
+        0.935,
+        0.551
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed cohesive productivity 2 x 13.52 = 22.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.266,
+        0.982,
+        0.628,
+        0.49
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable attitude-oriented help-desk 1 x 11.24 = 11.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.119,
+        0.181,
+        0.361,
+        0.801
+      ],
+      "page": 1
+    }
+  ]
+}

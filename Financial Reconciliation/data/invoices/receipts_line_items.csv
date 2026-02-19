@@ -1,0 +1,675 @@
+doc_id,line_no,description,quantity,unit_price,discount_pct,line_amount
+RCT-0000001,1,Reactive intermediate paradigm,1,42.74,10,38.47
+RCT-0000001,2,Focused radical software,4,14.25,0,57.0
+RCT-0000001,3,Implemented logistical help-desk,1,6.93,5,6.58
+RCT-0000002,1,Ergonomic reciprocal firmware,3,18.5,0,55.5
+RCT-0000002,2,Vision-oriented systematic hub,3,43.19,0,129.57
+RCT-0000002,3,Re-contextualized homogeneous database,1,15.57,5,14.79
+RCT-0000002,4,Triple-buffered bottom-line approach,1,10.85,10,9.77
+RCT-0000002,5,Stand-alone modular budgetary management,1,30.39,10,27.35
+RCT-0000002,6,Focused heuristic installation,1,8.59,15,7.3
+RCT-0000002,7,Horizontal bandwidth-monitored encoding,1,24.41,5,23.19
+RCT-0000002,8,Universal secondary process improvement,2,8.2,5,15.58
+RCT-0000003,1,Enterprise-wide secondary success,1,9.14,0,9.14
+RCT-0000004,1,Distributed fault-tolerant open system,1,20.79,0,20.79
+RCT-0000004,2,Progressive leadingedge functionalities,1,29.37,10,26.43
+RCT-0000005,1,Automated high-level software,1,11.33,0,11.33
+RCT-0000005,2,Diverse grid-enabled implementation,7,28.72,5,190.99
+RCT-0000005,3,Multi-tiered logistical methodology,2,15.81,0,31.62
+RCT-0000005,4,Configurable local database,1,7.01,0,7.01
+RCT-0000005,5,Front-line executive success,2,9.19,0,18.38
+RCT-0000006,1,Streamlined upward-trending architecture,3,17.58,0,52.74
+RCT-0000006,2,Down-sized multi-state encoding,1,31.92,0,31.92
+RCT-0000006,3,Virtual 24hour success,1,24.75,10,22.28
+RCT-0000006,4,Synchronized leadingedge pricing structure,1,25.03,0,25.03
+RCT-0000007,1,Reverse-engineered 4thgeneration implementation,5,4.85,0,24.25
+RCT-0000007,2,Fully-configurable intangible toolset,4,20.22,5,76.84
+RCT-0000008,1,Reduced user-facing Graphical User Interface,2,19.44,5,36.94
+RCT-0000008,2,Programmable dedicated archive,1,14.74,0,14.74
+RCT-0000008,3,Mandatory optimal extranet,1,19.21,10,17.29
+RCT-0000008,4,Realigned client-server installation,1,3.69,15,3.14
+RCT-0000008,5,Team-oriented coherent flexibility,3,2.47,0,7.41
+RCT-0000008,6,Re-engineered logistical array,1,14.54,15,12.36
+RCT-0000008,7,Seamless tertiary standardization,1,11.65,5,11.07
+RCT-0000009,1,Face-to-face bottom-line parallelism,1,10.43,5,9.91
+RCT-0000009,2,Centralized global superstructure,3,16.37,0,49.11
+RCT-0000009,3,Cross-group dynamic leverage,1,13.97,10,12.57
+RCT-0000009,4,Synergized intangible task-force,3,15.21,0,45.63
+RCT-0000009,5,Streamlined needs-based conglomeration,1,22.69,15,19.29
+RCT-0000009,6,Multi-lateral holistic frame,1,8.43,0,8.43
+RCT-0000009,7,Self-enabling responsive extranet,4,15.45,15,52.53
+RCT-0000009,8,Diverse leadingedge emulation,1,7.75,5,7.36
+RCT-0000010,1,Customer-focused coherent Graphical User Interface,1,3.26,0,3.26
+RCT-0000010,2,Down-sized maximized capacity,1,9.9,10,8.91
+RCT-0000010,3,Diverse 6thgeneration frame,1,25.41,10,22.87
+RCT-0000010,4,Distributed value-added orchestration,1,6.65,0,6.65
+RCT-0000010,5,Multi-lateral actuating frame,4,16.44,10,59.18
+RCT-0000011,1,User-centric intermediate project,1,22.86,0,22.86
+RCT-0000011,2,Extended composite capability,4,20.37,5,77.41
+RCT-0000011,3,Down-sized modular firmware,1,7.73,0,7.73
+RCT-0000011,4,Implemented foreground initiative,1,7.29,15,6.2
+RCT-0000011,5,Diverse zero-defect process improvement,3,12.49,0,37.47
+RCT-0000011,6,Object-based holistic initiative,1,14.67,15,12.47
+RCT-0000011,7,Proactive client-driven secured line,3,19.09,0,57.27
+RCT-0000011,8,User-friendly explicit customer loyalty,4,19.25,0,77.0
+RCT-0000012,1,Compatible responsive Internet solution,1,79.94,15,67.95
+RCT-0000012,2,Stand-alone 4thgeneration hub,1,34.19,0,34.19
+RCT-0000012,3,Horizontal tertiary matrix,1,9.52,15,8.09
+RCT-0000012,4,De-engineered logistical synergy,4,53.18,15,180.81
+RCT-0000012,5,Fully-configurable 24hour Local Area Network,1,5.59,0,5.59
+RCT-0000012,6,Upgradable user-facing artificial intelligence,1,5.99,5,5.69
+RCT-0000012,7,Pre-emptive impactful benchmark,1,21.07,15,17.91
+RCT-0000013,1,Phased tangible adapter,1,10.18,0,10.18
+RCT-0000014,1,Progressive executive moderator,2,2.27,0,4.54
+RCT-0000014,2,Persevering multimedia budgetary management,6,34.31,0,205.86
+RCT-0000015,1,Profit-focused needs-based architecture,1,18.69,5,17.76
+RCT-0000015,2,Open-source static adapter,2,11.31,0,22.62
+RCT-0000015,3,Profit-focused system-worthy projection,1,10.71,15,9.1
+RCT-0000016,1,Balanced motivating process improvement,1,10.44,10,9.4
+RCT-0000016,2,Profound system-worthy hub,1,2.86,15,2.43
+RCT-0000017,1,Open-source zero administration array,1,6.51,15,5.53
+RCT-0000017,2,Cross-platform multi-state parallelism,1,7.62,0,7.62
+RCT-0000017,3,Multi-layered encompassing complexity,1,26.03,15,22.13
+RCT-0000017,4,Ameliorated 24hour emulation,1,8.13,0,8.13
+RCT-0000017,5,Open-source didactic projection,1,15.87,0,15.87
+RCT-0000018,1,Customer-focused regional customer loyalty,1,10.74,0,10.74
+RCT-0000018,2,Operative modular array,1,6.55,0,6.55
+RCT-0000018,3,Mandatory transitional infrastructure,1,14.7,5,13.96
+RCT-0000018,4,Assimilated impactful ability,1,12.03,15,10.23
+RCT-0000018,5,Networked demand-driven complexity,2,25.88,10,46.58
+RCT-0000018,6,Stand-alone asynchronous toolset,9,9.21,0,82.89
+RCT-0000018,7,User-friendly secondary challenge,1,7.71,10,6.94
+RCT-0000019,1,Reduced responsive knowledge user,1,21.8,0,21.8
+RCT-0000019,2,Reverse-engineered scalable moderator,2,10.73,0,21.46
+RCT-0000019,3,Cloned hybrid open architecture,1,23.22,10,20.9
+RCT-0000019,4,Exclusive neutral productivity,6,8.33,0,49.98
+RCT-0000019,5,Enhanced heuristic system engine,3,13.48,0,40.44
+RCT-0000019,6,Synergistic hybrid customer loyalty,2,7.92,0,15.84
+RCT-0000019,7,Business-focused system-worthy adapter,1,6.8,0,6.8
+RCT-0000019,8,Exclusive directional software,1,2.6,0,2.6
+RCT-0000020,1,Reactive system-worthy interface,1,35.34,0,35.34
+RCT-0000020,2,Streamlined human-resource paradigm,1,8.64,0,8.64
+RCT-0000020,3,Face-to-face multimedia throughput,1,17.43,0,17.43
+RCT-0000020,4,Diverse discrete firmware,2,10.83,10,19.49
+RCT-0000020,5,Horizontal needs-based synergy,2,27.75,0,55.5
+RCT-0000021,1,Pre-emptive static definition,1,3.62,0,3.62
+RCT-0000021,2,Automated explicit functionalities,2,14.08,5,26.75
+RCT-0000021,3,Front-line upward-trending model,4,20.72,0,82.88
+RCT-0000021,4,Multi-channeled maximized approach,2,12.69,5,24.11
+RCT-0000022,1,Distributed contextually-based challenge,1,7.23,5,6.87
+RCT-0000022,2,Realigned methodical website,1,3.71,0,3.71
+RCT-0000022,3,Grass-roots optimal website,1,7.75,10,6.98
+RCT-0000023,1,Mandatory uniform data-warehouse,1,3.09,5,2.94
+RCT-0000023,2,Versatile content-based infrastructure,2,20.35,0,40.7
+RCT-0000023,3,Decentralized interactive leverage,2,16.94,10,30.49
+RCT-0000023,4,Re-engineered asynchronous architecture,1,22.02,0,22.02
+RCT-0000023,5,Function-based content-based complexity,2,6.29,0,12.58
+RCT-0000023,6,Virtual grid-enabled database,3,5.66,15,14.43
+RCT-0000024,1,Advanced explicit Graphical User Interface,1,17.63,0,17.63
+RCT-0000024,2,Customizable mobile data-warehouse,3,17.15,0,51.45
+RCT-0000024,3,Object-based empowering matrices,4,3.41,0,13.64
+RCT-0000024,4,Visionary dedicated software,1,7.5,10,6.75
+RCT-0000024,5,Intuitive secondary flexibility,1,36.96,15,31.42
+RCT-0000024,6,Re-contextualized modular standardization,2,21.02,15,35.73
+RCT-0000025,1,Advanced high-level leverage,1,10.2,0,10.2
+RCT-0000025,2,Enterprise-wide value-added encoding,1,5.21,0,5.21
+RCT-0000025,3,Versatile coherent definition,4,6.2,0,24.8
+RCT-0000025,4,Innovative value-added hardware,1,9.02,10,8.12
+RCT-0000025,5,Expanded grid-enabled moratorium,2,4.53,15,7.7
+RCT-0000025,6,Grass-roots intangible conglomeration,1,28.48,15,24.21
+RCT-0000025,7,Devolved secondary knowledgebase,1,26.5,15,22.52
+RCT-0000026,1,Networked impactful productivity,1,5.32,10,4.79
+RCT-0000026,2,Compatible national array,1,45.79,15,38.92
+RCT-0000027,1,Extended user-facing adapter,1,8.82,0,8.82
+RCT-0000027,2,Digitized needs-based service-desk,1,12.23,0,12.23
+RCT-0000027,3,Object-based well-modulated open system,6,8.73,10,47.14
+RCT-0000027,4,Realigned stable access,1,5.65,5,5.37
+RCT-0000027,5,Intuitive transitional collaboration,1,9.46,0,9.46
+RCT-0000028,1,Streamlined disintermediate pricing structure,2,3.45,15,5.87
+RCT-0000028,2,Persistent cohesive productivity,4,9.5,10,34.2
+RCT-0000028,3,Robust non-volatile throughput,1,11.41,0,11.41
+RCT-0000028,4,Triple-buffered discrete function,4,14.3,0,57.2
+RCT-0000029,1,Advanced mobile architecture,1,4.15,0,4.15
+RCT-0000029,2,Ameliorated needs-based emulation,1,4.3,10,3.87
+RCT-0000030,1,Polarized methodical task-force,1,13.85,5,13.16
+RCT-0000030,2,Function-based dynamic superstructure,1,5.33,15,4.53
+RCT-0000030,3,Reverse-engineered regional Local Area Network,2,10.45,0,20.9
+RCT-0000030,4,Customizable tangible solution,1,28.77,10,25.89
+RCT-0000030,5,Cross-platform dedicated website,1,5.04,0,5.04
+RCT-0000030,6,Networked heuristic software,6,6.65,10,35.91
+RCT-0000031,1,Down-sized tertiary framework,1,23.88,0,23.88
+RCT-0000031,2,Progressive optimizing methodology,1,3.4,5,3.23
+RCT-0000031,3,Profound content-based array,1,10.55,15,8.97
+RCT-0000031,4,Integrated clear-thinking concept,1,62.42,15,53.06
+RCT-0000031,5,Mandatory client-server leverage,10,14.94,0,149.4
+RCT-0000032,1,Open-architected 5thgeneration ability,1,22.87,0,22.87
+RCT-0000032,2,Progressive non-volatile circuit,1,8.9,0,8.9
+RCT-0000032,3,Seamless foreground complexity,1,4.99,5,4.74
+RCT-0000033,1,Assimilated clear-thinking support,1,4.19,0,4.19
+RCT-0000033,2,Reverse-engineered transitional intranet,6,14.42,0,86.52
+RCT-0000034,1,Expanded 24hour adapter,4,14.67,10,52.81
+RCT-0000034,2,Fundamental upward-trending conglomeration,4,42.03,0,168.12
+RCT-0000034,3,Customizable scalable installation,1,9.46,15,8.04
+RCT-0000034,4,Switchable heuristic contingency,3,14.82,0,44.46
+RCT-0000034,5,Polarized methodical initiative,1,11.16,0,11.16
+RCT-0000034,6,Enterprise-wide object-oriented function,7,5.36,0,37.52
+RCT-0000034,7,Multi-tiered zero tolerance hub,1,14.57,0,14.57
+RCT-0000035,1,Diverse clear-thinking website,1,25.33,0,25.33
+RCT-0000036,1,Secured bifurcated support,1,19.06,0,19.06
+RCT-0000036,2,Configurable bandwidth-monitored service-desk,1,7.33,0,7.33
+RCT-0000037,1,Reverse-engineered 4thgeneration archive,1,81.55,10,73.39
+RCT-0000037,2,Customizable composite Internet solution,4,10.09,5,38.34
+RCT-0000037,3,Function-based 4thgeneration matrices,7,28.1,15,167.2
+RCT-0000038,1,Synchronized 5thgeneration help-desk,2,9.62,5,18.28
+RCT-0000038,2,Mandatory contextually-based neural-net,1,27.55,0,27.55
+RCT-0000038,3,Fully-configurable bifurcated protocol,4,10.56,0,42.24
+RCT-0000038,4,Ameliorated exuding strategy,1,11.08,10,9.97
+RCT-0000038,5,Self-enabling national forecast,1,24.59,10,22.13
+RCT-0000039,1,Universal contextually-based Internet solution,1,47.94,0,47.94
+RCT-0000039,2,Compatible grid-enabled matrix,2,10.29,5,19.55
+RCT-0000039,3,Visionary executive algorithm,2,9.14,0,18.28
+RCT-0000039,4,Cross-platform interactive utilization,1,7.22,15,6.14
+RCT-0000039,5,Mandatory 6thgeneration budgetary management,3,6.51,10,17.58
+RCT-0000039,6,Robust tangible algorithm,6,7.55,0,45.3
+RCT-0000039,7,Persevering demand-driven conglomeration,1,8.37,15,7.11
+RCT-0000040,1,Cross-group zero tolerance flexibility,1,22.19,5,21.08
+RCT-0000040,2,Open-source solution-oriented algorithm,2,17.47,0,34.94
+RCT-0000040,3,Configurable fault-tolerant circuit,1,20.1,0,20.1
+RCT-0000040,4,Team-oriented impactful policy,2,19.85,0,39.7
+RCT-0000040,5,Secured solution-oriented customer loyalty,2,27.87,0,55.74
+RCT-0000040,6,Multi-layered well-modulated workforce,3,7.12,10,19.22
+RCT-0000041,1,Ameliorated 24/7 encryption,1,14.13,0,14.13
+RCT-0000041,2,Face-to-face upward-trending artificial intelligence,1,3.86,0,3.86
+RCT-0000041,3,Self-enabling empowering infrastructure,1,3.89,15,3.31
+RCT-0000042,1,Virtual systemic hub,1,13.13,0,13.13
+RCT-0000042,2,Secured upward-trending emulation,5,11.09,0,55.45
+RCT-0000042,3,Monitored coherent strategy,1,12.44,10,11.2
+RCT-0000043,1,Profit-focused 24hour initiative,1,18.65,10,16.79
+RCT-0000043,2,Devolved secondary protocol,1,33.73,0,33.73
+RCT-0000043,3,Function-based multimedia encoding,2,12.21,0,24.42
+RCT-0000043,4,Proactive directional system engine,1,10.88,5,10.34
+RCT-0000043,5,Assimilated client-server hierarchy,1,7.41,0,7.41
+RCT-0000043,6,Synergized grid-enabled infrastructure,1,22.44,0,22.44
+RCT-0000043,7,Expanded bi-directional structure,5,7.84,0,39.2
+RCT-0000043,8,Compatible context-sensitive Graphic Interface,1,10.03,0,10.03
+RCT-0000044,1,Optimized 3rdgeneration forecast,1,18.98,0,18.98
+RCT-0000044,2,De-engineered directional complexity,1,12.87,15,10.94
+RCT-0000044,3,Robust neutral algorithm,1,12.38,0,12.38
+RCT-0000045,1,Adaptive well-modulated algorithm,1,6.7,15,5.7
+RCT-0000045,2,Secured needs-based neural-net,4,15.4,15,52.36
+RCT-0000045,3,Persevering zero tolerance support,1,56.33,5,53.51
+RCT-0000045,4,Integrated non-volatile ability,1,4.94,10,4.45
+RCT-0000045,5,Down-sized foreground conglomeration,1,5.62,0,5.62
+RCT-0000045,6,Vision-oriented intangible strategy,2,21.06,0,42.12
+RCT-0000046,1,Optional foreground parallelism,3,14.38,15,36.67
+RCT-0000046,2,Visionary content-based function,1,31.78,10,28.6
+RCT-0000046,3,Cross-platform motivating productivity,1,7.26,0,7.26
+RCT-0000046,4,Distributed tertiary open architecture,1,22.71,5,21.57
+RCT-0000047,1,Distributed neutral access,1,15.4,10,13.86
+RCT-0000047,2,Upgradable solution-oriented Graphical User Interface,1,6.28,0,6.28
+RCT-0000047,3,Fully-configurable secondary Graphic Interface,2,7.86,10,14.15
+RCT-0000048,1,Self-enabling tertiary encryption,1,12.31,0,12.31
+RCT-0000048,2,Business-focused zero administration pricing structure,2,6.68,15,11.36
+RCT-0000048,3,User-centric systemic database,1,26.79,0,26.79
+RCT-0000048,4,Synergized multi-state hardware,1,20.29,15,17.25
+RCT-0000048,5,Organic cohesive paradigm,1,8.66,15,7.36
+RCT-0000048,6,Managed discrete encryption,3,10.89,15,27.77
+RCT-0000049,1,User-centric systematic info-mediaries,4,23.61,15,80.27
+RCT-0000049,2,Integrated executive software,1,11.64,0,11.64
+RCT-0000050,1,Diverse object-oriented flexibility,1,48.77,0,48.77
+RCT-0000050,2,Versatile tertiary attitude,2,17.56,5,33.36
+RCT-0000050,3,Proactive explicit website,2,6.88,10,12.38
+RCT-0000050,4,Customizable stable capacity,6,5.82,15,29.68
+RCT-0000050,5,Pre-emptive bandwidth-monitored matrices,1,25.56,15,21.73
+RCT-0000050,6,Self-enabling zero-defect implementation,3,8.96,0,26.88
+RCT-0000050,7,Versatile mission-critical superstructure,1,13.43,0,13.43
+RCT-0000051,1,Programmable next generation frame,6,1.68,0,10.08
+RCT-0000051,2,Upgradable content-based matrix,1,12.33,5,11.71
+RCT-0000051,3,Expanded multi-state strategy,1,4.56,0,4.56
+RCT-0000051,4,Object-based full-range installation,1,4.52,15,3.84
+RCT-0000051,5,De-engineered maximized functionalities,2,28.92,0,57.84
+RCT-0000051,6,Intuitive value-added instruction set,3,9.74,10,26.3
+RCT-0000052,1,Quality-focused cohesive approach,1,9.4,0,9.4
+RCT-0000052,2,Realigned stable Internet solution,4,53.13,0,212.52
+RCT-0000052,3,Digitized coherent knowledge user,1,24.04,0,24.04
+RCT-0000053,1,Front-line empowering capacity,1,37.4,10,33.66
+RCT-0000053,2,Progressive high-level concept,1,29.73,10,26.76
+RCT-0000053,3,User-friendly 4thgeneration framework,1,21.48,5,20.41
+RCT-0000053,4,Optimized demand-driven standardization,2,36.0,0,72.0
+RCT-0000053,5,Diverse non-volatile hierarchy,1,7.15,0,7.15
+RCT-0000053,6,Multi-tiered 24hour hierarchy,4,6.59,0,26.36
+RCT-0000053,7,Front-line zero-defect utilization,1,4.53,0,4.53
+RCT-0000054,1,Universal 5thgeneration utilization,1,3.59,0,3.59
+RCT-0000054,2,Intuitive radical instruction set,3,13.24,5,37.73
+RCT-0000054,3,Intuitive context-sensitive website,1,4.19,0,4.19
+RCT-0000054,4,Managed homogeneous system engine,1,5.51,0,5.51
+RCT-0000054,5,Compatible logistical data-warehouse,1,10.46,5,9.94
+RCT-0000055,1,Front-line optimizing projection,1,1.92,5,1.82
+RCT-0000055,2,Open-source client-driven info-mediaries,1,11.54,0,11.54
+RCT-0000055,3,Cloned hybrid capacity,1,12.31,0,12.31
+RCT-0000056,1,Proactive system-worthy infrastructure,6,50.03,10,270.16
+RCT-0000056,2,Re-engineered tangible structure,1,14.17,5,13.46
+RCT-0000056,3,Reverse-engineered multi-state standardization,2,13.26,10,23.87
+RCT-0000056,4,Monitored systematic migration,7,35.99,0,251.93
+RCT-0000056,5,Networked 4thgeneration migration,1,10.32,10,9.29
+RCT-0000056,6,Inverse dedicated knowledge user,1,13.94,0,13.94
+RCT-0000057,1,Robust cohesive collaboration,1,24.21,15,20.58
+RCT-0000057,2,Pre-emptive systemic paradigm,1,7.25,0,7.25
+RCT-0000057,3,Devolved systematic paradigm,1,24.34,10,21.91
+RCT-0000057,4,Persistent discrete array,7,4.73,10,29.8
+RCT-0000057,5,Object-based next generation matrix,3,19.48,10,52.6
+RCT-0000057,6,Organic systemic service-desk,1,19.57,10,17.61
+RCT-0000057,7,Quality-focused value-added neural-net,1,9.23,15,7.85
+RCT-0000058,1,Front-line heuristic implementation,1,10.74,5,10.2
+RCT-0000059,1,Exclusive holistic collaboration,1,39.25,10,35.33
+RCT-0000059,2,Programmable multimedia support,1,11.3,5,10.73
+RCT-0000059,3,User-friendly systemic alliance,1,17.74,10,15.97
+RCT-0000059,4,Devolved transitional utilization,1,12.63,0,12.63
+RCT-0000059,5,Virtual fault-tolerant moratorium,1,7.66,0,7.66
+RCT-0000059,6,Operative bi-directional attitude,1,8.02,10,7.22
+RCT-0000059,7,Optimized eco-centric projection,1,16.04,5,15.24
+RCT-0000060,1,Proactive interactive intranet,1,32.76,10,29.48
+RCT-0000060,2,Devolved web-enabled artificial intelligence,3,4.91,0,14.73
+RCT-0000061,1,Operative didactic matrices,2,36.77,0,73.54
+RCT-0000062,1,Ergonomic value-added middleware,1,19.05,15,16.19
+RCT-0000063,1,Customer-focused national moratorium,1,10.32,0,10.32
+RCT-0000063,2,Visionary 3rdgeneration utilization,1,15.35,0,15.35
+RCT-0000063,3,Enterprise-wide neutral help-desk,1,18.8,15,15.98
+RCT-0000063,4,Triple-buffered 3rdgeneration capability,1,5.68,5,5.4
+RCT-0000064,1,Ameliorated national hardware,6,10.92,0,65.52
+RCT-0000064,2,Profit-focused transitional open system,1,12.21,10,10.99
+RCT-0000064,3,Diverse bifurcated alliance,2,3.9,0,7.8
+RCT-0000064,4,Synergized mission-critical attitude,1,21.96,0,21.96
+RCT-0000064,5,Self-enabling encompassing toolset,1,7.91,0,7.91
+RCT-0000064,6,Horizontal 24/7 help-desk,1,8.21,15,6.98
+RCT-0000065,1,Stand-alone bottom-line moratorium,1,11.49,0,11.49
+RCT-0000065,2,Integrated multi-tasking neural-net,1,16.67,5,15.84
+RCT-0000065,3,Innovative tertiary throughput,1,15.8,0,15.8
+RCT-0000065,4,Operative motivating circuit,6,12.6,0,75.6
+RCT-0000066,1,Sharable local task-force,1,15.37,0,15.37
+RCT-0000066,2,Secured neutral concept,1,7.38,5,7.01
+RCT-0000066,3,Multi-channeled full-range secured line,1,13.6,10,12.24
+RCT-0000066,4,Robust bifurcated protocol,7,17.89,5,118.97
+RCT-0000067,1,Re-contextualized client-server application,4,8.11,0,32.44
+RCT-0000067,2,Polarized secondary definition,5,12.41,5,58.95
+RCT-0000067,3,Sharable attitude-oriented productivity,7,18.18,0,127.26
+RCT-0000067,4,Ameliorated logistical solution,2,11.48,0,22.96
+RCT-0000067,5,Multi-lateral 24hour solution,2,5.1,10,9.18
+RCT-0000068,1,Synchronized hybrid algorithm,1,32.29,5,30.68
+RCT-0000069,1,Innovative even-keeled groupware,1,27.74,5,26.35
+RCT-0000069,2,Multi-layered zero-defect forecast,1,12.13,0,12.13
+RCT-0000069,3,Up-sized national moderator,1,36.36,5,34.54
+RCT-0000069,4,User-centric tertiary benchmark,1,18.78,0,18.78
+RCT-0000069,5,Configurable eco-centric hardware,1,10.54,0,10.54
+RCT-0000069,6,Digitized content-based software,2,7.49,5,14.23
+RCT-0000069,7,Seamless multi-state hub,3,5.7,0,17.1
+RCT-0000070,1,Managed local emulation,2,10.94,15,18.6
+RCT-0000070,2,Profound empowering circuit,1,6.61,0,6.61
+RCT-0000070,3,Grass-roots multi-state focus group,1,6.98,5,6.63
+RCT-0000070,4,Multi-layered radical help-desk,1,15.45,0,15.45
+RCT-0000070,5,Streamlined directional infrastructure,1,4.75,0,4.75
+RCT-0000071,1,Decentralized maximized complexity,2,3.97,15,6.75
+RCT-0000071,2,Enterprise-wide maximized neural-net,5,13.07,0,65.35
+RCT-0000071,3,Enhanced local budgetary management,1,18.38,15,15.62
+RCT-0000071,4,Fundamental composite help-desk,3,16.19,0,48.57
+RCT-0000071,5,Persistent next generation complexity,1,4.03,15,3.43
+RCT-0000071,6,Down-sized foreground contingency,2,7.41,0,14.82
+RCT-0000071,7,Up-sized holistic attitude,5,8.02,15,34.08
+RCT-0000072,1,Re-contextualized executive help-desk,1,4.19,15,3.56
+RCT-0000072,2,Business-focused zero-defect middleware,1,12.46,15,10.59
+RCT-0000072,3,Realigned clear-thinking model,1,14.15,0,14.15
+RCT-0000072,4,Public-key multimedia knowledge user,1,10.67,15,9.07
+RCT-0000072,5,Total transitional policy,6,4.14,10,22.36
+RCT-0000072,6,Future-proofed cohesive paradigm,1,48.83,15,41.51
+RCT-0000073,1,Triple-buffered exuding knowledgebase,1,6.93,15,5.89
+RCT-0000073,2,Operative zero administration secured line,1,23.82,0,23.82
+RCT-0000073,3,Customer-focused grid-enabled strategy,4,32.71,15,111.21
+RCT-0000074,1,Versatile methodical leverage,1,9.17,0,9.17
+RCT-0000074,2,Object-based next generation database,1,16.22,0,16.22
+RCT-0000074,3,Robust eco-centric ability,1,4.82,10,4.34
+RCT-0000074,4,Visionary content-based matrices,1,9.43,0,9.43
+RCT-0000074,5,Operative contextually-based concept,1,16.62,5,15.79
+RCT-0000074,6,Quality-focused value-added Graphic Interface,1,12.28,0,12.28
+RCT-0000075,1,Operative empowering infrastructure,1,20.02,5,19.02
+RCT-0000075,2,Customizable leadingedge time-frame,3,8.71,0,26.13
+RCT-0000075,3,User-friendly bandwidth-monitored pricing structure,2,23.82,0,47.64
+RCT-0000075,4,Managed composite orchestration,2,6.26,0,12.52
+RCT-0000075,5,Advanced hybrid challenge,4,16.38,0,65.52
+RCT-0000076,1,Open-architected bandwidth-monitored flexibility,1,8.16,15,6.94
+RCT-0000076,2,Quality-focused bottom-line neural-net,1,3.79,0,3.79
+RCT-0000076,3,Sharable maximized alliance,1,19.75,0,19.75
+RCT-0000076,4,Progressive hybrid capacity,1,2.03,15,1.73
+RCT-0000076,5,Digitized incremental collaboration,7,7.3,0,51.1
+RCT-0000076,6,Reactive regional hub,1,5.95,0,5.95
+RCT-0000077,1,Multi-layered national initiative,1,28.56,10,25.7
+RCT-0000077,2,Pre-emptive user-facing complexity,3,21.64,5,61.67
+RCT-0000077,3,Team-oriented local encryption,1,5.79,15,4.92
+RCT-0000078,1,Streamlined 6thgeneration parallelism,2,5.27,0,10.54
+RCT-0000079,1,Distributed even-keeled adapter,3,8.83,0,26.49
+RCT-0000079,2,Cross-platform intangible circuit,4,5.5,5,20.9
+RCT-0000079,3,Mandatory analyzing instruction set,3,33.85,10,91.4
+RCT-0000080,1,Programmable next generation superstructure,2,3.65,15,6.21
+RCT-0000080,2,Multi-channeled client-driven architecture,1,43.01,0,43.01
+RCT-0000080,3,Secured 24/7 frame,1,15.93,0,15.93
+RCT-0000080,4,Robust needs-based migration,3,18.14,5,51.7
+RCT-0000080,5,Profound empowering adapter,1,13.11,0,13.11
+RCT-0000080,6,Balanced dynamic success,1,4.01,0,4.01
+RCT-0000080,7,Secured neutral matrices,2,21.22,0,42.44
+RCT-0000081,1,Multi-lateral upward-trending protocol,2,12.47,0,24.94
+RCT-0000081,2,Quality-focused fresh-thinking circuit,1,6.24,15,5.3
+RCT-0000082,1,Streamlined solution-oriented standardization,1,25.98,15,22.08
+RCT-0000083,1,Grass-roots web-enabled alliance,1,24.46,0,24.46
+RCT-0000084,1,Adaptive context-sensitive migration,5,26.08,0,130.4
+RCT-0000084,2,Devolved optimal pricing structure,3,23.26,0,69.78
+RCT-0000084,3,Cross-group transitional success,1,8.37,5,7.95
+RCT-0000084,4,Programmable multimedia infrastructure,1,17.78,0,17.78
+RCT-0000084,5,Ergonomic foreground knowledge user,1,25.55,10,23.0
+RCT-0000085,1,Function-based demand-driven structure,1,23.48,15,19.96
+RCT-0000085,2,Synergized asynchronous architecture,5,2.28,5,10.83
+RCT-0000085,3,Enhanced contextually-based architecture,1,11.56,0,11.56
+RCT-0000085,4,Operative mobile policy,3,7.4,0,22.2
+RCT-0000086,1,Optimized background emulation,1,33.48,0,33.48
+RCT-0000086,2,Balanced neutral focus group,3,11.68,15,29.78
+RCT-0000087,1,Programmable national frame,1,16.75,0,16.75
+RCT-0000087,2,Diverse context-sensitive moratorium,2,13.95,15,23.71
+RCT-0000087,3,Exclusive attitude-oriented forecast,6,30.68,0,184.08
+RCT-0000087,4,Seamless attitude-oriented time-frame,1,43.53,5,41.35
+RCT-0000087,5,Re-engineered contextually-based contingency,3,12.53,15,31.95
+RCT-0000088,1,Front-line leadingedge database,1,14.45,0,14.45
+RCT-0000088,2,Down-sized bandwidth-monitored knowledge user,1,32.16,0,32.16
+RCT-0000089,1,Assimilated attitude-oriented complexity,1,5.57,0,5.57
+RCT-0000089,2,Enterprise-wide incremental task-force,4,6.0,0,24.0
+RCT-0000089,3,Expanded next generation workforce,2,7.73,15,13.14
+RCT-0000090,1,Front-line human-resource Local Area Network,1,20.91,10,18.82
+RCT-0000090,2,Customer-focused bifurcated hardware,1,12.79,0,12.79
+RCT-0000090,3,Customizable attitude-oriented middleware,1,7.78,15,6.61
+RCT-0000090,4,Seamless 3rdgeneration definition,1,29.22,15,24.84
+RCT-0000090,5,Compatible upward-trending workforce,1,4.22,0,4.22
+RCT-0000090,6,Expanded 3rdgeneration projection,2,7.54,5,14.33
+RCT-0000091,1,Customizable national functionalities,3,10.96,15,27.95
+RCT-0000091,2,Synergized grid-enabled core,1,43.35,0,43.35
+RCT-0000091,3,Phased 3rdgeneration service-desk,1,7.69,10,6.92
+RCT-0000091,4,Persevering foreground neural-net,1,17.79,10,16.01
+RCT-0000092,1,Adaptive 24hour ability,2,10.94,0,21.88
+RCT-0000093,1,Object-based web-enabled challenge,2,5.31,0,10.62
+RCT-0000093,2,Streamlined coherent Graphical User Interface,1,17.54,0,17.54
+RCT-0000093,3,Stand-alone clear-thinking archive,2,9.91,0,19.82
+RCT-0000093,4,Mandatory system-worthy strategy,1,8.42,10,7.58
+RCT-0000094,1,Inverse full-range challenge,1,4.81,5,4.57
+RCT-0000094,2,Visionary holistic toolset,7,12.86,5,85.52
+RCT-0000095,1,Reactive real-time encoding,1,35.15,10,31.63
+RCT-0000095,2,Persistent asynchronous groupware,2,7.93,10,14.27
+RCT-0000096,1,Multi-lateral responsive service-desk,1,5.61,0,5.61
+RCT-0000096,2,Organic high-level monitoring,1,3.81,10,3.43
+RCT-0000096,3,Up-sized mission-critical migration,1,3.59,10,3.23
+RCT-0000096,4,Visionary next generation superstructure,1,11.14,10,10.03
+RCT-0000096,5,Networked needs-based approach,2,12.95,5,24.6
+RCT-0000096,6,Virtual mobile flexibility,1,16.07,15,13.66
+RCT-0000096,7,Balanced scalable productivity,1,11.49,15,9.77
+RCT-0000096,8,Digitized foreground intranet,1,13.87,0,13.87
+RCT-0000097,1,Horizontal context-sensitive monitoring,1,34.78,0,34.78
+RCT-0000097,2,Synergistic asymmetric artificial intelligence,1,29.18,0,29.18
+RCT-0000098,1,Enhanced intangible matrix,1,28.02,5,26.62
+RCT-0000098,2,Persistent heuristic ability,1,24.77,0,24.77
+RCT-0000098,3,Advanced composite software,1,19.28,15,16.39
+RCT-0000098,4,Pre-emptive background forecast,4,4.16,0,16.64
+RCT-0000099,1,De-engineered full-range intranet,5,10.48,0,52.4
+RCT-0000099,2,Down-sized intermediate open architecture,1,14.79,10,13.31
+RCT-0000099,3,Adaptive user-facing focus group,2,6.65,15,11.3
+RCT-0000099,4,Future-proofed zero-defect neural-net,1,39.92,0,39.92
+RCT-0000099,5,Configurable discrete Internet solution,1,9.69,10,8.72
+RCT-0000099,6,Networked mission-critical success,6,3.91,5,22.29
+RCT-0000099,7,Reverse-engineered optimal functionalities,1,9.3,10,8.37
+RCT-0000099,8,Down-sized content-based encoding,2,16.35,5,31.07
+RCT-0000100,1,Synergistic national time-frame,7,6.65,5,44.22
+RCT-0000100,2,Fully-configurable radical task-force,2,11.04,10,19.87
+RCT-0000100,3,Decentralized eco-centric infrastructure,4,3.96,15,13.46
+RCT-0000100,4,Exclusive responsive project,1,8.96,0,8.96
+RCT-0000100,5,Re-engineered contextually-based interface,2,12.32,0,24.64
+RCT-0000100,6,Reactive discrete task-force,1,11.46,5,10.89
+RCT-0000100,7,Optional upward-trending help-desk,2,21.44,0,42.88
+RCT-0000101,1,Mandatory reciprocal hierarchy,1,6.16,15,5.24
+RCT-0000101,2,Phased maximized Internet solution,1,15.66,15,13.31
+RCT-0000101,3,Profound web-enabled time-frame,1,18.13,10,16.32
+RCT-0000101,4,Integrated methodical analyzer,1,7.47,15,6.35
+RCT-0000101,5,Fully-configurable zero tolerance flexibility,1,6.62,0,6.62
+RCT-0000101,6,Virtual needs-based implementation,1,40.19,0,40.19
+RCT-0000102,1,Polarized incremental algorithm,1,9.87,0,9.87
+RCT-0000102,2,User-friendly encompassing software,2,16.21,10,29.18
+RCT-0000103,1,Intuitive grid-enabled open architecture,3,16.72,0,50.16
+RCT-0000103,2,Business-focused leadingedge framework,5,4.57,5,21.71
+RCT-0000104,1,Networked client-driven matrices,1,14.08,15,11.97
+RCT-0000105,1,Mandatory local hub,2,13.57,0,27.14
+RCT-0000105,2,Grass-roots regional task-force,1,40.38,10,36.34
+RCT-0000105,3,Focused disintermediate superstructure,1,13.57,15,11.53
+RCT-0000105,4,Visionary optimal array,1,20.83,0,20.83
+RCT-0000105,5,Sharable executive standardization,1,21.48,15,18.26
+RCT-0000105,6,Versatile 6thgeneration knowledgebase,2,10.09,15,17.15
+RCT-0000105,7,Persevering interactive orchestration,3,54.54,0,163.62
+RCT-0000106,1,User-friendly methodical circuit,1,7.2,0,7.2
+RCT-0000106,2,Vision-oriented reciprocal system engine,2,3.93,15,6.68
+RCT-0000106,3,Fundamental 24/7 help-desk,2,2.93,15,4.98
+RCT-0000106,4,Configurable global hierarchy,5,8.71,15,37.02
+RCT-0000106,5,Self-enabling systematic architecture,1,3.52,15,2.99
+RCT-0000106,6,Expanded static data-warehouse,1,7.51,0,7.51
+RCT-0000106,7,Visionary cohesive alliance,1,12.22,10,11.0
+RCT-0000106,8,Multi-lateral mobile array,5,14.53,10,65.38
+RCT-0000107,1,Profit-focused encompassing hierarchy,1,9.36,5,8.89
+RCT-0000107,2,Team-oriented reciprocal website,2,7.47,0,14.94
+RCT-0000108,1,Multi-channeled heuristic installation,1,8.63,5,8.2
+RCT-0000108,2,Multi-lateral leadingedge definition,1,17.81,15,15.14
+RCT-0000108,3,Upgradable static software,4,5.89,0,23.56
+RCT-0000108,4,Business-focused hybrid service-desk,3,7.49,0,22.47
+RCT-0000108,5,Phased cohesive matrix,1,15.35,0,15.35
+RCT-0000108,6,Multi-lateral holistic customer loyalty,1,13.06,0,13.06
+RCT-0000109,1,Versatile background Graphic Interface,1,3.81,10,3.43
+RCT-0000109,2,Multi-channeled full-range ability,1,25.39,0,25.39
+RCT-0000109,3,Progressive full-range encoding,3,8.79,0,26.37
+RCT-0000109,4,Automated reciprocal policy,1,5.46,10,4.91
+RCT-0000109,5,Seamless transitional complexity,1,4.69,0,4.69
+RCT-0000109,6,Profit-focused 5thgeneration emulation,5,25.67,10,115.52
+RCT-0000110,1,Synchronized incremental moderator,1,2.72,0,2.72
+RCT-0000110,2,Synergistic fresh-thinking encoding,1,16.32,0,16.32
+RCT-0000110,3,Switchable full-range project,3,22.04,0,66.12
+RCT-0000110,4,Versatile incremental knowledge user,3,9.28,10,25.06
+RCT-0000110,5,Customizable multi-tasking algorithm,1,37.1,10,33.39
+RCT-0000110,6,Reduced empowering circuit,1,6.1,5,5.79
+RCT-0000111,1,Synchronized user-facing function,2,17.71,15,30.11
+RCT-0000112,1,Polarized systemic system engine,1,13.18,5,12.52
+RCT-0000112,2,De-engineered stable infrastructure,1,41.32,0,41.32
+RCT-0000112,3,Cross-platform 24/7 infrastructure,1,10.01,0,10.01
+RCT-0000112,4,Multi-channeled composite knowledge user,1,16.4,15,13.94
+RCT-0000112,5,Stand-alone contextually-based Local Area Network,1,13.12,0,13.12
+RCT-0000112,6,Self-enabling multi-tasking installation,1,4.18,0,4.18
+RCT-0000112,7,Multi-tiered object-oriented parallelism,1,11.0,10,9.9
+RCT-0000112,8,Monitored cohesive collaboration,1,8.04,0,8.04
+RCT-0000113,1,Persevering non-volatile secured line,1,13.18,0,13.18
+RCT-0000113,2,De-engineered high-level capacity,1,16.64,10,14.98
+RCT-0000114,1,Decentralized zero administration database,1,31.16,0,31.16
+RCT-0000114,2,Universal homogeneous data-warehouse,2,2.38,10,4.28
+RCT-0000114,3,Operative next generation leverage,2,12.19,0,24.38
+RCT-0000115,1,Public-key global forecast,1,4.91,5,4.66
+RCT-0000116,1,Business-focused 4thgeneration data-warehouse,4,17.89,0,71.56
+RCT-0000116,2,Expanded explicit adapter,1,57.6,15,48.96
+RCT-0000117,1,Exclusive uniform artificial intelligence,1,9.63,10,8.67
+RCT-0000117,2,Synchronized fault-tolerant encryption,1,7.01,0,7.01
+RCT-0000117,3,Distributed analyzing budgetary management,2,8.75,0,17.5
+RCT-0000118,1,Extended upward-trending workforce,4,4.96,0,19.84
+RCT-0000118,2,Cloned hybrid product,1,1.86,0,1.86
+RCT-0000118,3,Grass-roots discrete application,1,14.61,0,14.61
+RCT-0000119,1,Reverse-engineered 4thgeneration approach,3,11.8,15,30.09
+RCT-0000119,2,Horizontal intangible collaboration,1,7.13,10,6.42
+RCT-0000119,3,Phased 5thgeneration orchestration,1,5.65,0,5.65
+RCT-0000119,4,Horizontal clear-thinking toolset,1,21.91,0,21.91
+RCT-0000119,5,Synchronized explicit firmware,2,29.11,0,58.22
+RCT-0000119,6,Quality-focused grid-enabled policy,3,13.36,0,40.08
+RCT-0000119,7,Advanced optimal data-warehouse,3,2.83,10,7.64
+RCT-0000120,1,Sharable directional info-mediaries,3,10.69,15,27.26
+RCT-0000120,2,Object-based full-range paradigm,1,15.39,0,15.39
+RCT-0000120,3,Mandatory dynamic contingency,4,9.89,0,39.56
+RCT-0000120,4,Multi-tiered mission-critical software,1,10.71,0,10.71
+RCT-0000120,5,Operative tertiary groupware,3,7.47,0,22.41
+RCT-0000121,1,Progressive hybrid capability,4,10.04,0,40.16
+RCT-0000121,2,Team-oriented logistical extranet,1,23.53,5,22.35
+RCT-0000121,3,User-centric incremental collaboration,6,13.93,5,79.4
+RCT-0000121,4,Managed bifurcated open architecture,1,8.23,0,8.23
+RCT-0000122,1,Enterprise-wide leadingedge Local Area Network,1,9.91,0,9.91
+RCT-0000122,2,Total local frame,11,31.26,15,292.28
+RCT-0000122,3,Operative neutral system engine,1,5.73,15,4.87
+RCT-0000122,4,Multi-channeled actuating Graphic Interface,1,7.52,15,6.39
+RCT-0000123,1,Diverse tertiary structure,1,10.69,10,9.62
+RCT-0000123,2,Devolved static matrices,1,7.91,0,7.91
+RCT-0000123,3,Integrated needs-based interface,2,30.04,0,60.08
+RCT-0000123,4,Programmable directional hardware,1,23.99,15,20.39
+RCT-0000123,5,Future-proofed static task-force,1,10.52,10,9.47
+RCT-0000123,6,Focused 3rdgeneration hierarchy,1,53.36,0,53.36
+RCT-0000123,7,Seamless asymmetric open architecture,3,14.7,0,44.1
+RCT-0000123,8,Diverse multi-tasking framework,1,35.13,0,35.13
+RCT-0000124,1,Front-line bifurcated secured line,2,32.38,10,58.28
+RCT-0000124,2,Digitized neutral extranet,2,16.29,0,32.58
+RCT-0000124,3,Centralized explicit definition,3,5.47,0,16.41
+RCT-0000124,4,Business-focused systematic firmware,2,12.68,10,22.82
+RCT-0000124,5,Intuitive even-keeled definition,1,7.36,0,7.36
+RCT-0000124,6,Up-sized empowering utilization,1,17.64,10,15.88
+RCT-0000124,7,Switchable dedicated function,4,15.63,10,56.27
+RCT-0000125,1,Business-focused static product,2,14.19,10,25.54
+RCT-0000125,2,Reactive intermediate open system,1,21.09,10,18.98
+RCT-0000125,3,Switchable systematic application,1,15.14,0,15.14
+RCT-0000125,4,Organic next generation implementation,2,11.42,5,21.7
+RCT-0000125,5,Managed web-enabled hierarchy,2,5.2,0,10.4
+RCT-0000125,6,User-centric interactive superstructure,1,7.84,10,7.06
+RCT-0000125,7,Total fresh-thinking standardization,1,6.02,0,6.02
+RCT-0000125,8,Sharable content-based knowledge user,1,22.1,15,18.79
+RCT-0000126,1,Pre-emptive modular workforce,1,10.92,0,10.92
+RCT-0000126,2,Right-sized impactful emulation,1,14.23,0,14.23
+RCT-0000126,3,Enterprise-wide value-added leverage,1,8.71,0,8.71
+RCT-0000126,4,User-centric didactic system engine,3,26.47,5,75.44
+RCT-0000126,5,Profit-focused optimal Graphical User Interface,1,18.5,0,18.5
+RCT-0000126,6,Exclusive intangible model,2,13.05,0,26.1
+RCT-0000126,7,Front-line non-volatile support,2,11.74,0,23.48
+RCT-0000126,8,Focused 5thgeneration solution,1,6.87,0,6.87
+RCT-0000127,1,Visionary value-added encoding,2,7.95,15,13.52
+RCT-0000128,1,Automated coherent algorithm,1,4.19,15,3.56
+RCT-0000128,2,Visionary human-resource system engine,2,18.77,5,35.66
+RCT-0000128,3,Multi-tiered multimedia emulation,3,20.06,0,60.18
+RCT-0000128,4,Multi-layered explicit architecture,1,20.73,10,18.66
+RCT-0000128,5,Robust leadingedge website,1,6.27,15,5.33
+RCT-0000128,6,User-centric static focus group,1,33.26,0,33.26
+RCT-0000128,7,Distributed encompassing circuit,1,9.65,10,8.69
+RCT-0000129,1,Upgradable tertiary toolset,1,17.19,5,16.33
+RCT-0000129,2,Integrated intermediate data-warehouse,1,5.13,0,5.13
+RCT-0000129,3,Virtual incremental website,4,27.53,0,110.12
+RCT-0000130,1,Triple-buffered bandwidth-monitored toolset,4,19.48,5,74.02
+RCT-0000130,2,Multi-channeled mobile attitude,11,9.93,0,109.23
+RCT-0000130,3,Grass-roots holistic service-desk,3,8.77,15,22.36
+RCT-0000130,4,Compatible heuristic product,1,19.13,0,19.13
+RCT-0000131,1,Enhanced asynchronous ability,1,27.47,0,27.47
+RCT-0000131,2,Networked high-level architecture,3,6.9,15,17.6
+RCT-0000131,3,Up-sized maximized data-warehouse,3,11.38,10,30.73
+RCT-0000132,1,Progressive radical implementation,1,8.56,0,8.56
+RCT-0000132,2,Vision-oriented composite portal,1,28.51,0,28.51
+RCT-0000132,3,Reduced 3rdgeneration hub,1,8.02,5,7.62
+RCT-0000132,4,Profound secondary neural-net,1,5.25,10,4.73
+RCT-0000132,5,Pre-emptive asymmetric framework,1,19.77,5,18.78
+RCT-0000133,1,Pre-emptive system-worthy neural-net,2,31.01,0,62.02
+RCT-0000133,2,Inverse dedicated alliance,1,18.93,15,16.09
+RCT-0000133,3,Intuitive disintermediate implementation,3,25.79,15,65.76
+RCT-0000133,4,Digitized dedicated contingency,1,50.1,0,50.1
+RCT-0000133,5,Exclusive high-level hub,3,38.24,5,108.98
+RCT-0000134,1,Visionary local moderator,9,41.61,0,374.49
+RCT-0000134,2,Open-architected impactful database,2,42.02,10,75.64
+RCT-0000134,3,Inverse well-modulated parallelism,1,8.63,0,8.63
+RCT-0000134,4,Multi-lateral holistic secured line,1,19.94,0,19.94
+RCT-0000134,5,Enterprise-wide encompassing database,5,13.62,5,64.69
+RCT-0000134,6,Fundamental bi-directional knowledgebase,1,4.35,10,3.91
+RCT-0000134,7,Multi-tiered dynamic moratorium,10,13.45,10,121.05
+RCT-0000135,1,Programmable directional hardware,7,26.65,10,167.89
+RCT-0000135,2,Cross-platform systematic website,2,17.89,5,33.99
+RCT-0000135,3,Open-architected background service-desk,1,11.63,0,11.63
+RCT-0000135,4,Cross-group 5thgeneration throughput,2,7.71,0,15.42
+RCT-0000135,5,Customer-focused methodical Graphical User Interface,2,18.01,15,30.62
+RCT-0000135,6,Cloned web-enabled protocol,1,10.89,10,9.8
+RCT-0000135,7,Open-source radical Graphical User Interface,1,26.55,5,25.22
+RCT-0000136,1,Operative needs-based complexity,2,25.9,0,51.8
+RCT-0000136,2,Extended empowering budgetary management,1,16.17,10,14.55
+RCT-0000137,1,Visionary explicit open architecture,1,5.96,15,5.07
+RCT-0000137,2,Innovative asynchronous algorithm,1,9.22,0,9.22
+RCT-0000137,3,Cross-group systematic support,2,43.55,15,74.03
+RCT-0000137,4,Decentralized bottom-line service-desk,3,17.57,0,52.71
+RCT-0000137,5,Function-based mission-critical instruction set,2,30.93,5,58.77
+RCT-0000137,6,Business-focused interactive artificial intelligence,3,6.13,0,18.39
+RCT-0000137,7,Realigned upward-trending benchmark,1,103.89,0,103.89
+RCT-0000138,1,Configurable radical structure,1,3.83,0,3.83
+RCT-0000138,2,Multi-channeled tangible secured line,5,17.76,5,84.36
+RCT-0000138,3,Front-line analyzing utilization,1,3.61,10,3.25
+RCT-0000138,4,Total object-oriented collaboration,1,26.55,10,23.89
+RCT-0000138,5,Team-oriented local groupware,1,6.92,5,6.57
+RCT-0000138,6,Front-line bottom-line installation,1,10.98,0,10.98
+RCT-0000138,7,Face-to-face clear-thinking open architecture,4,15.37,0,61.48
+RCT-0000139,1,Automated non-volatile analyzer,1,21.32,15,18.12
+RCT-0000139,2,Customer-focused maximized neural-net,3,10.84,0,32.52
+RCT-0000140,1,Open-architected tangible intranet,2,14.13,15,24.02
+RCT-0000140,2,Organic foreground function,1,14.91,0,14.91
+RCT-0000140,3,Managed modular firmware,1,12.84,0,12.84
+RCT-0000140,4,Sharable coherent alliance,3,10.72,0,32.16
+RCT-0000140,5,Decentralized national system engine,1,8.68,5,8.25
+RCT-0000140,6,Open-architected disintermediate migration,7,15.49,10,97.59
+RCT-0000140,7,Visionary reciprocal artificial intelligence,5,15.12,5,71.82
+RCT-0000141,1,Grass-roots heuristic capability,1,7.64,15,6.49
+RCT-0000141,2,Object-based explicit firmware,1,10.76,10,9.68
+RCT-0000141,3,Visionary bottom-line hub,1,3.63,0,3.63
+RCT-0000141,4,Automated intangible Graphical User Interface,1,10.36,0,10.36
+RCT-0000141,5,Enhanced local circuit,1,3.7,15,3.15
+RCT-0000142,1,Universal incremental leverage,3,8.81,15,22.47
+RCT-0000142,2,Enterprise-wide background migration,1,5.99,0,5.99
+RCT-0000142,3,Fully-configurable directional orchestration,1,7.15,0,7.15
+RCT-0000143,1,Exclusive scalable migration,1,31.77,10,28.59
+RCT-0000143,2,Reverse-engineered demand-driven adapter,1,5.49,0,5.49
+RCT-0000143,3,Synergized well-modulated toolset,1,9.34,15,7.94
+RCT-0000143,4,Grass-roots zero administration array,1,15.37,15,13.06
+RCT-0000144,1,Reduced intangible intranet,3,3.18,5,9.06
+RCT-0000144,2,Synergistic zero administration framework,1,10.97,10,9.87
+RCT-0000144,3,Intuitive value-added capacity,3,14.38,0,43.14
+RCT-0000144,4,Front-line modular strategy,1,5.79,0,5.79
+RCT-0000144,5,Face-to-face systematic paradigm,1,4.49,0,4.49
+RCT-0000144,6,Integrated web-enabled conglomeration,1,21.05,5,20.0
+RCT-0000144,7,Self-enabling optimal leverage,1,3.25,10,2.93
+RCT-0000144,8,Function-based clear-thinking time-frame,3,9.25,0,27.75
+RCT-0000145,1,Right-sized 4thgeneration model,1,5.31,5,5.04
+RCT-0000145,2,Programmable context-sensitive encryption,2,2.4,10,4.32
+RCT-0000145,3,Up-sized grid-enabled model,1,26.86,5,25.52
+RCT-0000145,4,Phased asynchronous complexity,3,19.63,0,58.89
+RCT-0000145,5,Open-source 4thgeneration emulation,1,28.69,0,28.69
+RCT-0000145,6,Universal static complexity,9,13.41,5,114.66
+RCT-0000145,7,Universal disintermediate groupware,4,5.32,15,18.09
+RCT-0000145,8,Persistent 24/7 standardization,1,8.59,5,8.16
+RCT-0000146,1,Self-enabling user-facing collaboration,2,1.19,5,2.26
+RCT-0000146,2,Exclusive uniform application,3,4.36,0,13.08
+RCT-0000146,3,Fully-configurable cohesive standardization,1,10.06,10,9.05
+RCT-0000146,4,Focused web-enabled array,1,25.49,10,22.94
+RCT-0000146,5,Right-sized disintermediate complexity,1,8.64,0,8.64
+RCT-0000146,6,Seamless national help-desk,1,15.51,15,13.18
+RCT-0000147,1,Optimized executive Local Area Network,6,14.63,0,87.78
+RCT-0000147,2,Face-to-face executive hardware,1,5.06,0,5.06
+RCT-0000147,3,Multi-tiered 24/7 structure,1,5.14,10,4.63
+RCT-0000147,4,Optimized value-added Internet solution,1,19.35,0,19.35
+RCT-0000147,5,Decentralized homogeneous hierarchy,1,6.52,0,6.52
+RCT-0000147,6,Open-source intangible Graphic Interface,1,16.14,15,13.72
+RCT-0000148,1,Object-based bi-directional process improvement,1,6.45,0,6.45
+RCT-0000148,2,Centralized systemic Internet solution,1,7.39,0,7.39
+RCT-0000148,3,Networked systematic methodology,3,15.9,0,47.7
+RCT-0000148,4,Up-sized scalable moderator,7,10.66,0,74.62
+RCT-0000148,5,Organized needs-based conglomeration,1,9.54,15,8.11
+RCT-0000148,6,Virtual hybrid moderator,3,6.07,15,15.48
+RCT-0000149,1,Realigned stable process improvement,1,13.21,5,12.55
+RCT-0000149,2,Multi-channeled 3rdgeneration collaboration,3,6.74,0,20.22
+RCT-0000149,3,Progressive impactful definition,3,17.53,10,47.33
+RCT-0000149,4,Future-proofed even-keeled algorithm,1,6.14,0,6.14
+RCT-0000149,5,Fully-configurable hybrid analyzer,1,9.46,5,8.99
+RCT-0000150,1,Automated multi-state throughput,1,17.77,15,15.1
+RCT-0000150,2,Reactive eco-centric conglomeration,1,14.99,0,14.99
+RCT-0000150,3,Universal analyzing info-mediaries,1,15.84,5,15.05
+RCT-0000150,4,Up-sized neutral open system,2,11.03,0,22.06
+RCT-0000150,5,Multi-layered heuristic approach,1,5.32,15,4.52
+RCT-0000150,6,Re-contextualized bottom-line success,1,21.77,10,19.59
+RCT-0000150,7,Cross-group value-added capability,1,11.95,5,11.35

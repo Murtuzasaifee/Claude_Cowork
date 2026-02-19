@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Financial Dataset Report – 19 Feb 2026</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    /* ── Reset & Base ─────────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --navy:   #1F4E79;
+      --blue:   #2E75B6;
+      --sky:    #D6E4F0;
+      --altrow: #F2F7FB;
+      --border: #AEC6D8;
+      --text:   #1a1a2e;
+      --muted:  #5a6a7a;
+      --green:  #1a7a4a;
+      --green-bg: #e6f4ed;
+      --amber:  #92570a;
+      --amber-bg: #fef3e2;
+      --red:    #a32020;
+      --red-bg: #fdecea;
+      --white:  #ffffff;
+      --page-w: 1080px;
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #f0f4f8;
+      line-height: 1.6;
+    }
+
+    /* ── Layout ───────────────────────────────────────────────────────────── */
+    .page-wrap { max-width: var(--page-w); margin: 0 auto; padding: 0 24px 60px; }
+
+    /* ── Cover ────────────────────────────────────────────────────────────── */
+    .cover {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+      color: white;
+      padding: 56px 48px 48px;
+      border-radius: 0 0 16px 16px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+    .cover::after {
+      content: "";
+      position: absolute; inset: 0;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Ccircle cx='30' cy='30' r='28' fill='none' stroke='rgba(255,255,255,.04)' stroke-width='2'/%3E%3C/svg%3E") repeat;
+      pointer-events: none;
+    }
+    .cover-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      opacity: .7;
+      margin-bottom: 12px;
+    }
+    .cover h1 {
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 14px;
+    }
+    .cover-sub { font-size: 15px; opacity: .8; margin-bottom: 28px; }
+    .cover-meta {
+      display: flex; gap: 32px; flex-wrap: wrap;
+      font-size: 12px; opacity: .65;
+    }
+    .cover-meta span::before { content: "● "; }
+
+    /* ── TOC ──────────────────────────────────────────────────────────────── */
+    .toc {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px 28px;
+      margin-bottom: 36px;
+    }
+    .toc h2 { font-size: 13px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+    .toc ol { padding-left: 20px; }
+    .toc li { margin: 6px 0; }
+    .toc a { color: var(--blue); text-decoration: none; font-size: 13.5px; }
+    .toc a:hover { text-decoration: underline; }
+
+    /* ── KPI Cards ────────────────────────────────────────────────────────── */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+    .kpi-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px 22px;
+      border: 1px solid var(--border);
+      border-top: 4px solid var(--blue);
+    }
+    .kpi-card.warn  { border-top-color: #e07b00; }
+    .kpi-card.alert { border-top-color: #c0392b; }
+    .kpi-card.ok    { border-top-color: #27ae60; }
+    .kpi-label { font-size: 11px; font-weight: 600; letter-spacing: .8px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+    .kpi-value { font-size: 28px; font-weight: 700; color: var(--navy); line-height: 1; }
+    .kpi-sub   { font-size: 12px; color: var(--muted); margin-top: 6px; }
+
+    /* ── Section ──────────────────────────────────────────────────────────── */
+    section { margin-bottom: 48px; }
+    .section-card {
+      background: white;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .section-header {
+      padding: 20px 28px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; gap: 12px;
+    }
+    .section-icon {
+      width: 36px; height: 36px; border-radius: 8px;
+      background: var(--sky); display: flex; align-items: center; justify-content: center;
+      font-size: 18px; flex-shrink: 0;
+    }
+    .section-header h2 { font-size: 17px; font-weight: 700; color: var(--navy); }
+    .section-body { padding: 24px 28px; }
+
+    h3 {
+      font-size: 13px; font-weight: 700; letter-spacing: .6px;
+      text-transform: uppercase; color: var(--blue);
+      margin: 24px 0 12px;
+    }
+    h3:first-child { margin-top: 0; }
+
+    p { margin-bottom: 12px; font-size: 13.5px; color: #2d3748; }
+
+    /* ── Tables ───────────────────────────────────────────────────────────── */
+    .tbl-wrap { overflow-x: auto; margin-bottom: 20px; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    thead th {
+      background: var(--sky); color: var(--navy);
+      font-weight: 700; font-size: 12px; letter-spacing: .4px;
+      padding: 10px 14px; text-align: left;
+      border-bottom: 2px solid var(--border);
+    }
+    tbody tr:nth-child(even) { background: var(--altrow); }
+    tbody tr:hover { background: #e8f0f8; }
+    tbody td { padding: 9px 14px; border-bottom: 1px solid #e8eef4; vertical-align: top; }
+    tbody tr:last-child td { border-bottom: none; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    .bold-row td { font-weight: 700; background: var(--sky) !important; }
+
+    /* ── Progress Bars ────────────────────────────────────────────────────── */
+    .bar-wrap { background: #e8eef4; border-radius: 4px; height: 8px; min-width: 80px; }
+    .bar-fill  { height: 8px; border-radius: 4px; background: var(--blue); }
+    .bar-fill.green  { background: #27ae60; }
+    .bar-fill.amber  { background: #e07b00; }
+    .bar-fill.red    { background: #c0392b; }
+    .bar-fill.grey   { background: #90a4ae; }
+
+    /* ── Badge / Pill ─────────────────────────────────────────────────────── */
+    .badge {
+      display: inline-block; padding: 2px 9px; border-radius: 12px;
+      font-size: 11px; font-weight: 600; letter-spacing: .3px;
+    }
+    .badge-green  { background: var(--green-bg); color: var(--green); }
+    .badge-amber  { background: var(--amber-bg); color: var(--amber); }
+    .badge-red    { background: var(--red-bg);   color: var(--red);   }
+    .badge-blue   { background: var(--sky);       color: var(--navy);  }
+    .badge-grey   { background: #eceff1;          color: #546e7a;      }
+
+    /* ── Chart containers ─────────────────────────────────────────────────── */
+    .chart-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 24px; }
+    .chart-box  { background: #f8fafc; border: 1px solid var(--border); border-radius: 10px; padding: 20px; }
+    .chart-box h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; color: var(--muted); margin-bottom: 14px; }
+    .chart-box canvas { max-height: 220px; }
+    @media (max-width: 680px) { .chart-grid { grid-template-columns: 1fr; } }
+
+    /* ── Recommendations ──────────────────────────────────────────────────── */
+    .rec-list { list-style: none; display: flex; flex-direction: column; gap: 14px; }
+    .rec-item {
+      display: flex; gap: 16px; align-items: flex-start;
+      padding: 16px 18px; border-radius: 10px;
+      border: 1px solid var(--border); background: #f9fbfd;
+    }
+    .rec-num {
+      width: 28px; height: 28px; border-radius: 50%;
+      background: var(--navy); color: white;
+      font-weight: 700; font-size: 13px;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; margin-top: 1px;
+    }
+    .rec-title { font-weight: 700; font-size: 13.5px; color: var(--navy); margin-bottom: 4px; }
+    .rec-body  { font-size: 13px; color: #4a5568; }
+
+    /* ── Alert box ────────────────────────────────────────────────────────── */
+    .alert-box {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 14px 18px; border-radius: 10px;
+      border-left: 4px solid #e07b00;
+      background: var(--amber-bg); margin-bottom: 20px;
+      font-size: 13.5px; color: #5a3200;
+    }
+
+    /* ── Footer ───────────────────────────────────────────────────────────── */
+    footer {
+      text-align: center; font-size: 11px; color: var(--muted);
+      padding: 24px 0 8px;
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Print ────────────────────────────────────────────────────────────── */
+    @media print {
+      body { background: white; }
+      .page-wrap { max-width: 100%; padding: 0; }
+      .cover { border-radius: 0; }
+      .section-card, .kpi-card { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Cover ─────────────────────────────────────────────────────────────── -->
+<div class="cover">
+  <div class="page-wrap">
+    <div class="cover-label">Finance · Internal Report</div>
+    <h1>Financial Dataset Report</h1>
+    <div class="cover-sub">Invoices &nbsp;·&nbsp; Receipts &nbsp;·&nbsp; Bank Statement &nbsp;·&nbsp; Reconciliation</div>
+    <div class="cover-meta">
+      <span>Prepared: 19 February 2026</span>
+      <span>Confidential – Finance Team</span>
+      <span>Period: Dec 2025 – Apr 2026</span>
+      <span>Currencies: USD · EUR · GBP · AED</span>
+    </div>
+  </div>
+</div>
+
+<div class="page-wrap">
+
+  <!-- ── TOC ──────────────────────────────────────────────────────────────── -->
+  <div class="toc">
+    <h2>Contents</h2>
+    <ol>
+      <li><a href="#overview">Dataset Overview</a></li>
+      <li><a href="#invoices">Invoice Analysis</a></li>
+      <li><a href="#receipts">Receipt Analysis</a></li>
+      <li><a href="#bank">Bank Statement Analysis</a></li>
+      <li><a href="#recon">Reconciliation Findings</a></li>
+      <li><a href="#recs">Recommendations</a></li>
+    </ol>
+  </div>
+
+  <!-- ── KPI Summary Cards ──────────────────────────────────────────────── -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">Total Invoices</div>
+      <div class="kpi-value">200</div>
+      <div class="kpi-sub">922 line items · 4 currencies</div>
+    </div>
+    <div class="kpi-card warn">
+      <div class="kpi-label">Invoices Overdue</div>
+      <div class="kpi-value">43</div>
+      <div class="kpi-sub">Open or Partially Paid, past due date</div>
+    </div>
+    <div class="kpi-card ok">
+      <div class="kpi-label">Invoice Paid Rate</div>
+      <div class="kpi-value">19%</div>
+      <div class="kpi-sub">38 of 200 invoices fully settled</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Total Receipts</div>
+      <div class="kpi-value">150</div>
+      <div class="kpi-sub">674 line items</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Bank Transactions</div>
+      <div class="kpi-value">352</div>
+      <div class="kpi-sub">Total value: 47,529 (mixed ccy)</div>
+    </div>
+    <div class="kpi-card alert">
+      <div class="kpi-label">Recon Exceptions</div>
+      <div class="kpi-value">131</div>
+      <div class="kpi-sub">29 unmatched docs · 17 orphan txns</div>
+    </div>
+  </div>
+
+  <!-- ── 1. Overview ─────────────────────────────────────────────────────── -->
+  <section id="overview">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">📂</div>
+        <h2>1. Dataset Overview</h2>
+      </div>
+      <div class="section-body">
+        <p>Analysis is drawn from structured CSV and JSON source files covering vendor invoices, customer receipts, bank transactions, and automated reconciliation output. The period spans late December 2025 through early April 2026.</p>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Source File</th><th>Location</th><th class="num">Records</th><th>Notes</th></tr></thead>
+            <tbody>
+              <tr><td>invoices_header.csv</td><td>invoices/</td><td class="num">200</td><td>17-column schema: status, amounts, dates, vendor/customer</td></tr>
+              <tr><td>invoices_line_items.csv</td><td>invoices/</td><td class="num">922</td><td>SKU-level detail per invoice</td></tr>
+              <tr><td>receipts_header.csv</td><td>invoices/</td><td class="num">150</td><td>Same schema as invoices; doc_type = receipt</td></tr>
+              <tr><td>receipts_line_items.csv</td><td>invoices/</td><td class="num">674</td><td>SKU-level detail per receipt</td></tr>
+              <tr><td>bank_statement.csv</td><td>bank/</td><td class="num">352</td><td>Booking date, amount, counterparty, channel</td></tr>
+              <tr><td>missing_items_report.csv</td><td>reconciliation/</td><td class="num">131</td><td>Exceptions from automated matching</td></tr>
+              <tr><td>ground_truth_links.csv</td><td>reconciliation/</td><td class="num">378</td><td>Verified doc-to-bank mappings</td></tr>
+              <tr><td>OCR JSON files (INV + RCT)</td><td>invoices/ocr_noise/</td><td class="num">350</td><td>Raw OCR output per document</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 2. Invoices ─────────────────────────────────────────────────────── -->
+  <section id="invoices">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">🧾</div>
+        <h2>2. Invoice Analysis</h2>
+      </div>
+      <div class="section-body">
+
+        <div class="alert-box">
+          ⚠️ <div><strong>43 invoices are overdue</strong> — status OPEN or PARTIALLY_PAID with a past due date. Immediate collections action required.</div>
+        </div>
+
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h4>Status Distribution (200 invoices)</h4>
+            <canvas id="invStatusChart"></canvas>
+          </div>
+          <div class="chart-box">
+            <h4>Value by Currency (mixed nominal)</h4>
+            <canvas id="invCcyChart"></canvas>
+          </div>
+        </div>
+
+        <h3>Status Breakdown</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Status</th><th class="num">Count</th><th class="num">Share</th><th style="min-width:120px">Bar</th><th>Notes</th></tr></thead>
+            <tbody>
+              <tr>
+                <td><span class="badge badge-green">PAID</span></td>
+                <td class="num">38</td><td class="num">19.0%</td>
+                <td><div class="bar-wrap"><div class="bar-fill green" style="width:19%"></div></div></td>
+                <td>Fully settled</td>
+              </tr>
+              <tr>
+                <td><span class="badge badge-amber">PARTIALLY_PAID</span></td>
+                <td class="num">53</td><td class="num">26.5%</td>
+                <td><div class="bar-wrap"><div class="bar-fill amber" style="width:26.5%"></div></div></td>
+                <td>Balance outstanding</td>
+              </tr>
+              <tr>
+                <td><span class="badge badge-red">OPEN</span></td>
+                <td class="num">48</td><td class="num">24.0%</td>
+                <td><div class="bar-wrap"><div class="bar-fill red" style="width:24%"></div></div></td>
+                <td>No payment received</td>
+              </tr>
+              <tr>
+                <td><span class="badge badge-grey">VOID</span></td>
+                <td class="num">61</td><td class="num">30.5%</td>
+                <td><div class="bar-wrap"><div class="bar-fill grey" style="width:30.5%"></div></div></td>
+                <td>Cancelled — exclude from receivables</td>
+              </tr>
+              <tr class="bold-row">
+                <td>TOTAL</td><td class="num">200</td><td class="num">100.0%</td><td></td><td></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Invoice Value by Currency</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Currency</th><th class="num">Total Value</th><th class="num">Share</th><th style="min-width:120px">Bar</th></tr></thead>
+            <tbody>
+              <tr><td>GBP</td><td class="num">9,671.72</td><td class="num">31.9%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:100%"></div></div></td></tr>
+              <tr><td>EUR</td><td class="num">7,942.25</td><td class="num">26.2%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:82%"></div></div></td></tr>
+              <tr><td>AED</td><td class="num">7,387.21</td><td class="num">24.4%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:76%"></div></div></td></tr>
+              <tr><td>USD</td><td class="num">5,279.73</td><td class="num">17.5%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:54%"></div></div></td></tr>
+              <tr class="bold-row"><td>TOTAL (mixed nominal)</td><td class="num">30,280.91</td><td class="num">100.0%</td><td></td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Top 5 Vendors by Invoice Value</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Vendor</th><th class="num">Invoices</th><th class="num">Total Value (mixed ccy)</th><th style="min-width:140px">Relative Size</th></tr></thead>
+            <tbody>
+              <tr><td>Velasquez-Ortega</td><td class="num">29</td><td class="num">4,679.35</td><td><div class="bar-wrap"><div class="bar-fill" style="width:100%"></div></div></td></tr>
+              <tr><td>Beck-Morton</td><td class="num">24</td><td class="num">4,624.52</td><td><div class="bar-wrap"><div class="bar-fill" style="width:98.8%"></div></div></td></tr>
+              <tr><td>Taylor-Odonnell</td><td class="num">22</td><td class="num">4,028.37</td><td><div class="bar-wrap"><div class="bar-fill" style="width:86.1%"></div></div></td></tr>
+              <tr><td>Newman Inc</td><td class="num">19</td><td class="num">3,207.69</td><td><div class="bar-wrap"><div class="bar-fill" style="width:68.5%"></div></div></td></tr>
+              <tr><td>Hooper, Bauer and Brown</td><td class="num">21</td><td class="num">3,129.24</td><td><div class="bar-wrap"><div class="bar-fill" style="width:66.9%"></div></div></td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h4>Payment Terms Mix</h4>
+            <canvas id="invTermsChart"></canvas>
+          </div>
+          <div class="chart-box">
+            <h4>Tax Rate Distribution</h4>
+            <canvas id="taxChart"></canvas>
+          </div>
+        </div>
+
+        <h3>Payment Terms &amp; Tax Rates</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Payment Terms</th><th class="num">Count</th><th class="num">Share</th></tr></thead>
+            <tbody>
+              <tr><td>DUE_ON_RECEIPT</td><td class="num">43</td><td class="num">21.5%</td></tr>
+              <tr><td>NET45</td><td class="num">42</td><td class="num">21.0%</td></tr>
+              <tr><td>NET30</td><td class="num">41</td><td class="num">20.5%</td></tr>
+              <tr><td>NET14</td><td class="num">41</td><td class="num">20.5%</td></tr>
+              <tr><td>NET7</td><td class="num">33</td><td class="num">16.5%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Tax Rate</th><th class="num">Invoice Count</th><th>Note</th></tr></thead>
+            <tbody>
+              <tr><td>0%</td><td class="num">33</td><td>⚠️ Verify exemption documentation</td></tr>
+              <tr><td>5%</td><td class="num">86</td><td>Most common rate (43%)</td></tr>
+              <tr><td>10%</td><td class="num">36</td><td></td></tr>
+              <tr><td>15%</td><td class="num">45</td><td></td></tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 3. Receipts ─────────────────────────────────────────────────────── -->
+  <section id="receipts">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">🗄️</div>
+        <h2>3. Receipt Analysis</h2>
+      </div>
+      <div class="section-body">
+        <p>150 receipts were processed across the same four currencies. The status distribution closely mirrors the invoice portfolio — VOID is again the largest single bucket at 30%, while PAID and PARTIALLY_PAID each account for 24% of receipts.</p>
+
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h4>Receipt Status Distribution</h4>
+            <canvas id="rctStatusChart"></canvas>
+          </div>
+          <div class="chart-box">
+            <h4>Receipt Value by Currency</h4>
+            <canvas id="rctCcyChart"></canvas>
+          </div>
+        </div>
+
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Status</th><th class="num">Count</th><th class="num">Share</th></tr></thead>
+            <tbody>
+              <tr><td><span class="badge badge-green">PAID</span></td><td class="num">36</td><td class="num">24.0%</td></tr>
+              <tr><td><span class="badge badge-amber">PARTIALLY_PAID</span></td><td class="num">36</td><td class="num">24.0%</td></tr>
+              <tr><td><span class="badge badge-red">OPEN</span></td><td class="num">33</td><td class="num">22.0%</td></tr>
+              <tr><td><span class="badge badge-grey">VOID</span></td><td class="num">45</td><td class="num">30.0%</td></tr>
+              <tr class="bold-row"><td>TOTAL</td><td class="num">150</td><td class="num">100.0%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Currency</th><th class="num">Total Receipt Value</th><th class="num">Share</th></tr></thead>
+            <tbody>
+              <tr><td>USD</td><td class="num">7,376.25</td><td class="num">35.0%</td></tr>
+              <tr><td>GBP</td><td class="num">5,599.53</td><td class="num">26.5%</td></tr>
+              <tr><td>EUR</td><td class="num">5,389.21</td><td class="num">25.5%</td></tr>
+              <tr><td>AED</td><td class="num">2,725.96</td><td class="num">12.9%</td></tr>
+              <tr class="bold-row"><td>TOTAL (mixed nominal)</td><td class="num">21,090.95</td><td class="num">100.0%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 4. Bank Statement ───────────────────────────────────────────────── -->
+  <section id="bank">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">🏦</div>
+        <h2>4. Bank Statement Analysis</h2>
+      </div>
+      <div class="section-body">
+        <p>352 bank transactions were recorded across six payment channels and four currencies. Total outflows amount to <strong>47,529.14</strong> in mixed nominal currency — materially higher than total invoice value (30,280.91), indicating additional activity warranting investigation.</p>
+
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h4>Payment Channel Breakdown</h4>
+            <canvas id="channelChart"></canvas>
+          </div>
+          <div class="chart-box">
+            <h4>Monthly Bank Activity (mixed ccy)</h4>
+            <canvas id="monthlyChart"></canvas>
+          </div>
+        </div>
+
+        <h3>Payment Channel Detail</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Channel</th><th class="num">Count</th><th class="num">Share</th><th style="min-width:100px">Bar</th><th>Risk Note</th></tr></thead>
+            <tbody>
+              <tr><td>CASH</td><td class="num">65</td><td class="num">18.5%</td><td><div class="bar-wrap"><div class="bar-fill red" style="width:100%"></div></div></td><td>⚠️ Low auditability</td></tr>
+              <tr><td>INTERNAL_TRANSFER</td><td class="num">65</td><td class="num">18.5%</td><td><div class="bar-wrap"><div class="bar-fill red" style="width:100%"></div></div></td><td>⚠️ Enhanced controls needed</td></tr>
+              <tr><td>CHECK</td><td class="num">61</td><td class="num">17.3%</td><td><div class="bar-wrap"><div class="bar-fill amber" style="width:93.8%"></div></div></td><td></td></tr>
+              <tr><td>ACH</td><td class="num">56</td><td class="num">15.9%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:86.2%"></div></div></td><td></td></tr>
+              <tr><td>WIRE</td><td class="num">55</td><td class="num">15.6%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:84.6%"></div></div></td><td></td></tr>
+              <tr><td>CARD</td><td class="num">50</td><td class="num">14.2%</td><td><div class="bar-wrap"><div class="bar-fill green" style="width:76.9%"></div></div></td><td>Lowest share</td></tr>
+              <tr class="bold-row"><td>TOTAL</td><td class="num">352</td><td class="num">100.0%</td><td></td><td></td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Value by Currency</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Currency</th><th class="num">Total Bank Value</th><th class="num">Share</th></tr></thead>
+            <tbody>
+              <tr><td>GBP</td><td class="num">13,366.00</td><td class="num">28.1%</td></tr>
+              <tr><td>EUR</td><td class="num">13,268.75</td><td class="num">27.9%</td></tr>
+              <tr><td>USD</td><td class="num">11,333.98</td><td class="num">23.8%</td></tr>
+              <tr><td>AED</td><td class="num">9,560.41</td><td class="num">20.1%</td></tr>
+              <tr class="bold-row"><td>TOTAL (mixed nominal)</td><td class="num">47,529.14</td><td class="num">100.0%</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Monthly Activity</h3>
+        <p>Activity peaks strongly in February 2026, accounting for <strong>43.3%</strong> of total period outflows. December 2025 is minimal (562.50), consistent with a period-end cutoff.</p>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Month</th><th class="num">Total Activity (mixed ccy)</th><th class="num">Share</th><th style="min-width:120px">Bar</th></tr></thead>
+            <tbody>
+              <tr><td>Dec 2025</td><td class="num">562.50</td><td class="num">1.2%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:2.7%"></div></div></td></tr>
+              <tr><td>Jan 2026</td><td class="num">10,543.80</td><td class="num">22.2%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:51.2%"></div></div></td></tr>
+              <tr><td>Feb 2026</td><td class="num">20,566.51</td><td class="num">43.3%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:100%"></div></div></td></tr>
+              <tr><td>Mar 2026</td><td class="num">13,139.26</td><td class="num">27.6%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:63.9%"></div></div></td></tr>
+              <tr><td>Apr 2026</td><td class="num">2,717.07</td><td class="num">5.7%</td><td><div class="bar-wrap"><div class="bar-fill" style="width:13.2%"></div></div></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 5. Reconciliation ───────────────────────────────────────────────── -->
+  <section id="recon">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">🔗</div>
+        <h2>5. Reconciliation Findings</h2>
+      </div>
+      <div class="section-body">
+        <p>Automated matching against 378 ground-truth document-to-bank links identified <strong>131 exceptions</strong> across three categories. Finance teams should prioritise resolution of unmatched documents before period close.</p>
+
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h4>Exception Type Breakdown</h4>
+            <canvas id="reconChart"></canvas>
+          </div>
+          <div class="chart-box">
+            <h4>Mismatch Subtypes (85 mismatches)</h4>
+            <canvas id="mismatchChart"></canvas>
+          </div>
+        </div>
+
+        <h3>Issue Summary</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Issue Type</th><th class="num">Count</th><th class="num">Share</th><th>Description</th></tr></thead>
+            <tbody>
+              <tr>
+                <td><span class="badge badge-amber">POTENTIAL_MISMATCH</span></td>
+                <td class="num">85</td><td class="num">64.9%</td>
+                <td>Amount or mapping discrepancy — manual review required</td>
+              </tr>
+              <tr>
+                <td><span class="badge badge-red">DOC_WITHOUT_BANK</span></td>
+                <td class="num">29</td><td class="num">22.1%</td>
+                <td>Invoice/receipt with no matching bank transaction</td>
+              </tr>
+              <tr>
+                <td><span class="badge badge-blue">BANK_WITHOUT_DOC</span></td>
+                <td class="num">17</td><td class="num">13.0%</td>
+                <td>Bank transaction with no supporting document</td>
+              </tr>
+              <tr class="bold-row"><td>TOTAL</td><td class="num">131</td><td class="num">100.0%</td><td></td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Mismatch Subtypes</h3>
+        <p>Within the 85 potential mismatches, the dominant subtype is <strong>one-to-many</strong> (49.4%) — a single document settled by multiple bank payments, typical of instalment arrangements. Many-to-one batch consolidations account for 24.7%.</p>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Subtype</th><th class="num">Count</th><th class="num">Share</th><th>Likely Cause</th></tr></thead>
+            <tbody>
+              <tr><td>one_to_multi</td><td class="num">42</td><td class="num">49.4%</td><td>Instalment / partial payments against one document</td></tr>
+              <tr><td>partial_or_mismatch</td><td class="num">22</td><td class="num">25.9%</td><td>Amount discrepancy — FX rounding or credit notes</td></tr>
+              <tr><td>multi_to_one</td><td class="num">21</td><td class="num">24.7%</td><td>Batch payment covering multiple invoices / receipts</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Ground-Truth Link Types</h3>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Link Type</th><th class="num">Count</th></tr></thead>
+            <tbody>
+              <tr><td><span class="badge badge-green">exact</span></td><td class="num">264</td></tr>
+              <tr><td><span class="badge badge-amber">one_to_multi</span></td><td class="num">42</td></tr>
+              <tr><td><span class="badge badge-red">missing_in_bank</span></td><td class="num">29</td></tr>
+              <tr><td><span class="badge badge-amber">partial_or_mismatch</span></td><td class="num">22</td></tr>
+              <tr><td><span class="badge badge-blue">multi_to_one</span></td><td class="num">21</td></tr>
+              <tr class="bold-row"><td>TOTAL LINKED PAIRS</td><td class="num">378</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3>Unmatched Document Exposure (DOC_WITHOUT_BANK)</h3>
+        <p>29 documents have no corresponding bank entry. These may represent genuinely unpaid obligations or data-entry gaps requiring vendor confirmation.</p>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr><th>Currency</th><th class="num">Unmatched Value</th></tr></thead>
+            <tbody>
+              <tr><td>GBP</td><td class="num">1,560.66</td></tr>
+              <tr><td>USD</td><td class="num">1,113.06</td></tr>
+              <tr><td>AED</td><td class="num">987.25</td></tr>
+              <tr><td>EUR</td><td class="num">354.26</td></tr>
+              <tr class="bold-row"><td>TOTAL (mixed nominal)</td><td class="num">4,015.23</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 6. Recommendations ─────────────────────────────────────────────── -->
+  <section id="recs">
+    <div class="section-card">
+      <div class="section-header">
+        <div class="section-icon">📋</div>
+        <h2>6. Recommendations</h2>
+      </div>
+      <div class="section-body">
+        <ul class="rec-list">
+          <li class="rec-item">
+            <div class="rec-num">1</div>
+            <div>
+              <div class="rec-title">Collections Priority</div>
+              <div class="rec-body">Immediately chase the 43 overdue invoices. Focus first on the top-5 vendors by value (Velasquez-Ortega, Beck-Morton, Taylor-Odonnell, Newman Inc, Hooper Bauer &amp; Brown) which collectively represent over 63% of total invoice exposure.</div>
+            </div>
+          </li>
+          <li class="rec-item">
+            <div class="rec-num">2</div>
+            <div>
+              <div class="rec-title">Reconciliation Triage</div>
+              <div class="rec-body">Assign the 29 unmatched documents (total ~4,015 mixed-ccy) to AP/AR staff for vendor confirmation within 5 business days to prevent period-close delays.</div>
+            </div>
+          </li>
+          <li class="rec-item">
+            <div class="rec-num">3</div>
+            <div>
+              <div class="rec-title">Batch Payment Review</div>
+              <div class="rec-body">Investigate the 21 many-to-one bank transactions. Ensure each bundled payment has appropriate remittance advice on file and the total matches the sum of linked document amounts.</div>
+            </div>
+          </li>
+          <li class="rec-item">
+            <div class="rec-num">4</div>
+            <div>
+              <div class="rec-title">VOID Invoice &amp; Receipt Audit</div>
+              <div class="rec-body">61 invoices (30.5%) and 45 receipts (30%) are flagged VOID. Confirm each void was properly authorised and that no cash flows are concealed within voided records.</div>
+            </div>
+          </li>
+          <li class="rec-item">
+            <div class="rec-num">5</div>
+            <div>
+              <div class="rec-title">Zero-Rate VAT Review</div>
+              <div class="rec-body">33 invoices carry a 0% tax rate. Finance should confirm exemption codes are correctly applied and file supporting documentation for audit readiness.</div>
+            </div>
+          </li>
+          <li class="rec-item">
+            <div class="rec-num">6</div>
+            <div>
+              <div class="rec-title">Cash &amp; Internal Transfer Controls</div>
+              <div class="rec-body">Cash and Internal Transfer each account for 18.5% of transactions — the highest channels. Strengthen dual-authorisation and documentation requirements to reduce fraud and audit exposure.</div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Footer ─────────────────────────────────────────────────────────── -->
+  <footer>
+    <p>Financial Dataset Report &nbsp;·&nbsp; 19 February 2026 &nbsp;·&nbsp; Confidential – Finance Team</p>
+    <p style="margin-top:4px">All monetary totals are nominal figures in source currency. Cross-currency comparisons require normalisation with applicable exchange rates.</p>
+  </footer>
+
+</div><!-- /page-wrap -->
+
+<!-- ── Charts ──────────────────────────────────────────────────────────────── -->
+<script>
+  // Colour palette
+  const BLUE  = "#2E75B6";
+  const NAVY  = "#1F4E79";
+  const GREEN = "#27ae60";
+  const AMBER = "#e07b00";
+  const RED   = "#c0392b";
+  const GREY  = "#90a4ae";
+  const SKY   = "#7ab3d3";
+
+  const defaultFont = { family: "'Segoe UI', Arial, sans-serif", size: 12 };
+  Chart.defaults.font = defaultFont;
+  Chart.defaults.color = "#4a5568";
+
+  /* ── Invoice Status ─────── */
+  new Chart(document.getElementById("invStatusChart"), {
+    type: "doughnut",
+    data: {
+      labels: ["PAID", "PARTIALLY_PAID", "OPEN", "VOID"],
+      datasets: [{ data: [38, 53, 48, 61], backgroundColor: [GREEN, AMBER, RED, GREY], borderWidth: 2, borderColor: "#fff" }]
+    },
+    options: { plugins: { legend: { position: "right" } }, cutout: "55%" }
+  });
+
+  /* ── Invoice Currency ────── */
+  new Chart(document.getElementById("invCcyChart"), {
+    type: "bar",
+    data: {
+      labels: ["GBP", "EUR", "AED", "USD"],
+      datasets: [{ data: [9671.72, 7942.25, 7387.21, 5279.73], backgroundColor: [NAVY, BLUE, SKY, "#5BA3D0"], borderRadius: 6 }]
+    },
+    options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { callback: v => v.toLocaleString() } } } }
+  });
+
+  /* ── Receipt Status ─────── */
+  new Chart(document.getElementById("rctStatusChart"), {
+    type: "doughnut",
+    data: {
+      labels: ["PAID", "PARTIALLY_PAID", "OPEN", "VOID"],
+      datasets: [{ data: [36, 36, 33, 45], backgroundColor: [GREEN, AMBER, RED, GREY], borderWidth: 2, borderColor: "#fff" }]
+    },
+    options: { plugins: { legend: { position: "right" } }, cutout: "55%" }
+  });
+
+  /* ── Receipt Currency ────── */
+  new Chart(document.getElementById("rctCcyChart"), {
+    type: "bar",
+    data: {
+      labels: ["USD", "GBP", "EUR", "AED"],
+      datasets: [{ data: [7376.25, 5599.53, 5389.21, 2725.96], backgroundColor: [NAVY, BLUE, SKY, "#5BA3D0"], borderRadius: 6 }]
+    },
+    options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { callback: v => v.toLocaleString() } } } }
+  });
+
+  /* ── Payment Channel ────── */
+  new Chart(document.getElementById("channelChart"), {
+    type: "bar",
+    data: {
+      labels: ["CASH", "INTERNAL\nTRANSFER", "CHECK", "ACH", "WIRE", "CARD"],
+      datasets: [{ data: [65, 65, 61, 56, 55, 50], backgroundColor: [RED, RED, AMBER, BLUE, BLUE, GREEN], borderRadius: 6 }]
+    },
+    options: { indexAxis: "y", plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true } } }
+  });
+
+  /* ── Monthly Activity ────── */
+  new Chart(document.getElementById("monthlyChart"), {
+    type: "bar",
+    data: {
+      labels: ["Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26"],
+      datasets: [{ data: [562.50, 10543.80, 20566.51, 13139.26, 2717.07], backgroundColor: [SKY, BLUE, NAVY, BLUE, SKY], borderRadius: 6 }]
+    },
+    options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { callback: v => v.toLocaleString() } } } }
+  });
+
+  /* ── Reconciliation types ── */
+  new Chart(document.getElementById("reconChart"), {
+    type: "pie",
+    data: {
+      labels: ["POTENTIAL_MISMATCH", "DOC_WITHOUT_BANK", "BANK_WITHOUT_DOC"],
+      datasets: [{ data: [85, 29, 17], backgroundColor: [AMBER, RED, BLUE], borderWidth: 2, borderColor: "#fff" }]
+    },
+    options: { plugins: { legend: { position: "bottom" } } }
+  });
+
+  /* ── Mismatch subtypes ───── */
+  new Chart(document.getElementById("mismatchChart"), {
+    type: "doughnut",
+    data: {
+      labels: ["one_to_multi", "partial_or_mismatch", "multi_to_one"],
+      datasets: [{ data: [42, 22, 21], backgroundColor: [NAVY, AMBER, SKY], borderWidth: 2, borderColor: "#fff" }]
+    },
+    options: { plugins: { legend: { position: "bottom" } }, cutout: "50%" }
+  });
+
+  /* ── Payment Terms ─────── */
+  new Chart(document.getElementById("invTermsChart"), {
+    type: "bar",
+    data: {
+      labels: ["DUE_ON_RECEIPT", "NET45", "NET30", "NET14", "NET7"],
+      datasets: [{ data: [43, 42, 41, 41, 33], backgroundColor: [NAVY, BLUE, SKY, BLUE, NAVY], borderRadius: 6 }]
+    },
+    options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+  });
+
+  /* ── Tax Rates ──────────── */
+  new Chart(document.getElementById("taxChart"), {
+    type: "bar",
+    data: {
+      labels: ["0%", "5%", "10%", "15%"],
+      datasets: [{ data: [33, 86, 36, 45], backgroundColor: [RED, GREEN, BLUE, AMBER], borderRadius: 6 }]
+    },
+    options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+  });
+</script>
+</body>
+</html>

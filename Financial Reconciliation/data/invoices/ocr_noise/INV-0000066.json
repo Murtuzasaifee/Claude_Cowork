@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000066",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0g000066",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.292,
+        0.412,
+        0.028,
+        0.457
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.683,
+        0.352,
+        0.966,
+        0.277
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.699,
+        0.635,
+        0.769,
+        0.161
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bradley Walker",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.648,
+        0.741,
+        0.753,
+        0.781
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-26",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.089,
+        0.352,
+        0.538,
+        0.805
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-09",
+      "field_hint": "due_date",
+      "bbox": [
+        0.306,
+        0.914,
+        0.09,
+        0.406
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.757,
+        0.202,
+        0.856,
+        0.485
+      ],
+      "page": 1
+    },
+    {
+      "text": "591.69",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.361,
+        0.159,
+        0.169,
+        0.016
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-619389",
+      "field_hint": "po_number",
+      "bbox": [
+        0.506,
+        0.642,
+        0.296,
+        0.56
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.076,
+        0.093,
+        0.712,
+        0.915
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced user-facing solution 8 x 19.67 = 157.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.146,
+        0.34,
+        0.354,
+        0.133
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated bifurcated access 1 x 16.01 = 15.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.815,
+        0.887,
+        0.294,
+        0.57
+      ],
+      "page": 1
+    },
+    {
+      "text": "Self-enabling context-sensitive paradigm 4 x 11.48 = 45.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.826,
+        0.246,
+        0.155,
+        0.993
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual tangible interface 3 x 7.34 = 22.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.983,
+        0.245,
+        0.226,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "Re-engineered zero-defect migration 2 x 8.39 = 14.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.965,
+        0.858,
+        0.483,
+        0.439
+      ],
+      "page": 2
+    },
+    {
+      "text": "Optional static time-frame 5 x 50.92 = 241.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.412,
+        0.848,
+        0.581,
+        0.627
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled dynamic circuit 1 x 37.85 = 32.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.982,
+        0.803,
+        0.264,
+        0.37
+      ],
+      "page": 1
+    }
+  ]
+}

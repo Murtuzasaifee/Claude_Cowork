@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000060",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000060",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.144,
+        0.749,
+        0.992,
+        0.824
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.748,
+        0.128,
+        0.322,
+        0.327
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.526,
+        0.557,
+        0.187,
+        0.025
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.23,
+        0.736,
+        0.187,
+        0.962
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.441,
+        0.473,
+        0.38,
+        0.379
+      ],
+      "page": 1
+    },
+    {
+      "text": "66.42",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.495,
+        0.321,
+        0.696,
+        0.501
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-530849",
+      "field_hint": "po_number",
+      "bbox": [
+        0.056,
+        0.473,
+        0.208,
+        0.684
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.39,
+        0.36,
+        0.19,
+        0.371
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactvie interactive intranet 1 x 32.76 = 29.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.657,
+        0.034,
+        0.841,
+        0.712
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved web-enabled artificial intelligence 3 x 4.91 = 14.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.22,
+        0.636,
+        0.122,
+        0.805
+      ],
+      "page": 1
+    }
+  ]
+}

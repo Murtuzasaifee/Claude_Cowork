@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000126",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000126",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.754,
+        0.131,
+        0.21,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.153,
+        0.952,
+        0.92,
+        0.508
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.292,
+        0.997,
+        0.346,
+        0.99
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michael Madden",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.717,
+        0.665,
+        0.685,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-03",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.405,
+        0.377,
+        0.821,
+        0.618
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.656,
+        0.9,
+        0.242,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.799,
+        0.067,
+        0.648,
+        0.532
+      ],
+      "page": 1
+    },
+    {
+      "text": "157.48",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.492,
+        0.105,
+        0.236,
+        0.486
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-848022",
+      "field_hint": "po_number",
+      "bbox": [
+        0.95,
+        0.772,
+        0.653,
+        0.324
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced multi-tasking info-mediaries 1 x 6.48 = 5.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.385,
+        0.401,
+        0.057,
+        0.785
+      ],
+      "page": 2
+    },
+    {
+      "text": "Expanded responsive time-frame 8 x 4.08 = 31.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.72,
+        0.657,
+        0.386,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive tranitional alliance 2 x 49.46 = 98.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.799,
+        0.937,
+        0.66
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled 5thgeneration flexibility 1 x 3.88 = 3.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.268,
+        0.077,
+        0.766,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "BusinKess-focused full-range methodology 1 x 8.16 = 8.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.721,
+        0.592,
+        0.212,
+        0.321
+      ],
+      "page": 2
+    }
+  ]
+}

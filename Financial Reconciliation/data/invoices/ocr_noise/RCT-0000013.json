@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000013",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000013",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.694,
+        0.974,
+        0.124,
+        0.349
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.042,
+        0.713,
+        0.499,
+        0.283
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.123,
+        0.025,
+        0.608,
+        0.388
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.031,
+        0.846,
+        0.758,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.646,
+        0.575,
+        0.489,
+        0.432
+      ],
+      "page": 1
+    },
+    {
+      "text": "10.69",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.313,
+        0.68,
+        0.398,
+        0.704
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-827744",
+      "field_hint": "po_number",
+      "bbox": [
+        0.578,
+        0.781,
+        0.665,
+        0.771
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.402,
+        0.25,
+        0.998,
+        0.791
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased tangible adapter 1 x 10.18 = 10.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.879,
+        0.796,
+        0.703,
+        0.594
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000101",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000101",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.313,
+        0.719,
+        0.304,
+        0.619
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.059,
+        0.716,
+        0.552,
+        0.011
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.186,
+        0.033,
+        0.255,
+        0.047
+      ],
+      "page": 1
+    },
+    {
+      "text": "William Mora",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.719,
+        0.01,
+        0.87,
+        0.933
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-25",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.568,
+        0.114,
+        0.837,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.025,
+        0.861,
+        0.87,
+        0.215
+      ],
+      "page": 1
+    },
+    {
+      "text": "BGP",
+      "field_hint": "currency",
+      "bbox": [
+        0.683,
+        0.754,
+        0.187,
+        0.451
+      ],
+      "page": 1
+    },
+    {
+      "text": "121.43",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.088,
+        0.112,
+        0.437,
+        0.564
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-k819964",
+      "field_hint": "po_number",
+      "bbox": [
+        0.891,
+        0.494,
+        0.027,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.111,
+        0.803,
+        0.987,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory reciprocal hierarchy 1 x 6.16 = 5.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.737,
+        0.953,
+        0.007,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased maximized Internet solution 1 x 15.66 = 13.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.257,
+        0.169,
+        0.442,
+        0.78
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound web-enabled time-frame 1 x 18.13 = 16.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.299,
+        0.483,
+        0.807,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "xIntegrated methodical analyzer 1 x 7.47 = 6.35",
+      "field_hint": "line_item",
+      "bbox": [
+        0.792,
+        0.078,
+        0.522,
+        0.779
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable zero tolerance flexibility 1 x .62 = 6.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.32,
+        0.528,
+        0.502,
+        0.164
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual needs-based implementation 1 x 40.19 = 40.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.062,
+        0.782,
+        0.504,
+        0.436
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000160",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000160",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.579,
+        0.339,
+        0.565,
+        0.642
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.075,
+        0.54,
+        0.423,
+        0.592
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.894,
+        0.859,
+        0.171,
+        0.472
+      ],
+      "page": 1
+    },
+    {
+      "text": "Justin Rmoero",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.133,
+        0.017,
+        0.625,
+        0.456
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.994,
+        0.421,
+        0.673,
+        0.882
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.803,
+        0.381,
+        0.651,
+        0.642
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.821,
+        0.485,
+        0.006,
+        0.179
+      ],
+      "page": 1
+    },
+    {
+      "text": "138.92",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.662,
+        0.658,
+        0.298,
+        0.658
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-584838",
+      "field_hint": "po_number",
+      "bbox": [
+        0.019,
+        0.09,
+        0.926,
+        0.957
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.183,
+        0.909,
+        0.57,
+        0.405
+      ],
+      "page": 1
+    },
+    {
+      "text": "Switchable regional superstructure 3 x 13.73 = 37.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.25,
+        0.377,
+        0.761,
+        0.001
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable contextually-based intranet 1 x 68.4 = 64.98",
+      "field_hint": "line_item",
+      "bbox": [
+        0.844,
+        0.891,
+        0.308,
+        0.352
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable bifurcated solution 2 x 9.87 = 18.75",
+      "field_hint": "line_item",
+      "bbox": [
+        0.501,
+        0.079,
+        0.533,
+        0.44
+      ],
+      "page": 1
+    }
+  ]
+}

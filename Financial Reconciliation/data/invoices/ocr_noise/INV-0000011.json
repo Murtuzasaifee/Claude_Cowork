@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000011",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "IN-V0000011",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.63,
+        0.871,
+        0.911,
+        0.157
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.506,
+        0.733,
+        0.099,
+        0.647
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Motron",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.97,
+        0.769,
+        0.007,
+        0.835
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michele Hall",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.171,
+        0.266,
+        0.715,
+        0.415
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.753,
+        0.53,
+        0.787,
+        0.138
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-23",
+      "field_hint": "due_date",
+      "bbox": [
+        0.898,
+        0.952,
+        0.516,
+        0.682
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.77,
+        0.718,
+        0.517,
+        0.07
+      ],
+      "page": 1
+    },
+    {
+      "text": "411.31",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.772,
+        0.434,
+        0.393,
+        0.037
+      ],
+      "page": 1
+    },
+    {
+      "text": "OPO-292401",
+      "field_hint": "po_number",
+      "bbox": [
+        0.98,
+        0.799,
+        0.876,
+        0.973
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.701,
+        0.874,
+        0.722,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory stable capacity 1 x 10.5 = 8.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.9,
+        0.61,
+        0.147,
+        0.404
+      ],
+      "page": 2
+    },
+    {
+      "text": "Profit-focused didactic circuit 1 x 9.04 = 9.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.788,
+        0.652,
+        0.697,
+        0.888
+      ],
+      "page": 2
+    },
+    {
+      "text": "Custoizable national secured line 5 x 17.31 = 86.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.037,
+        0.334,
+        0.725,
+        0.74
+      ],
+      "page": 1
+    },
+    {
+      "text": "Horizontal empowering protocol 4 x 27.41 = 109.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.214,
+        0.512,
+        0.312,
+        0.341
+      ],
+      "page": 2
+    },
+    {
+      "text": "Adaptive content-based complexity 3 xq 31.83 = 95.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.241,
+        0.774,
+        0.727,
+        0.987
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customer-focused heuristic orchestration 4 x 13.78 = 55.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.26,
+        0.507,
+        0.124,
+        0.757
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized impactful utilization 1 x 10.18 = 9.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.005,
+        0.339,
+        0.236,
+        0.746
+      ],
+      "page": 2
+    }
+  ]
+}

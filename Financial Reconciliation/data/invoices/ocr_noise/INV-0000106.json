@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000106",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.337,
+        0.536,
+        0.66,
+        0.455
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.777,
+        0.104,
+        0.764,
+        0.282
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Wright",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.79,
+        0.683,
+        0.625,
+        0.141
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-i01-04",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.15,
+        0.287,
+        0.129,
+        0.84
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.367,
+        0.968,
+        0.722,
+        0.84
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.655,
+        0.805,
+        0.215,
+        0.667
+      ],
+      "page": 1
+    },
+    {
+      "text": "143.F79",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.823,
+        0.776,
+        0.229,
+        0.454
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-84326",
+      "field_hint": "po_number",
+      "bbox": [
+        0.327,
+        0.367,
+        0.307,
+        0.924
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEPIT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.779,
+        0.026,
+        0.99,
+        0.93
+      ],
+      "page": 1
+    },
+    {
+      "text": "Centralized fault-tolerant functionalities 2 x 6.76 = 13.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.162,
+        0.231,
+        0.495,
+        0.06
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enterprise-wide responsive core 1 x 12.11 = 10.9",
+      "field_hint": "line_item",
+      "bbox": [
+        0.722,
+        0.085,
+        0.426,
+        0.591
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile zero-defect instructionset 2 x 1.07 = 1.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.65,
+        0.901,
+        0.342,
+        0.261
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated human-resource flexibility 1 x 6.62 = 6.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.642,
+        0.222,
+        0.71,
+        0.285
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable directional ntranet 3 x 30.78 = 92.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.957,
+        0.564,
+        0.768,
+        0.451
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased attitude-oriented ability 1 x 5.52 = 5.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.065,
+        0.443,
+        0.677,
+        0.998
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000010",
+    "scanned_pages": 3,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-00A00010",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.849,
+        0.737,
+        0.596,
+        0.554
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.486,
+        0.591,
+        0.611,
+        0.679
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.714,
+        0.528,
+        0.422,
+        0.316
+      ],
+      "page": 1
+    },
+    {
+      "text": "Thomas Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.417,
+        0.473,
+        0.495,
+        0.939
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.021,
+        0.288,
+        0.192,
+        0.344
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.909,
+        0.339,
+        0.602,
+        0.842
+      ],
+      "page": 1
+    },
+    {
+      "text": "AE",
+      "field_hint": "currency",
+      "bbox": [
+        0.711,
+        0.96,
+        0.833,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "80.37",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.8,
+        0.845,
+        0.622,
+        0.282
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-544154",
+      "field_hint": "po_number",
+      "bbox": [
+        0.129,
+        0.199,
+        0.606,
+        0.101
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.304,
+        0.209,
+        0.047,
+        0.018
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable logistical adapter 1 x 4.51 = 4.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.159,
+        0.828,
+        0.894,
+        0.032
+      ],
+      "page": 1
+    },
+    {
+      "text": "Proactiev context-sensitive core 1 x 25.27 = 24.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.562,
+        0.486,
+        0.994,
+        0.785
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed web-enabled forecast 4 x 8.38 = 33.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.896,
+        0.853,
+        0.874,
+        0.604
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fundamental 3rdgeneration firmware 2 x 4.28 = 8.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.438,
+        0.457,
+        0.842,
+        0.111
+      ],
+      "page": 1
+    }
+  ]
+}

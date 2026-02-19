@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000043",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000043",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.84,
+        0.168,
+        0.617,
+        0.555
+      ],
+      "page": 1
+    },
+    {
+      "text": "renceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.746,
+        0.918,
+        0.208,
+        0.433
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.293,
+        0.788,
+        0.929,
+        0.749
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey JuaQrez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.778,
+        0.186,
+        0.144,
+        0.463
+      ],
+      "page": 1
+    },
+    {
+      "text": "2062-02-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.006,
+        0.994,
+        0.483,
+        0.561
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-11",
+      "field_hint": "due_date",
+      "bbox": [
+        0.08,
+        0.743,
+        0.407,
+        0.666
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.638,
+        0.347,
+        0.87,
+        0.757
+      ],
+      "page": 1
+    },
+    {
+      "text": "189.01",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.48,
+        0.342,
+        0.425,
+        0.193
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-652021",
+      "field_hint": "po_number",
+      "bbox": [
+        0.851,
+        0.453,
+        0.644,
+        0.767
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.34,
+        0.356,
+        0.584,
+        0.218
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused 24hour initiative 1 x 18.65 = 16.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.221,
+        0.636,
+        0.825,
+        0.17
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved secondary protocol 1 x 33.73 = 33.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.923,
+        0.023,
+        0.709,
+        0.789
+      ],
+      "page": 1
+    },
+    {
+      "text": "Function-based multimedia encoding 2 x 12.21 = 24.42",
+      "field_hint": "line_item",
+      "bbox": [
+        0.331,
+        0.338,
+        0.908,
+        0.521
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive directional system engine 1 x 10.88 = 10.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.981,
+        0.796,
+        0.892,
+        0.983
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergized grid-enabled infrastructure 1 x 22.44 = 22.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.971,
+        0.537,
+        0.954,
+        0.36
+      ],
+      "page": 2
+    },
+    {
+      "text": "Expanded bi-directional structure 5 x 7.84 = 39.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.285,
+        0.869,
+        0.46,
+        0.528
+      ],
+      "page": 1
+    },
+    {
+      "text": "Compatible context-sensitive Grapic Interface 1 x 10.03 = 10.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.746,
+        0.431,
+        0.746,
+        0.207
+      ],
+      "page": 2
+    }
+  ]
+}

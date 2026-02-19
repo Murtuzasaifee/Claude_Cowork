@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000014",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.598,
+        0.839,
+        0.38,
+        0.351
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.51,
+        0.045,
+        0.739,
+        0.563
+      ],
+      "page": 1
+    },
+    {
+      "text": "Katherine Thomas",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.123,
+        0.14,
+        0.556,
+        0.279
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.957,
+        0.318,
+        0.682,
+        0.343
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.453,
+        0.246,
+        0.983,
+        0.342
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.016,
+        0.692,
+        0.646,
+        0.002
+      ],
+      "page": 1
+    },
+    {
+      "text": "11.69",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.673,
+        0.413,
+        0.895,
+        0.703
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-712554",
+      "field_hint": "po_number",
+      "bbox": [
+        0.787,
+        0.649,
+        0.078,
+        0.031
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.672,
+        0.353,
+        0.813,
+        0.827
+      ],
+      "page": 1
+    },
+    {
+      "text": "hProgrammable 6thgeneration superstructure 1 x 13.09 = 11.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.463,
+        0.936,
+        0.445,
+        0.222
+      ],
+      "page": 1
+    }
+  ]
+}

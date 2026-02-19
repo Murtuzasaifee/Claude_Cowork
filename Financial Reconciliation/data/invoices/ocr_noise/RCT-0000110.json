@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000110",
+    "scanned_pages": 1,
+    "rotation_degrees": 180,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-a0000110",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.747,
+        0.587,
+        0.128,
+        0.685
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.35,
+        0.324,
+        0.177,
+        0.345
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.712,
+        0.667,
+        0.201,
+        0.126
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jennifer Morrison",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.687,
+        0.502,
+        0.92,
+        0.959
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-05",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.885,
+        0.521,
+        0.508,
+        0.348
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-2-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.836,
+        0.677,
+        0.081,
+        0.421
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.302,
+        0.043,
+        0.24,
+        0.934
+      ],
+      "page": 1
+    },
+    {
+      "text": "171.81",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.639,
+        0.342,
+        0.883,
+        0.314
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-081432",
+      "field_hint": "po_number",
+      "bbox": [
+        0.207,
+        0.334,
+        0.984,
+        0.187
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.075,
+        0.149,
+        0.395,
+        0.404
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synchronized incremental moderator 1 x 2.27 = 2.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.709,
+        0.904,
+        0.451,
+        0.739
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic fresh-thinking encoding 1 x 16.32 = 16.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.877,
+        0.58,
+        0.553,
+        0.526
+      ],
+      "page": 2
+    },
+    {
+      "text": "Switchable full-range project 3 x 22.04 = 66.12",
+      "field_hint": "line_item",
+      "bbox": [
+        0.607,
+        0.408,
+        0.198,
+        0.572
+      ],
+      "page": 1
+    },
+    {
+      "text": "Verqsatile incremental knowledge user 3 x 9.28 = 25.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.709,
+        0.389,
+        0.875,
+        0.989
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable multi-tasking algorithm 1 x 37.1 = 33.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.732,
+        0.422,
+        0.133,
+        0.004
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced empowering circuit 1 x 6.1 = 5.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.586,
+        0.718,
+        0.01,
+        0.488
+      ],
+      "page": 1
+    }
+  ]
+}

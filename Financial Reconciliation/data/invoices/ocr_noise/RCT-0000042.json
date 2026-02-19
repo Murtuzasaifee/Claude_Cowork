@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000042",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000042",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.896,
+        0.966,
+        0.811,
+        0.028
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.518,
+        0.866,
+        0.968,
+        0.102
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ellen Patterson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.924,
+        0.241,
+        0.053,
+        0.837
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12e-27",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.537,
+        0.636,
+        0.162,
+        0.298
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.188,
+        0.063,
+        0.806,
+        0.13
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.014,
+        0.545,
+        0.186,
+        0.904
+      ],
+      "page": 1
+    },
+    {
+      "text": "88.77",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.906,
+        0.416,
+        0.319,
+        0.882
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-129576",
+      "field_hint": "po_number",
+      "bbox": [
+        0.331,
+        0.401,
+        0.232,
+        0.433
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.523,
+        0.029,
+        0.628,
+        0.551
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual systemic hub 1 x 13.13 = 13.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.076,
+        0.171,
+        0.663,
+        0.705
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured upward-trending emulation 5 x 1.09 = 55.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.273,
+        0.589,
+        0.715,
+        0.526
+      ],
+      "page": 1
+    },
+    {
+      "text": "Monitored coherent strategy 1 x 12.44 = 11.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.156,
+        0.693,
+        0.533,
+        0.287
+      ],
+      "page": 1
+    }
+  ]
+}

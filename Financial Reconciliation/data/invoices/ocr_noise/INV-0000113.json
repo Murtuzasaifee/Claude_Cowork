@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000113",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000113",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.481,
+        0.495,
+        0.559,
+        0.196
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.882,
+        0.358,
+        0.931,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.135,
+        0.718,
+        0.793,
+        0.853
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andre Gray",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.147,
+        0.111,
+        0.165,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.884,
+        0.342,
+        0.43,
+        0.696
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-17",
+      "field_hint": "due_date",
+      "bbox": [
+        0.532,
+        0.461,
+        0.35,
+        0.819
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.948,
+        0.175,
+        0.128,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "174.57",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.324,
+        0.253,
+        0.797,
+        0.98
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-10163",
+      "field_hint": "po_number",
+      "bbox": [
+        0.306,
+        0.367,
+        0.652,
+        0.339
+      ],
+      "page": 1
+    },
+    {
+      "text": "ENT14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.14,
+        0.194,
+        0.935,
+        0.985
+      ],
+      "page": 1
+    },
+    {
+      "text": "Exclusive web-enabled concept 1 x 8.43 = 8.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.765,
+        0.731,
+        0.491,
+        0.94
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source human-resource Local Area Network 1 x 11.11 =11.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.774,
+        0.764,
+        0.243,
+        0.293
+      ],
+      "page": 2
+    },
+    {
+      "text": "Mnaaged fault-tolerant focus group 2 x 2.93 = 5.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.192,
+        0.833,
+        0.539,
+        0.685
+      ],
+      "page": 1
+    },
+    {
+      "text": "Realigned foreground task-force 2 x 3.7 = 7.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.013,
+        0.543,
+        0.801,
+        0.067
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-lateral disintermediate conglomeration 11 x 9.17 = 100.87",
+      "field_hint": "line_item",
+      "bbox": [
+        0.255,
+        0.715,
+        0.194,
+        0.387
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized dynamic emulation 1 x 5.15 = 5.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.83,
+        0.267,
+        0.894,
+        0.331
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused multi-tasking emulation 3 x 10.76 =O 27.44",
+      "field_hint": "line_item",
+      "bbox": [
+        0.74,
+        0.515,
+        0.715,
+        0.396
+      ],
+      "page": 1
+    }
+  ]
+}

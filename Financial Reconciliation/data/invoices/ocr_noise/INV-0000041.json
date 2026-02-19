@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000041",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000041",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.417,
+        0.994,
+        0.309,
+        0.041
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.612,
+        0.433,
+        0.455,
+        0.968
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.969,
+        0.499,
+        0.686,
+        0.466
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bonnie Reynolds",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.624,
+        0.664,
+        0.304,
+        0.288
+      ],
+      "page": 1
+    },
+    {
+      "text": "202-602-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.283,
+        0.593,
+        0.053,
+        0.306
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-04",
+      "field_hint": "due_date",
+      "bbox": [
+        0.001,
+        0.251,
+        0.35,
+        0.283
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.769,
+        0.155,
+        0.086,
+        0.271
+      ],
+      "page": 1
+    },
+    {
+      "text": "s24.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.219,
+        0.473,
+        0.355,
+        0.812
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-596564",
+      "field_hint": "po_number",
+      "bbox": [
+        0.967,
+        0.098,
+        0.261,
+        0.302
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.679,
+        0.322,
+        0.578,
+        0.683
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated toptimizing approach 1 x 25.68 = 23.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.305,
+        0.297,
+        0.927,
+        0.461
+      ],
+      "page": 1
+    }
+  ]
+}

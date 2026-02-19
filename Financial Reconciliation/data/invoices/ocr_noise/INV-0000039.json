@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000039",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.688,
+        0.792,
+        0.38,
+        0.699
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.12,
+        0.319,
+        0.148,
+        0.584
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Juarez",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.637,
+        0.668,
+        0.522,
+        0.241
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.281,
+        0.773,
+        0.483,
+        0.092
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-15",
+      "field_hint": "due_date",
+      "bbox": [
+        0.353,
+        0.836,
+        0.242,
+        0.647
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.075,
+        0.495,
+        0.212,
+        0.67
+      ],
+      "page": 1
+    },
+    {
+      "text": "227.57",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.488,
+        0.34,
+        0.814,
+        0.762
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-453894",
+      "field_hint": "po_number",
+      "bbox": [
+        0.944,
+        0.709,
+        0.655,
+        0.848
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET0",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.975,
+        0.868,
+        0.513,
+        0.78
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned radical database 1 x 36.13 = 36.13",
+      "field_hint": "line_item",
+      "bbox": [
+        0.164,
+        0.307,
+        0.87,
+        0.648
+      ],
+      "page": 1
+    },
+    {
+      "text": "Synergistic zer otolerance middleware 2 x 8.96 = 17.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.017,
+        0.461,
+        0.267,
+        0.476
+      ],
+      "page": 2
+    },
+    {
+      "text": "Quality-focused 24/7 secured line 1 x 12.29 = 12.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.927,
+        0.084,
+        0.431,
+        0.151
+      ],
+      "page": 2
+    },
+    {
+      "text": "Pre-emptive foreground focus group 3 x 23.37 = 70.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.441,
+        0.37,
+        0.049,
+        0.383
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced human-resource workforce 1 x 01.3 = 10.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.276,
+        0.607,
+        0.519,
+        0.109
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled exuding standardization 1 x 22.15 = 21.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.22,
+        0.053,
+        0.036,
+        0.266
+      ],
+      "page": 1
+    },
+    {
+      "text": "Public-key holistic knowledge user 4 x 10.08 = 40.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.883,
+        0.7,
+        0.405,
+        0.393
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000099",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000099",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.839,
+        0.198,
+        0.641,
+        0.23
+      ],
+      "page": 1
+    },
+    {
+      "text": "reecipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.144,
+        0.43,
+        0.214,
+        0.185
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bec-kMorton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.79,
+        0.155,
+        0.59,
+        0.143
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-08",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.757,
+        0.311,
+        0.979,
+        0.19
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-09",
+      "field_hint": "due_date",
+      "bbox": [
+        0.369,
+        0.087,
+        0.989,
+        0.667
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.898,
+        0.557,
+        0.026,
+        0.805
+      ],
+      "page": 1
+    },
+    {
+      "text": "215.49",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.81,
+        0.198,
+        0.054,
+        0.546
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-282085",
+      "field_hint": "po_number",
+      "bbox": [
+        0.999,
+        0.294,
+        0.499,
+        0.458
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RCEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.156,
+        0.303,
+        0.431,
+        0.392
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered full-range intranet 5 x 10.48 = 52.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.222,
+        0.929,
+        0.82,
+        0.68
+      ],
+      "page": 2
+    },
+    {
+      "text": "Down-sized intermediate open architecture 1 x 14.79 = 13.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.408,
+        0.159,
+        0.682,
+        0.356
+      ],
+      "page": 2
+    },
+    {
+      "text": "Future-proofed zero-defect neural-net 1 x 39.92 = 39.92",
+      "field_hint": "line_item",
+      "bbox": [
+        0.334,
+        0.633,
+        0.165,
+        0.477
+      ],
+      "page": 1
+    },
+    {
+      "text": "Configurable discrete Internet solution 1 x 9.69 = 8.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.85,
+        0.211,
+        0.913,
+        0.143
+      ],
+      "page": 1
+    },
+    {
+      "text": "Networked mission-critical success 6 x 39.1 = 22.29",
+      "field_hint": "line_item",
+      "bbox": [
+        0.945,
+        0.718,
+        0.882,
+        0.922
+      ],
+      "page": 2
+    },
+    {
+      "text": "Reverse-engineered optimal functionalities 1 x9 .3 = 8.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.682,
+        0.468,
+        0.192,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized content-based encoding 2 x 16.35 = 31.07",
+      "field_hint": "line_item",
+      "bbox": [
+        0.878,
+        0.43,
+        0.398,
+        0.046
+      ],
+      "page": 1
+    }
+  ]
+}

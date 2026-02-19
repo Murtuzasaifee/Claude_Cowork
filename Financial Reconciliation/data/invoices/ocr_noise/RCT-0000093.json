@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000093",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000093",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.992,
+        0.892,
+        0.284,
+        0.388
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.637,
+        0.848,
+        0.382,
+        0.504
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.875,
+        0.907,
+        0.892,
+        0.708
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jeffrey Andersen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.739,
+        0.255,
+        0.375,
+        0.502
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-02",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.29,
+        0.539,
+        0.499,
+        0.067
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-16",
+      "field_hint": "due_date",
+      "bbox": [
+        0.882,
+        0.628,
+        0.251,
+        0.726
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.173,
+        0.207,
+        0.258,
+        0.572
+      ],
+      "page": 1
+    },
+    {
+      "text": "7.834",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.576,
+        0.585,
+        0.801,
+        0.897
+      ],
+      "page": 1
+    },
+    {
+      "text": "O-522866",
+      "field_hint": "po_number",
+      "bbox": [
+        0.014,
+        0.699,
+        0.123,
+        0.861
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.289,
+        0.273,
+        0.511,
+        0.923
+      ],
+      "page": 1
+    },
+    {
+      "text": "Object-based web-enabled challenge 2 x 5.31 = 10.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.795,
+        0.071,
+        0.83,
+        0.667
+      ],
+      "page": 1
+    },
+    {
+      "text": "Streamlined coherent Graphical User Interface 1 x 17.54 = 17.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.696,
+        0.391,
+        0.297,
+        0.418
+      ],
+      "page": 2
+    },
+    {
+      "text": "Stand-alone clear-thinking archive 2 x 9.91 = 19.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.892,
+        0.402,
+        0.819,
+        0.31
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mandatory system-worthy strategy 1 x 8.42 = 7.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.787,
+        0.667,
+        0.45,
+        0.815
+      ],
+      "page": 1
+    }
+  ]
+}

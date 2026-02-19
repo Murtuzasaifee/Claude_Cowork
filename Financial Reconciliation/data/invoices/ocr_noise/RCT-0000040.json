@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000040",
+    "scanned_pages": 2,
+    "rotation_degrees": 180,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RT-0000040",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.349,
+        0.719,
+        0.441,
+        0.039
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.366,
+        0.9,
+        0.995,
+        0.238
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.767,
+        0.868,
+        0.789,
+        0.796
+      ],
+      "page": 1
+    },
+    {
+      "text": "Thomas Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.783,
+        0.608,
+        0.379,
+        0.115
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-31",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.917,
+        0.837,
+        0.32,
+        0.496
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.301,
+        0.657,
+        0.8,
+        0.521
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.509,
+        0.275,
+        0.588,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "200.32",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.797,
+        0.503,
+        0.171,
+        0.734
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-161437",
+      "field_hint": "po_number",
+      "bbox": [
+        0.266,
+        0.027,
+        0.617,
+        0.558
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.765,
+        0.317,
+        0.974,
+        0.737
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cross-group zero tolerance flexibility 1 x 22.19 = 21.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.091,
+        0.963,
+        0.911,
+        0.518
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source solution-oriented algorithm 2 x 17.47 = 34.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.25,
+        0.677,
+        0.897,
+        0.61
+      ],
+      "page": 2
+    },
+    {
+      "text": "Configurable fault-tolerant circuit 1 x 20.1 = 20.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.222,
+        0.166,
+        0.243,
+        0.827
+      ],
+      "page": 1
+    },
+    {
+      "text": "Team-oriented impactful policy 2 x 19.85 = 39.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.052,
+        0.659,
+        0.723,
+        0.199
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured solution-oriented customer loyalty 2 x 27.87 = 55.74",
+      "field_hint": "line_item",
+      "bbox": [
+        0.008,
+        0.759,
+        0.885,
+        0.148
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-layered well-modulated workforce 3 x 7.12 = 19.22",
+      "field_hint": "line_item",
+      "bbox": [
+        0.968,
+        0.495,
+        0.932,
+        0.009
+      ],
+      "page": 1
+    }
+  ]
+}

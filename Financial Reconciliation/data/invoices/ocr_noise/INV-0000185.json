@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000185",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000185",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.659,
+        0.648,
+        0.76,
+        0.067
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.821,
+        0.648,
+        0.477,
+        0.055
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kenneth Faulkner",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.625,
+        0.156,
+        0.246,
+        0.675
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.68,
+        0.442,
+        0.386,
+        0.826
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.246,
+        0.151,
+        0.684,
+        0.123
+      ],
+      "page": 1
+    },
+    {
+      "text": "UDS",
+      "field_hint": "currency",
+      "bbox": [
+        0.819,
+        0.517,
+        0.284,
+        0.513
+      ],
+      "page": 1
+    },
+    {
+      "text": "138.75",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.084,
+        0.286,
+        0.152,
+        0.312
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized actuating strategy 1 x 18.24 = 17.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.337,
+        0.908,
+        0.57,
+        0.538
+      ],
+      "page": 2
+    },
+    {
+      "text": "Seamless directional workforce 2 x 9.54 = 19.08",
+      "field_hint": "line_item",
+      "bbox": [
+        0.697,
+        0.207,
+        0.26,
+        0.345
+      ],
+      "page": 2
+    },
+    {
+      "text": "Organic attitude-oriented adapter 1 x 14.63 = 14.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.38,
+        0.209,
+        0.971,
+        0.755
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-channeled 24/7 utilization 3 mx 28.19 = 84.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.801,
+        0.497,
+        0.342,
+        0.072
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary multi-state strategy 1 x 3.14 = 3.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.139,
+        0.094,
+        0.779,
+        0.667
+      ],
+      "page": 1
+    }
+  ]
+}

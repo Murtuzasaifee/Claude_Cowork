@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000013",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000013",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.45,
+        0.449,
+        0.866,
+        0.325
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.41,
+        0.233,
+        0.395,
+        0.541
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.736,
+        0.646,
+        0.866,
+        0.707
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paul Mcneil",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.707,
+        0.561,
+        0.124,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.577,
+        0.053,
+        0.57,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.12,
+        0.936,
+        0.18,
+        0.019
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.706,
+        0.888,
+        0.444,
+        0.807
+      ],
+      "page": 1
+    },
+    {
+      "text": "368.14",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.045,
+        0.862,
+        0.023,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-794022",
+      "field_hint": "po_number",
+      "bbox": [
+        0.317,
+        0.257,
+        0.115,
+        0.099
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.09,
+        0.307,
+        0.407,
+        0.169
+      ],
+      "page": 1
+    },
+    {
+      "text": "Extended dynamic attitude 1 x 15.52 = 15.52",
+      "field_hint": "line_item",
+      "bbox": [
+        0.027,
+        0.059,
+        0.39,
+        0.32
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused attitude-oriented moderator 1 x 16.73 = 16.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.942,
+        0.9,
+        0.052,
+        0.24
+      ],
+      "page": 2
+    },
+    {
+      "text": "Universal real-time Internet solution 1 x 10.85 = 10.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.752,
+        0.385,
+        0.115,
+        0.061
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized disintermediate tmie-frame 1 x 6.3 = 6.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.634,
+        0.914,
+        0.019,
+        0.554
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-tiered 4thgeneration interface 7 x 32.55 = 216.46",
+      "field_hint": "line_item",
+      "bbox": [
+        0.555,
+        0.785,
+        0.305,
+        0.407
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized neutral standardization 6 x 12.03 = 72.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.783,
+        0.142,
+        0.54,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "Upgradable coherent access 1 x 3.78 = 3.59",
+      "field_hint": "line_item",
+      "bbox": [
+        0.911,
+        0.452,
+        0.001,
+        0.465
+      ],
+      "page": 2
+    }
+  ]
+}

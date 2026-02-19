@@ -1,0 +1,31 @@
+Ticket_ID,Created_Date,Resolved_Date,Category,Sub_Category,Priority,Status,Customer_Tier,Product,Issue_Description,Resolution_Time_Hours,First_Response_Time_Hours,Customer_Satisfaction,Agent_Name,Resolution_Type,Escalated,Follow_Up_Required,Related_Tickets
+T10001,2024-01-15 09:23,2024-01-15 14:45,Technical,Login Issues,High,Resolved,Enterprise,Analytics Suite,Cannot access dashboard after password reset,5.4,0.5,4,John Martinez,Password Reset,No,No,0
+T10002,2024-01-15 10:15,2024-01-16 11:30,Billing,Payment Failed,Medium,Resolved,Small Business,Cloud Storage Pro,Credit card declined during renewal,25.3,2.1,5,Emily Chen,Payment Retry,No,No,0
+T10003,2024-01-15 11:42,2024-01-15 13:20,Feature Request,Integration,Low,Resolved,Enterprise,CRM System,Request Salesforce integration,1.6,0.3,5,Marcus Brown,Feature Added to Roadmap,No,Yes,0
+T10004,2024-01-15 13:05,2024-01-17 09:15,Technical,Performance,Critical,Resolved,Enterprise,Database Pro,Query timeouts on large datasets,44.2,0.2,3,Sarah Kim,Configuration Change,Yes,Yes,2
+T10005,2024-01-15 14:28,2024-01-15 16:10,Account,User Management,Medium,Resolved,Small Business,Project Manager,Cannot add new team members,1.7,0.8,4,David Lopez,Permission Fix,No,No,0
+T10006,2024-01-16 08:45,2024-01-18 14:20,Technical,Data Loss,Critical,Resolved,Enterprise,Collaboration Tools,Files missing after sync,53.6,0.1,2,Emily Chen,Data Recovery,Yes,Yes,3
+T10007,2024-01-16 09:30,2024-01-16 10:45,How-To,Basic Usage,Low,Resolved,Consumer,Email Platform,How to create email templates,1.3,0.4,5,John Martinez,Tutorial Provided,No,No,0
+T10008,2024-01-16 11:15,2024-01-16 15:30,Billing,Invoice Request,Low,Resolved,Small Business,Security Suite,Need detailed invoice for accounting,4.3,1.2,5,Marcus Brown,Invoice Sent,No,No,0
+T10009,2024-01-16 13:50,2024-01-19 10:25,Technical,Bug Report,High,Resolved,Enterprise,Analytics Suite,Charts not rendering in reports,68.6,0.6,4,Sarah Kim,Bug Fix Deployed,Yes,No,1
+T10010,2024-01-16 15:20,2024-01-16 16:05,Account,Access Request,Medium,Resolved,Small Business,Project Manager,Request admin privileges,0.8,0.3,5,David Lopez,Permission Granted,No,No,0
+T10011,2024-01-17 08:15,2024-01-17 12:40,Technical,Installation,Medium,Resolved,Enterprise,Database Pro,Installation fails on Linux server,4.4,0.7,4,Emily Chen,Installation Guide,No,Yes,0
+T10012,2024-01-17 09:45,2024-01-17 11:20,Feature Request,Export Options,Low,Resolved,Small Business,CRM System,Need CSV export for contacts,1.6,0.5,5,John Martinez,Workaround Provided,No,No,0
+T10013,2024-01-17 11:30,2024-01-20 09:15,Technical,Integration,High,Resolved,Enterprise,Marketing Automation,Webhook failures with third-party app,69.8,0.4,3,Marcus Brown,Integration Fixed,Yes,Yes,2
+T10014,2024-01-17 14:05,2024-01-17 15:30,Billing,Upgrade Request,Medium,Resolved,Small Business,Cloud Storage Pro,Want to upgrade to enterprise plan,1.4,0.6,5,Sarah Kim,Account Upgraded,No,No,0
+T10015,2024-01-17 15:50,2024-01-17 17:25,How-To,Advanced Feature,Low,Resolved,Enterprise,Analytics Suite,How to create custom dashboards,1.6,0.4,4,David Lopez,Documentation Link,No,No,0
+T10016,2024-01-18 08:30,2024-01-22 11:45,Technical,Security,Critical,Resolved,Enterprise,Security Suite,Suspicious login attempts detected,99.3,0.1,4,Emily Chen,Security Audit,Yes,Yes,4
+T10017,2024-01-18 10:15,2024-01-18 11:50,Account,Profile Update,Low,Resolved,Consumer,Email Platform,Cannot update email preferences,1.6,0.5,5,John Martinez,Profile Updated,No,No,0
+T10018,2024-01-18 12:40,2024-01-18 16:20,Technical,Mobile App,Medium,Resolved,Small Business,Project Manager,Mobile app crashing on iOS,3.7,0.9,4,Marcus Brown,App Update Required,No,Yes,0
+T10019,2024-01-18 14:15,2024-01-21 10:30,Technical,Data Migration,High,Resolved,Enterprise,Database Pro,Migration from old system failing,68.3,0.3,3,Sarah Kim,Migration Script,Yes,Yes,3
+T10020,2024-01-18 16:05,2024-01-18 17:20,Billing,Refund Request,Medium,Resolved,Small Business,Collaboration Tools,Charged twice for subscription,1.3,0.7,5,David Lopez,Refund Processed,No,No,0
+T10021,2024-01-19 09:20,2024-01-19 13:45,Technical,Email Delivery,High,Resolved,Small Business,Email Platform,Emails going to spam folder,4.4,0.5,4,Emily Chen,DNS Configuration,No,Yes,1
+T10022,2024-01-19 11:05,2024-01-19 12:30,Feature Request,Reporting,Low,Resolved,Enterprise,CRM System,Custom report builder needed,1.4,0.4,4,John Martinez,Feature Noted,No,Yes,0
+T10023,2024-01-19 13:40,2024-01-19 15:15,Account,Deactivation,Medium,Resolved,Consumer,Cloud Storage Pro,Want to cancel subscription,1.6,0.8,3,Marcus Brown,Account Deactivated,No,No,0
+T10024,2024-01-19 15:25,2024-01-23 09:40,Technical,API Issues,Critical,Resolved,Enterprise,Analytics Suite,API rate limiting too aggressive,90.3,0.2,3,Sarah Kim,Rate Limit Adjusted,Yes,Yes,5
+T10025,2024-01-19 16:50,2024-01-19 17:35,How-To,Setup,Low,Resolved,Small Business,Security Suite,Initial setup guidance needed,0.8,0.3,5,David Lopez,Setup Call Scheduled,No,No,0
+T10026,2024-01-20 08:45,2024-01-20 14:20,Technical,Sync Issues,Medium,Resolved,Enterprise,Collaboration Tools,Files not syncing across devices,5.6,0.6,4,Emily Chen,Sync Reset,No,No,0
+T10027,2024-01-20 10:30,2024-01-20 11:45,Billing,Trial Extension,Low,Resolved,Small Business,Project Manager,Request trial extension,1.3,0.5,5,John Martinez,Trial Extended,No,No,0
+T10028,2024-01-20 12:15,2024-01-24 10:30,Technical,Performance,High,Resolved,Enterprise,Database Pro,Slow query performance,94.3,0.4,3,Marcus Brown,Index Optimization,Yes,Yes,2
+T10029,2024-01-20 14:45,2024-01-20 16:10,Account,Team Management,Medium,Resolved,Small Business,Marketing Automation,Remove user from team,1.4,0.7,5,Sarah Kim,User Removed,No,No,0
+T10030,2024-01-20 16:30,2024-01-20 17:50,Feature Request,Mobile Features,Low,Resolved,Consumer,Email Platform,Offline mode for mobile app,1.3,0.4,4,David Lopez,Feature Request Logged,No,Yes,0

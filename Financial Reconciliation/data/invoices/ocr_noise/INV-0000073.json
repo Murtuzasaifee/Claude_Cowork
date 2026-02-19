@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "doc_id": "INV-0000073",
+    "scanned_pages": 1,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000073",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.552,
+        0.489,
+        0.267,
+        0.913
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoi3ce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.509,
+        0.114,
+        0.811,
+        0.806
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.154,
+        0.801,
+        0.779,
+        0.864
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-24",
+      "field_hint": "due_date",
+      "bbox": [
+        0.617,
+        0.156,
+        0.626,
+        0.871
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.786,
+        0.106,
+        0.122,
+        0.704
+      ],
+      "page": 1
+    },
+    {
+      "text": "34.93",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.081,
+        0.092,
+        0.951,
+        0.004
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-410244",
+      "field_hint": "po_number",
+      "bbox": [
+        0.05,
+        0.079,
+        0.32,
+        0.529
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_REEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.706,
+        0.469,
+        0.732,
+        0.592
+      ],
+      "page": 1
+    },
+    {
+      "text": "Extended even-keeled application 1 x 13.03 = 13.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.508,
+        0.08,
+        0.974,
+        0.263
+      ],
+      "page": 2
+    },
+    {
+      "text": "Polarized system-worthy utilization 1 x 13.6 8= 13.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.762,
+        0.188,
+        0.849,
+        0.756
+      ],
+      "page": 1
+    }
+  ]
+}

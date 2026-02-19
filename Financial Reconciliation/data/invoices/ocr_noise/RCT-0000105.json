@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000105",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RhCT-0000105",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.979,
+        0.408,
+        0.752,
+        0.642
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.387,
+        0.178,
+        0.596,
+        0.501
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.728,
+        0.323,
+        0.652,
+        0.622
+      ],
+      "page": 1
+    },
+    {
+      "text": "Joseph Rasmussen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.765,
+        0.57,
+        0.118,
+        0.24
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.261,
+        0.982,
+        0.651,
+        0.797
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.883,
+        0.177,
+        0.687,
+        0.235
+      ],
+      "page": 1
+    },
+    {
+      "text": "334.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.889,
+        0.172,
+        0.324,
+        0.197
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-926394",
+      "field_hint": "po_number",
+      "bbox": [
+        0.092,
+        0.251,
+        0.98,
+        0.904
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.64,
+        0.826,
+        0.384,
+        0.168
+      ],
+      "page": 1
+    },
+    {
+      "text": "Mand6atory local hub 2 x 13.57 = 27.14",
+      "field_hint": "line_item",
+      "bbox": [
+        0.269,
+        0.416,
+        0.426,
+        0.736
+      ],
+      "page": 2
+    },
+    {
+      "text": "Grass-roots regional task-force 1 x 40.38 = 36.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.378,
+        0.865,
+        0.627,
+        0.242
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused disintermediate superstructure 1 x 13.57 = 11.53",
+      "field_hint": "line_item",
+      "bbox": [
+        0.881,
+        0.147,
+        0.858,
+        0.064
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary optimal array 1 x 20.83 = 20.83",
+      "field_hint": "line_item",
+      "bbox": [
+        0.037,
+        0.338,
+        0.425,
+        0.85
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable executive standardization 1 x 21.48 = 18.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.009,
+        0.107,
+        0.165,
+        0.002
+      ],
+      "page": 2
+    },
+    {
+      "text": "eVrsatile 6thgeneration knowledgebase 2 x 10.09 = 17.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.91,
+        0.762,
+        0.187,
+        0.983
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering interactive orchestration 3 x 54.54 = 163.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.541,
+        0.789,
+        0.962,
+        0.511
+      ],
+      "page": 1
+    }
+  ]
+}

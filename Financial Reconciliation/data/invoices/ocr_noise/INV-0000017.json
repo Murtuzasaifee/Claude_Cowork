@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000017",
+    "scanned_pages": 1,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000017",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.631,
+        0.913,
+        0.36,
+        0.975
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.219,
+        0.262,
+        0.174,
+        0.848
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortgea",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.262,
+        0.101,
+        0.831,
+        0.137
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kari Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.338,
+        0.21,
+        0.456,
+        0.37
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-340",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.434,
+        0.711,
+        0.118,
+        0.883
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-0S2-06",
+      "field_hint": "due_date",
+      "bbox": [
+        0.374,
+        0.6,
+        0.977,
+        0.245
+      ],
+      "page": 1
+    },
+    {
+      "text": "17Y3.36",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.149,
+        0.247,
+        0.629,
+        0.28
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-356150",
+      "field_hint": "po_number",
+      "bbox": [
+        0.584,
+        0.489,
+        0.727,
+        0.785
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.167,
+        0.388,
+        0.882,
+        0.751
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive 24/7 model 1 x 23.25 = 20.93",
+      "field_hint": "line_item",
+      "bbox": [
+        0.179,
+        0.712,
+        0.525,
+        0.483
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized value-added portal 1 x 40.23 = 36.21",
+      "field_hint": "line_item",
+      "bbox": [
+        0.638,
+        0.791,
+        0.65,
+        0.207
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent cohesive intranet 1 x 22.45 = 22.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.219,
+        0.425,
+        0.377,
+        0.157
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent client-esrver software 1 x 19.19 = 19.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.445,
+        0.352,
+        0.584,
+        0.465
+      ],
+      "page": 2
+    },
+    {
+      "text": "Persistent attitude-oriented process improvement 1 x 5.18 = 4.66",
+      "field_hint": "line_item",
+      "bbox": [
+        0.433,
+        0.368,
+        0.498,
+        0.273
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile coherent paradigm 2 x 18.81 = 37.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.645,
+        0.359,
+        0.082,
+        0.843
+      ],
+      "page": 2
+    },
+    {
+      "text": "Focused executve complexity 1 x 10.88 = 9.79",
+      "field_hint": "line_item",
+      "bbox": [
+        0.098,
+        0.071,
+        0.038,
+        0.2
+      ],
+      "page": 1
+    },
+    {
+      "text": "Stand-alone multi-state hierarchy 1 x 9.49 = 9.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.745,
+        0.768,
+        0.845,
+        0.191
+      ],
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000098",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000098",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.218,
+        0.54,
+        0.372,
+        0.039
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Snyder",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.634,
+        0.141,
+        0.514,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-07",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.446,
+        0.331,
+        0.402,
+        0.552
+      ],
+      "page": 1
+    },
+    {
+      "text": "20269-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.463,
+        0.028,
+        0.289,
+        0.803
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.712,
+        0.82,
+        0.354,
+        0.789
+      ],
+      "page": 1
+    },
+    {
+      "text": "94.42",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.864,
+        0.285,
+        0.822,
+        0.065
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-764000",
+      "field_hint": "po_number",
+      "bbox": [
+        0.201,
+        0.121,
+        0.313,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.818,
+        0.515,
+        0.108,
+        0.729
+      ],
+      "page": 1
+    },
+    {
+      "text": "Enhanced intangible matrix 1 x 28.02 = 26.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.675,
+        0.359,
+        0.817,
+        0.361
+      ],
+      "page": 2
+    },
+    {
+      "text": "Persistent heuristic ability 1 x 24.77 = 24.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.013,
+        0.786,
+        0.641,
+        0.769
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced composite software 1 x 19.28 = 16.39",
+      "field_hint": "line_item",
+      "bbox": [
+        0.315,
+        0.182,
+        0.843,
+        0.737
+      ],
+      "page": 2
+    },
+    {
+      "text": "Pre-emptive background forecast 4 x .416 = 16.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.16,
+        0.971,
+        0.128,
+        0.093
+      ],
+      "page": 1
+    }
+  ]
+}

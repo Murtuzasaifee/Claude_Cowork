@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000108",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000108",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.355,
+        0.426,
+        0.429,
+        0.254
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-rOtega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.804,
+        0.777,
+        0.607,
+        0.157
+      ],
+      "page": 1
+    },
+    {
+      "text": "Melissa Gaines",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.922,
+        0.838,
+        0.89,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.064,
+        0.241,
+        0.138,
+        0.854
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.415,
+        0.1,
+        0.965,
+        0.627
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-79403",
+      "field_hint": "po_number",
+      "bbox": [
+        0.667,
+        0.124,
+        0.252,
+        0.02
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.544,
+        0.941,
+        0.068,
+        0.715
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reverse-engineered regional projection 3 x 16.18 = 48.54",
+      "field_hint": "line_item",
+      "bbox": [
+        0.631,
+        0.27,
+        0.003,
+        0.249
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive radical array 3 x 20.1 = 60.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.042,
+        0.611,
+        0.502,
+        0.808
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse regional artificial intelligence 2 x 24.68 = 49.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.497,
+        0.913,
+        0.783,
+        0.529
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line directional neural-net 2 x 35.59 = 71.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.199,
+        0.59,
+        0.685,
+        0.814
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated empowering capability 1 x 9.4 = 9.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.102,
+        0.908,
+        0.955,
+        0.148
+      ],
+      "page": 1
+    },
+    {
+      "text": "Team-oriented contextually-based picing structure 2 x 6.8 = 13.6",
+      "field_hint": "line_item",
+      "bbox": [
+        0.248,
+        0.831,
+        0.762,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "Face-to-face homogeneous task-force 1 x 16.33 = 16.33",
+      "field_hint": "line_item",
+      "bbox": [
+        0.67,
+        0.595,
+        0.583,
+        0.912
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-friendly hoklistic analyzer 1 x 16.12 = 14.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.883,
+        0.848,
+        0.956,
+        0.14
+      ],
+      "page": 1
+    }
+  ]
+}

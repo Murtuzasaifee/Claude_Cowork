@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000130",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000130",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.933,
+        0.741,
+        0.033,
+        0.249
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.265,
+        0.208,
+        0.108,
+        0.301
+      ],
+      "page": 1
+    },
+    {
+      "text": "Newman Inc",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.416,
+        0.741,
+        0.675,
+        0.658
+      ],
+      "page": 1
+    },
+    {
+      "text": "John Lam",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.028,
+        0.552,
+        0.902,
+        0.95
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-15",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.141,
+        0.86,
+        0.381,
+        0.583
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-01",
+      "field_hint": "due_date",
+      "bbox": [
+        0.654,
+        0.647,
+        0.972,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.188,
+        0.038,
+        0.208,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "235.28",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.791,
+        0.367,
+        0.047,
+        0.162
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-971776",
+      "field_hint": "po_number",
+      "bbox": [
+        0.422,
+        0.338,
+        0.448,
+        0.337
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.159,
+        0.201,
+        0.52,
+        0.153
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered national monitoring 6 x 21.44 = 128.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.33,
+        0.574,
+        0.108,
+        0.204
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed mobile hardware 1 x 5.09 = 4.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.254,
+        0.468,
+        0.068,
+        0.692
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source systematic infrastructure 2 x 4.1 = 6.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.365,
+        0.816,
+        0.438,
+        0.427
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering static architecture 1 x 10.07 = 9.06",
+      "field_hint": "line_item",
+      "bbox": [
+        0.814,
+        0.249,
+        0.748,
+        0.174
+      ],
+      "page": 2
+    },
+    {
+      "text": "Grass-roots moible throughput 1 x 2.81 = 2.81",
+      "field_hint": "line_item",
+      "bbox": [
+        0.735,
+        0.556,
+        0.258,
+        0.488
+      ],
+      "page": 1
+    }
+  ]
+}

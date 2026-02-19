@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000095",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000095",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.346,
+        0.708,
+        0.523,
+        0.317
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.88,
+        0.2,
+        0.502,
+        0.713
+      ],
+      "page": 1
+    },
+    {
+      "text": "Taylor-Odonnell",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.349,
+        0.397,
+        0.424,
+        0.618
+      ],
+      "page": 1
+    },
+    {
+      "text": "Anthony Cox",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.987,
+        0.808,
+        0.543,
+        0.806
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.537,
+        0.664,
+        0.068,
+        0.653
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-31",
+      "field_hint": "due_date",
+      "bbox": [
+        0.683,
+        0.904,
+        0.693,
+        0.6
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.775,
+        0.916,
+        0.432,
+        0.264
+      ],
+      "page": 1
+    },
+    {
+      "text": "68.19",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.634,
+        0.421,
+        0.949,
+        0.592
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-316899",
+      "field_hint": "po_number",
+      "bbox": [
+        0.936,
+        0.284,
+        0.432,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.59,
+        0.191,
+        0.481,
+        0.727
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reactive real-time encoding 1 x 35.15 = 31.63",
+      "field_hint": "line_item",
+      "bbox": [
+        0.09,
+        0.878,
+        0.131,
+        0.988
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent asynchronous groupware 2 x 7.93 = 14.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.058,
+        0.787,
+        0.62,
+        0.856
+      ],
+      "page": 2
+    }
+  ]
+}

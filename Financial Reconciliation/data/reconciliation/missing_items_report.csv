@@ -1,0 +1,132 @@
+issue,doc_id,bank_txn_id,doc_amount,bank_amount,currency,detail
+POTENTIAL_MISMATCH,INV-0000122,BTX-00000001,295.58,735.8,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000095,BTX-00000001,154.65,735.8,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000015,BTX-00000001,51.95,735.8,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000135,BTX-00000001,122.44,735.8,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000167,BTX-00000001,142.13,735.8,EUR,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000186,BTX-00000002,107.73,622.98,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000138,BTX-00000002,489.46,622.98,EUR,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000018,BTX-00000003,182.89,618.46,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000188,BTX-00000003,99.22,618.46,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000108,BTX-00000003,345.7,618.46,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000042,BTX-00000004,88.77,327.23,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000191,BTX-00000004,232.89,327.23,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000081,BTX-00000005,40.24,902.9,EUR,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000052,BTX-00000005,221.44,902.9,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000056,BTX-00000005,660.92,902.9,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000098,BTX-00000006,94.42,595.8,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000096,BTX-00000006,17.92,595.8,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000133,BTX-00000006,146.57,595.8,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000195,BTX-00000006,329.17,595.8,GBP,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000114,BTX-00000007,68.79,238.89,USD,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000176,BTX-00000007,174.64,238.89,AED,Mismatched or complex mapping (multi_to_one). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000094,BTX-00000008,61.84,16.68,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000094,BTX-00000009,61.84,17.09,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000094,BTX-00000010,61.84,28.43,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000116,BTX-00000011,146.55,23.67,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000116,BTX-00000012,146.55,17.26,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000116,BTX-00000013,146.55,103.66,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000152,BTX-00000014,72.16,39.45,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000152,BTX-00000015,72.16,32.09,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000053,BTX-00000016,114.19,78.45,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000053,BTX-00000017,114.19,15.34,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000053,BTX-00000018,114.19,21.18,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000105,BTX-00000019,334.36,143.09,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000105,BTX-00000020,334.36,123.29,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000105,BTX-00000021,334.36,27.25,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000105,BTX-00000022,334.36,42.09,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000001,BTX-00000023,107.15,59.21,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000001,BTX-00000024,107.15,46.32,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000113,BTX-00000025,30.98,16.28,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000113,BTX-00000026,30.98,14.52,AED,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000123,BTX-00000027,154.98,78.06,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000123,BTX-00000028,154.98,20.27,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000123,BTX-00000029,154.98,30.53,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000123,BTX-00000030,154.98,24.59,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000038,BTX-00000031,138.2,35.07,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000038,BTX-00000032,138.2,53.08,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000038,BTX-00000033,138.2,47.96,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000126,BTX-00000034,157.48,20.9,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000126,BTX-00000035,157.48,139.24,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000022,BTX-00000036,25.19,6.47,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000022,BTX-00000037,25.19,10.38,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000022,BTX-00000038,25.19,3.1,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000022,BTX-00000039,25.19,5.1,USD,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000069,BTX-00000040,136.74,37.54,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000069,BTX-00000041,136.74,30.84,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000069,BTX-00000042,136.74,8.78,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000069,BTX-00000043,136.74,59.54,EUR,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000147,BTX-00000044,216.44,68.83,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000147,BTX-00000045,216.44,145.14,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000048,BTX-00000046,117.98,22.33,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000048,BTX-00000047,117.98,39.04,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000048,BTX-00000048,117.98,8.92,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000048,BTX-00000049,117.98,46.19,GBP,Mismatched or complex mapping (one_to_multi). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000007,BTX-00000056,92.18,96.57,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000010,BTX-00000059,80.37,73.64,AED,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000012,,16.4,,AED,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000015,BTX-00000063,46.2,49.32,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000023,,63.13,,AED,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000024,,129.17,,GBP,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000045,,283.83,,GBP,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000055,BTX-00000098,85.64,77.17,GBP,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000061,,109.13,,EUR,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000074,,22.96,,USD,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000077,BTX-00000117,268.55,307.7,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000088,BTX-00000128,166.23,160.61,AED,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000113,BTX-00000149,174.57,188.63,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000124,,211.82,,USD,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000145,,110.06,,EUR,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000151,BTX-00000178,295.23,292.3,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000159,,39.27,,EUR,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000160,,138.92,,AED,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,INV-0000169,,24.72,,AED,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000172,BTX-00000194,168.87,158.85,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,INV-0000174,,329.91,,AED,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,INV-0000181,BTX-00000201,31.44,34.43,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,INV-0000196,BTX-00000212,94.05,98.06,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000004,,69.58,,USD,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000009,,215.07,,GBP,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000012,,320.23,,USD,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000019,BTX-00000229,189.82,217.39,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000031,,260.47,,GBP,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000032,,45.16,,USD,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000033,,115.25,,GBP,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000036,,37.71,,GBP,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000045,,176.95,,USD,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000050,,204.85,,GBP,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000052,BTX-00000252,258.26,249.77,AED,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000053,BTX-00000253,209.96,223.04,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000055,,38.24,,GBP,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000059,BTX-00000257,124.78,126.08,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000062,BTX-00000260,22.81,23.72,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000064,,149.33,,AED,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000069,BTX-00000266,173.72,194.94,GBP,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000075,BTX-00000272,189.37,176.52,AED,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000084,,266.36,,USD,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000090,,89.77,,AED,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000106,BTX-00000298,164.17,162.72,EUR,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000112,BTX-00000304,113.03,117.35,GBP,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+POTENTIAL_MISMATCH,RCT-0000120,BTX-00000309,142.63,151.59,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000123,,276.07,,GBP,Document not found in bank statement (likely unpaid or missing).
+POTENTIAL_MISMATCH,RCT-0000129,BTX-00000317,151.58,147.78,USD,Mismatched or complex mapping (partial_or_mismatch). Requires manual review.
+DOC_WITHOUT_BANK,RCT-0000131,,95.8,,EUR,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000143,,55.08,,AED,Document not found in bank statement (likely unpaid or missing).
+DOC_WITHOUT_BANK,RCT-0000149,,119.99,,AED,Document not found in bank statement (likely unpaid or missing).
+BANK_WITHOUT_DOC,,BTX-00000336,,2.9,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000337,,3.79,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000338,,9.9,USD,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000339,,6.13,EUR,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000340,,0.79,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000341,,0.89,GBP,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000342,,4.03,USD,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000343,,11.68,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000344,,0.47,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000345,,4.48,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000346,,4.37,USD,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000347,,29.62,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000348,,5.03,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000349,,10.84,GBP,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000350,,8.51,AED,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000351,,0.88,EUR,Bank transaction has no matching invoice/receipt.
+BANK_WITHOUT_DOC,,BTX-00000352,,15.93,AED,Bank transaction has no matching invoice/receipt.

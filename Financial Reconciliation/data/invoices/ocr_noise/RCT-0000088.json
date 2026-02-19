@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000088",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000088",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.143,
+        0.952,
+        0.361,
+        0.938
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.297,
+        0.124,
+        0.394,
+        0.057
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scot tLtd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.247,
+        0.635,
+        0.509,
+        0.531
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andrew Roach",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.46,
+        0.573,
+        0.155,
+        0.925
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-28",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.499,
+        0.91,
+        0.57,
+        0.726
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.604,
+        0.748,
+        0.354,
+        0.623
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.876,
+        0.173,
+        0.725,
+        0.726
+      ],
+      "page": 1
+    },
+    {
+      "text": "48.94",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.681,
+        0.863,
+        0.801,
+        0.439
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-519692",
+      "field_hint": "po_number",
+      "bbox": [
+        0.85,
+        0.932,
+        0.28,
+        0.024
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.394,
+        0.666,
+        0.129,
+        0.387
+      ],
+      "page": 1
+    },
+    {
+      "text": "Front-line leadingedge database 1 x 14.45 = 14.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.271,
+        0.03,
+        0.666,
+        0.978
+      ],
+      "page": 1
+    },
+    {
+      "text": "Down-sized bandwidth-monitored knowledge user 1 x 32.16 = 32.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.664,
+        0.099,
+        0.163,
+        0.378
+      ],
+      "page": 2
+    }
+  ]
+}

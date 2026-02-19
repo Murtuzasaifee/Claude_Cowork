@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000115",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "I0NV-0000115",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.295,
+        0.373,
+        0.797,
+        0.289
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.553,
+        0.929,
+        0.65,
+        0.641
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.047,
+        0.483,
+        0.421,
+        0.751
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharon Gibbs",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.195,
+        0.309,
+        0.866,
+        0.589
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-12",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.035,
+        0.199,
+        0.773,
+        0.017
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.182,
+        0.37,
+        0.816,
+        0.943
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.438,
+        0.075,
+        0.02,
+        0.689
+      ],
+      "page": 1
+    },
+    {
+      "text": "265.06",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.668,
+        0.422,
+        0.092,
+        0.013
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-702980",
+      "field_hint": "po_number",
+      "bbox": [
+        0.299,
+        0.087,
+        0.09,
+        0.841
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.282,
+        0.808,
+        0.542,
+        0.101
+      ],
+      "page": 1
+    },
+    {
+      "text": "Phased solution-oriented encryption 1 x 12.83 = 10.91",
+      "field_hint": "line_item",
+      "bbox": [
+        0.591,
+        0.772,
+        0.469,
+        0.523
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust zero-defect access 1 x 10.38 = 9.34",
+      "field_hint": "line_item",
+      "bbox": [
+        0.195,
+        0.42,
+        0.202,
+        0.554
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured demand-driven functionalities 3 x 17.35 = 49.45",
+      "field_hint": "line_item",
+      "bbox": [
+        0.622,
+        0.159,
+        0.607,
+        0.785
+      ],
+      "page": 2
+    },
+    {
+      "text": "User-centric system-worthy hardware 1 x 11.94 = 11.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.555,
+        0.898,
+        0.566,
+        0.472
+      ],
+      "page": 2
+    },
+    {
+      "text": "Progressive attitude-oriented neural-net 4 x 19.99 = 79.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.614,
+        0.364,
+        0.371,
+        0.591
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced uniform protocol 3 x 20.2 = 57.57",
+      "field_hint": "line_item",
+      "bbox": [
+        0.569,
+        0.897,
+        0.023,
+        0.595
+      ],
+      "page": 1
+    }
+  ]
+}

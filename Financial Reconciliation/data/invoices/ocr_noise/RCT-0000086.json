@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000086",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000086",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.816,
+        0.097,
+        0.787,
+        0.166
+      ],
+      "page": 1
+    },
+    {
+      "text": "eceipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.022,
+        0.271,
+        0.904,
+        0.46
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.354,
+        0.381,
+        0.683,
+        0.296
+      ],
+      "page": 1
+    },
+    {
+      "text": "William Owen",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.782,
+        0.331,
+        0.38,
+        0.315
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-01",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.206,
+        0.073,
+        0.337,
+        0.109
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-02",
+      "field_hint": "due_date",
+      "bbox": [
+        0.92,
+        0.027,
+        0.138,
+        0.379
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.402,
+        0.583,
+        0.053,
+        0.033
+      ],
+      "page": 1
+    },
+    {
+      "text": "76q.42",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.164,
+        0.865,
+        0.784,
+        0.438
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-376955",
+      "field_hint": "po_number",
+      "bbox": [
+        0.754,
+        0.816,
+        0.561,
+        0.67
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.124,
+        0.409,
+        0.963,
+        0.313
+      ],
+      "page": 1
+    },
+    {
+      "text": "Optimized background emulation 1 x 33.48 = 33.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.611,
+        0.27,
+        0.142,
+        0.792
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced neutral focus group 3 x 11.68 = 29.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.329,
+        0.21,
+        0.763,
+        0.997
+      ],
+      "page": 1
+    }
+  ]
+}

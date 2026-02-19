@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000180",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.091,
+        0.4,
+        0.975,
+        0.578
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.083,
+        0.025,
+        0.848,
+        0.656
+      ],
+      "page": 1
+    },
+    {
+      "text": "Matthew Smith",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.039,
+        0.53,
+        0.831,
+        0.417
+      ],
+      "page": 1
+    },
+    {
+      "text": "V2026-02-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.965,
+        0.876,
+        0.602,
+        0.246
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.77,
+        0.258,
+        0.895,
+        0.935
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.156,
+        0.06,
+        0.319,
+        0.075
+      ],
+      "page": 1
+    },
+    {
+      "text": "173.48",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.984,
+        0.096,
+        0.837,
+        0.928
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-384263",
+      "field_hint": "po_number",
+      "bbox": [
+        0.382,
+        0.08,
+        0.787,
+        0.099
+      ],
+      "page": 1
+    },
+    {
+      "text": "ET45",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.203,
+        0.135,
+        0.705,
+        0.583
+      ],
+      "page": 1
+    },
+    {
+      "text": "Innovative bandwidth-monitored complexity 1 x 30.01 = 28.51",
+      "field_hint": "line_item",
+      "bbox": [
+        0.016,
+        0.135,
+        0.906,
+        0.669
+      ],
+      "page": 1
+    },
+    {
+      "text": "Reduced impactful help-desk 1 x 9.06 = 7.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.556,
+        0.655,
+        0.289,
+        0.119
+      ],
+      "page": 2
+    },
+    {
+      "text": "Devolved empowering process improvement 1 x 20.16 = 20.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.317,
+        0.909,
+        0.934,
+        0.075
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-engineered heuristic contingency 1 x 33.53 = 30.18",
+      "field_hint": "line_item",
+      "bbox": [
+        0.849,
+        0.369,
+        0.381,
+        0.86
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse background definition 1 x 14.8 = 14.8",
+      "field_hint": "line_item",
+      "bbox": [
+        0.789,
+        0.08,
+        0.918,
+        0.499
+      ],
+      "page": 2
+    },
+    {
+      "text": "Secured context-sensitive collaboration 1 x 33.73 = 30.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.379,
+        0.782,
+        0.999,
+        0.169
+      ],
+      "page": 2
+    },
+    {
+      "text": "Exclusive intangible hub 2 x 4.42 = 8.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.877,
+        0.076,
+        0.237,
+        0.92
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled client-driven paradigm 1 x 5.62 = 5.62",
+      "field_hint": "line_item",
+      "bbox": [
+        0.663,
+        0.966,
+        0.186,
+        0.066
+      ],
+      "page": 2
+    }
+  ]
+}

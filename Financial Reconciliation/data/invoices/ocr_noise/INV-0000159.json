@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000159",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000159",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.566,
+        0.978,
+        0.45,
+        0.994
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoic",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.539,
+        0.19,
+        0.368,
+        0.996
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adams-Lucas",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.272,
+        0.561,
+        0.513,
+        0.776
+      ],
+      "page": 1
+    },
+    {
+      "text": "Jacqueline Andrews",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.054,
+        0.147,
+        0.872,
+        0.678
+      ],
+      "page": 1
+    },
+    {
+      "text": "2025-12-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.539,
+        0.414,
+        0.502,
+        0.927
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-22",
+      "field_hint": "due_date",
+      "bbox": [
+        0.641,
+        0.663,
+        0.678,
+        0.344
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.756,
+        0.903,
+        0.052,
+        0.38
+      ],
+      "page": 1
+    },
+    {
+      "text": "39.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.581,
+        0.723,
+        0.142,
+        0.85
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-851742",
+      "field_hint": "po_number",
+      "bbox": [
+        0.2,
+        0.449,
+        0.046,
+        0.476
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.412,
+        0.298,
+        0.446,
+        0.048
+      ],
+      "page": 1
+    },
+    {
+      "text": "OrgaDnized reciprocal forecast 2 x 9.52 = 19.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.159,
+        0.15,
+        0.166,
+        0.946
+      ],
+      "page": 2
+    },
+    {
+      "text": "Versatile modular benchmark 1 x 12.62 = 11.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.296,
+        0.299,
+        0.527,
+        0.752
+      ],
+      "page": 1
+    }
+  ]
+}

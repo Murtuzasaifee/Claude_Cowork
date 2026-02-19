@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "doc_id": "INV-0000060",
+    "scanned_pages": 2,
+    "rotation_degrees": 90,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000060",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.407,
+        0.271,
+        0.631,
+        0.329
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.645,
+        0.264,
+        0.532,
+        0.341
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.626,
+        0.111,
+        0.757,
+        0.182
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-24",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.496,
+        0.179,
+        0.76,
+        0.673
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.342,
+        0.687,
+        0.823,
+        0.194
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.307,
+        0.305,
+        0.766,
+        0.472
+      ],
+      "page": 1
+    },
+    {
+      "text": "93.06",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.21,
+        0.672,
+        0.324,
+        0.192
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO9-64998",
+      "field_hint": "po_number",
+      "bbox": [
+        0.326,
+        0.516,
+        0.474,
+        0.595
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.229,
+        0.263,
+        0.934,
+        0.834
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive clear-thinking ability 1 x 5.16 = 4.64",
+      "field_hint": "line_item",
+      "bbox": [
+        0.727,
+        0.829,
+        0.315,
+        0.308
+      ],
+      "page": 2
+    },
+    {
+      "text": "Re-engineered even-keeled hardware 1 x 7.86 = 7.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.762,
+        0.404,
+        0.969,
+        0.354
+      ],
+      "page": 1
+    },
+    {
+      "text": "Focused national monitoring 2 x 2.63 = 5.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.019,
+        0.704,
+        0.209,
+        0.717
+      ],
+      "page": 1
+    },
+    {
+      "text": "Cloned needs-based collaoration 1 x 22.11 = 22.11",
+      "field_hint": "line_item",
+      "bbox": [
+        0.326,
+        0.56,
+        0.199,
+        0.215
+      ],
+      "page": 2
+    },
+    {
+      "text": "Virtual bandwidth-monitored neural-net 4 x 6.1 = 24.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.074,
+        0.16,
+        0.723,
+        0.941
+      ],
+      "page": 2
+    },
+    {
+      "text": "Integrated composite Graphic Interface 1 x 6.17 = 6.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.046,
+        0.659,
+        0.688,
+        0.909
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organic national protocol 1 x 12.88 = 12.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.586,
+        0.059,
+        0.056,
+        0.343
+      ],
+      "page": 2
+    }
+  ]
+}

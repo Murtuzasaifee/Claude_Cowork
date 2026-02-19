@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "doc_id": "INV-0000175",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000175",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.889,
+        0.705,
+        0.255,
+        0.562
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.288,
+        0.736,
+        0.128,
+        0.81
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.289,
+        0.637,
+        0.241,
+        0.201
+      ],
+      "page": 1
+    },
+    {
+      "text": "Elizabeth Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.425,
+        0.853,
+        0.348,
+        0.933
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-12",
+      "field_hint": "due_date",
+      "bbox": [
+        0.707,
+        0.187,
+        0.558,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.6,
+        0.378,
+        0.415,
+        0.436
+      ],
+      "page": 1
+    },
+    {
+      "text": "168.7",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.394,
+        0.241,
+        0.174,
+        0.95
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.134,
+        0.699,
+        0.22,
+        0.614
+      ],
+      "page": 1
+    },
+    {
+      "text": "Adaptive asymmetric strategy3  x 6.7 = 20.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.972,
+        0.554,
+        0.891,
+        0.488
+      ],
+      "page": 2
+    },
+    {
+      "text": "Virtual homogeneous pricing structure 1x 15.67 = 13.32",
+      "field_hint": "line_item",
+      "bbox": [
+        0.072,
+        0.15,
+        0.304,
+        0.814
+      ],
+      "page": 1
+    },
+    {
+      "text": "Advanced dynaimc functionalities 5 x 8.03 = 40.15",
+      "field_hint": "line_item",
+      "bbox": [
+        0.245,
+        0.858,
+        0.063,
+        0.304
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive intermediate intranet 1 x 4.97 = 4.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.307,
+        0.869,
+        0.377,
+        0.053
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergized foreground product 1 x 18.28 = 18.28",
+      "field_hint": "line_item",
+      "bbox": [
+        0.128,
+        0.218,
+        0.568,
+        0.782
+      ],
+      "page": 1
+    },
+    {
+      "text": "Virtual optimal project 1 x 13.51 = 11.48",
+      "field_hint": "line_item",
+      "bbox": [
+        0.894,
+        0.634,
+        0.356,
+        0.758
+      ],
+      "page": 2
+    },
+    {
+      "text": "Robust regional access 1 x 14.12 = 12.71",
+      "field_hint": "line_item",
+      "bbox": [
+        0.376,
+        0.881,
+        0.812,
+        0.299
+      ],
+      "page": 1
+    }
+  ]
+}

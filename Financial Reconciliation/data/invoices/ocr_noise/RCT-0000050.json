@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000050",
+    "scanned_pages": 2,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000050",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.58,
+        0.783,
+        0.697,
+        0.319
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.118,
+        0.409,
+        0.213,
+        0.228
+      ],
+      "page": 1
+    },
+    {
+      "text": "Scott Ltd",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.732,
+        0.606,
+        0.718,
+        0.687
+      ],
+      "page": 1
+    },
+    {
+      "text": "Paul Mcenil",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.013,
+        0.556,
+        0.946,
+        0.125
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.656,
+        0.448,
+        0.952,
+        0.738
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-03-05",
+      "field_hint": "due_date",
+      "bbox": [
+        0.874,
+        0.778,
+        0.94,
+        0.302
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.853,
+        0.174,
+        0.706,
+        0.637
+      ],
+      "page": 1
+    },
+    {
+      "text": "204.85",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.714,
+        0.774,
+        0.787,
+        0.887
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-409234",
+      "field_hint": "po_number",
+      "bbox": [
+        0.213,
+        0.169,
+        0.535,
+        0.472
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.492,
+        0.994,
+        0.125,
+        0.208
+      ],
+      "page": 1
+    },
+    {
+      "text": "Diverse object-oriented flexibility 1 x 48.77 = 48.77",
+      "field_hint": "line_item",
+      "bbox": [
+        0.326,
+        0.274,
+        0.456,
+        0.711
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile tertiary attitude 2 x 17.56 = 33.36",
+      "field_hint": "line_item",
+      "bbox": [
+        0.56,
+        0.884,
+        0.729,
+        0.065
+      ],
+      "page": 2
+    },
+    {
+      "text": "Proactive explicit website 2 x 6.88 = 12.38",
+      "field_hint": "line_item",
+      "bbox": [
+        0.96,
+        0.675,
+        0.522,
+        0.595
+      ],
+      "page": 1
+    },
+    {
+      "text": "Customizable stable capacity 6 x 5.82 = 29.68",
+      "field_hint": "line_item",
+      "bbox": [
+        0.488,
+        0.577,
+        0.116,
+        0.417
+      ],
+      "page": 1
+    },
+    {
+      "text": "Pre-emptive bandwidth-monitored matrices 1 x 25.56 = 21.73",
+      "field_hint": "line_item",
+      "bbox": [
+        0.255,
+        0.713,
+        0.082,
+        0.103
+      ],
+      "page": 2
+    },
+    {
+      "text": "Self-enabling zero-defect implementation 3 x 8.96 = 26.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.758,
+        0.457,
+        0.8,
+        0.172
+      ],
+      "page": 1
+    },
+    {
+      "text": "Versatile mission-critical superstructure 1 x 13.43 = 13.43",
+      "field_hint": "line_item",
+      "bbox": [
+        0.96,
+        0.813,
+        0.671,
+        0.917
+      ],
+      "page": 2
+    }
+  ]
+}

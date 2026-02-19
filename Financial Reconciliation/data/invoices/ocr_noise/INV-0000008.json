@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000008",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 200
+  },
+  "blocks": [
+    {
+      "text": "INV-0000008",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.026,
+        0.681,
+        0.681,
+        0.394
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.837,
+        0.154,
+        0.081,
+        0.831
+      ],
+      "page": 1
+    },
+    {
+      "text": "Beck-Morton",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.955,
+        0.594,
+        0.006,
+        0.97
+      ],
+      "page": 1
+    },
+    {
+      "text": "Emily Young",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.325,
+        0.732,
+        0.734,
+        0.957
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-22",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.049,
+        0.644,
+        0.323,
+        0.056
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-29",
+      "field_hint": "due_date",
+      "bbox": [
+        0.381,
+        0.399,
+        0.178,
+        0.965
+      ],
+      "page": 1
+    },
+    {
+      "text": "UER",
+      "field_hint": "currency",
+      "bbox": [
+        0.389,
+        0.402,
+        0.647,
+        0.954
+      ],
+      "page": 1
+    },
+    {
+      "text": "149.45",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.801,
+        0.736,
+        0.922,
+        0.904
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-330914",
+      "field_hint": "po_number",
+      "bbox": [
+        0.096,
+        0.367,
+        0.2,
+        0.445
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.6,
+        0.09,
+        0.423,
+        0.368
+      ],
+      "page": 1
+    },
+    {
+      "text": "De-engineered empowering functionalities 4 x 5.89 = 23.56",
+      "field_hint": "line_item",
+      "bbox": [
+        0.093,
+        0.513,
+        0.973,
+        0.676
+      ],
+      "page": 2
+    },
+    {
+      "text": "Synergistic even-keeled alliance  x 11.55 = 23.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.63,
+        0.525,
+        0.291,
+        0.437
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused solution-oriented methodology 2 x 34.7 = 69.4",
+      "field_hint": "line_item",
+      "bbox": [
+        0.684,
+        0.3,
+        0.249,
+        0.428
+      ],
+      "page": 2
+    }
+  ]
+}

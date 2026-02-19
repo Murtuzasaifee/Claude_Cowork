@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000078",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000078",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.044,
+        0.563,
+        0.857,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.716,
+        0.743,
+        0.287,
+        0.088
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.545,
+        0.373,
+        0.902,
+        0.726
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robert Cunningham",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.639,
+        0.407,
+        0.58,
+        0.372
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-21",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.148,
+        0.673,
+        0.889,
+        0.676
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-20",
+      "field_hint": "due_date",
+      "bbox": [
+        0.086,
+        0.253,
+        0.138,
+        0.925
+      ],
+      "page": 1
+    },
+    {
+      "text": "GBP",
+      "field_hint": "currency",
+      "bbox": [
+        0.539,
+        0.68,
+        0.89,
+        0.343
+      ],
+      "page": 1
+    },
+    {
+      "text": "266.19",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.145,
+        0.342,
+        0.633,
+        0.745
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-739717",
+      "field_hint": "po_number",
+      "bbox": [
+        0.977,
+        0.792,
+        0.825,
+        0.396
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.991,
+        0.544,
+        0.52,
+        0.575
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ameliorated even-keeled knowledgebase 2 x 14.51 = 24.67",
+      "field_hint": "line_item",
+      "bbox": [
+        0.942,
+        0.74,
+        0.684,
+        0.788
+      ],
+      "page": 1
+    },
+    {
+      "text": "Balanced human-resource access 1 x 5.49 = 5.49",
+      "field_hint": "line_item",
+      "bbox": [
+        0.797,
+        0.548,
+        0.395,
+        0.657
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-tiered optimizing concept 1 x 13.86 = 13.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.408,
+        0.752,
+        0.106,
+        0.64
+      ],
+      "page": 1
+    },
+    {
+      "text": "Polarized motivating monitoring 5 x 13.07 = 55.55",
+      "field_hint": "line_item",
+      "bbox": [
+        0.753,
+        0.716,
+        0.893,
+        0.969
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ergonomic secondary array 1 x 72.03 = 72.03",
+      "field_hint": "line_item",
+      "bbox": [
+        0.695,
+        0.307,
+        0.756,
+        0.303
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ftuure-proofed logistical methodology 1 x 17.58 = 16.7",
+      "field_hint": "line_item",
+      "bbox": [
+        0.016,
+        0.296,
+        0.207,
+        0.828
+      ],
+      "page": 2
+    },
+    {
+      "text": "Robust web-enabled utilization 1 x 25.78 = 25.78",
+      "field_hint": "line_item",
+      "bbox": [
+        0.951,
+        0.422,
+        0.358,
+        0.403
+      ],
+      "page": 2
+    }
+  ]
+}

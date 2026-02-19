@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "doc_id": "INV-0000049",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000049",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.732,
+        0.521,
+        0.831,
+        0.295
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.845,
+        0.444,
+        0.432,
+        0.263
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hooper, Bauer and Brown",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.732,
+        0.116,
+        0.354,
+        0.079
+      ],
+      "page": 1
+    },
+    {
+      "text": "Larry Norman",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.327,
+        0.507,
+        0.276,
+        0.631
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-15",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.707,
+        0.315,
+        0.925,
+        0.433
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-14",
+      "field_hint": "due_date",
+      "bbox": [
+        0.318,
+        0.841,
+        0.661,
+        0.878
+      ],
+      "page": 1
+    },
+    {
+      "text": "349.32",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.376,
+        0.943,
+        0.673,
+        0.265
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-300845",
+      "field_hint": "po_number",
+      "bbox": [
+        0.734,
+        0.283,
+        0.199,
+        0.876
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.749,
+        0.003,
+        0.067,
+        0.558
+      ],
+      "page": 1
+    },
+    {
+      "text": "Organized explicit instruction set 1 x 4.72  4.72",
+      "field_hint": "line_item",
+      "bbox": [
+        0.263,
+        0.38,
+        0.584,
+        0.638
+      ],
+      "page": 1
+    },
+    {
+      "text": "Triple-buffered foreground policy 1 x 3.19 = 3.19",
+      "field_hint": "line_item",
+      "bbox": [
+        0.878,
+        0.841,
+        0.875,
+        0.668
+      ],
+      "page": 1
+    },
+    {
+      "text": "Managed tertiary firmware 3 x 15.7 = 47.1",
+      "field_hint": "line_item",
+      "bbox": [
+        0.357,
+        0.481,
+        0.097,
+        0.112
+      ],
+      "page": 1
+    },
+    {
+      "text": "Digitized value-added open system 2 x 20.48 = 40.96",
+      "field_hint": "line_item",
+      "bbox": [
+        0.247,
+        0.425,
+        0.176,
+        0.956
+      ],
+      "page": 2
+    },
+    {
+      "text": "Open-source secondary flexibility 1 x 34.25 = 34.25",
+      "field_hint": "line_item",
+      "bbox": [
+        0.705,
+        0.774,
+        0.484,
+        0.805
+      ],
+      "page": 1
+    },
+    {
+      "text": "Team-oriented systematic alliance 5 x 11.57 = 49.17",
+      "field_hint": "line_item",
+      "bbox": [
+        0.029,
+        0.268,
+        0.215,
+        0.851
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved scalable process improvement 3 x 10.0 = 30.0",
+      "field_hint": "line_item",
+      "bbox": [
+        0.262,
+        0.318,
+        0.391,
+        0.442
+      ],
+      "page": 1
+    },
+    {
+      "text": "Devolved background open system 8 x 14.98 = 11.84",
+      "field_hint": "line_item",
+      "bbox": [
+        0.219,
+        0.636,
+        0.046,
+        0.448
+      ],
+      "page": 1
+    }
+  ]
+}

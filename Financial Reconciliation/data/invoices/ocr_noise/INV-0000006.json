@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "doc_id": "INV-0000006",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000006",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.422,
+        0.919,
+        0.1,
+        0.16
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoce",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.729,
+        0.548,
+        0.327,
+        0.695
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ashley LLC",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.184,
+        0.443,
+        0.641,
+        0.003
+      ],
+      "page": 1
+    },
+    {
+      "text": "Bradley Walker",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.576,
+        0.111,
+        0.25,
+        0.714
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-19",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.13,
+        0.594,
+        0.41,
+        0.939
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-26",
+      "field_hint": "due_date",
+      "bbox": [
+        0.134,
+        0.173,
+        0.593,
+        0.328
+      ],
+      "page": 1
+    },
+    {
+      "text": "SD",
+      "field_hint": "currency",
+      "bbox": [
+        0.393,
+        0.377,
+        0.835,
+        0.57
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET7",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.229,
+        0.089,
+        0.462,
+        0.262
+      ],
+      "page": 1
+    },
+    {
+      "text": "Distributed system-worthy fMunction 1 x 4.02 = 4.02",
+      "field_hint": "line_item",
+      "bbox": [
+        0.26,
+        0.089,
+        0.368,
+        0.947
+      ],
+      "page": 1
+    },
+    {
+      "text": "Programmable bottom-line leverage 1 x 6.58 = 6.58",
+      "field_hint": "line_item",
+      "bbox": [
+        0.928,
+        0.827,
+        0.494,
+        0.224
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profound needs-based archive 1 x 18.31 = 18.31",
+      "field_hint": "line_item",
+      "bbox": [
+        0.782,
+        0.288,
+        0.494,
+        0.13
+      ],
+      "page": 1
+    },
+    {
+      "text": "Visionary actuating access 2 x 22.68 = 40.82",
+      "field_hint": "line_item",
+      "bbox": [
+        0.283,
+        0.677,
+        0.418,
+        0.409
+      ],
+      "page": 1
+    }
+  ]
+}

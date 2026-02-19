@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000081",
+    "scanned_pages": 2,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-0000081",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.904,
+        0.457,
+        0.65,
+        0.079
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.235,
+        0.821,
+        0.725,
+        0.682
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Johnson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.651,
+        0.319,
+        0.312,
+        0.468
+      ],
+      "page": 1
+    },
+    {
+      "text": "Michele Hal",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.003,
+        0.479,
+        0.006,
+        0.559
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-18",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.566,
+        0.659,
+        0.609,
+        0.792
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-04-19",
+      "field_hint": "due_date",
+      "bbox": [
+        0.456,
+        0.505,
+        0.704,
+        0.415
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.934,
+        0.812,
+        0.912,
+        0.358
+      ],
+      "page": 1
+    },
+    {
+      "text": "40.24",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.552,
+        0.74,
+        0.278,
+        0.171
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-908713",
+      "field_hint": "po_number",
+      "bbox": [
+        0.337,
+        0.196,
+        0.846,
+        0.189
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-ateral upward-trending protocol 2 x 12.47 = 24.94",
+      "field_hint": "line_item",
+      "bbox": [
+        0.582,
+        0.208,
+        0.689,
+        0.11
+      ],
+      "page": 2
+    },
+    {
+      "text": "Quality-focused fresh-thinking circuit 1 x 6.24 = 5.3",
+      "field_hint": "line_item",
+      "bbox": [
+        0.026,
+        0.411,
+        0.309,
+        0.107
+      ],
+      "page": 1
+    }
+  ]
+}

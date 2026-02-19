@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "RCT-0000066",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "RCT-000B0066",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.045,
+        0.804,
+        0.11,
+        0.874
+      ],
+      "page": 1
+    },
+    {
+      "text": "receipt",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.977,
+        0.262,
+        0.881,
+        0.476
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.196,
+        0.236,
+        0.835,
+        0.427
+      ],
+      "page": 1
+    },
+    {
+      "text": "Andre Gray",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.321,
+        0.862,
+        0.371,
+        0.706
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.855,
+        0.023,
+        0.809,
+        0.344
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-17",
+      "field_hint": "due_date",
+      "bbox": [
+        0.183,
+        0.032,
+        0.761,
+        0.029
+      ],
+      "page": 1
+    },
+    {
+      "text": "USD",
+      "field_hint": "currency",
+      "bbox": [
+        0.334,
+        0.756,
+        0.06,
+        0.085
+      ],
+      "page": 1
+    },
+    {
+      "text": "171.27",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.68,
+        0.12,
+        0.16,
+        0.182
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-678115",
+      "field_hint": "po_number",
+      "bbox": [
+        0.095,
+        0.218,
+        0.11,
+        0.188
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.645,
+        0.521,
+        0.298,
+        0.672
+      ],
+      "page": 1
+    },
+    {
+      "text": "Sharable local task-force 1 x 15.37 = 15.37",
+      "field_hint": "line_item",
+      "bbox": [
+        0.909,
+        0.248,
+        0.411,
+        0.501
+      ],
+      "page": 1
+    },
+    {
+      "text": "Secured neutral concept 1 x 7.38 = 7.01",
+      "field_hint": "line_item",
+      "bbox": [
+        0.779,
+        0.012,
+        0.579,
+        0.758
+      ],
+      "page": 2
+    },
+    {
+      "text": "Multi-channeled full-range secured line 1 x 13.6 = 12.24",
+      "field_hint": "line_item",
+      "bbox": [
+        0.641,
+        0.119,
+        0.03,
+        0.427
+      ],
+      "page": 1
+    },
+    {
+      "text": "Robust bifurcated protocol 7 x 17.89 = 118.97",
+      "field_hint": "line_item",
+      "bbox": [
+        0.528,
+        0.761,
+        0.681,
+        0.301
+      ],
+      "page": 2
+    }
+  ]
+}

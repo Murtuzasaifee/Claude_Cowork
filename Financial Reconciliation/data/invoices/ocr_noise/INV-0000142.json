@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "doc_id": "INV-0000142",
+    "scanned_pages": 3,
+    "rotation_degrees": 270,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-00Z00142",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.553,
+        0.56,
+        0.12,
+        0.106
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.271,
+        0.721,
+        0.829,
+        0.203
+      ],
+      "page": 1
+    },
+    {
+      "text": "Hernandez-Elliott",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.76,
+        0.901,
+        0.507,
+        0.206
+      ],
+      "page": 1
+    },
+    {
+      "text": "Kari Johnson",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.359,
+        0.512,
+        0.732,
+        0.214
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-02-10",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.014,
+        0.251,
+        0.233,
+        0.008
+      ],
+      "page": 1
+    },
+    {
+      "text": "EUR",
+      "field_hint": "currency",
+      "bbox": [
+        0.349,
+        0.513,
+        0.637,
+        0.419
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-631958",
+      "field_hint": "po_number",
+      "bbox": [
+        0.349,
+        0.788,
+        0.97,
+        0.924
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET30",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.862,
+        0.233,
+        0.085,
+        0.035
+      ],
+      "page": 1
+    },
+    {
+      "text": "Multi-channeled grid-enabled matrices 1 x 2.52 = 2.27",
+      "field_hint": "line_item",
+      "bbox": [
+        0.134,
+        0.269,
+        0.279,
+        0.02
+      ],
+      "page": 2
+    },
+    {
+      "text": "Integrated impactful help-desk 3 x 7.55 = 22.65",
+      "field_hint": "line_item",
+      "bbox": [
+        0.839,
+        0.272,
+        0.565,
+        0.16
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persistent asynchronous intranet 1 x 8.86 = 8.86",
+      "field_hint": "line_item",
+      "bbox": [
+        0.551,
+        0.075,
+        0.621,
+        0.715
+      ],
+      "page": 1
+    },
+    {
+      "text": "Persevering non-volatile data-warehouse 1 x 12.01 = 11.41",
+      "field_hint": "line_item",
+      "bbox": [
+        0.144,
+        0.751,
+        0.544,
+        0.466
+      ],
+      "page": 2
+    },
+    {
+      "text": "Enterprise-wide 3rdgeneration installation 1 x 33.51 = 30.16",
+      "field_hint": "line_item",
+      "bbox": [
+        0.151,
+        0.39,
+        0.256,
+        0.933
+      ],
+      "page": 1
+    },
+    {
+      "text": "Assimilated 6thgeneration modertaor 1 x 3.4 = 2.89",
+      "field_hint": "line_item",
+      "bbox": [
+        0.842,
+        0.793,
+        0.186,
+        0.014
+      ],
+      "page": 2
+    }
+  ]
+}

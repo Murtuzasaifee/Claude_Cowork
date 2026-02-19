@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "doc_id": "INV-0000110",
+    "scanned_pages": 3,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000101",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.424,
+        0.355,
+        0.044,
+        0.9
+      ],
+      "page": 1
+    },
+    {
+      "text": "invoie",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.894,
+        0.691,
+        0.558,
+        0.333
+      ],
+      "page": 1
+    },
+    {
+      "text": "Miller-Jonson",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.798,
+        0.805,
+        0.67,
+        0.398
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ian CrSosby",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.64,
+        0.835,
+        0.376,
+        0.547
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-11",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.429,
+        0.266,
+        0.512,
+        0.152
+      ],
+      "page": 1
+    },
+    {
+      "text": "226-02-10",
+      "field_hint": "due_date",
+      "bbox": [
+        0.386,
+        0.16,
+        0.933,
+        0.58
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.275,
+        0.547,
+        0.0,
+        0.968
+      ],
+      "page": 1
+    },
+    {
+      "text": "235.35",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.266,
+        0.4,
+        0.697,
+        0.228
+      ],
+      "page": 1
+    },
+    {
+      "text": "DUE_ON_RECEIPT",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.395,
+        0.151,
+        0.988,
+        0.527
+      ],
+      "page": 1
+    },
+    {
+      "text": "Profit-focused neutral matrices 1 x 4.7 3= 4.26",
+      "field_hint": "line_item",
+      "bbox": [
+        0.833,
+        0.089,
+        0.074,
+        0.999
+      ],
+      "page": 1
+    },
+    {
+      "text": "User-centric systematic data-warehouse 3 x 14.68 = 44.04",
+      "field_hint": "line_item",
+      "bbox": [
+        0.725,
+        0.358,
+        0.755,
+        0.6
+      ],
+      "page": 1
+    },
+    {
+      "text": "Expanded systematic process improvement 1 x 9.2 = 9.2",
+      "field_hint": "line_item",
+      "bbox": [
+        0.715,
+        0.108,
+        0.213,
+        0.72
+      ],
+      "page": 1
+    },
+    {
+      "text": "Up-sized bottom-line data-warehouse 6 x 28.4 = 161.88",
+      "field_hint": "line_item",
+      "bbox": [
+        0.044,
+        0.255,
+        0.556,
+        0.094
+      ],
+      "page": 1
+    }
+  ]
+}

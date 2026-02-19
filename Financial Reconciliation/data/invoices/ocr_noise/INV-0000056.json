@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "doc_id": "INV-0000056",
+    "scanned_pages": 1,
+    "rotation_degrees": 0,
+    "dpi": 300
+  },
+  "blocks": [
+    {
+      "text": "INV-0000056",
+      "field_hint": "doc_id",
+      "bbox": [
+        0.296,
+        0.819,
+        0.543,
+        0.179
+      ],
+      "page": 1
+    },
+    {
+      "text": "inoice",
+      "field_hint": "doc_type",
+      "bbox": [
+        0.636,
+        0.596,
+        0.357,
+        0.037
+      ],
+      "page": 1
+    },
+    {
+      "text": "Velasquez-Ortega",
+      "field_hint": "vendor_name",
+      "bbox": [
+        0.084,
+        0.095,
+        0.727,
+        0.633
+      ],
+      "page": 1
+    },
+    {
+      "text": "Ryan Jordan",
+      "field_hint": "customer_name",
+      "bbox": [
+        0.972,
+        0.689,
+        0.244,
+        0.826
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-13",
+      "field_hint": "issue_date",
+      "bbox": [
+        0.524,
+        0.458,
+        0.077,
+        0.373
+      ],
+      "page": 1
+    },
+    {
+      "text": "2026-01-27",
+      "field_hint": "due_date",
+      "bbox": [
+        0.638,
+        0.882,
+        0.382,
+        0.98
+      ],
+      "page": 1
+    },
+    {
+      "text": "AED",
+      "field_hint": "currency",
+      "bbox": [
+        0.749,
+        0.423,
+        0.022,
+        0.95
+      ],
+      "page": 1
+    },
+    {
+      "text": "38.73",
+      "field_hint": "total_amount",
+      "bbox": [
+        0.883,
+        0.837,
+        0.433,
+        0.116
+      ],
+      "page": 1
+    },
+    {
+      "text": "PO-174878",
+      "field_hint": "po_number",
+      "bbox": [
+        0.303,
+        0.514,
+        0.854,
+        0.244
+      ],
+      "page": 1
+    },
+    {
+      "text": "NET14",
+      "field_hint": "payment_terms",
+      "bbox": [
+        0.473,
+        0.761,
+        0.437,
+        0.747
+      ],
+      "page": 1
+    },
+    {
+      "text": "Fully-configurable local throughput 1 x 12.06 = 10.85",
+      "field_hint": "line_item",
+      "bbox": [
+        0.671,
+        0.605,
+        0.91,
+        0.678
+      ],
+      "page": 1
+    }
+  ]
+}
